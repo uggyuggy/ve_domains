@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Jun2024 15:55 UTC
+# ve domain names extracted from nameservers on 21Jun2024 12:21 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -12592,7 +12592,6 @@ ks7000.net.ve.
 ksv.com.ve.
 kswiss.co.ve.
 kswiss.com.ve.
-ktc.com.ve.
 ktk.com.ve.
 ktm.com.ve.
 ktronic.com.ve.
@@ -21163,9 +21162,6 @@ titaniumsupplier.com.ve.
 titantool.com.ve.
 tiunaelfuerte.com.ve.
 tivenca.web.ve.
-tk-maritime-systems.com.ve.
-tk-ms.com.ve.
-tkms.com.ve.
 tla.gob.ve.
 tlvadis.com.ve.
 tmc.com.ve.
