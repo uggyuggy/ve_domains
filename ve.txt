@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Jun2024 15:55 UTC
+# ve domain names extracted from nameservers on 22Jun2024 03:09 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1485,6 +1485,7 @@ apollogamesandsearch.com.ve.
 apostolado.org.ve.
 apoyocontable.com.ve.
 app.com.ve.
+appalbatros.com.ve.
 appbel.com.ve.
 apple.com.ve.
 applepay.co.ve.
@@ -1999,6 +2000,7 @@ autoshop.com.ve.
 autosolar.com.ve.
 autosoluciones.com.ve.
 autotapiceriaeuropa.com.ve.
+autotek.com.ve.
 autoto.com.ve.
 autotool.com.ve.
 autotracking.com.ve.
@@ -2204,6 +2206,7 @@ bahiamotors.com.ve.
 bahiaprincipe.co.ve.
 bahiaprincipe.com.ve.
 bahias.net.ve.
+bahiastereo915fm.com.ve.
 baia.com.ve.
 baic.com.ve.
 baidu.co.ve.
@@ -2634,6 +2637,7 @@ bigdatatelecom.com.ve.
 bigdutchman.com.ve.
 bigfold.co.ve.
 bigfoot.co.ve.
+biglidue.com.ve.
 bigmarket.com.ve.
 bigott.com.ve.
 bigpoint.com.ve.
@@ -2714,6 +2718,7 @@ biopack.com.ve.
 biopagopdv.com.ve.
 bioparral.com.ve.
 biopharma.com.ve.
+bioplaga.com.ve.
 biopsicosalud.com.ve.
 biore.com.ve.
 biorenacer.com.ve.
@@ -3784,6 +3789,7 @@ ccres.org.ve.
 ccsantafe.com.ve.
 ccsc.com.ve.
 ccto.e12.ve.
+ccv.com.ve.
 ccv.net.ve.
 ccvs.com.ve.
 cdate.co.ve.
@@ -5081,6 +5087,7 @@ comparasoftware.com.ve.
 compareencuestasonline.net.ve.
 compartiendofelicidad.com.ve.
 compartoapto.com.ve.
+compcellstore.net.ve.
 compeed.co.ve.
 compilatio.com.ve.
 complejoindustrialtiuna.gob.ve.
@@ -9125,6 +9132,7 @@ fxd.co.ve.
 fxd.com.ve.
 fxgroup.com.ve.
 fya.org.ve.
+fyezlab.com.ve.
 fynddy.com.ve.
 fyrlois.com.ve.
 g-desktop.com.ve.
@@ -9702,6 +9710,7 @@ gotogate.com.ve.
 gotogroup.com.ve.
 gotravelassistance.com.ve.
 goucov.com.ve.
+gourmetmarket.com.ve.
 gov.ve.
 gova.com.ve.
 goweb.com.ve.
@@ -11392,6 +11401,7 @@ innovalosllanos.com.ve.
 innovaoriente.com.ve.
 innovar.com.ve.
 innovasoft.com.ve.
+innovasoluciones.com.ve.
 innovat.com.ve.
 innovatech.com.ve.
 innovatechsupply.com.ve.
@@ -11506,6 +11516,7 @@ insuritas.com.ve.
 insutec.com.ve.
 insystech.com.ve.
 int.ve.
+intarcesoft.com.ve.
 intec5000.com.ve.
 intecca.com.ve.
 inteco.com.ve.
@@ -12448,6 +12459,7 @@ kfcvenezuela.com.ve.
 kfedigital.com.ve.
 khaled.com.ve.
 khilnmer.com.ve.
+kia.com.ve.
 kiasmuebles.com.ve.
 kibref.com.ve.
 kickers.com.ve.
@@ -13782,6 +13794,7 @@ market.com.ve.
 marketbook.co.ve.
 marketeam.com.ve.
 marketing-crew.com.ve.
+marketingfino.com.ve.
 marketingnow.com.ve.
 marketingstudio.com.ve.
 markina.com.ve.
@@ -14035,6 +14048,7 @@ mdqualityoffice.com.ve.
 mdrive.co.ve.
 mdrive.com.ve.
 mds.com.ve.
+mds21.com.ve.
 mdservice.com.ve.
 mdstelecom.com.ve.
 mdt.com.ve.
@@ -15092,6 +15106,7 @@ mundokanguro.com.ve.
 mundomac.com.ve.
 mundomar.com.ve.
 mundomax.com.ve.
+mundonorma.com.ve.
 mundonoticias.com.ve.
 mundootaku.com.ve.
 mundosatelital.co.ve.
@@ -16949,6 +16964,7 @@ pms.net.ve.
 pmvca.gob.ve.
 pnat.gob.ve.
 pni.gob.ve.
+pns.com.ve.
 pnsii.gob.ve.
 pnud-banmujer.gob.ve.
 pnud.org.ve.
@@ -17307,6 +17323,7 @@ productosdm.com.ve.
 productosefe.com.ve.
 productosmarienla.co.ve.
 productosmarienla.com.ve.
+productosnorma.com.ve.
 productosqwik.com.ve.
 produvisa.com.ve.
 produzca.gob.ve.
@@ -19121,6 +19138,7 @@ sepyaracuy.gob.ve.
 sequoia.com.ve.
 seralica.com.ve.
 sercanto.com.ve.
+sercatel.com.ve.
 serco.com.ve.
 sercoamb.com.ve.
 sercoinfal.com.ve.
@@ -19906,6 +19924,7 @@ solvayrhodia.com.ve.
 solvencia.com.ve.
 solventum.co.ve.
 solventum.com.ve.
+solvia.com.ve.
 soma.com.ve.
 somago.com.ve.
 something-special.com.ve.
@@ -20673,6 +20692,7 @@ tdr.com.ve.
 tdsac.com.ve.
 te.co.ve.
 te.com.ve.
+teacherplease.com.ve.
 tealca.com.ve.
 teamdigital.com.ve.
 teamleader.com.ve.
