@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Jun2024 03:09 UTC
+# ve domain names extracted from nameservers on 23Jun2024 03:16 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -623,7 +623,6 @@ agrosur.gob.ve.
 agrototal.com.ve.
 agrotradingvenezuela.com.ve.
 agrotributos.com.ve.
-agrovalores.com.ve.
 agroventasvenezuela.com.ve.
 agrovivar.com.ve.
 aguablanca-portuguesa.gob.ve.
@@ -668,7 +667,6 @@ aigseguros.com.ve.
 aikadeq.com.ve.
 aikomotors.com.ve.
 aikorepuestos.com.ve.
-ailanthus.com.ve.
 ailefi.net.ve.
 aim.co.ve.
 aimant.com.ve.
@@ -2119,7 +2117,6 @@ awmdm.co.ve.
 awmdm.com.ve.
 awser.com.ve.
 awsolutions.com.ve.
-ax2print.com.ve.
 axa.com.ve.
 axalta-coating-systems.com.ve.
 axalta-cs.com.ve.
@@ -2656,7 +2653,6 @@ bimboglobal.com.ve.
 bimiere.com.ve.
 bimob.com.ve.
 bimzelx.com.ve.
-binaria.com.ve.
 binaural.com.ve.
 binet.com.ve.
 bing.co.ve.
@@ -8361,7 +8357,6 @@ fiesta106.com.ve.
 fiestamatch.com.ve.
 fiestas.com.ve.
 figandolive.com.ve.
-figaro.com.ve.
 figjam.co.ve.
 figjam.com.ve.
 figleaves.com.ve.
@@ -9733,7 +9728,6 @@ gpswebsites.com.ve.
 gpv.com.ve.
 gq.co.ve.
 gq.com.ve.
-grabadosenlaservalencia.com.ve.
 graco.com.ve.
 gracobaby.com.ve.
 graficarte.com.ve.
@@ -12411,7 +12405,6 @@ kavokerr.com.ve.
 kayak.co.ve.
 kayak.com.ve.
 kayelectric.com.ve.
-kayros1063.com.ve.
 kbr.co.ve.
 kbt.com.ve.
 kebands.com.ve.
@@ -13180,7 +13173,6 @@ lineablanca.com.ve.
 lineabloomberg.com.ve.
 lineasdelosandes.com.ve.
 linemak.com.ve.
-linesalud.com.ve.
 linetwo.com.ve.
 linio.com.ve.
 link.co.ve.
@@ -13627,6 +13619,7 @@ makro.com.ve.
 makxcomputer.com.ve.
 malariologia.gov.ve.
 malave.com.ve.
+maletti.com.ve.
 malex.com.ve.
 malfot.com.ve.
 mallmarketing.com.ve.
@@ -17999,7 +17992,6 @@ regio.com.ve.
 regionaldelzulia.com.ve.
 registraloaqui.com.ve.
 registro1sucre-miranda.gob.ve.
-registro1x10maquinaria5x5.org.ve.
 registro2baruta.gov.ve.
 registro3libertador.gov.ve.
 registrocivil-plaza.gob.ve.
@@ -19159,7 +19151,6 @@ serinco.com.ve.
 serinprot.com.ve.
 serjeica.com.ve.
 serlect.co.ve.
-serloveca.com.ve.
 sermac.com.ve.
 sermaf.com.ve.
 sermalite.com.ve.
@@ -19600,7 +19591,6 @@ sistemasdeseguridad.com.ve.
 sistemasdmx.com.ve.
 sistemasgarc.com.ve.
 sistemasjvr.com.ve.
-sistemasroas.com.ve.
 sistemasrs.com.ve.
 sistemastimetrac.com.ve.
 sistemastylus.com.ve.
