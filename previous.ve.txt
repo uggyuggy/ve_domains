@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 24Jun2024 03:16 UTC
+# ve domain names extracted from nameservers on 25Jun2024 03:15 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3101,7 +3101,6 @@ bsmr.com.ve.
 bsnmedical.com.ve.
 bsr.gob.ve.
 bssolutions.com.ve.
-bsspos.com.ve.
 bst.co.ve.
 bt.com.ve.
 bt.gob.ve.
@@ -5192,7 +5191,6 @@ condominionunezponte.com.ve.
 condominios-avalor.com.ve.
 condominioslider.com.ve.
 condominiosmargarita.com.ve.
-condominiossantamonica.com.ve.
 condominiosvenezuela.com.ve.
 condominiosvpa.com.ve.
 condominiovistafrontera.com.ve.
@@ -7137,6 +7135,7 @@ effient.co.ve.
 efiglobal.co.ve.
 efiglobal.com.ve.
 efinternationalacademy.com.ve.
+eforce.com.ve.
 efs.com.ve.
 eftown.com.ve.
 eftsolutions.com.ve.
@@ -7501,7 +7500,6 @@ engtech.com.ve.
 eni.co.ve.
 eniac.com.ve.
 enintel.com.ve.
-enksa.com.ve.
 enlaceafro.gob.ve.
 enlacedigital1.com.ve.
 enlacegerencial.com.ve.
@@ -8551,7 +8549,6 @@ fondur.gov.ve.
 fonendogeno.gob.ve.
 fonep.gob.ve.
 fonep.gov.ve.
-fonet.com.ve.
 fonfidez.gov.ve.
 fonfinep.gov.ve.
 fonhvim.gob.ve.
@@ -9206,7 +9203,6 @@ gatoradefutbol.com.ve.
 gaucho.co.ve.
 gaucho.com.ve.
 gav.edu.ve.
-gavan.com.ve.
 gaveplast.com.ve.
 gaviscon.com.ve.
 gay.com.ve.
@@ -10666,6 +10662,7 @@ htsoluciones.com.ve.
 htx.com.ve.
 huawei.co.ve.
 huawei.com.ve.
+hub.com.ve.
 hubbard.org.ve.
 hubersuhner.com.ve.
 hublot.com.ve.
@@ -10714,7 +10711,6 @@ hurb.com.ve.
 husqvarna.com.ve.
 husqvarnacp.com.ve.
 husse.com.ve.
-hv-envases.com.ve.
 hvsociedadmedica.gov.ve.
 hydac.com.ve.
 hydro.com.ve.
@@ -11329,7 +11325,6 @@ inmobiliarianacional.gob.ve.
 inmobiliariarentahouse.com.ve.
 inmobiliariasilva-tobon.co.ve.
 inmobiliariavip.com.ve.
-inmobiliariavision.com.ve.
 inmobiliario.com.ve.
 inmobisa.com.ve.
 inmoblezama20.com.ve.
@@ -11413,7 +11408,6 @@ insesa.com.ve.
 insesal.com.ve.
 insieme.com.ve.
 insightprofessional.co.ve.
-insignia.com.ve.
 insignia.web.ve.
 insigniamobile.com.ve.
 insigniamobile.net.ve.
@@ -11711,7 +11705,6 @@ iol.net.ve.
 iomtelecom.com.ve.
 ionos.com.ve.
 ipa.co.ve.
-ipadcomputer.com.ve.
 ipadmini.co.ve.
 ipadpro.co.ve.
 ipanu.com.ve.
@@ -12066,7 +12059,6 @@ jdedwards.com.ve.
 jdj.gob.ve.
 jdsports.co.ve.
 jdsystem.com.ve.
-jeanca.com.ve.
 jeanneau.com.ve.
 jeantex.com.ve.
 jeb.com.ve.
@@ -12351,7 +12343,6 @@ karam.com.ve.
 karamba.com.ve.
 karcher.com.ve.
 kardex.com.ve.
-kariweb.com.ve.
 karnicos.com.ve.
 karseell.com.ve.
 karuaiviajes.com.ve.
@@ -13478,7 +13469,6 @@ machiquesdeperija-zulia.gob.ve.
 macinox.com.ve.
 macktrucks.com.ve.
 macmundo.com.ve.
-macotell.com.ve.
 macovenca.com.ve.
 macquarie.co.ve.
 macquarie.com.ve.
@@ -15335,7 +15325,6 @@ netsave.co.ve.
 netsave.com.ve.
 netscape.com.ve.
 netser.com.ve.
-netspread.com.ve.
 netsuite.co.ve.
 netsuite.com.ve.
 netsytec.com.ve.
@@ -15357,7 +15346,6 @@ neurofarmagen.com.ve.
 neuronet.com.ve.
 neuropediatriaaldia.org.ve.
 neuropsicologiahuc.com.ve.
-neurosales.com.ve.
 neurovision.com.ve.
 neutrogena.com.ve.
 neutron.com.ve.
@@ -15914,7 +15902,6 @@ onnestech.com.ve.
 onofreca.com.ve.
 onretrieval.com.ve.
 onsa.org.ve.
-onservice.com.ve.
 onstagegroup.com.ve.
 onstar.co.ve.
 onstar.com.ve.
@@ -18472,7 +18459,6 @@ sabon.com.ve.
 saboresgolden.com.ve.
 saboresplayaelangel.com.ve.
 saborgaitero.com.ve.
-sabra.com.ve.
 sabrevenezuela.com.ve.
 sabroe.com.ve.
 sabse.mil.ve.
@@ -19176,6 +19162,7 @@ servisaromi.com.ve.
 serviseguros.com.ve.
 servisistemas.com.ve.
 servitebca.com.ve.
+servitecgroup.com.ve.
 servitecve.com.ve.
 servitel.net.ve.
 servitepuy.com.ve.
@@ -19471,7 +19458,6 @@ sinelmeca.com.ve.
 sinergia.org.ve.
 sinergiaccp.com.ve.
 sinergios.com.ve.
-sinergium.com.ve.
 sinest.gob.ve.
 sinfronteras.co.ve.
 singel.com.ve.
@@ -20560,7 +20546,6 @@ tapestry.co.ve.
 tapestry.com.ve.
 tapp.com.ve.
 taquillaunica.gob.ve.
-tarahumara.com.ve.
 tarekwilliamsaab.net.ve.
 tarifasdeluz.com.ve.
 tarjeta.com.ve.
@@ -21063,7 +21048,6 @@ tigres.com.ve.
 tigritos.com.ve.
 tim.com.ve.
 tim.net.ve.
-timaca.com.ve.
 timberland.co.ve.
 timberland.com.ve.
 timberlandpro.com.ve.
@@ -22066,7 +22050,6 @@ unitedairlines.com.ve.
 unitedprint.com.ve.
 unitedway.com.ve.
 uniteg.com.ve.
-uniticket.com.ve.
 uniticketdigital.com.ve.
 unitravel.com.ve.
 unitronics.co.ve.
@@ -22241,6 +22224,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
