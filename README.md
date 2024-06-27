@@ -66,7 +66,7 @@ Look into https://github.com/maaaaz/dnsdumps repo which provides others
 
 - [x] Write README
 - [x] Add emojis to the README (very important 🚨)
-- [ ] Inform maaaaz/dnsdumps/issues/1
+- [x] Inform maaaaz/dnsdumps/issues/1
 - [ ] Add more warning notifications in case of script failures
 - [ ] Add more control to guess if something went wrong with script
 - [ ] After I will be confident it's running as expected, possibly informing https://github.com/jschauma/tld-zoneinfo/
