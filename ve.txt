@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 30Jun2024 02:47 UTC
+# ve domain names extracted from nameservers on 01Jul2024 02:47 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -483,7 +483,6 @@ aeroassistance.com.ve.
 aerocaribe.com.ve.
 aeroentrenamiento.com.ve.
 aeroexpresos.com.ve.
-aerohill.com.ve.
 aeromexico.co.ve.
 aeropuerto-maiquetia.com.ve.
 aeropuerto-maiquetia.gob.ve.
@@ -1769,7 +1768,6 @@ asics.co.ve.
 asicstiger.co.ve.
 asicstiger.com.ve.
 asintegral.com.ve.
-asintel.com.ve.
 asistanet.com.ve.
 asistenciaenviaje.com.ve.
 asistenciaenviajes.com.ve.
@@ -1788,6 +1786,7 @@ asn.org.ve.
 asobanca.com.ve.
 asobu.com.ve.
 asocenca.com.ve.
+asociacioncivilpuertadelsol.org.ve.
 asociacionvenezolanadebarmen.com.ve.
 asociacionvenezolanademasajeinfantil.com.ve.
 asociacionvenezolanademujeres.com.ve.
@@ -4332,7 +4331,6 @@ cito.org.ve.
 citrix.co.ve.
 citroen.com.ve.
 citronix.com.ve.
-citroven.com.ve.
 citruxs.com.ve.
 city-hunters.com.ve.
 citybike.com.ve.
@@ -6057,6 +6055,7 @@ danielbello.com.ve.
 danielceballos.com.ve.
 danielomana.com.ve.
 danielrodriguez.com.ve.
+danielvarnagy.com.ve.
 danilodiazgranados.co.ve.
 danlipagos.com.ve.
 danone.co.ve.
@@ -6958,7 +6957,6 @@ e-bolivar.gov.ve.
 e-carabobo.gob.ve.
 e-caripe.gob.ve.
 e-developer.com.ve.
-e-doctor.com.ve.
 e-ezequielzamora.gob.ve.
 e-fdnbolivar.gob.ve.
 e-fondobolivar.gob.ve.
@@ -7522,7 +7520,6 @@ entek.com.ve.
 enterprise.co.ve.
 enterpriserentacar.co.ve.
 enterpriserentacar.com.ve.
-entintavioleta.com.ve.
 entipisa.com.ve.
 entornodigital.com.ve.
 entrepreneur.co.ve.
@@ -7701,7 +7698,6 @@ esprit.co.ve.
 esprit.com.ve.
 espromedbio.gob.ve.
 esri.com.ve.
-essca.com.ve.
 essen.com.ve.
 essity.com.ve.
 esso.co.ve.
@@ -8125,7 +8121,6 @@ fashionunited.com.ve.
 fasilca.com.ve.
 fasmee.gob.ve.
 fasmij.gob.ve.
-faster.com.ve.
 fastershop.com.ve.
 fastmarketing.com.ve.
 fastmed.com.ve.
@@ -10584,7 +10579,6 @@ hoteloviedo.com.ve.
 hotelpalas.com.ve.
 hotelpaseolasmercedes.com.ve.
 hotelpirineos.com.ve.
-hotelplaza.com.ve.
 hotelplazamayor.com.ve.
 hotelpremier.com.ve.
 hotelpuertohierro.com.ve.
@@ -11598,7 +11592,6 @@ inti.gob.ve.
 inti.gov.ve.
 intimissimi.co.ve.
 intimissimi.com.ve.
-intrabel.com.ve.
 intrac.gob.ve.
 intracacalor.com.ve.
 intranetmem.gov.ve.
@@ -13343,7 +13336,6 @@ lovellshoganhartson.com.ve.
 loveshop.com.ve.
 loveyourheart.com.ve.
 lovingpetsms.com.ve.
-lovol.com.ve.
 lowcostholidays.co.ve.
 lowe.com.ve.
 lowes.com.ve.
@@ -13363,6 +13355,7 @@ lsc.com.ve.
 lsg.edu.ve.
 lshj.edu.ve.
 lshl.edu.ve.
+lsi.emprende.ve.
 lslc.edu.ve.
 lslt.edu.ve.
 lsm.edu.ve.
@@ -15935,7 +15928,6 @@ openit.com.ve.
 openpay.com.ve.
 opensiap.com.ve.
 opensoft.com.ve.
-opensoftware.com.ve.
 opensolutions.com.ve.
 openthefuture.com.ve.
 openvps.com.ve.
@@ -16610,8 +16602,6 @@ petrociencia.com.ve.
 petrodisa.com.ve.
 petroglifosrevistacritica.org.ve.
 petroguia.com.ve.
-petroil.com.ve.
-petroil.net.ve.
 petroleosdeamerica.com.ve.
 petrolera.com.ve.
 petroleum.com.ve.
@@ -16722,7 +16712,6 @@ pimvca.com.ve.
 pina.com.ve.
 pinbet.com.ve.
 pine.co.ve.
-pineco.com.ve.
 pinedacardozo.com.ve.
 pingidentity.com.ve.
 pinku.com.ve.
@@ -18949,7 +18938,6 @@ seginteca.com.ve.
 segtrans.com.ve.
 seguintel.com.ve.
 segundadivision.mil.ve.
-seguraima2302.com.ve.
 segurarse.com.ve.
 seguridad-inteligente.com.ve.
 seguridad.com.ve.
@@ -19470,7 +19458,6 @@ sinlimite.com.ve.
 sinobesidad.com.ve.
 sinocare.com.ve.
 sinomed.com.ve.
-sintesisonline.com.ve.
 sinthesis.com.ve.
 sio.com.ve.
 sioca.com.ve.
@@ -19726,7 +19713,6 @@ software-publico.edu.ve.
 software.com.ve.
 softwareag.com.ve.
 softwaredigitals.com.ve.
-softwareexpress.com.ve.
 softwaregroup.com.ve.
 softwarelibre.gob.ve.
 softwarepublico.edu.ve.
@@ -19938,7 +19924,6 @@ spanset.com.ve.
 spareroom.com.ve.
 sparkfabrica.com.ve.
 sparkle.co.ve.
-sparmap.com.ve.
 spartan.co.ve.
 spartanrace.co.ve.
 spartanrace.com.ve.
@@ -19959,7 +19944,6 @@ speedo.com.ve.
 speedrubik.com.ve.
 speedstick.co.ve.
 speedstick.com.ve.
-speedtransport.com.ve.
 spermcheck.co.ve.
 spermcheckfertility.co.ve.
 sperry.co.ve.
@@ -21526,6 +21510,7 @@ tuauto.com.ve.
 tuavion.com.ve.
 tuavit.com.ve.
 tubalance.com.ve.
+tubateria.com.ve.
 tubeagro.com.ve.
 tubhelca.gob.ve.
 tuboauto.com.ve.
