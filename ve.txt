@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 05Jul2024 02:44 UTC
+# ve domain names extracted from nameservers on 06Jul2024 01:59 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -740,7 +740,6 @@ akunfilters.info.ve.
 akunfilters.net.ve.
 akunfilters.org.ve.
 akunfilters.web.ve.
-akyhay.com.ve.
 akzalta.com.ve.
 akzaltanobel.com.ve.
 akzonobel.co.ve.
@@ -1125,6 +1124,7 @@ alphasense.com.ve.
 alphasigma.com.ve.
 alphasoft.com.ve.
 alphasoluciones.com.ve.
+alpina.com.ve.
 alpino.com.ve.
 alpla.co.ve.
 alpolic.co.ve.
@@ -1333,7 +1333,6 @@ andesvirtual.co.ve.
 andiamo.com.ve.
 andimed.com.ve.
 andina.com.ve.
-andinopneus.com.ve.
 andradegutierrez.com.ve.
 andreagomez.com.ve.
 andresbello-merida.gov.ve.
@@ -3252,7 +3251,6 @@ cadivi.org.ve.
 cadp.com.ve.
 cady.com.ve.
 caeb.edu.ve.
-caegb.org.ve.
 caej.mil.ve.
 caelara.org.ve.
 caesba.org.ve.
@@ -3873,7 +3871,6 @@ cellissima.web.ve.
 cellskinlab.com.ve.
 cellu-m6.com.ve.
 celsius.com.ve.
-celta.com.ve.
 celulasmadre.com.ve.
 cem.edu.ve.
 cem.gob.ve.
@@ -4691,7 +4688,6 @@ codigovisual.com.ve.
 codingenio.com.ve.
 codingenio.net.ve.
 codinggiants.com.ve.
-codire.com.ve.
 coditech.com.ve.
 coei.com.ve.
 coexdevenezuela.com.ve.
@@ -6316,6 +6312,7 @@ dentons.com.ve.
 deoliveira.com.ve.
 depa.com.ve.
 depanel.com.ve.
+depingapp.com.ve.
 deportesdigital.com.ve.
 deportesmiranda.gob.ve.
 deportivotachira.com.ve.
@@ -6536,7 +6533,6 @@ digitel.com.ve.
 digitel.net.ve.
 digitelpay.net.ve.
 digizone.com.ve.
-digo.com.ve.
 dilan.com.ve.
 diligentcompliance.co.ve.
 diligentcompliance.com.ve.
@@ -7658,7 +7654,6 @@ esfingegrafica.com.ve.
 esga.mil.ve.
 esgc.mil.ve.
 esglobal.com.ve.
-esglobal.net.ve.
 esgn.edu.ve.
 esguarnaccordero.mil.ve.
 esguarnacmichelena.mil.ve.
@@ -10084,7 +10079,6 @@ gymshark.com.ve.
 gynocanesten.com.ve.
 h-m.com.ve.
 h.com.ve.
-h2opro.com.ve.
 h3o.com.ve.
 haagen-dazs.com.ve.
 haagendazs.com.ve.
@@ -10500,7 +10494,6 @@ hormigonesbel.com.ve.
 hormiguero.com.ve.
 hormodoseplus.com.ve.
 hormonas.com.ve.
-hortalizasdelcentro.com.ve.
 horticapital.com.ve.
 hortivinyl.com.ve.
 horwathvenezuela.com.ve.
@@ -10531,6 +10524,7 @@ host.com.ve.
 hostens.com.ve.
 hosting.com.ve.
 hosting3jsystem.com.ve.
+hostingenlaweb.com.ve.
 hostingned.com.ve.
 hostingnedreseller.com.ve.
 hostingvenezuela.com.ve.
@@ -10795,6 +10789,7 @@ iban.com.ve.
 ibartisoftware.com.ve.
 ibas.com.ve.
 ibcentraldecaracas.org.ve.
+ibe.org.ve.
 ibecu.edu.ve.
 iberoamericano.edu.ve.
 iberostar-beachfront-resorts.com.ve.
@@ -11202,7 +11197,6 @@ inem.gob.ve.
 inemp.gob.ve.
 inepol.gob.ve.
 inepol.gov.ve.
-inertel.com.ve.
 inesem.com.ve.
 inet.com.ve.
 inetfibercom.com.ve.
@@ -12070,7 +12064,6 @@ jentadueto.com.ve.
 jeronimo-alayon.com.ve.
 jesistemas.com.ve.
 jesproducciones.com.ve.
-jesscraft.com.ve.
 jesscraftstore.com.ve.
 jesuministrosymas.com.ve.
 jesusaraujo.com.ve.
@@ -13213,6 +13206,7 @@ loctite-consumidor.com.ve.
 loctite-consumo.com.ve.
 loctite.com.ve.
 locutora.com.ve.
+locutores.com.ve.
 loder.com.ve.
 loderbrands.com.ve.
 loea-eacuaticos.gov.ve.
@@ -15960,7 +15954,6 @@ opticamonasterio.com.ve.
 opticasanchez.com.ve.
 opticasolovision.com.ve.
 opticolor.com.ve.
-optilaser.com.ve.
 optiline.com.ve.
 optimum.com.ve.
 optivision.com.ve.
@@ -16961,7 +16954,6 @@ policiascaninosisrrael.com.ve.
 policlinicacentro.com.ve.
 policlinicalosguayos.com.ve.
 policlinicametropolitana.com.ve.
-policlinicatachira.com.ve.
 policlinicobejuma.com.ve.
 policolon.gob.ve.
 policonsult.com.ve.
@@ -17901,7 +17893,6 @@ refrimaq.com.ve.
 refrimarket.net.ve.
 refrisa.com.ve.
 refugiodepaz.com.ve.
-refugiodpaz.org.ve.
 refugiosdignos.gob.ve.
 regatta.co.ve.
 regatta.info.ve.
@@ -19098,6 +19089,7 @@ servibottle.com.ve.
 servibus.com.ve.
 servica.com.ve.
 servicars.com.ve.
+service.com.ve.
 servicedesign.com.ve.
 servicemaster.com.ve.
 servicentral.com.ve.
@@ -20107,7 +20099,6 @@ stellantis.com.ve.
 stem.com.ve.
 stepstone.com.ve.
 stereo.com.ve.
-stereo979fm.com.ve.
 stereodigital.com.ve.
 stericycle.co.ve.
 stericycle.com.ve.
@@ -20195,6 +20186,7 @@ submariner.web.ve.
 subway.co.ve.
 subwayvenezuela.com.ve.
 sucasa.com.ve.
+sucoin.com.ve.
 sucoservicios.com.ve.
 sucre-aragua.gob.ve.
 sucre-bolivar.gov.ve.
@@ -20809,7 +20801,6 @@ tenalady.com.ve.
 tenamen.com.ve.
 tenaris.co.ve.
 teneriarubio.com.ve.
-teneriarubioca.com.ve.
 tenloaki.com.ve.
 tenloaqui.com.ve.
 tennant.com.ve.
@@ -23296,7 +23287,6 @@ xoom.co.ve.
 xoom.com.ve.
 xoom.net.ve.
 xperimental.com.ve.
-xpertgroup.com.ve.
 xplorer.com.ve.
 xpormayor.com.ve.
 xtremetech.com.ve.
