@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Jul2024 01:59 UTC
+# ve domain names extracted from nameservers on 07Jul2024 02:09 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -680,7 +680,6 @@ airbnbforwork.co.ve.
 airbnbforwork.com.ve.
 airborne.com.ve.
 aircharterservice.co.ve.
-aireaccel.com.ve.
 airfrance.com.ve.
 airg.com.ve.
 airglobal.com.ve.
@@ -1115,7 +1114,6 @@ alonso.com.ve.
 alopresidente.com.ve.
 alopresidente.gob.ve.
 alorental.com.ve.
-alova.com.ve.
 aloyoga.com.ve.
 alpa.org.ve.
 alpesexpress.com.ve.
@@ -2015,7 +2013,6 @@ avanti.com.ve.
 avantione.co.ve.
 avantione.com.ve.
 avanza.com.ve.
-avasi.com.ve.
 avast.co.ve.
 avat.org.ve.
 avaya.co.ve.
@@ -2693,7 +2690,6 @@ bioline.com.ve.
 biomagnetismoccs.com.ve.
 biomatec.com.ve.
 biomedicina.org.ve.
-biomercados.com.ve.
 biomerieux.com.ve.
 bionaire.com.ve.
 biontainer.com.ve.
@@ -2779,7 +2775,6 @@ blindamar.com.ve.
 blinktv.co.ve.
 bliss.com.ve.
 blister.com.ve.
-blizna.co.ve.
 blockbuster.co.ve.
 blockbuster.net.ve.
 blockchain.gob.ve.
@@ -2993,7 +2988,6 @@ bowem.com.ve.
 bowling.com.ve.
 bowlingclub.com.ve.
 box39.com.ve.
-boxeoprovzla.com.ve.
 boxycharm.com.ve.
 boza.com.ve.
 bp.com.ve.
@@ -7390,7 +7384,6 @@ emeis.com.ve.
 emersonramirez.com.ve.
 emesa.com.ve.
 emica.com.ve.
-emigrante.com.ve.
 emilfriedman.com.ve.
 emilmar.com.ve.
 emiltra.gob.ve.
@@ -7734,7 +7727,6 @@ estudiopass.co.ve.
 estudiopass.com.ve.
 estudiopro.com.ve.
 estudiosinternacionales.edu.ve.
-estudiosjuridicos.com.ve.
 estudiosydesastres.gob.ve.
 esuguarnac.edu.ve.
 esv.com.ve.
@@ -8844,7 +8836,6 @@ fuerzaarmada.mil.ve.
 fuerzachoque.mil.ve.
 fuerzamotors.com.ve.
 fuerzarmada.mil.ve.
-fuerzatrucks.com.ve.
 fujifilm.co.ve.
 fujifilm.com.ve.
 fujifilmamericas.com.ve.
@@ -9793,7 +9784,6 @@ grupo7f.com.ve.
 grupo96.com.ve.
 grupoab.com.ve.
 grupoalri.com.ve.
-grupoalri.org.ve.
 grupoambito.com.ve.
 grupoandes.com.ve.
 grupoapc.com.ve.
@@ -9886,7 +9876,6 @@ grupoisla.com.ve.
 grupoitalven.com.ve.
 grupoitc.com.ve.
 grupojldevenezuela.com.ve.
-grupojr.com.ve.
 grupokaizen.com.ve.
 grupokr.com.ve.
 grupolanda.com.ve.
@@ -11253,6 +11242,7 @@ infosistemas.com.ve.
 infosoft.com.ve.
 infosolutionsnetworking.com.ve.
 infotel1209.com.ve.
+infotronics.com.ve.
 infoudo.com.ve.
 infovalle.com.ve.
 infoven.co.ve.
@@ -11361,7 +11351,6 @@ innovavalledelapascua.com.ve.
 innovavenezuela.com.ve.
 innovavillanueva.com.ve.
 innovent.com.ve.
-innoweb.com.ve.
 inntec.com.ve.
 inntechtelecom.com.ve.
 inoa.com.ve.
@@ -11476,7 +11465,6 @@ integra.com.ve.
 integracionysistemasjp.com.ve.
 integradata.com.ve.
 integralads.co.ve.
-integralconsultores.com.ve.
 integralmargarita.com.ve.
 integralsolutionit.com.ve.
 integramc.com.ve.
@@ -11524,6 +11512,7 @@ interamerican.com.ve.
 interauto.com.ve.
 intercable.com.ve.
 intercable.net.ve.
+intercambiosthony.com.ve.
 intercaps.com.ve.
 intercar.com.ve.
 intercargo.com.ve.
@@ -12185,7 +12174,6 @@ jotun.co.ve.
 jotun.com.ve.
 jovenesdelbarrio.gob.ve.
 jovenesnestle.com.ve.
-joyeriaintercontinental.com.ve.
 joyeriainternacional.com.ve.
 jozynter.com.ve.
 jps.com.ve.
@@ -12480,7 +12468,6 @@ kompu9000.com.ve.
 konecranes.com.ve.
 kongcompany.co.ve.
 konicaminolta.com.ve.
-konnen.com.ve.
 konos.com.ve.
 konsuma.com.ve.
 kontent.co.ve.
@@ -13080,7 +13067,6 @@ lilly.com.ve.
 limablanco-cojedes.gov.ve.
 limagrain.com.ve.
 limiliber.edu.ve.
-limoca.com.ve.
 limpiamall.com.ve.
 limpiamatic.com.ve.
 limpidus.com.ve.
@@ -13950,7 +13936,6 @@ mcdonalds.com.ve.
 mcentrega.com.ve.
 mcexperiencia.com.ve.
 mcg.com.ve.
-mch.com.ve.
 mci.com.ve.
 mci.gob.ve.
 mci.gov.ve.
@@ -14072,7 +14057,6 @@ mega6.com.ve.
 mega6tntsports.co.ve.
 mega6tntsports.com.ve.
 megabusiness.com.ve.
-megaconfites.com.ve.
 megacontrol.com.ve.
 megadataleca.com.ve.
 megafin.com.ve.
@@ -14224,7 +14208,6 @@ merenguepasteleria.com.ve.
 merente.com.ve.
 merexca.com.ve.
 merida.gob.ve.
-meridadigital.com.ve.
 meridiano.com.ve.
 merlin-gerin.co.ve.
 merlin-gerin.com.ve.
@@ -14672,8 +14655,6 @@ mnf.com.ve.
 mns.com.ve.
 mnve.mil.ve.
 mo-lecula.com.ve.
-mobi.co.ve.
-mobi.com.ve.
 mobic.com.ve.
 mobil.co.ve.
 mobil.com.ve.
@@ -16051,7 +16032,6 @@ osg.net.ve.
 oshica.com.ve.
 oshkosh.com.ve.
 oshkoshbgosh.com.ve.
-osic.com.ve.
 osisoft.co.ve.
 osmotech.com.ve.
 osodesarrollos.com.ve.
@@ -16730,6 +16710,7 @@ pintuplast.com.ve.
 pintuplastgroup.com.ve.
 pintura.co.ve.
 pinturasbenavides.com.ve.
+pinturascoinpica.com.ve.
 pinturascromas.com.ve.
 pinturascyccoatings.com.ve.
 pinturasmaxigama.com.ve.
@@ -17755,7 +17736,6 @@ rcky.com.ve.
 rclt.com.ve.
 rcr.com.ve.
 rcstudios.com.ve.
-rctech.com.ve.
 rcvalamano.com.ve.
 rdndigital.com.ve.
 rdp.com.ve.
@@ -18215,7 +18195,6 @@ robot.com.ve.
 robotica.com.ve.
 robotshop.co.ve.
 roca.com.ve.
-rocaldent.com.ve.
 rocatel.com.ve.
 rocelteca.com.ve.
 roche-bobois.com.ve.
@@ -19623,7 +19602,6 @@ smartsystems.com.ve.
 smartwool.com.ve.
 smartwork.com.ve.
 smc.com.ve.
-smc99.com.ve.
 smedical.com.ve.
 smi.com.ve.
 smiledirectclub.com.ve.
@@ -19895,7 +19873,6 @@ sotica.com.ve.
 sotillo-monagas.gob.ve.
 soucompare.com.ve.
 source.com.ve.
-southbusiness.com.ve.
 southwest.co.ve.
 southwestair.co.ve.
 southwestair.com.ve.
@@ -21594,7 +21571,6 @@ tumudanza.com.ve.
 tumundointer.com.ve.
 tuorohoy.com.ve.
 tuoutlet.com.ve.
-tupaginaenlaweb.com.ve.
 tupamaro.emprende.ve.
 tupanaderiaartesanal.com.ve.
 tupiso.com.ve.
@@ -22049,7 +22025,6 @@ universidad-monteavila.edu.ve.
 universidadaudiovisual.edu.ve.
 universidadcatalunya.co.ve.
 universidaddelasalud.edu.ve.
-universidadenlinea.com.ve.
 universidades.edu.ve.
 universidadsaludalba.edu.ve.
 universidadvirtual.edu.ve.
@@ -22200,6 +22175,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22346,7 +22322,6 @@ venalum.com.ve.
 venamerica.com.ve.
 venamerican.com.ve.
 venamonline.com.ve.
-venavega.com.ve.
 venbelcom.gob.ve.
 vencatalyst.com.ve.
 vencedores.gov.ve.
@@ -22907,8 +22882,6 @@ vtgp.com.ve.
 vtscorp.com.ve.
 vtv.gob.ve.
 vuce.gob.ve.
-vuelo.co.ve.
-vuelo.com.ve.
 vuelo24.com.ve.
 vuelos.com.ve.
 vueltaaltachira.com.ve.

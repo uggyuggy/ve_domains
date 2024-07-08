@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 07Jul2024 02:09 UTC
+# ve domain names extracted from nameservers on 08Jul2024 02:01 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -577,7 +577,6 @@ agricolalagiralda.com.ve.
 agriculturaproductiva.gob.ve.
 agridevenezuela.com.ve.
 agriequip.com.ve.
-agrimar.com.ve.
 agrimer.com.ve.
 agrinova.com.ve.
 agriplus.com.ve.
@@ -2030,7 +2029,6 @@ aveda.co.ve.
 aveda.com.ve.
 aveda.org.ve.
 avegid.org.ve.
-avelengua.org.ve.
 avemere.org.ve.
 avenca.com.ve.
 avendanodesign.com.ve.
@@ -2394,7 +2392,6 @@ bcvve.org.ve.
 bcw-global.com.ve.
 bdc.com.ve.
 bddintegralonline.com.ve.
-bdm-aranerodesabaneta.org.ve.
 bdo.com.ve.
 bdv.com.ve.
 be2.com.ve.
@@ -3161,7 +3158,6 @@ buscas.com.ve.
 busch.com.ve.
 buscoinmueble.com.ve.
 buscojobs.com.ve.
-buscultural.info.ve.
 bushido.com.ve.
 busidara.com.ve.
 businesshunters.com.ve.
@@ -3396,7 +3392,6 @@ canon.co.ve.
 canon.com.ve.
 canon.net.ve.
 canoseguros.com.ve.
-canteramanzanillo.com.ve.
 cantoplast.com.ve.
 cantv.com.ve.
 canva.co.ve.
@@ -4552,7 +4547,6 @@ cmf.com.ve.
 cmg.com.ve.
 cmgalenoservice.com.ve.
 cmgm.com.ve.
-cmgm.info.ve.
 cmi.com.ve.
 cmide.com.ve.
 cmit.edu.ve.
@@ -4961,7 +4955,6 @@ coloplas.com.ve.
 colorados.com.ve.
 colorcloset.com.ve.
 colorescience.com.ve.
-colorfrut.com.ve.
 coloridovenezuela.com.ve.
 colorlink.com.ve.
 colormask.com.ve.
@@ -6084,7 +6077,6 @@ datacenter.com.ve.
 datacomm.com.ve.
 datacopia.com.ve.
 datacredito.com.ve.
-datain.com.ve.
 datalink.com.ve.
 datally.co.ve.
 datambrosioplaza.gob.ve.
@@ -8211,7 +8203,6 @@ ferrari.com.ve.
 ferre-soluciones.com.ve.
 ferrealtos.com.ve.
 ferregrupogc.com.ve.
-ferreindustrialtocome.com.ve.
 ferrenlinea.com.ve.
 ferrenmax.com.ve.
 ferreobras.com.ve.
@@ -8394,7 +8385,6 @@ fisiomedica.com.ve.
 fisiomedtrauma.com.ve.
 fisioterapiadomicilio.com.ve.
 fistalca.org.ve.
-fitca-rivets.com.ve.
 fitconnection.com.ve.
 fitelven.com.ve.
 fitflop.com.ve.
@@ -14960,7 +14950,6 @@ mufg.com.ve.
 mugoca.com.ve.
 mujer.com.ve.
 mujeres.com.ve.
-mujeresencultura.org.ve.
 mukumbari.com.ve.
 mul-t-lock.com.ve.
 mulco.com.ve.
@@ -17817,7 +17806,6 @@ redfiladelfia.com.ve.
 redgfu.org.ve.
 redhat.co.ve.
 redhat.com.ve.
-redi.com.ve.
 redi.gob.ve.
 redieluz.com.ve.
 rediguayana.mil.ve.
@@ -18129,6 +18117,7 @@ riiv.gov.ve.
 rimaspa.co.ve.
 rimaspa.com.ve.
 rimes.com.ve.
+rimiyuan.com.ve.
 rimowa.com.ve.
 rimports.com.ve.
 rinaris.com.ve.
@@ -18672,7 +18661,6 @@ sanval.com.ve.
 sanvicentedepaul.edu.ve.
 sapi.gob.ve.
 sapi.gov.ve.
-sapitos.com.ve.
 sapori.com.ve.
 sapphire.com.ve.
 saprociad.gob.ve.
@@ -20371,7 +20359,6 @@ svanestesia.org.ve.
 svc.net.ve.
 svcc.org.ve.
 svcot.org.ve.
-svcs.org.ve.
 svdcd.org.ve.
 svh-web.org.ve.
 svhm.org.ve.
@@ -20672,7 +20659,6 @@ tecnosystem.net.ve.
 tecnosystemsmcbo.com.ve.
 tecnotriskel.com.ve.
 tecnotubo.com.ve.
-tecnoven.com.ve.
 tecnovenca.com.ve.
 tecnoweb.com.ve.
 tecnoweb.net.ve.
@@ -22175,7 +22161,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22192,7 +22177,6 @@ vaac.com.ve.
 vacaciones.com.ve.
 vack.com.ve.
 vadellhnoseditores.com.ve.
-vademecumavisa.org.ve.
 vaderstad.co.ve.
 valbia.com.ve.
 valcomelton.com.ve.
@@ -23126,7 +23110,6 @@ windowsstore.co.ve.
 windowsstore.com.ve.
 wineca.com.ve.
 winetherapy.com.ve.
-winglass.com.ve.
 winglore.com.ve.
 winlotto.com.ve.
 winnerplus.com.ve.
