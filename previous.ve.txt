@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 14Jul2024 02:01 UTC
+# ve domain names extracted from nameservers on 15Jul2024 02:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2336,7 +2336,6 @@ basilicatimotes.org.ve.
 basinger.com.ve.
 bastadebullying.com.ve.
 bata.com.ve.
-batacazo.com.ve.
 batalla-de-santa-ines.gov.ve.
 batalla-electoral.gov.ve.
 batalla-santa-ines.gov.ve.
@@ -2684,7 +2683,6 @@ biogem.com.ve.
 biogeminis.com.ve.
 biografia.com.ve.
 biohiggins.com.ve.
-bioidentidad.com.ve.
 bioinsumos.com.ve.
 biokern.com.ve.
 biolatin.com.ve.
@@ -4299,7 +4297,6 @@ cirosanchez.com.ve.
 cirrus.co.ve.
 cirtechnology.com.ve.
 cirujanoplasticofrancy.com.ve.
-cisbro.com.ve.
 cisco.co.ve.
 cisco.com.ve.
 cisco.info.ve.
@@ -5063,7 +5060,6 @@ compilatio.com.ve.
 complejoindustrialtiuna.gob.ve.
 compra.com.ve.
 compraenlinea.com.ve.
-compralow.com.ve.
 comprar.com.ve.
 compras.com.ve.
 compras.gov.ve.
@@ -6864,7 +6860,6 @@ drogueriafarmalor.com.ve.
 drogueriaits2015.com.ve.
 drogueriajosy.com.ve.
 drogueriavenezuela.com.ve.
-drogueriavitalclinic.com.ve.
 dromedqx.com.ve.
 dromega.com.ve.
 dromet.com.ve.
@@ -7675,7 +7670,6 @@ espaciolegal.com.ve.
 espana.gob.ve.
 espanola.co.ve.
 especialistas.com.ve.
-esperanzafm.com.ve.
 espiralcreativo.com.ve.
 espn.com.ve.
 espndeportes.com.ve.
@@ -10324,7 +10318,6 @@ hidrolavadora.com.ve.
 hidrolimpiadora.com.ve.
 hidrollanos.gob.ve.
 hidromaticos.com.ve.
-hidromet-ucv.org.ve.
 hidroneumaticosvenezuela.com.ve.
 hidropaez.gob.ve.
 hidroplastica.com.ve.
@@ -11405,7 +11398,6 @@ insmamarosabol.gob.ve.
 insoft.com.ve.
 insopesca.gob.ve.
 insotech.com.ve.
-inspiracionpositiva.com.ve.
 inspiredperformance.co.ve.
 inspiresleep.com.ve.
 inspur.com.ve.
@@ -13509,7 +13501,6 @@ magicjack.web.ve.
 magicqueen.com.ve.
 magicradiofm.com.ve.
 magictannic.com.ve.
-magicwebcreator.com.ve.
 magin.com.ve.
 magma.com.ve.
 magna.com.ve.
@@ -13655,7 +13646,6 @@ maracaibo.net.ve.
 maracaiboit.com.ve.
 maracay.com.ve.
 maradeoro.com.ve.
-marak.com.ve.
 maralyexpress.com.ve.
 marantz.com.ve.
 marapet.com.ve.
@@ -13669,7 +13659,6 @@ marcano-nuevaesparta.gob.ve.
 marcano.net.ve.
 marcapaisvenezuela.gob.ve.
 marcaria.com.ve.
-marcas.com.ve.
 marchofdimes.co.ve.
 marchofdimes.com.ve.
 marchofdimes.org.ve.
@@ -15811,7 +15800,6 @@ omcorp.com.ve.
 omd.com.ve.
 omega.com.ve.
 omegadimensiones.com.ve.
-omegapestcontrol.com.ve.
 omg.com.ve.
 omicron.com.ve.
 omio.co.ve.
@@ -15901,7 +15889,6 @@ op-mobility.com.ve.
 opcionempleo.co.ve.
 opcionempleo.com.ve.
 opdivo.com.ve.
-opelec.com.ve.
 open-world.com.ve.
 opendi.com.ve.
 openenglish.com.ve.
@@ -16658,7 +16645,6 @@ physiogel.com.ve.
 pi-byte.net.ve.
 pi.com.ve.
 piab.com.ve.
-piaferro.com.ve.
 piar-bolivar.gob.ve.
 piar-monagas.gob.ve.
 picdruino.org.ve.
@@ -16842,7 +16828,6 @@ plus500.co.ve.
 pluschem.net.ve.
 plusformacion.com.ve.
 plusgene.com.ve.
-pluspc.com.ve.
 plussoluciones.com.ve.
 plustracker.co.ve.
 plustracker.com.ve.
@@ -17836,7 +17821,6 @@ redpav-fpolar.info.ve.
 redpetroleo.edu.ve.
 redplatino.gob.ve.
 redplatino.gov.ve.
-redradioypc.com.ve.
 redsalud.com.ve.
 redsentinel.com.ve.
 redsoc.org.ve.
@@ -21213,7 +21197,6 @@ tovar-merida.gov.ve.
 tovarsat.com.ve.
 toveco.com.ve.
 tovenca.com.ve.
-towertech.com.ve.
 toyoaltamira.com.ve.
 toyoandina.com.ve.
 toyoavila.com.ve.
@@ -21895,7 +21878,6 @@ umbrellaconsultores.com.ve.
 umbv.edu.ve.
 umc.edu.ve.
 umi.com.ve.
-umv.com.ve.
 una.edu.ve.
 unalaraweb.com.ve.
 unasucre.com.ve.
