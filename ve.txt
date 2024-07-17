@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 16Jul2024 02:16 UTC
+# ve domain names extracted from nameservers on 17Jul2024 02:11 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -484,6 +484,7 @@ aeroassistance.com.ve.
 aerocaribe.com.ve.
 aeroentrenamiento.com.ve.
 aeroexpresos.com.ve.
+aerohill.com.ve.
 aeromexico.co.ve.
 aeropuerto-maiquetia.com.ve.
 aeropuerto-maiquetia.gob.ve.
@@ -1117,6 +1118,7 @@ alonso.com.ve.
 alopresidente.com.ve.
 alopresidente.gob.ve.
 alorental.com.ve.
+alova.com.ve.
 aloyoga.com.ve.
 alpa.org.ve.
 alpesexpress.com.ve.
@@ -2595,7 +2597,6 @@ bibliotecasucredigital.edu.ve.
 bibliotecasvirtuales.org.ve.
 bibliotecayacucho.gob.ve.
 bicarbonato.com.ve.
-bicarbonatodesodio.com.ve.
 bicentenario.gob.ve.
 bicentenarioamerica.gob.ve.
 bicentenariobu.com.ve.
@@ -3220,6 +3221,7 @@ cabildometropolitano.gov.ve.
 cabimas-zulia.gob.ve.
 cabisoar.com.ve.
 cabisoguarnac.com.ve.
+cablehogar.net.ve.
 cablesindustriales.com.ve.
 cabletray.com.ve.
 cablingus.com.ve.
@@ -3600,7 +3602,6 @@ casaolimpo.co.ve.
 casaolimpo.com.ve.
 casaoliveira.com.ve.
 casaplus.com.ve.
-casareal.co.ve.
 casaronald.org.ve.
 casaropa.com.ve.
 casas.com.ve.
@@ -3838,7 +3839,6 @@ celac.gob.ve.
 celarg.gob.ve.
 celarg.org.ve.
 celat.org.ve.
-celayahermanos.com.ve.
 celebrate.com.ve.
 celebrex.com.ve.
 celgene.com.ve.
@@ -3945,6 +3945,7 @@ centromedicosanfrancisco.com.ve.
 centromedicosanjose.com.ve.
 centromedicosantabarbara.com.ve.
 centromueble.com.ve.
+centronet.com.ve.
 centrooftalmologico.net.ve.
 centroopticojohnen.com.ve.
 centropro.com.ve.
@@ -3994,7 +3995,6 @@ certicar.com.ve.
 certisign.co.ve.
 certisur.com.ve.
 cervecentro.com.ve.
-cervecerialaesquina.com.ve.
 cervezaduff.co.ve.
 cervezapolar.com.ve.
 cesc.com.ve.
@@ -4550,6 +4550,9 @@ cmez.gob.ve.
 cmf.com.ve.
 cmg.com.ve.
 cmgalenoservice.com.ve.
+cmgm.com.ve.
+cmgm.info.ve.
+cmgm.org.ve.
 cmi.com.ve.
 cmide.com.ve.
 cmit.edu.ve.
@@ -5272,6 +5275,7 @@ consolacionporlamar.com.ve.
 consoleconnect.com.ve.
 consolid.com.ve.
 consolidez.com.ve.
+consorciopro-ger.com.ve.
 consorciotriumph.com.ve.
 conssa.net.ve.
 constance.com.ve.
@@ -5444,6 +5448,7 @@ convergint.com.ve.
 convergys.co.ve.
 convergys.com.ve.
 converse.com.ve.
+convexo.com.ve.
 convialba.gob.ve.
 conviteac.org.ve.
 cool955fm.com.ve.
@@ -6683,6 +6688,7 @@ distribuidorahidvenezuela.com.ve.
 distribuidoramauroh.com.ve.
 distribuidoramurat.com.ve.
 distribuidorapastagranoro.com.ve.
+distribuidorapetz.com.ve.
 distribuidorary.com.ve.
 distribuidorasmd.com.ve.
 distribuidores.com.ve.
@@ -8010,7 +8016,6 @@ facfast.com.ve.
 fachadas.com.ve.
 facilistas.com.ve.
 facilita.com.ve.
-facilrepuestos.com.ve.
 factoriadigital.com.ve.
 factorycosmetics.com.ve.
 factronics.com.ve.
@@ -9401,6 +9406,7 @@ gintel.com.ve.
 gio.com.ve.
 giocars.com.ve.
 giochipreziosi.com.ve.
+giofran.com.ve.
 giotrif.com.ve.
 gipsycorp.com.ve.
 girardot-aragua.gob.ve.
@@ -9440,6 +9446,7 @@ gleco.com.ve.
 glencore.com.ve.
 glenfiddich.com.ve.
 glivec.com.ve.
+gllegal.com.ve.
 glmt.com.ve.
 globainformatica.com.ve.
 global-leasing.com.ve.
@@ -9723,6 +9730,7 @@ grants.com.ve.
 grantswhisky.com.ve.
 grantthornton.com.ve.
 granymel.com.ve.
+graph.com.ve.
 graphicservices.com.ve.
 grapic.com.ve.
 grasaca.com.ve.
@@ -11245,7 +11253,6 @@ infotronics.com.ve.
 infoudo.com.ve.
 infovalle.com.ve.
 infoven.co.ve.
-infoven.com.ve.
 infoweb.com.ve.
 infoworld.com.ve.
 infram.gob.ve.
@@ -11262,6 +11269,7 @@ ingenia.com.ve.
 ingenico.com.ve.
 ingenieriadigital.com.ve.
 ingenieriaggb.com.ve.
+ingenieriapg.com.ve.
 ingenieriavictum.com.ve.
 ingeniosasweb.com.ve.
 ingenix21.com.ve.
@@ -11360,7 +11368,6 @@ inoxtanq.com.ve.
 inparques.gob.ve.
 inpreabogado.com.ve.
 inprecret.com.ve.
-inprefar.com.ve.
 inpremil.mil.ve.
 inpremilca.mil.ve.
 inpremilda.mil.ve.
@@ -11858,7 +11865,6 @@ iudlm.edu.ve.
 iuesapar.edu.ve.
 iuesapar.gob.ve.
 iufront.edu.ve.
-iugc.com.ve.
 iugt.com.ve.
 iui.com.ve.
 iui.edu.ve.
@@ -12021,7 +12027,6 @@ jccm.com.ve.
 jcdecaux.com.ve.
 jcretenciones.com.ve.
 jcrew.com.ve.
-jcsports.com.ve.
 jcsupply.com.ve.
 jcsystemas.com.ve.
 jd.co.ve.
@@ -12521,7 +12526,6 @@ ksv.com.ve.
 kswiss.co.ve.
 kswiss.com.ve.
 ktc.com.ve.
-ktk.com.ve.
 ktm.com.ve.
 ktronic.com.ve.
 ktronix.com.ve.
@@ -13351,6 +13355,7 @@ lubosistemas.com.ve.
 lubrax.com.ve.
 lubricanteslamundial.com.ve.
 lubriparts.com.ve.
+luceca.com.ve.
 lucerna.com.ve.
 luchaalcontrabando.gob.ve.
 luchadeclases.org.ve.
@@ -13664,7 +13669,6 @@ marcaria.com.ve.
 marchofdimes.co.ve.
 marchofdimes.com.ve.
 marchofdimes.org.ve.
-marco.com.ve.
 marcom.com.ve.
 mardal.com.ve.
 mardefondodigital.org.ve.
@@ -15076,6 +15080,7 @@ mvzlabella.gob.ve.
 mx3.com.ve.
 myaol.co.ve.
 myaol.com.ve.
+mybabyshop.com.ve.
 mybitdefender.co.ve.
 mycarflix.co.ve.
 myciti.com.ve.
@@ -15601,7 +15606,6 @@ nutriservi.com.ve.
 nutrisportcenter.com.ve.
 nutrisseo.com.ve.
 nutrisslovers.com.ve.
-nutritec.com.ve.
 nuun.co.ve.
 nuunlife.co.ve.
 nuvexa.com.ve.
@@ -15643,7 +15647,6 @@ obamarepealtheexecutiveorder.info.ve.
 obamarepealtheexecutiveorder.net.ve.
 obamarepealtheexecutiveorder.org.ve.
 obamarepealtheexecutiveorder.web.ve.
-obando.com.ve.
 obelisco.co.ve.
 obelisco.com.ve.
 obelisco.net.ve.
@@ -15723,6 +15726,7 @@ ofev.com.ve.
 office365.co.ve.
 office365.com.ve.
 officehome.com.ve.
+officemaster.com.ve.
 officenet.net.ve.
 officialdavidosio.co.ve.
 officium.com.ve.
@@ -16336,6 +16340,7 @@ pastelesmarinela.co.ve.
 pastelesmarinela.com.ve.
 pasteur.com.ve.
 pasteurcaracas.com.ve.
+pasteurdeleste.com.ve.
 pastilladeemergencia.com.ve.
 pastorenafm.com.ve.
 pasve.org.ve.
@@ -16729,6 +16734,7 @@ pisos.com.ve.
 pit.co.ve.
 pit.com.ve.
 pitca.com.ve.
+pitsautoparts.com.ve.
 pitviper.com.ve.
 piumobili.com.ve.
 pixelgames.com.ve.
@@ -19320,6 +19326,7 @@ sietemares.com.ve.
 sievd.com.ve.
 siex.gob.ve.
 sifa.com.ve.
+sifa.org.ve.
 sifontes-bolivar.gob.ve.
 sifrol.com.ve.
 siga.com.ve.
@@ -19901,7 +19908,6 @@ specialdog.com.ve.
 specialk.com.ve.
 specialkitty.com.ve.
 spectraban.com.ve.
-spectrumca.com.ve.
 speedbook.co.ve.
 speedo.com.ve.
 speedrubik.com.ve.
@@ -20176,7 +20182,6 @@ sudebip.gob.ve.
 sudeca.gob.ve.
 sudeseg.gov.ve.
 sudetec.com.ve.
-sudipe.com.ve.
 suelatex.com.ve.
 suelolarense.com.ve.
 suenaavenezuela.gob.ve.
@@ -20308,6 +20313,7 @@ supertech.com.ve.
 supertechos.com.ve.
 supertecno.com.ve.
 supervideomania.com.ve.
+supervision.com.ve.
 superwow.com.ve.
 supkil.com.ve.
 suplaven.com.ve.
@@ -20396,7 +20402,6 @@ sws.com.ve.
 swsnet.com.ve.
 syaca.com.ve.
 sybase.com.ve.
-syc-amrop.com.ve.
 syc.com.ve.
 sycom.com.ve.
 syensqo.co.ve.
@@ -20569,6 +20574,7 @@ techcontrol.com.ve.
 techcorporate.co.ve.
 techinsider.com.ve.
 technet.com.ve.
+technioptic.com.ve.
 techno-tel.net.ve.
 technocrata.com.ve.
 technokingdom.com.ve.
@@ -22315,6 +22321,7 @@ vencedores.gov.ve.
 venceremos.com.ve.
 vencert.gob.ve.
 vencloro.com.ve.
+venco.com.ve.
 vencomservices.com.ve.
 vencontrols.com.ve.
 vencor.com.ve.
@@ -22655,6 +22662,7 @@ viptoria.net.ve.
 viramune.com.ve.
 virginmobile.com.ve.
 virkon.com.ve.
+virtual-link.com.ve.
 virtualearth.co.ve.
 virtualearth.com.ve.
 virtualmlv.com.ve.
