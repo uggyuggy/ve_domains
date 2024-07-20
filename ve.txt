@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19Jul2024 02:11 UTC
+# ve domain names extracted from nameservers on 20Jul2024 02:04 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -10,7 +10,6 @@
 100x100banc0.com.ve.
 101domain.com.ve.
 101domains.com.ve.
-1032.com.ve.
 10bet.com.ve.
 11.com.ve.
 123.com.ve.
@@ -92,6 +91,7 @@
 3mespe.com.ve.
 3mscotch.com.ve.
 3noffice.com.ve.
+3p.com.ve.
 3pm.co.ve.
 3pm.com.ve.
 3pmshield.co.ve.
@@ -767,7 +767,6 @@ albatrosair.com.ve.
 albazete.com.ve.
 albeca.com.ve.
 albenydesigns.com.ve.
-alberkman.com.ve.
 albertoadriani-merida.gov.ve.
 albertoadriani.gob.ve.
 albertoarvelotorrealba-barinas.gov.ve.
@@ -3254,6 +3253,7 @@ cadivi.org.ve.
 cadp.com.ve.
 cady.com.ve.
 caeb.edu.ve.
+caegb.org.ve.
 caej.mil.ve.
 caelara.org.ve.
 caesba.org.ve.
@@ -4097,6 +4097,7 @@ cheaptickets.co.ve.
 cheaptickets.com.ve.
 chebetos.web.ve.
 checkengine.com.ve.
+checo.com.ve.
 cheddars.co.ve.
 cheddars.com.ve.
 cheddarsscratchkitchen.co.ve.
@@ -4778,7 +4779,6 @@ colegiohumboldtguatire.com.ve.
 colegioiberoamericano.edu.ve.
 colegioidagramcko.com.ve.
 colegioilustreamericano.com.ve.
-colegioimeinmaturin-monagas.com.ve.
 colegioinmaculadaconcepcion.com.ve.
 colegioinmaculadaconcepcionmerida.com.ve.
 colegioitaloplc.edu.ve.
@@ -5975,7 +5975,6 @@ cysmos.com.ve.
 d.com.ve.
 da.com.ve.
 daa7.mil.ve.
-daag.com.ve.
 daaltex.com.ve.
 dabajuro-falcon.gov.ve.
 dabur.com.ve.
@@ -6159,6 +6158,7 @@ dbike.com.ve.
 dbm.com.ve.
 dbs.net.ve.
 dbschenker.com.ve.
+dbspro.com.ve.
 dbsys.com.ve.
 dcadvisory.com.ve.
 dcargo.com.ve.
@@ -6326,6 +6326,7 @@ derechoadministrativoucv.com.ve.
 derechos.org.ve.
 deremate.com.ve.
 deriv.com.ve.
+derivadosalambre.com.ve.
 dermacol.co.ve.
 dermadoctor.com.ve.
 dermagen.com.ve.
@@ -7645,6 +7646,7 @@ escueladelpoderpopular.gob.ve.
 escuelajpsuv.org.ve.
 escuelaloongchuan.net.ve.
 escuelasuperior.edu.ve.
+escuelasuperiordeaudio.com.ve.
 escuelaweb.com.ve.
 escuing.mil.ve.
 escupol-carabobo.gob.ve.
@@ -9465,6 +9467,7 @@ globalca.com.ve.
 globalcambiosexpress.com.ve.
 globalcapital.com.ve.
 globalconsulting.com.ve.
+globalcontrol.com.ve.
 globalcorp.com.ve.
 globalcrossing.net.ve.
 globalcult.org.ve.
@@ -11946,6 +11949,8 @@ iuymcalm.edu.ve.
 ival.com.ve.
 ivanibarra.com.ve.
 ivanpacheco.com.ve.
+ivanscherman.co.ve.
+ivanscherman.com.ve.
 ivc.com.ve.
 ivea.com.ve.
 ivec.gov.ve.
@@ -12308,7 +12313,6 @@ kalstein.com.ve.
 kamikaze.com.ve.
 kamikazebike.com.ve.
 kamion.co.ve.
-kampus.com.ve.
 kamut.com.ve.
 kaneka.co.ve.
 kaneka.com.ve.
@@ -13305,7 +13309,6 @@ loteriadelzulia.com.ve.
 loteriadelzulia.gob.ve.
 loteriademargarita.gob.ve.
 loto.com.ve.
-lotoclub.com.ve.
 lotojet.com.ve.
 lotolara.com.ve.
 lotomar.com.ve.
@@ -13670,7 +13673,6 @@ marateca.com.ve.
 maratelier.com.ve.
 maravillosarealidad.com.ve.
 marca.co.ve.
-marcaled.com.ve.
 marcano-nuevaesparta.gob.ve.
 marcano.net.ve.
 marcapaisvenezuela.gob.ve.
@@ -13926,7 +13928,6 @@ mboscarlopezriveraddhh.org.ve.
 mbvalores.com.ve.
 mc-pharmax.com.ve.
 mc2009.com.ve.
-mc3024.com.ve.
 mca-cg.com.ve.
 mcafee.com.ve.
 mcaironline.com.ve.
@@ -15124,6 +15125,7 @@ myspacetv.com.ve.
 mytoys.com.ve.
 mywallmart.com.ve.
 myway.com.ve.
+myways.net.ve.
 myworldofjomalonelondon.co.ve.
 myworldofjomalonelondon.com.ve.
 mz.com.ve.
@@ -18624,6 +18626,7 @@ sangerardomayela.com.ve.
 sangiorgio.com.ve.
 sanibrand.com.ve.
 sanifer.com.ve.
+sanisidrocafe.com.ve.
 sanitisu.com.ve.
 sanito.com.ve.
 sanjoaquin-carabobo.gov.ve.
@@ -18795,6 +18798,12 @@ sciencediet.com.ve.
 scienteccorpcenter.com.ve.
 scientific.com.ve.
 scientology.org.ve.
+scitech.co.ve.
+scitech.com.ve.
+scitechcapital.co.ve.
+scitechcapital.com.ve.
+scitechinvestments.co.ve.
+scitechinvestments.com.ve.
 scl.com.ve.
 sclinicahogar24.com.ve.
 scon.net.ve.
@@ -18919,7 +18928,6 @@ seditronica.com.ve.
 sediver.co.ve.
 see-barinas.gob.ve.
 seeligeryconde.com.ve.
-seempaca.com.ve.
 seep.com.ve.
 sefar.gob.ve.
 sefarsumed.gov.ve.
@@ -19061,7 +19069,6 @@ sermac.com.ve.
 sermaf.com.ve.
 sermalite.com.ve.
 sermalogistcfc.com.ve.
-sermancop.com.ve.
 sermo.com.ve.
 sermujer.com.ve.
 serono.com.ve.
@@ -19470,6 +19477,7 @@ sisas.com.ve.
 siscacamimpeg.com.ve.
 siscom.com.ve.
 siscomar.com.ve.
+siscontrol.com.ve.
 siseca.com.ve.
 siseeldem.com.ve.
 siserin.com.ve.
@@ -22069,7 +22077,6 @@ upaca.co.ve.
 upaca.com.ve.
 upaebvirtual.edu.ve.
 upafv.edu.ve.
-upatadigital.com.ve.
 upel.com.ve.
 upel.edu.ve.
 upharven.com.ve.
@@ -22320,6 +22327,7 @@ velagliflozin.com.ve.
 velakel.com.ve.
 velaprumig.com.ve.
 velas3n.com.ve.
+velasaromaticas.com.ve.
 velaselfraile.com.ve.
 velaslanoche.com.ve.
 velasperegrino.com.ve.
@@ -22624,7 +22632,6 @@ victronenergy.co.ve.
 victtoryweb.com.ve.
 vidalibros.co.ve.
 vidalibros.com.ve.
-vidalyasociados.com.ve.
 vidanet.com.ve.
 vidaprofesional.com.ve.
 vidaradio.com.ve.
@@ -23018,7 +23025,6 @@ web.ve.
 webbeds.com.ve.
 webcams.com.ve.
 webconsultas.com.ve.
-webcontrol.net.ve.
 webdr.com.ve.
 webdrive.com.ve.
 weber.com.ve.
