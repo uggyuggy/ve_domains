@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Jul2024 02:04 UTC
+# ve domain names extracted from nameservers on 21Jul2024 02:03 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -571,7 +571,6 @@ agora.org.ve.
 agos.com.ve.
 agosto-15.gov.ve.
 agosto15.gov.ve.
-agpingenieriaglobal.com.ve.
 agriaffaire.co.ve.
 agriaffaires.co.ve.
 agriclass.com.ve.
@@ -630,6 +629,7 @@ aguadulcebeachclub.com.ve.
 aguaelsaman.com.ve.
 aguagas.com.ve.
 aguaginseng.com.ve.
+aguamarina.com.ve.
 aguamerca.com.ve.
 aguasantabouquets.com.ve.
 aguasay-monagas.gob.ve.
@@ -1741,7 +1741,6 @@ asdej.com.ve.
 aseabrownboveri.co.ve.
 aseabrownboveri.com.ve.
 aseca.com.ve.
-asegumargp.com.ve.
 aseguraronline.com.ve.
 aseguratehoy.com.ve.
 aseguratucaballo.com.ve.
@@ -4001,6 +4000,7 @@ certicar.com.ve.
 certisign.co.ve.
 certisur.com.ve.
 cervecentro.com.ve.
+cervecerialaesquina.com.ve.
 cervezaduff.co.ve.
 cervezapolar.com.ve.
 cesc.com.ve.
@@ -4592,6 +4592,7 @@ cmt.gob.ve.
 cmusoft.com.ve.
 cmv.gob.ve.
 cmvbolivar.com.ve.
+cmvdsd.com.ve.
 cnac.gob.ve.
 cnae.gob.ve.
 cnb.com.ve.
@@ -6904,7 +6905,6 @@ dsv.net.ve.
 dtecnet.com.ve.
 dtk.com.ve.
 dual.com.ve.
-dubaihotelsuites.com.ve.
 dubert.com.ve.
 ducati.com.ve.
 ducativenezuela.com.ve.
@@ -7148,7 +7148,6 @@ egger.com.ve.
 egidioestereo.com.ve.
 egidsa.org.ve.
 egresadosiesa.com.ve.
-egservice.com.ve.
 egum.com.ve.
 eharmony.co.ve.
 eharmony.com.ve.
@@ -9402,6 +9401,7 @@ gillmanfest.com.ve.
 gilrosas.com.ve.
 gilt.co.ve.
 gilt.com.ve.
+gimaxvenezuela.com.ve.
 gina.com.ve.
 gincosan.com.ve.
 ginetex.com.ve.
@@ -10235,7 +10235,6 @@ helenarubinstein.com.ve.
 helicenter.com.ve.
 helikson.co.ve.
 helios.com.ve.
-heliumalfa.com.ve.
 heliven.com.ve.
 hellawell.com.ve.
 hello.com.ve.
@@ -11522,7 +11521,6 @@ interacables.com.ve.
 interactiva.com.ve.
 interactivaisg.com.ve.
 interactivas.com.ve.
-interagro.com.ve.
 interaktivos.com.ve.
 interamerica.com.ve.
 interamerican.com.ve.
@@ -11546,7 +11544,6 @@ interhome.com.ve.
 interimex.com.ve.
 interinn.com.ve.
 interlink.net.ve.
-interlogistic.co.ve.
 intermarine.com.ve.
 intermax.com.ve.
 intermedi.com.ve.
@@ -11575,7 +11572,6 @@ interroll.co.ve.
 interroll.com.ve.
 intersatlosandes.com.ve.
 intersec.com.ve.
-intershipping.co.ve.
 intershipping.com.ve.
 intersis.net.ve.
 intersolucion555.com.ve.
@@ -11624,7 +11620,6 @@ invernova.com.ve.
 inverquim.com.ve.
 inversan.com.ve.
 inversiones-ac.com.ve.
-inversionesa21.com.ve.
 inversionesalmarza.com.ve.
 inversionesangelini.com.ve.
 inversionesanu.com.ve.
@@ -11849,7 +11844,6 @@ itmediatech.com.ve.
 itmediax.com.ve.
 itochu.co.ve.
 itqsoluciones.com.ve.
-its.co.ve.
 itsapark.com.ve.
 itservice.com.ve.
 itservicios.com.ve.
@@ -12679,7 +12673,6 @@ lagoon.com.ve.
 lagosol.com.ve.
 lagosteam.com.ve.
 lagranbailoterapia.com.ve.
-lagranparada.com.ve.
 lagrapa.com.ve.
 laguachafa.com.ve.
 laguaira.gob.ve.
@@ -13904,7 +13897,6 @@ mayoral.co.ve.
 mayoral.com.ve.
 mayorauto.com.ve.
 mayorca.com.ve.
-mayoristas.com.ve.
 mayorkinatours.com.ve.
 mayorocan.com.ve.
 maytag.com.ve.
@@ -15299,7 +15291,6 @@ nethosting.com.ve.
 netinside.com.ve.
 netjam.com.ve.
 netjam.net.ve.
-netlead.com.ve.
 netlink.com.ve.
 netmonitormovistar.com.ve.
 netnames.com.ve.
@@ -16811,7 +16802,6 @@ plata.com.ve.
 plataformadearte.net.ve.
 plataformaprepago.com.ve.
 platco.com.ve.
-platiniumhosting.com.ve.
 platino-opsi.gov.ve.
 platino.gob.ve.
 platino.gov.ve.
@@ -18030,6 +18020,7 @@ resel.com.ve.
 reselhost.com.ve.
 resenas.com.ve.
 reservanacional.mil.ve.
+reservas.com.ve.
 resguarda.com.ve.
 residenciapalmita.com.ve.
 resiladuanas.com.ve.
@@ -18226,7 +18217,6 @@ rockwallet.com.ve.
 rockwellautomation.com.ve.
 rockzone.com.ve.
 rocoautosales.com.ve.
-rocogroup.com.ve.
 rod.com.ve.
 roda.com.ve.
 roda1111.com.ve.
@@ -18403,7 +18393,6 @@ russo.com.ve.
 rusticosdeapure.com.ve.
 rusticosdelguarico.com.ve.
 rutaca.com.ve.
-rutadelcafemcbo.com.ve.
 rutadistancia.com.ve.
 rutalibertador.gob.ve.
 rutamirandina.gob.ve.
@@ -18616,7 +18605,6 @@ sandramodel.co.ve.
 sandro.com.ve.
 sanfelipe-yaracuy.gob.ve.
 sanfernando-apure.gov.ve.
-sanfor.com.ve.
 sanford.com.ve.
 sanfrancisco-falcon.gov.ve.
 sanfrancisco-zulia.gob.ve.
@@ -19853,7 +19841,6 @@ sonax.com.ve.
 soneview.com.ve.
 sonfil.com.ve.
 songgaitero.com.ve.
-sonicafm.com.ve.
 sonicwall.com.ve.
 sonidata.com.ve.
 sonidofm.net.ve.
@@ -21277,7 +21264,6 @@ tql.com.ve.
 tqllogistics.com.ve.
 tr90.co.ve.
 tr90.com.ve.
-tra.com.ve.
 trabaje.com.ve.
 trabajo.com.ve.
 trabajos.com.ve.
@@ -22200,7 +22186,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22424,7 +22409,6 @@ venezuelaconstituyente.gob.ve.
 venezuelacool.com.ve.
 venezueladeverdad.gob.ve.
 venezueladigital2017.com.ve.
-venezuelaempresarial.com.ve.
 venezuelaennoticias.gob.ve.
 venezuelafutbol.com.ve.
 venezuelainnovadora.gob.ve.
@@ -22611,7 +22595,6 @@ victoria-secrets.co.ve.
 victoria-secrets.com.ve.
 victoriabolivariana.gov.ve.
 victoriafm.com.ve.
-victorian.com.ve.
 victorianet.com.ve.
 victorias-secret.co.ve.
 victorias-secret.com.ve.

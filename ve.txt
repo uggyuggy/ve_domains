@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Jul2024 02:03 UTC
+# ve domain names extracted from nameservers on 22Jul2024 02:08 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3024,7 +3024,6 @@ brandcom.com.ve.
 branders.com.ve.
 brandimarte.com.ve.
 brandimpulse.com.ve.
-branding.com.ve.
 brandketing.com.ve.
 brandme.com.ve.
 brando.com.ve.
@@ -3032,7 +3031,6 @@ brandsight.co.ve.
 brandsight.com.ve.
 brandsimex.com.ve.
 brandvely.com.ve.
-brasilimport.com.ve.
 bravecommunity.com.ve.
 bravosnorkel.co.ve.
 bravosports.net.ve.
@@ -3416,7 +3414,6 @@ capca.com.ve.
 capco.com.ve.
 capeapep.com.ve.
 capellaniapnb.org.ve.
-capem.com.ve.
 capi.com.ve.
 capify.com.ve.
 capitalgroup.co.ve.
@@ -3465,6 +3462,7 @@ caravan.com.ve.
 caravantours.co.ve.
 caravantours.com.ve.
 carbatrol.com.ve.
+carbon.com.ve.
 carbonellasociados.com.ve.
 carbonelzulia.com.ve.
 carbonmadelara.com.ve.
@@ -6409,6 +6407,7 @@ deutz.com.ve.
 deuxcreativa.com.ve.
 deuzicronapine.com.ve.
 devel.com.ve.
+deverik.com.ve.
 devion.com.ve.
 devstudio.com.ve.
 dewalt.co.ve.
@@ -7666,6 +7665,7 @@ esgn.edu.ve.
 esguarnaccordero.mil.ve.
 esguarnacmichelena.mil.ve.
 esguarnacpuntademata.mil.ve.
+esi.edu.ve.
 esignal.com.ve.
 esika.com.ve.
 eska.com.ve.
@@ -7766,7 +7766,6 @@ etiflexo.com.ve.
 etig.edu.ve.
 etilox.com.ve.
 etimark.com.ve.
-etimazzarello.com.ve.
 etimed.com.ve.
 etion.com.ve.
 etiontechnologies.com.ve.
@@ -7942,7 +7941,6 @@ exploracasa.com.ve.
 exploradoroceanico.org.ve.
 explorauto.co.ve.
 explorauto.com.ve.
-explore.com.ve.
 explorefund.co.ve.
 explorefund.com.ve.
 explorefund.org.ve.
@@ -10095,7 +10093,6 @@ hablemosdeambientebolivar.gob.ve.
 hablemosdebeisbol.com.ve.
 haciendainfante.com.ve.
 haciendalaceiba.com.ve.
-haciendalaconcepcion.com.ve.
 haciendasantateresa.com.ve.
 haciendoradio.com.ve.
 hackatonpatria.gob.ve.
@@ -10489,6 +10486,7 @@ hootsuite.com.ve.
 hoover.com.ve.
 hopenvios.com.ve.
 horarios.com.ve.
+horasmagazine.com.ve.
 hormanndurr.com.ve.
 hormigonesbel.com.ve.
 hormiguero.com.ve.
@@ -11447,7 +11445,6 @@ institutolazarus.com.ve.
 institutomadremaria.com.ve.
 institutometropolitanoadventista.com.ve.
 institutomontesacro.com.ve.
-institutomontessori.com.ve.
 institutonauticoluzbolivariana.com.ve.
 institutopedrogual.edu.ve.
 institutosanantonio.com.ve.
@@ -12543,6 +12540,7 @@ kueski.com.ve.
 kuhl.com.ve.
 kuka.com.ve.
 kuksool.com.ve.
+kul.com.ve.
 kulturakreativa.com.ve.
 kumon.com.ve.
 kungacargo.com.ve.
@@ -12844,7 +12842,6 @@ lavilladelrosario.com.ve.
 lavitalicia.com.ve.
 lavozdebaruta.com.ve.
 lavozdefalcon.info.ve.
-lavozdeguaicaipuro.com.ve.
 lavozdejesus.org.ve.
 lavozdelaesperanza.com.ve.
 lavozdelamisericordiafm.com.ve.
@@ -16709,7 +16706,6 @@ pinpollo.com.ve.
 pint-pharma.co.ve.
 pint-pharma.com.ve.
 pintacasa.com.ve.
-pintavinedo.com.ve.
 pinterest.co.ve.
 pintuandes.com.ve.
 pintuplast.com.ve.
@@ -17112,7 +17108,6 @@ previsora.com.ve.
 prexcard.com.ve.
 prezi.co.ve.
 prezi.com.ve.
-pribanic.com.ve.
 pricetravel.co.ve.
 pricetravel.com.ve.
 pricewaterhousecoopers.co.ve.
@@ -17493,7 +17488,6 @@ qlaira.com.ve.
 qm.com.ve.
 qmaccesorios.com.ve.
 qn.co.ve.
-qnas.com.ve.
 qpass.com.ve.
 qpollo.com.ve.
 qr.com.ve.
@@ -19347,7 +19341,6 @@ sifrol.com.ve.
 siga.com.ve.
 sigagem.gob.ve.
 sigapres.gob.ve.
-sigc.com.ve.
 sigcom.net.ve.
 sigeap.com.ve.
 sigesco.com.ve.
@@ -19443,7 +19436,6 @@ singel.com.ve.
 singoteras.com.ve.
 singulair.com.ve.
 sinlimite.com.ve.
-sinobesidad.com.ve.
 sinocare.com.ve.
 sinomed.com.ve.
 sintesisonline.com.ve.
@@ -19760,7 +19752,6 @@ solitech.com.ve.
 solmelia.com.ve.
 soloalmayor.com.ve.
 solocruceros.com.ve.
-solodeportes.com.ve.
 solohardware.com.ve.
 soloimagen.com.ve.
 soloplastico.com.ve.
