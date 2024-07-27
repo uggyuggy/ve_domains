@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Jul2024 02:03 UTC
+# ve domain names extracted from nameservers on 27Jul2024 02:03 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -163,7 +163,6 @@ a2grupo.com.ve.
 a2pedidos.com.ve.
 a2softway.com.ve.
 a414.com.ve.
-a4agro.com.ve.
 aa.com.ve.
 aaa.net.ve.
 aai.com.ve.
@@ -1104,7 +1103,6 @@ almacaroni.gob.ve.
 almacenadoracaracas.gob.ve.
 almanzarca.com.ve.
 almapura.com.ve.
-almayor.com.ve.
 almccs.gob.ve.
 almed.com.ve.
 almirantepadilla-zulia.gob.ve.
@@ -1316,7 +1314,6 @@ analesdenutricion.org.ve.
 analizar.com.ve.
 analyst.com.ve.
 ananke.com.ve.
-anapanasati.com.ve.
 anaplan.com.ve.
 anar.org.ve.
 anatec.com.ve.
@@ -2239,7 +2236,6 @@ bancaamiga.com.ve.
 bancamiga.com.ve.
 bancaribe.com.ve.
 bancatlan.com.ve.
-banco.com.ve.
 bancoatlantida.com.ve.
 bancobicentenariobu.com.ve.
 bancocaroni.com.ve.
@@ -6385,7 +6381,6 @@ despuesdeunabuenacomida.com.ve.
 destacamento212gnb.mil.ve.
 destileriacarupano.com.ve.
 destinia.com.ve.
-destinno.com.ve.
 destinosbelmont.com.ve.
 destinosdesucre.com.ve.
 desurca.gob.ve.
@@ -6474,7 +6469,6 @@ diazfrontado.com.ve.
 diazpino.com.ve.
 dibari.com.ve.
 dibiho.com.ve.
-dibosco.com.ve.
 dicafe.com.ve.
 diccionario.com.ve.
 dicer.com.ve.
@@ -11291,6 +11285,7 @@ ingeomin.gob.ve.
 ingeomin.gov.ve.
 ingersollrand.com.ve.
 ingersollrandproducts.com.ve.
+ingeserv.com.ve.
 ingesoft.com.ve.
 ingetop.com.ve.
 ingevalca.com.ve.
@@ -11470,7 +11465,6 @@ insumedacarigua.com.ve.
 insupen.com.ve.
 insuperable891fm.com.ve.
 insuritas.com.ve.
-insutec.com.ve.
 insystech.com.ve.
 int.ve.
 intarcesoft.com.ve.
@@ -11521,7 +11515,6 @@ inter-global.com.ve.
 inter.com.ve.
 inter.net.ve.
 interacables.com.ve.
-interactiva.com.ve.
 interactivaisg.com.ve.
 interactivas.com.ve.
 interagro.com.ve.
@@ -12096,7 +12089,6 @@ jifi.edu.ve.
 jifi2000.edu.ve.
 jifi2002.edu.ve.
 jijo.com.ve.
-jimax.com.ve.
 jimbo.co.ve.
 jimclark.com.ve.
 jimdel.com.ve.
@@ -12798,6 +12790,7 @@ laser.com.ve.
 lasercenter.com.ve.
 laserclub.com.ve.
 lasermed.com.ve.
+lasermedicalspa20.com.ve.
 laslineasdechavez.gob.ve.
 lasmiditan.com.ve.
 lasnonnitas.com.ve.
@@ -13844,7 +13837,6 @@ materialesandinos.com.ve.
 materialesbrasilmayor.com.ve.
 materialise.com.ve.
 materialo.com.ve.
-mathtics.com.ve.
 matific.com.ve.
 matinca.com.ve.
 matindustrie.com.ve.
@@ -14575,7 +14567,6 @@ mirringo.com.ve.
 misalud.com.ve.
 misconsultores.com.ve.
 misdocumentos.com.ve.
-misduquecitos.com.ve.
 mision-florentino.gov.ve.
 mision-ny.gov.ve.
 misionalmamater.gob.ve.
@@ -15928,7 +15919,6 @@ openfiber.com.ve.
 openfuture.com.ve.
 openit.com.ve.
 openpay.com.ve.
-opensiap.com.ve.
 opensoft.com.ve.
 opensolutions.com.ve.
 openthefuture.com.ve.
@@ -17546,7 +17536,6 @@ quepasa.com.ve.
 quero.co.ve.
 quero.com.ve.
 quesocrema.com.ve.
-quesoexpress.com.ve.
 quesokroon.com.ve.
 quest.co.ve.
 quest.com.ve.
@@ -19856,6 +19845,7 @@ sonax.com.ve.
 soneview.com.ve.
 sonfil.com.ve.
 songgaitero.com.ve.
+sonicafm.com.ve.
 sonicwall.com.ve.
 sonidata.com.ve.
 sonidofm.net.ve.
@@ -20328,7 +20318,6 @@ supermateriales.com.ve.
 supermercado.com.ve.
 supermetanol.com.ve.
 supernettelecom.com.ve.
-supernova.com.ve.
 superobras.com.ve.
 superoctanos.com.ve.
 superoffice.com.ve.
@@ -21603,7 +21592,6 @@ tumudanza.com.ve.
 tumundointer.com.ve.
 tuorohoy.com.ve.
 tuoutlet.com.ve.
-tupamaro.emprende.ve.
 tupanaderiaartesanal.com.ve.
 tupiso.com.ve.
 tuplata.com.ve.
@@ -22204,6 +22192,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
