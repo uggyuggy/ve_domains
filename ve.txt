@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Jul2024 02:08 UTC
+# ve domain names extracted from nameservers on 29Jul2024 02:26 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -22192,7 +22192,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
