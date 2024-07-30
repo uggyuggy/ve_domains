@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Jul2024 02:26 UTC
+# ve domain names extracted from nameservers on 30Jul2024 02:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3764,6 +3764,7 @@ ccre.gov.ve.
 ccres.org.ve.
 ccsantafe.com.ve.
 ccsc.com.ve.
+ccto.e12.ve.
 ccv.com.ve.
 ccv.net.ve.
 ccvs.com.ve.
@@ -4805,6 +4806,7 @@ colegiolosazulejos.edu.ve.
 colegioloscedros.edu.ve.
 colegiolosilustresacarigua.com.ve.
 colegiolosproceres.edu.ve.
+colegiolosrobles.e12.ve.
 colegiolucesyvirtudes.com.ve.
 colegioluisacaceresdearismendiguanare.com.ve.
 colegioluisvillalobosvillasmil.com.ve.
@@ -6984,6 +6986,7 @@ e-trade.co.ve.
 e-trade.com.ve.
 e-tributosbolivar.gob.ve.
 e-uracoa.gob.ve.
+e12.ve.
 eagleburgmann.com.ve.
 eagledevenezuela.com.ve.
 ealpo.com.ve.
@@ -12207,6 +12210,7 @@ juandiaz.co.ve.
 juanjosemora-carabobo.gob.ve.
 juansotillo-anzoategui.gob.ve.
 juanvicentecampoelias-trujillo.gov.ve.
+juanxxiii.e12.ve.
 jubiladosbcv.com.ve.
 jubiladosbcv.org.ve.
 jucum.org.ve.
@@ -15555,6 +15559,7 @@ ns3.nic.ve.
 ns4.nic.ve.
 ns5.nic.ve.
 ns6.nic.ve.
+nsdelcamino.e12.ve.
 nsfvi.com.ve.
 nslourdes.edu.ve.
 nube.com.ve.
@@ -17071,6 +17076,7 @@ preciousfirsts.com.ve.
 precursora95.com.ve.
 predictive.com.ve.
 preescolarabigaillozano.edu.ve.
+preescolaraquilesnazoa.e12.ve.
 preescolarlaslomitas.com.ve.
 preescolarmariomontessori.edu.ve.
 preescolarsanantoniodepadua.edu.ve.
@@ -21831,6 +21837,7 @@ ueiesimonbolivar.com.ve.
 ueindependencia.com.ve.
 ueinstitutocoromoto.com.ve.
 ueinuevasegovia.com.ve.
+ueipab.e12.ve.
 ueipab.edu.ve.
 ueiprocerandresbello.com.ve.
 ueisanlazaroii.edu.ve.
