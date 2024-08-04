@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 02Aug2024 02:13 UTC
+# ve domain names extracted from nameservers on 03Aug2024 02:03 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -766,6 +766,7 @@ albatrosair.com.ve.
 albazete.com.ve.
 albeca.com.ve.
 albenydesigns.com.ve.
+alberkman.com.ve.
 albertoadriani-merida.gov.ve.
 albertoadriani.gob.ve.
 albertoarvelotorrealba-barinas.gov.ve.
@@ -1851,6 +1852,7 @@ atento.com.ve.
 atento.net.ve.
 athleta.com.ve.
 athlos.com.ve.
+athlosfit.com.ve.
 athos.com.ve.
 atimeca.com.ve.
 atkids.com.ve.
@@ -3760,7 +3762,6 @@ ccre.com.ve.
 ccre.gov.ve.
 ccsantafe.com.ve.
 ccsc.com.ve.
-ccto.e12.ve.
 ccv.com.ve.
 ccv.net.ve.
 ccvs.com.ve.
@@ -4800,7 +4801,6 @@ colegiolosazulejos.edu.ve.
 colegioloscedros.edu.ve.
 colegiolosilustresacarigua.com.ve.
 colegiolosproceres.edu.ve.
-colegiolosrobles.e12.ve.
 colegiolucesyvirtudes.com.ve.
 colegioluisacaceresdearismendiguanare.com.ve.
 colegioluisvillalobosvillasmil.com.ve.
@@ -5627,7 +5627,6 @@ cortudelta.gob.ve.
 cortulara.gob.ve.
 cortulara.gov.ve.
 corundum.com.ve.
-corvemotors.com.ve.
 cos.com.ve.
 cosan.com.ve.
 cosan.net.ve.
@@ -6374,6 +6373,7 @@ despertarseguros.com.ve.
 destacamento212gnb.mil.ve.
 destileriacarupano.com.ve.
 destinia.com.ve.
+destinno.com.ve.
 destinosbelmont.com.ve.
 destinosdesucre.com.ve.
 desurca.gob.ve.
@@ -6724,6 +6724,7 @@ dnaed.edu.ve.
 dnb.co.ve.
 dnkn.co.ve.
 dnm.com.ve.
+dns.com.ve.
 dnsca.net.ve.
 dobleg.com.ve.
 dobrica.com.ve.
@@ -6975,7 +6976,6 @@ e-trade.co.ve.
 e-trade.com.ve.
 e-tributosbolivar.gob.ve.
 e-uracoa.gob.ve.
-e12.ve.
 eagleburgmann.com.ve.
 eagledevenezuela.com.ve.
 ealpo.com.ve.
@@ -7225,7 +7225,6 @@ eleoccidente.gob.ve.
 eleoccidente.gov.ve.
 elepos.com.ve.
 elesa.co.ve.
-elestudiante.com.ve.
 elevador.com.ve.
 elevadores.com.ve.
 eleval.gob.ve.
@@ -10408,6 +10407,7 @@ hlc.com.ve.
 hlcproyectos.com.ve.
 hlfca.com.ve.
 hm-clause.com.ve.
+hm21.com.ve.
 hmcarlosarvelo.mil.ve.
 hmclause.com.ve.
 hmhome.com.ve.
@@ -12043,6 +12043,7 @@ jeniusbank.com.ve.
 jens.com.ve.
 jentadueto.com.ve.
 jeronimo-alayon.com.ve.
+jesistemas.com.ve.
 jesproducciones.com.ve.
 jesscraftstore.com.ve.
 jesuministrosymas.com.ve.
@@ -12190,7 +12191,6 @@ juandiaz.co.ve.
 juanjosemora-carabobo.gob.ve.
 juansotillo-anzoategui.gob.ve.
 juanvicentecampoelias-trujillo.gov.ve.
-juanxxiii.e12.ve.
 jubiladosbcv.com.ve.
 jubiladosbcv.org.ve.
 jucum.org.ve.
@@ -13209,7 +13209,6 @@ logistika.com.ve.
 logitravel.com.ve.
 logiven.com.ve.
 logosconsultores.com.ve.
-logoscorp.com.ve.
 logwin-logistics.co.ve.
 logwin.co.ve.
 lojasrenner.co.ve.
@@ -14545,7 +14544,6 @@ mirotecnicas.com.ve.
 mirringo.com.ve.
 misalud.com.ve.
 misconsultores.com.ve.
-misdocumentos.com.ve.
 mision-florentino.gov.ve.
 mision-ny.gov.ve.
 misionalmamater.gob.ve.
@@ -14680,7 +14678,6 @@ modulesphoenix.com.ve.
 moduoccidente.com.ve.
 mogaservicios.com.ve.
 mogollon.com.ve.
-mokacaribe.co.ve.
 molex.co.ve.
 molex.com.ve.
 moliendafina.com.ve.
@@ -14822,7 +14819,6 @@ mouserelectronics.com.ve.
 mouserpre.com.ve.
 mov.com.ve.
 movectro.com.ve.
-movi.com.ve.
 movidafm.com.ve.
 movie.com.ve.
 moviesonheels.co.ve.
@@ -15532,7 +15528,6 @@ ns3.nic.ve.
 ns4.nic.ve.
 ns5.nic.ve.
 ns6.nic.ve.
-nsdelcamino.e12.ve.
 nsfvi.com.ve.
 nslourdes.edu.ve.
 nube.com.ve.
@@ -15907,6 +15902,7 @@ opera.co.ve.
 operacionsonrisa.com.ve.
 operacionsonrisa.net.ve.
 operacionsonrisa.org.ve.
+operadoraturisticadelcaribe.com.ve.
 operamini.co.ve.
 opinion.co.ve.
 opiniones.co.ve.
@@ -16033,6 +16029,7 @@ osterstyle.com.ve.
 ostomedical.com.ve.
 otai.com.ve.
 otazu.com.ve.
+otc.com.ve.
 otec.com.ve.
 otepi.com.ve.
 otorrinocaracas.com.ve.
@@ -16747,7 +16744,6 @@ planetca.com.ve.
 planetexplore.co.ve.
 planetexplore.com.ve.
 planetfumigaciones.com.ve.
-planethobbies2.com.ve.
 planetoriente.com.ve.
 planford.com.ve.
 planmedicosaludzulia.com.ve.
@@ -17044,7 +17040,6 @@ preciousfirsts.com.ve.
 precursora95.com.ve.
 predictive.com.ve.
 preescolarabigaillozano.edu.ve.
-preescolaraquilesnazoa.e12.ve.
 preescolarlaslomitas.com.ve.
 preescolarmariomontessori.edu.ve.
 preescolarsanantoniodepadua.edu.ve.
@@ -17463,6 +17458,7 @@ pycinnova.com.ve.
 pyg.com.ve.
 pyme-soft.com.ve.
 pyrukynd.com.ve.
+pys.com.ve.
 python.org.ve.
 qarepas.com.ve.
 qasesorios.com.ve.
@@ -18034,6 +18030,7 @@ resumebids.co.ve.
 resumebids.com.ve.
 resumendenoticias.com.ve.
 retechnology.com.ve.
+retenlo.com.ve.
 retoalaesperanza.com.ve.
 retomovistar.com.ve.
 retroradio.com.ve.
@@ -18293,6 +18290,7 @@ rosettastone.co.ve.
 rosettastone.com.ve.
 rosilloconsultores.com.ve.
 rossetti.com.ve.
+rostro.com.ve.
 rotateq.com.ve.
 rothenberger.com.ve.
 rottentomatoes.co.ve.
@@ -18532,6 +18530,7 @@ salusmilitae.mil.ve.
 salusmilitiae.mil.ve.
 salutta.com.ve.
 salvador.com.ve.
+salvaenvios.com.ve.
 salvafoods.com.ve.
 salvasion.com.ve.
 salvat.com.ve.
@@ -18583,6 +18582,7 @@ sandramodel.co.ve.
 sandro.com.ve.
 sanfelipe-yaracuy.gob.ve.
 sanfernando-apure.gov.ve.
+sanfor.com.ve.
 sanford.com.ve.
 sanfrancisco-falcon.gov.ve.
 sanfrancisco-zulia.gob.ve.
@@ -18888,7 +18888,6 @@ sedematlagunillas.gob.ve.
 sedematyaritagua.com.ve.
 sedes.gob.ve.
 sedgwick.co.ve.
-sedicomvet.com.ve.
 seditronica.com.ve.
 sediver.co.ve.
 see-barinas.gob.ve.
@@ -19041,7 +19040,6 @@ serpic.gob.ve.
 serpu.com.ve.
 serta.com.ve.
 serteconcret.com.ve.
-sertel.com.ve.
 sertic.com.ve.
 sertocon24.com.ve.
 serverout.com.ve.
@@ -19191,6 +19189,7 @@ shanti.com.ve.
 sharkclean.co.ve.
 sharkninja.co.ve.
 sharpie.com.ve.
+shay.com.ve.
 sheaffer.com.ve.
 sheep.com.ve.
 shein.co.ve.
@@ -21241,6 +21240,7 @@ tql.com.ve.
 tqllogistics.com.ve.
 tr90.co.ve.
 tr90.com.ve.
+tra.com.ve.
 trabaje.com.ve.
 trabajo.com.ve.
 trabajos.com.ve.
@@ -21608,6 +21608,7 @@ tuseguro.com.ve.
 tusegurodeviaje.net.ve.
 tuservermu.com.ve.
 tusitio.web.ve.
+tusnumeritos.org.ve.
 tusolucionlegal.com.ve.
 tuspeca.com.ve.
 tustips.com.ve.
@@ -21796,7 +21797,6 @@ uefrayelias.com.ve.
 ueiesimonbolivar.com.ve.
 ueindependencia.com.ve.
 ueinstitutocoromoto.com.ve.
-ueipab.e12.ve.
 ueipab.edu.ve.
 ueiprocerandresbello.com.ve.
 ueisanlazaroii.edu.ve.
@@ -23143,6 +23143,7 @@ workiva.co.ve.
 workiva.com.ve.
 workling.com.ve.
 worldbaseballclassic.co.ve.
+worldcourier.com.ve.
 worldgift.co.ve.
 worldgift.com.ve.
 worldline.com.ve.
