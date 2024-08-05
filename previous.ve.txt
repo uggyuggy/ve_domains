@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03Aug2024 02:03 UTC
+# ve domain names extracted from nameservers on 04Aug2024 02:00 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2100,7 +2100,6 @@ avp.gob.ve.
 avp.org.ve.
 avpharma.com.ve.
 avpp.net.ve.
-avrvm.co.ve.
 avtopro.com.ve.
 aw.com.ve.
 aw.edu.ve.
@@ -2222,7 +2221,6 @@ balmainbeauty.co.ve.
 balmainbeauty.com.ve.
 balombo.com.ve.
 baloo.com.ve.
-balor.com.ve.
 balsam.com.ve.
 baltico.com.ve.
 balvenie.com.ve.
@@ -3051,7 +3049,6 @@ brickaffix.com.ve.
 bricket.com.ve.
 brickmancorp.com.ve.
 brickmansuministros.com.ve.
-bridgemarkets.com.ve.
 bridgestone.co.ve.
 briescomsys.com.ve.
 brigadasaya.info.ve.
@@ -3839,7 +3836,6 @@ celebrate.com.ve.
 celebrex.com.ve.
 celgene.com.ve.
 celhost.com.ve.
-celiacosvenezuela.org.ve.
 celica.com.ve.
 celisweb.com.ve.
 celite.com.ve.
@@ -4954,7 +4950,6 @@ colombeiatv.gob.ve.
 colombianosenvenezuela.org.ve.
 colon-zulia.gob.ve.
 coloplas.com.ve.
-colorados.com.ve.
 colorcloset.com.ve.
 colorescience.com.ve.
 colorfrut.com.ve.
@@ -5801,6 +5796,7 @@ cruzparedes-barinas.gob.ve.
 cruzrojalara.org.ve.
 cryo-cell.com.ve.
 cryobloodbank.com.ve.
+cryomedical.com.ve.
 cryovac.com.ve.
 crypteia.com.ve.
 cryptoex.com.ve.
@@ -6939,6 +6935,7 @@ dynegy.co.ve.
 dynegy.com.ve.
 dynepo.com.ve.
 dynotab.com.ve.
+dyrca.com.ve.
 dyson.co.ve.
 dyson.com.ve.
 e-171.gob.ve.
@@ -7157,6 +7154,7 @@ elamucs.edu.ve.
 elangel.edu.ve.
 elaprase.com.ve.
 elaragueno.com.ve.
+elbolivariano.com.ve.
 elcallao-bolivar.gob.ve.
 elcambur.com.ve.
 elcartel.com.ve.
@@ -11557,6 +11555,7 @@ interroll.co.ve.
 interroll.com.ve.
 intersatlosandes.com.ve.
 intersec.com.ve.
+intershipping.co.ve.
 intershipping.com.ve.
 intersis.net.ve.
 intersolucion555.com.ve.
@@ -14060,7 +14059,6 @@ megaparty.net.ve.
 megapc.com.ve.
 megapet.com.ve.
 megapixel.com.ve.
-megasis.co.ve.
 megasoft.co.ve.
 megasoft.com.ve.
 megasys.com.ve.
@@ -15584,6 +15582,7 @@ nutrilite.co.ve.
 nutrilite.com.ve.
 nutrimed.com.ve.
 nutrimentospurina.com.ve.
+nutrina.com.ve.
 nutriservi.com.ve.
 nutrisportcenter.com.ve.
 nutrisseo.com.ve.
@@ -15953,6 +15952,7 @@ orbisnetwork.com.ve.
 orbit.com.ve.
 orbita885.com.ve.
 orbitz.co.ve.
+orcasdive.com.ve.
 orchid.co.ve.
 orchid.com.ve.
 orchid.info.ve.
@@ -17573,7 +17573,6 @@ radioamerica.com.ve.
 radioamiga909.com.ve.
 radioantenalibre.com.ve.
 radioanzoateguifm.com.ve.
-radiocanaimaalternativa.com.ve.
 radiocanal.com.ve.
 radiodeportivastereo.com.ve.
 radiodinamica.com.ve.
@@ -20311,7 +20310,6 @@ suplaven.com.ve.
 suplimaca.com.ve.
 suplivac.com.ve.
 supplyautosval.com.ve.
-supplyparts.com.ve.
 supracal.com.ve.
 supradigital.com.ve.
 supraragua.gob.ve.
