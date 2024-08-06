@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 04Aug2024 02:00 UTC
+# ve domain names extracted from nameservers on 05Aug2024 02:11 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3719,7 +3719,6 @@ cbet.org.ve.
 cbet.web.ve.
 cbiacacias.org.ve.
 cbitzaraza.com.ve.
-cbolivariana.org.ve.
 cbolivarianast.org.ve.
 cbp.gob.ve.
 cbre.com.ve.
@@ -6973,6 +6972,7 @@ e-trade.co.ve.
 e-trade.com.ve.
 e-tributosbolivar.gob.ve.
 e-uracoa.gob.ve.
+e12.ve.
 eagleburgmann.com.ve.
 eagledevenezuela.com.ve.
 ealpo.com.ve.
@@ -7205,7 +7205,6 @@ electronicaip.com.ve.
 electronicarts.com.ve.
 electronicdigital2020.com.ve.
 electronicpro.com.ve.
-electroshowradio.com.ve.
 electrosistemaslc.com.ve.
 electrosonic.com.ve.
 electrotechsolutions.com.ve.
@@ -8228,7 +8227,6 @@ ferroven.com.ve.
 fersar.com.ve.
 fersil.com.ve.
 fertec.com.ve.
-fertiaguerrevere.com.ve.
 fertica.com.ve.
 fertilidad.net.ve.
 fertiquim.com.ve.
@@ -9054,7 +9052,6 @@ fuvidit.com.ve.
 fuze-tea.com.ve.
 fva.com.ve.
 fvas.com.ve.
-fveu.com.ve.
 fvf.com.ve.
 fvfclubes.com.ve.
 fvi.com.ve.
@@ -9687,7 +9684,6 @@ grainger.co.ve.
 grainger.com.ve.
 gramoca.com.ve.
 grancacique.com.ve.
-grancaciqueexpress.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
 grandealer.com.ve.
@@ -10636,7 +10632,6 @@ hsmelreality.com.ve.
 hsmlaseleccion.com.ve.
 htei.edu.ve.
 htnrc.com.ve.
-htsoluciones.com.ve.
 htx.com.ve.
 huawei.co.ve.
 huawei.com.ve.
@@ -15026,7 +15021,6 @@ munoz-apure.gob.ve.
 muonlinela.com.ve.
 mupica.com.ve.
 muralesccs.gob.ve.
-murano.com.ve.
 muronto.gob.ve.
 musarp.gob.ve.
 musarquitectura.gob.ve.
@@ -16603,7 +16597,6 @@ pgpcca.com.ve.
 pgr.gob.ve.
 pgr.gov.ve.
 pgweb.com.ve.
-ph9.com.ve.
 pharmaestro.com.ve.
 pharmahealthy.com.ve.
 pharmastat.com.ve.
@@ -17686,7 +17679,6 @@ rar.ve.
 rareminerals.com.ve.
 raspaygana.com.ve.
 rastreatucarro.com.ve.
-rastrosresort.com.ve.
 rasul.com.ve.
 rasv.com.ve.
 ratiocb.com.ve.
@@ -17903,7 +17895,6 @@ relxnow.com.ve.
 remaca.com.ve.
 remax-class.com.ve.
 remax.com.ve.
-remaxcapital.com.ve.
 remaxmillenium.com.ve.
 remaxmomentum.com.ve.
 remaxplus.com.ve.
@@ -19560,7 +19551,6 @@ smartcold.com.ve.
 smartcond.com.ve.
 smartconnect.com.ve.
 smartdev.com.ve.
-smartennis.com.ve.
 smarter.com.ve.
 smartersolutions.co.ve.
 smartersolutions.com.ve.
@@ -20206,7 +20196,6 @@ sumiflex.com.ve.
 sumigres.com.ve.
 suministroalimenticioslux.com.ve.
 suministrosdct.com.ve.
-suministrosmasbumper.com.ve.
 suministrosmultitec.com.ve.
 suministrosxmg.com.ve.
 sumintegral.com.ve.
@@ -20370,7 +20359,6 @@ svsoluciones.com.ve.
 sw-publico.edu.ve.
 sw.com.ve.
 swag.com.ve.
-swann.com.ve.
 swatch-club.co.ve.
 swatch.co.ve.
 swatchclub.co.ve.
@@ -21259,7 +21247,6 @@ tradetracker.co.ve.
 tradetracker.com.ve.
 tradex.com.ve.
 tradica.com.ve.
-trading.co.ve.
 traduccionmaracaibo.com.ve.
 traducir.com.ve.
 traductor.com.ve.
@@ -22480,7 +22467,6 @@ verizon.co.ve.
 verizon.com.ve.
 verizon.info.ve.
 verizonenterprise.com.ve.
-verlas.com.ve.
 veroca.com.ve.
 veroes-yaracuy.gov.ve.
 verquvo.com.ve.
@@ -22490,6 +22476,7 @@ versah-venezuela.co.ve.
 versah-venezuela.com.ve.
 versah.co.ve.
 versahvenezuela.co.ve.
+versionfinal.com.ve.
 versofoam.co.ve.
 verti.com.ve.
 vertice4gmcp.org.ve.
