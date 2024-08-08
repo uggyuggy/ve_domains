@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Aug2024 02:08 UTC
+# ve domain names extracted from nameservers on 07Aug2024 02:09 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -623,7 +623,6 @@ agrotributos.com.ve.
 agroventasvenezuela.com.ve.
 agrovivar.com.ve.
 aguablanca-portuguesa.gob.ve.
-aguadulcebeachclub.com.ve.
 aguaelsaman.com.ve.
 aguagas.com.ve.
 aguaginseng.com.ve.
@@ -1475,6 +1474,7 @@ app.com.ve.
 appalbatros.com.ve.
 appbel.com.ve.
 appeleccionescnae.com.ve.
+apple.co.ve.
 apple.com.ve.
 applepay.co.ve.
 applepay.com.ve.
@@ -1539,8 +1539,10 @@ apz.com.ve.
 aqara.com.ve.
 aqtitud.co.ve.
 aqtitud.com.ve.
+aquaazul.com.ve.
 aquamarina.com.ve.
 aquamundo.com.ve.
+aquapark.com.ve.
 aquarena.com.ve.
 aquariumdevalencia.gob.ve.
 aquatech.com.ve.
@@ -1842,7 +1844,6 @@ atca.com.ve.
 ate.gob.ve.
 atecmilej.mil.ve.
 atecsa.com.ve.
-atema.com.ve.
 atencimed.com.ve.
 atencion-alcliente.com.ve.
 atenea.com.ve.
@@ -2706,6 +2707,7 @@ biotech.com.ve.
 biotecnologiasfbc.com.ve.
 biotek.com.ve.
 biotherm.com.ve.
+biovacgroup.com.ve.
 biox.com.ve.
 bip.com.ve.
 birk.co.ve.
@@ -5899,6 +5901,7 @@ cursosgerenciales.com.ve.
 cursosmlv.com.ve.
 cursosycarreras.com.ve.
 cuspal.gob.ve.
+customed.com.ve.
 cutimed.com.ve.
 cva.gob.ve.
 cva.gov.ve.
@@ -6092,6 +6095,7 @@ datejust.info.ve.
 datejust.net.ve.
 datejust.org.ve.
 datejust.web.ve.
+datevida.com.ve.
 datinvoz.com.ve.
 datoca.com.ve.
 datocapital.com.ve.
@@ -6278,6 +6282,7 @@ demontana.com.ve.
 dempaire.com.ve.
 denair.com.ve.
 denaona.com.ve.
+denariuspumping.com.ve.
 denary.com.ve.
 denca.com.ve.
 denca.net.ve.
@@ -7028,6 +7033,7 @@ ecogreen.com.ve.
 ecolab.co.ve.
 ecolab.com.ve.
 ecolimpio.com.ve.
+ecological.com.ve.
 ecologicclean.com.ve.
 ecologist.com.ve.
 ecologymedical.com.ve.
@@ -11491,6 +11497,7 @@ intelliparking.com.ve.
 inteloffice.com.ve.
 intelpower.com.ve.
 intelsat.com.ve.
+inteltech.com.ve.
 intelventas.com.ve.
 intendis.com.ve.
 intensafm.com.ve.
@@ -12060,6 +12067,7 @@ jetourvenezuela.com.ve.
 jetstore.com.ve.
 jfl.com.ve.
 jflvenezuela.com.ve.
+jfpz.com.ve.
 jfsports.com.ve.
 jgmkt.com.ve.
 jgrautodist.com.ve.
@@ -12395,7 +12403,6 @@ kingsage.com.ve.
 kingscore.com.ve.
 kingscores.com.ve.
 kingston.co.ve.
-kinoko.co.ve.
 kinoko.com.ve.
 kinto-mobility.com.ve.
 kinyart.com.ve.
@@ -12949,6 +12956,7 @@ lexusdevenezuela.com.ve.
 lexusvenezuela.com.ve.
 leydehidrocarburos.gov.ve.
 leyresorte.gob.ve.
+lfcamara.com.ve.
 lfp.com.ve.
 lg.com.ve.
 lgcgsoluciones.com.ve.
@@ -14059,6 +14067,7 @@ megasoft.co.ve.
 megasoft.com.ve.
 megasys.com.ve.
 megasysaragua.com.ve.
+megatecno.com.ve.
 megatest.com.ve.
 megatiendadigital.com.ve.
 megatiendasimports.com.ve.
@@ -17043,6 +17052,7 @@ prefecturadecaracas.gob.ve.
 preferate.co.ve.
 preferate.com.ve.
 premierestateproperties.co.ve.
+premioscelarg.com.ve.
 premiospepsimusic.com.ve.
 premium.com.ve.
 premiumbrands.com.ve.
@@ -19236,7 +19246,6 @@ showmax.com.ve.
 showmb.com.ve.
 shownautico.com.ve.
 shpvc.com.ve.
-shulemena.com.ve.
 siaca.net.ve.
 siace.gob.ve.
 siacom.com.ve.
@@ -21959,7 +21968,6 @@ uniqlo.com.ve.
 unique.com.ve.
 unir.edu.ve.
 uniradio.org.ve.
-unisant.com.ve.
 uniser.com.ve.
 unispace.com.ve.
 unisys.com.ve.
@@ -23054,6 +23062,7 @@ wifisolution.org.ve.
 wifisolution.web.ve.
 wifisolutions.com.ve.
 wifisolutions.net.ve.
+wikimedia.org.ve.
 wikitec.com.ve.
 wildcasino.co.ve.
 wildcasino.com.ve.
@@ -23336,7 +23345,6 @@ yummydelivery.com.ve.
 yupii.com.ve.
 yutong.com.ve.
 yv5adm.net.ve.
-z-eshop.com.ve.
 z.com.ve.
 zafwy.com.ve.
 zains.com.ve.
@@ -23391,6 +23399,7 @@ zeppelink.com.ve.
 zerust.com.ve.
 zet.edu.ve.
 zeta.com.ve.
+zettabits.com.ve.
 zettabytegroup.com.ve.
 zf-friedrichshafen.com.ve.
 zf-group.com.ve.
