@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 13Aug2024 05:06 UTC
+# ve domain names extracted from nameservers on 15Aug2024 04:15 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -148,6 +148,8 @@
 99designs.com.ve.
 9round.com.ve.
 9xmovies.com.ve.
+_443._tcp.nic.ve.
+_dmarc.nic.ve.
 a-riesgo.com.ve.
 a.com.ve.
 a2.com.ve.
@@ -1071,6 +1073,8 @@ alladdin.com.ve.
 allanuncios.com.ve.
 allbe.com.ve.
 alldesigns.com.ve.
+allengers.com.ve.
+allengerscompanie.com.ve.
 allerganacademy.com.ve.
 allergancontinuous.com.ve.
 allergika.com.ve.
@@ -1174,7 +1178,6 @@ amairca.com.ve.
 amana.com.ve.
 amanecer.com.ve.
 amar.com.ve.
-amarb.com.ve.
 amarb.edu.ve.
 amariesgos.com.ve.
 amaromartinez.com.ve.
@@ -2138,6 +2141,7 @@ azucar.com.ve.
 azulgranaelite.com.ve.
 azulita.com.ve.
 azzhmoda.com.ve.
+azzhmoda.emprende.ve.
 b-apure-cm.gob.ve.
 b-logic.co.ve.
 b-logic.com.ve.
@@ -2362,6 +2366,7 @@ bayram.com.ve.
 baytraining.com.ve.
 bazaarvoice.com.ve.
 bazar.com.ve.
+bb0c0b44-81dd-11e7-afde-0385891caa52._domainkey.nic.ve.
 bbc.com.ve.
 bbmotors.com.ve.
 bbraun.com.ve.
@@ -3490,6 +3495,7 @@ carlosarvelo-carabobo.gov.ve.
 carloshermoso.com.ve.
 carlospcssoluciones.com.ve.
 carlospirela.com.ve.
+carlosrodriguez48.emprende.ve.
 carloto.com.ve.
 carlsjr.com.ve.
 carlzeiss.com.ve.
@@ -3631,6 +3637,7 @@ casper.co.ve.
 cass.com.ve.
 cass.gob.ve.
 castaconsultora.com.ve.
+castan983.com.ve.
 castel.com.ve.
 castelobranco.com.ve.
 castrol.com.ve.
@@ -4382,7 +4389,6 @@ cleanz.gob.ve.
 clear.com.ve.
 clearblue.com.ve.
 clearize.co.ve.
-clearlight.com.ve.
 cleartype.store.ve.
 cleb.gob.ve.
 clebarinas.gob.ve.
@@ -7791,7 +7797,6 @@ eutelsat.com.ve.
 evaneos.com.ve.
 evantec.com.ve.
 evarrest.com.ve.
-eveba.com.ve.
 evego.com.ve.
 evelynvisnapuu.com.ve.
 eventas.com.ve.
@@ -8186,6 +8191,7 @@ ferrari.com.ve.
 ferre-soluciones.com.ve.
 ferrealtos.com.ve.
 ferregrupogc.com.ve.
+ferreindustrialtocome.com.ve.
 ferrenlinea.com.ve.
 ferrenmax.com.ve.
 ferreobras.com.ve.
@@ -8297,7 +8303,6 @@ fii.gob.ve.
 fila.co.ve.
 filicabh.com.ve.
 filink.com.ve.
-filinox.com.ve.
 filmbooster.com.ve.
 filmyzilla.com.ve.
 filopack.com.ve.
@@ -9824,6 +9829,7 @@ grupoexpress.com.ve.
 grupofaria.com.ve.
 grupofarma.com.ve.
 grupofas.com.ve.
+grupofc.com.ve.
 grupofelectech.com.ve.
 grupoferro.com.ve.
 grupofinancieroatlantida.com.ve.
@@ -10296,8 +10302,10 @@ hidrolavadora.com.ve.
 hidrolimpiadora.com.ve.
 hidrollanos.gob.ve.
 hidromaticos.com.ve.
+hidromet-ucv.org.ve.
 hidroneumaticosvenezuela.com.ve.
 hidropaez.gob.ve.
+hidroplastica.com.ve.
 hidrosportuguesa.com.ve.
 hidrostatica.com.ve.
 hidrosuroeste.gob.ve.
@@ -11073,6 +11081,7 @@ inces.gob.ve.
 inces.info.ve.
 inces.mil.ve.
 inces.net.ve.
+incestocuyito.emprende.ve.
 incetra.com.ve.
 incivo.com.ve.
 incluyeme.org.ve.
@@ -11773,6 +11782,7 @@ istock.com.ve.
 istockphoto.com.ve.
 isum.com.ve.
 isum.edu.ve.
+isumadm.com.ve.
 isumextension.com.ve.
 isumtec.com.ve.
 isuzu.co.ve.
@@ -13306,6 +13316,7 @@ lsc.com.ve.
 lsg.edu.ve.
 lshj.edu.ve.
 lshl.edu.ve.
+lsi.emprende.ve.
 lslc.edu.ve.
 lslt.edu.ve.
 lsm.edu.ve.
@@ -14512,7 +14523,6 @@ miredsocial.com.ve.
 miremoto.com.ve.
 mirepuesto.com.ve.
 mirka.co.ve.
-mirka.com.ve.
 mirotecnicas.com.ve.
 mirringo.com.ve.
 misalud.com.ve.
@@ -14692,6 +14702,7 @@ monroywest.com.ve.
 monsanto.com.ve.
 monsenoriturriza-falcon.gov.ve.
 monsenormejias.edu.ve.
+monsnarvalues.org.ve.
 monster.co.ve.
 monster.com.ve.
 monsterjam.co.ve.
@@ -15164,7 +15175,6 @@ naviarca.com.ve.
 navibus.com.ve.
 navica.co.ve.
 navicu.com.ve.
-navier.com.ve.
 nawepa.com.ve.
 nbg.com.ve.
 ncc.org.ve.
@@ -15353,6 +15363,7 @@ nhhotels.com.ve.
 nhow-hotels.com.ve.
 nhow.com.ve.
 nibru.com.ve.
+nic.ve.
 nicelocal.com.ve.
 nicetrading.com.ve.
 nido.com.ve.
@@ -17479,7 +17490,6 @@ quest.co.ve.
 quest.com.ve.
 questdiagnostics.com.ve.
 quevasaestudiar.com.ve.
-quickid.com.ve.
 quickmatch.com.ve.
 quickpress.com.ve.
 quicksolutions.com.ve.
@@ -17634,6 +17644,7 @@ ram.com.ve.
 ramon.com.ve.
 ramosyfrutas.com.ve.
 ramrom.com.ve.
+ramv.emprende.ve.
 ranchocriollo.com.ve.
 random.com.ve.
 rangel-merida.gov.ve.
@@ -17952,7 +17963,6 @@ repuestoskrm.com.ve.
 repuestosocan.com.ve.
 repuestosonline.com.ve.
 repuestosproemhsa.com.ve.
-repuestostana.com.ve.
 repuestosvilore.com.ve.
 repxpert.com.ve.
 rerabogados.com.ve.
@@ -18160,6 +18170,7 @@ rocoautosales.com.ve.
 rod.com.ve.
 roda.com.ve.
 roda1111.com.ve.
+rodamientos.com.ve.
 rodamientosimpemeica.com.ve.
 rodanandfields.com.ve.
 rodas.com.ve.
@@ -18437,7 +18448,6 @@ saipe.gob.ve.
 saipe.gov.ve.
 saitev.com.ve.
 saiyans.com.ve.
-sakisushi.com.ve.
 saks.co.ve.
 saksfifth.co.ve.
 sala.web.ve.
@@ -18537,6 +18547,7 @@ sandals.com.ve.
 sandiego-carabobo.gob.ve.
 sandiego-carabobo.gov.ve.
 sandiego.edu.ve.
+sandiego.emprende.ve.
 sandiegoparalosninos.gob.ve.
 sandisk.co.ve.
 sandisk.com.ve.
@@ -18660,6 +18671,7 @@ saturno.com.ve.
 saucony.com.ve.
 sauer-danfoss.co.ve.
 sauflon.com.ve.
+saulvasquez.emprende.ve.
 savannaconnect.com.ve.
 savia.com.ve.
 savia.net.ve.
@@ -19412,6 +19424,7 @@ sistemadegestionciti.com.ve.
 sistemadeventas.com.ve.
 sistemapia.com.ve.
 sistemas-empresariales.com.ve.
+sistemas.emprende.ve.
 sistemasalamedida.com.ve.
 sistemascubosoft.com.ve.
 sistemasderiego.com.ve.
@@ -19688,6 +19701,7 @@ solitech.com.ve.
 solmelia.com.ve.
 soloalmayor.com.ve.
 solocruceros.com.ve.
+solodeportes.com.ve.
 solohardware.com.ve.
 soloimagen.com.ve.
 soloplastico.com.ve.
@@ -20149,6 +20163,7 @@ suitco.com.ve.
 sulca.com.ve.
 sulzer.com.ve.
 suma.net.ve.
+sumandokilometros.com.ve.
 sumar.gob.ve.
 sumarcaca.com.ve.
 sumat.gob.ve.
@@ -20551,7 +20566,6 @@ tecnobuy.com.ve.
 tecnocobros.com.ve.
 tecnocoloravila2000.com.ve.
 tecnocomputer.com.ve.
-tecnoconciencia.com.ve.
 tecnoconcret.com.ve.
 tecnoconcretbarcelona.com.ve.
 tecnoconcretvalencia.com.ve.
@@ -20780,6 +20794,7 @@ tezenis.com.ve.
 tga.com.ve.
 tgc.co.ve.
 tgc.com.ve.
+tgc.emprende.ve.
 tgc.gob.ve.
 tgc.info.ve.
 tgc.net.ve.
@@ -21986,6 +22001,7 @@ upaca.co.ve.
 upaca.com.ve.
 upaebvirtual.edu.ve.
 upafv.edu.ve.
+upatadigital.com.ve.
 upel.com.ve.
 upel.edu.ve.
 upharven.com.ve.
@@ -22334,6 +22350,7 @@ venezuelaconstituyente.gob.ve.
 venezuelacool.com.ve.
 venezueladeverdad.gob.ve.
 venezueladigital2017.com.ve.
+venezuelaempresarial.com.ve.
 venezuelaennoticias.gob.ve.
 venezuelafutbol.com.ve.
 venezuelainnovadora.gob.ve.
@@ -22626,6 +22643,7 @@ visiongerencial.com.ve.
 visioninmobiliaria.com.ve.
 visionmujer.org.ve.
 visionorganizacional.com.ve.
+visionstream.com.ve.
 visipol.gob.ve.
 visita.com.ve.
 visitapresidencial.gov.ve.
