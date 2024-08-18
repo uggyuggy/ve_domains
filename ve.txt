@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 17Aug2024 02:55 UTC
+# ve domain names extracted from nameservers on 18Aug2024 02:27 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1671,6 +1671,7 @@ arrow.info.ve.
 arrow.nom.ve.
 arrow.org.ve.
 arrow.rec.ve.
+arrow.store.ve.
 arrow.web.ve.
 arrowadvantage.com.ve.
 arrowexhaust.co.ve.
@@ -3750,6 +3751,7 @@ ccpene.org.ve.
 ccpez.com.ve.
 ccpguarico.com.ve.
 ccpmerida.org.ve.
+ccpv.org.ve.
 ccqtelecom.com.ve.
 ccre.com.ve.
 ccre.gov.ve.
@@ -4398,6 +4400,7 @@ cleanz.gob.ve.
 clear.com.ve.
 clearblue.com.ve.
 clearize.co.ve.
+cleartype.store.ve.
 cleb.gob.ve.
 clebarinas.gob.ve.
 clebarinas.gov.ve.
@@ -4450,7 +4453,6 @@ clinicaidb.com.ve.
 clinicaidet.com.ve.
 clinicaidetbarquisimeto.com.ve.
 clinicaimd.com.ve.
-clinicalasacacias.com.ve.
 clinicalkey.com.ve.
 clinicaloscolorados.com.ve.
 clinicaparaiso.com.ve.
@@ -6070,7 +6072,6 @@ dasilrod.com.ve.
 dasimerca.com.ve.
 dasoluciones.com.ve.
 dat-com.com.ve.
-dat.com.ve.
 data.com.ve.
 data.net.ve.
 datacenter.com.ve.
@@ -6217,7 +6218,6 @@ dekasa.com.ve.
 delasalle.org.ve.
 delaval.com.ve.
 delcanalitonatural.com.ve.
-delcop.com.ve.
 delcorall.com.ve.
 delcorp.com.ve.
 delcorral.com.ve.
@@ -6493,7 +6493,6 @@ difusion.com.ve.
 digalo.gob.ve.
 digecafa.mil.ve.
 digesaludfanb.mil.ve.
-diggithigo.com.ve.
 digi-key.com.ve.
 digibytes.com.ve.
 digihaul.com.ve.
@@ -6774,6 +6773,7 @@ domosa.com.ve.
 domosa.net.ve.
 domoticatuya.com.ve.
 donafacil.com.ve.
+donamara.com.ve.
 donbosco.edu.ve.
 donboscoaltamira.edu.ve.
 dondiego.com.ve.
@@ -7126,7 +7126,6 @@ efinternationalacademy.com.ve.
 eforce.com.ve.
 efs.com.ve.
 eftown.com.ve.
-eftsolutions.com.ve.
 efv.org.ve.
 efys.com.ve.
 egger.co.ve.
@@ -10395,6 +10394,7 @@ hitachi.co.ve.
 hitachi.com.ve.
 hitachi.firm.ve.
 hitachi.org.ve.
+hitachi.store.ve.
 hitachiaircon.com.ve.
 hitachidatasystems.co.ve.
 hitachivantara.co.ve.
@@ -10611,7 +10611,6 @@ howmetaerospace.com.ve.
 howmetaerospace.net.ve.
 howmetaerospace.org.ve.
 hoy.com.ve.
-hozt.com.ve.
 hp.co.ve.
 hp.com.ve.
 hpe.com.ve.
@@ -11046,7 +11045,6 @@ impronta.org.ve.
 impsat.com.ve.
 impsertel.com.ve.
 impulsa.com.ve.
-impulsefragrances.co.ve.
 imrnetsystem.com.ve.
 imroraima.com.ve.
 imsbolivar-anz.gob.ve.
@@ -11763,6 +11761,7 @@ iseyskyr.com.ve.
 isg.com.ve.
 isgca.com.ve.
 ishares.com.ve.
+ishers.com.ve.
 ishop.com.ve.
 isip.net.ve.
 islacopy.com.ve.
@@ -12029,6 +12028,7 @@ jdate.com.ve.
 jde.co.ve.
 jdecoffee.co.ve.
 jdedwards.com.ve.
+jdgym.com.ve.
 jdj.gob.ve.
 jdsports.co.ve.
 jdsystem.com.ve.
@@ -12302,7 +12302,6 @@ kaneka.com.ve.
 kanekalon.co.ve.
 kantal.com.ve.
 kapacita.edu.ve.
-kapitalconsultores.com.ve.
 kaplan.com.ve.
 kaplaninternational.com.ve.
 kapotha.com.ve.
@@ -19124,7 +19123,6 @@ ses.com.ve.
 sesasgo.com.ve.
 sesca.web.ve.
 sesderma.co.ve.
-sesderma.com.ve.
 seta.gob.ve.
 setecindca.com.ve.
 setecsa.com.ve.
@@ -20807,7 +20805,6 @@ tetratop.com.ve.
 teva.com.ve.
 tevapharm.com.ve.
 tex.com.ve.
-textiland.com.ve.
 textileshai.com.ve.
 textilesmadutex.com.ve.
 textilesmilenium.com.ve.
@@ -20832,6 +20829,7 @@ thawte.com.ve.
 thawte.firm.ve.
 thawte.nom.ve.
 thawte.rec.ve.
+thawte.store.ve.
 thawte.web.ve.
 the-glenlivet.com.ve.
 thearteaproject.org.ve.
@@ -22395,7 +22393,6 @@ venezuelatrekking.com.ve.
 venezuelatrekking.org.ve.
 venezuelaturismo.gob.ve.
 venezuelaturistica.gov.ve.
-venezuelavirtual.com.ve.
 vengoengaitas.com.ve.
 veniber.com.ve.
 venilac.com.ve.
@@ -22785,6 +22782,7 @@ volvo.info.ve.
 volvo.nom.ve.
 volvo.org.ve.
 volvo.rec.ve.
+volvo.store.ve.
 volvo.web.ve.
 volvobuses.com.ve.
 volvocar.com.ve.
