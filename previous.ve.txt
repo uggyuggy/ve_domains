@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 18Aug2024 02:27 UTC
+# ve domain names extracted from nameservers on 19Aug2024 02:55 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -769,7 +769,6 @@ albertoadriani.gob.ve.
 albertoarvelotorrealba-barinas.gov.ve.
 albis.com.ve.
 alc.com.ve.
-alca.com.ve.
 alcadiamariobriceno.gob.ve.
 alcaldia-de-caracas.gov.ve.
 alcaldia-de-sanjoaquin.gob.ve.
@@ -1920,7 +1919,6 @@ aulavirtualcgq.com.ve.
 aulaxpress.com.ve.
 aulin.com.ve.
 aumca.com.ve.
-aurav.com.ve.
 aureoespiral.com.ve.
 aus-g4s.com.ve.
 aus.com.ve.
@@ -3154,7 +3152,6 @@ buscador.com.ve.
 buscador.nic.ve.
 buscagram.com.ve.
 buscalo.com.ve.
-buscaloaqui.com.ve.
 buscamint.com.ve.
 buscapartes.com.ve.
 buscapina.com.ve.
@@ -4071,7 +4068,6 @@ charlesandkeith.com.ve.
 charleskeith.com.ve.
 charly.co.ve.
 charly.com.ve.
-chasqui.com.ve.
 chat.co.ve.
 chat.com.ve.
 chatarra.com.ve.
@@ -14296,7 +14292,6 @@ mfpack.com.ve.
 mgct.com.ve.
 mgf.com.ve.
 mggv.com.ve.
-mgi-venezuela.com.ve.
 mgmgrand.com.ve.
 mgmmirage.com.ve.
 mgmresorts.com.ve.
@@ -15725,7 +15720,6 @@ ofisit.com.ve.
 ofitecsistemas.com.ve.
 ofival.com.ve.
 ofn.gob.ve.
-ofsmantattoo.com.ve.
 oftalmologiapediatrica.com.ve.
 oftalmologica.com.ve.
 og.com.ve.
@@ -16983,7 +16977,6 @@ portuguesafc.com.ve.
 pos.com.ve.
 posada-san-francisco.com.ve.
 posadacasasol.com.ve.
-posadacostabrava.com.ve.
 posadadealicia.com.ve.
 posadagalapagos.com.ve.
 posadagloria.com.ve.
@@ -17819,7 +17812,6 @@ redsalud.com.ve.
 redsentinel.com.ve.
 redsoc.org.ve.
 redsocialistaagroecologica.gob.ve.
-redsoporte.com.ve.
 redticket.com.ve.
 redtoken.com.ve.
 redtube.com.ve.
@@ -21848,7 +21840,6 @@ ultimasnoticias.com.ve.
 ultimatic.co.ve.
 ultrabikex.com.ve.
 ultradent.co.ve.
-ultraline.com.ve.
 ultramaraviation.com.ve.
 ultraprima.co.ve.
 ultraprima.com.ve.
@@ -22145,7 +22136,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
