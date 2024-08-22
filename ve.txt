@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Aug2024 02:22 UTC
+# ve domain names extracted from nameservers on 22Aug2024 02:17 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3744,6 +3744,7 @@ ccpene.org.ve.
 ccpez.com.ve.
 ccpguarico.com.ve.
 ccpmerida.org.ve.
+ccpmiranda.org.ve.
 ccpv.org.ve.
 ccqtelecom.com.ve.
 ccre.com.ve.
@@ -10195,6 +10196,7 @@ helados.com.ve.
 heladoscali.com.ve.
 heladosefe.com.ve.
 heladostiorico.com.ve.
+helenaibarra.com.ve.
 helenarubinstein.com.ve.
 helicenter.com.ve.
 helikson.co.ve.
@@ -10546,6 +10548,7 @@ hotelmediterraneo.com.ve.
 hotelmontserrat.com.ve.
 hoteloviedo.com.ve.
 hotelpalas.com.ve.
+hotelpalmbeach.com.ve.
 hotelpaseolasmercedes.com.ve.
 hotelpirineos.com.ve.
 hotelplaza.com.ve.
@@ -12669,7 +12672,6 @@ lamborghini.co.ve.
 lamborghini.com.ve.
 lambretta.co.ve.
 lambretta.com.ve.
-lamd.com.ve.
 lamda.com.ve.
 lamejor.com.ve.
 lamejorfm.com.ve.
@@ -14409,6 +14411,7 @@ millenniumgroup.com.ve.
 milliman.com.ve.
 millipore.com.ve.
 milo.com.ve.
+miluzdesigns.com.ve.
 milv.com.ve.
 mimagnum.com.ve.
 mimandado.com.ve.
@@ -15708,6 +15711,7 @@ ofimayor.com.ve.
 ofinueva.com.ve.
 ofisalud.com.ve.
 ofisit.com.ve.
+ofitecsistemas.com.ve.
 ofival.com.ve.
 ofn.gob.ve.
 ofsmantattoo.com.ve.
@@ -16290,6 +16294,9 @@ partstown.com.ve.
 partypatch.com.ve.
 pasajeestudiantil.gob.ve.
 pasajesaereos.com.ve.
+pasar.com.ve.
+pasarex.com.ve.
+pasarexpress.com.ve.
 pascalmetrolab.com.ve.
 pase.edu.ve.
 paseaperros.com.ve.
@@ -19337,6 +19344,7 @@ silvestripharma.com.ve.
 sim.org.ve.
 sima.com.ve.
 simaca.com.ve.
+simark.com.ve.
 simax.com.ve.
 simbi.com.ve.
 simbol.com.ve.
@@ -19451,6 +19459,7 @@ sisvenprol.com.ve.
 sitaramagazine.com.ve.
 sitca-mcbo.com.ve.
 siteapp.com.ve.
+sitelca.com.ve.
 sitesolution.com.ve.
 sitic.com.ve.
 sitioadministrativo.com.ve.
@@ -20005,6 +20014,7 @@ starrett.com.ve.
 starsolutionsti.com.ve.
 starter.com.ve.
 startnet.com.ve.
+startravel.com.ve.
 startup.co.ve.
 startup.com.ve.
 starve.com.ve.
@@ -20035,6 +20045,7 @@ stellantis.com.ve.
 stem.com.ve.
 stepstone.com.ve.
 stereo.com.ve.
+stereo979fm.com.ve.
 stereodigital.com.ve.
 stericycle.co.ve.
 stericycle.com.ve.
@@ -20578,7 +20589,6 @@ tecnodistribuidor.com.ve.
 tecnoelectron.com.ve.
 tecnoelectronics.com.ve.
 tecnoempleo.com.ve.
-tecnoestacion.com.ve.
 tecnofep.com.ve.
 tecnofix.net.ve.
 tecnogente.com.ve.
@@ -20759,7 +20769,6 @@ terra.com.ve.
 terracanaima.com.ve.
 terraintamer.co.ve.
 terraintamer.com.ve.
-terrazasdelavega.com.ve.
 terumo.com.ve.
 tesca.com.ve.
 tesica.com.ve.
@@ -22127,6 +22136,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -23415,6 +23425,10 @@ zoionline.com.ve.
 zojirushi.co.ve.
 zolinza.com.ve.
 zoll.co.ve.
+zoll.info.ve.
+zoll.net.ve.
+zoll.org.ve.
+zoll.web.ve.
 zonabio.com.ve.
 zonachevrolet.com.ve.
 zonadeguerra.com.ve.
