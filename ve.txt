@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 23Aug2024 02:17 UTC
+# ve domain names extracted from nameservers on 24Aug2024 02:17 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3261,7 +3261,6 @@ cajasfuertessb.com.ve.
 cajavenezolana.com.ve.
 cajigal-sucre.gov.ve.
 cajim.com.ve.
-calar.com.ve.
 calasanzcaracas.com.ve.
 calaven.com.ve.
 calcichew.com.ve.
@@ -5823,6 +5822,7 @@ csn.gob.ve.
 cso.com.ve.
 csp.gob.ve.
 csrl.com.ve.
+csservices.com.ve.
 cst.edu.ve.
 cstca.com.ve.
 csv.gob.ve.
@@ -7046,6 +7046,7 @@ ecovalor.com.ve.
 ecrs.com.ve.
 ecsa.com.ve.
 ecsistemas.com.ve.
+ect.com.ve.
 ecv.com.ve.
 edaca.com.ve.
 edat.org.ve.
@@ -9866,6 +9867,7 @@ grupojldevenezuela.com.ve.
 grupojr.com.ve.
 grupokaizen.com.ve.
 grupokr.com.ve.
+grupolamundial.com.ve.
 grupolanda.com.ve.
 grupolapanamericana.com.ve.
 grupolockey.com.ve.
@@ -9927,6 +9929,7 @@ grupotepuy911.com.ve.
 grupoterra.com.ve.
 grupoterra.net.ve.
 grupoterragt.com.ve.
+grupotextilia.com.ve.
 grupotierradeagua.com.ve.
 grupotitan.com.ve.
 grupotm.com.ve.
@@ -10029,6 +10032,7 @@ guitarcenter.co.ve.
 guitarcenter.com.ve.
 guitarra.com.ve.
 guitarras.com.ve.
+gulf.com.ve.
 gulfvzla.com.ve.
 gulmer.org.ve.
 gumilla.org.ve.
@@ -10103,6 +10107,7 @@ handshake.com.ve.
 hangar74.com.ve.
 hankaimport.com.ve.
 hankison.com.ve.
+hankook.com.ve.
 hankypanky.com.ve.
 hansaplast.co.ve.
 hansaplast.com.ve.
@@ -11628,6 +11633,7 @@ inversionesvailka.com.ve.
 inversionesveterinarias.com.ve.
 inversioneswts.com.ve.
 inversorals.com.ve.
+invertex.com.ve.
 invertropoli.com.ve.
 inverturmargarita.com.ve.
 inverysman.com.ve.
@@ -11951,6 +11957,7 @@ ivss.gob.ve.
 ivss.gov.ve.
 ivt.gob.ve.
 iws.com.ve.
+ix.com.ve.
 ixekizumab.com.ve.
 ixempra.com.ve.
 izo.com.ve.
@@ -12175,7 +12182,6 @@ jsafra.co.ve.
 jsafra.com.ve.
 jsafrasarasin.co.ve.
 jsafrasarasin.com.ve.
-jtattoodesign.com.ve.
 juaco.com.ve.
 juan23.com.ve.
 juanabonita.com.ve.
@@ -12443,7 +12449,6 @@ koleston.com.ve.
 kolynos.co.ve.
 kolynos.com.ve.
 koma.net.ve.
-komasports.com.ve.
 komatsu.com.ve.
 kombucha.com.ve.
 kombuchasante.com.ve.
@@ -12513,6 +12518,7 @@ kswiss.com.ve.
 ktc.com.ve.
 ktk.com.ve.
 ktm.com.ve.
+ktmbike.com.ve.
 ktronic.com.ve.
 ktronix.com.ve.
 kuaimare.gob.ve.
@@ -13524,7 +13530,6 @@ makerspace.com.ve.
 maketicket.com.ve.
 makevents.com.ve.
 makia.com.ve.
-makinas.com.ve.
 makingmorehealth.com.ve.
 makint.com.ve.
 makler.com.ve.
@@ -13563,6 +13568,7 @@ mandiant.com.ve.
 mands.com.ve.
 maneiro-nuevaesparta.gob.ve.
 manfica.com.ve.
+manganiello.com.ve.
 manglarte.org.ve.
 mango.co.ve.
 mangocenter.com.ve.
@@ -14055,6 +14061,7 @@ megaparty.net.ve.
 megapc.com.ve.
 megapet.com.ve.
 megapixel.com.ve.
+megasis.co.ve.
 megasoft.co.ve.
 megasoft.com.ve.
 megasys.com.ve.
@@ -16978,6 +16985,7 @@ portuguesafc.com.ve.
 pos.com.ve.
 posada-san-francisco.com.ve.
 posadacasasol.com.ve.
+posadacostabrava.com.ve.
 posadadealicia.com.ve.
 posadagalapagos.com.ve.
 posadagloria.com.ve.
@@ -19573,6 +19581,7 @@ smartsystems.com.ve.
 smartwool.com.ve.
 smartwork.com.ve.
 smc.com.ve.
+smedical.com.ve.
 smi.com.ve.
 smiledirectclub.com.ve.
 smileonworld.com.ve.
@@ -19724,7 +19733,6 @@ solocruceros.com.ve.
 solodeportes.com.ve.
 solohardware.com.ve.
 soloimagen.com.ve.
-soloplastico.com.ve.
 solostove.co.ve.
 solostove.com.ve.
 solovatios.com.ve.
@@ -19759,6 +19767,7 @@ solumation.com.ve.
 solumedica.com.ve.
 solunion.com.ve.
 solutech.com.ve.
+solutech3001.com.ve.
 solutelca.com.ve.
 solutordelta.com.ve.
 solvay-rhodia.co.ve.
@@ -20569,6 +20578,7 @@ techtrol.com.ve.
 tecmed.com.ve.
 tecmin.gob.ve.
 tecnibalanzasguerra.com.ve.
+tecnicjats.com.ve.
 tecnicodepianos.com.ve.
 tecnicosagroindustriales.com.ve.
 tecnifar.com.ve.
@@ -22143,7 +22153,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
