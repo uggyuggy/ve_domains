@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 24Aug2024 02:17 UTC
+# ve domain names extracted from nameservers on 25Aug2024 02:11 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2912,7 +2912,6 @@ bomberoscaracas.gob.ve.
 bomberoscaracas.gov.ve.
 bomberosdeamazonas.gob.ve.
 bomberosdemiranda.gob.ve.
-bomberosenaccion.com.ve.
 bomberosmerida.gob.ve.
 bomberosmonagas.gob.ve.
 bomberossandiego.gob.ve.
@@ -3708,7 +3707,6 @@ cbet.org.ve.
 cbet.web.ve.
 cbiacacias.org.ve.
 cbitzaraza.com.ve.
-cbolivarianast.org.ve.
 cbp.gob.ve.
 cbre.com.ve.
 cbrecr.com.ve.
@@ -4669,7 +4667,6 @@ codinggiants.com.ve.
 codire.com.ve.
 coditech.com.ve.
 coei.com.ve.
-coexdevenezuela.com.ve.
 cofae.edu.ve.
 coffee-mate.com.ve.
 coffeebreak.com.ve.
@@ -4857,7 +4854,6 @@ colegiosanagustin.com.ve.
 colegiosanagustin.edu.ve.
 colegiosanagustinelmarques.com.ve.
 colegiosanfranciscodesales.com.ve.
-colegiosanignacio.com.ve.
 colegiosanjorge.edu.ve.
 colegiosanjose.com.ve.
 colegiosanjose.edu.ve.
@@ -5426,7 +5422,6 @@ convaca.com.ve.
 convatec.co.ve.
 convatec.com.ve.
 convelac.com.ve.
-convergenciavenezuela.com.ve.
 convergia.com.ve.
 convergint.com.ve.
 convergys.co.ve.
@@ -6482,7 +6477,6 @@ difashion.com.ve.
 difresca.com.ve.
 difsa.com.ve.
 difus.com.ve.
-difusion.com.ve.
 digalo.gob.ve.
 digecafa.mil.ve.
 digesaludfanb.mil.ve.
@@ -6923,7 +6917,6 @@ dvsystems.com.ve.
 dw.co.ve.
 dymel.com.ve.
 dyna.com.ve.
-dynamic.com.ve.
 dynamo.co.ve.
 dynamo.com.ve.
 dynapro.com.ve.
@@ -7245,7 +7238,6 @@ elhatillo.net.ve.
 eliberty.co.ve.
 eliberty.com.ve.
 elica.co.ve.
-elice.com.ve.
 elimer.com.ve.
 eliminator.com.ve.
 elinca.com.ve.
@@ -7606,7 +7598,6 @@ escinetv.org.ve.
 esclerosismultiplehoy.com.ve.
 escolar.com.ve.
 escribaescueladeescritores.com.ve.
-escritoriojuridico.com.ve.
 escubafab.mil.ve.
 escubafan.mil.ve.
 escucha.com.ve.
@@ -9365,7 +9356,6 @@ gilaca.com.ve.
 gilca.com.ve.
 gilda.com.ve.
 gildan.com.ve.
-gildanbrands.com.ve.
 gillette-champion.com.ve.
 gillette-champions.com.ve.
 gillette.com.ve.
@@ -9814,7 +9804,6 @@ grupodaka.com.ve.
 grupodamca.com.ve.
 grupodavila.com.ve.
 grupodavinci.com.ve.
-grupodeb.com.ve.
 grupodeli.com.ve.
 grupodelsur.com.ve.
 grupodemar.com.ve.
@@ -13045,7 +13034,6 @@ liftoff.com.ve.
 lifull.com.ve.
 ligabeisbolmenorsucre.com.ve.
 ligacarlosalbertosanteliz.com.ve.
-ligakiniela.com.ve.
 ligalastorres.org.ve.
 ligar.com.ve.
 ligeresa.com.ve.
@@ -14219,7 +14207,6 @@ mesobisa.com.ve.
 mesoestetic.co.ve.
 mesoestetic.com.ve.
 mesosynergy.com.ve.
-mesosystem.com.ve.
 messen.com.ve.
 messenger.com.ve.
 messika.com.ve.
@@ -14654,7 +14641,6 @@ mobilecasinorank.com.ve.
 mobilesentrix.com.ve.
 mobilesse.com.ve.
 mobilie.com.ve.
-mobimport.com.ve.
 mobinostics.com.ve.
 mobotix.com.ve.
 mocasa.com.ve.
@@ -14712,7 +14698,6 @@ moneygram.com.ve.
 mongaru.com.ve.
 monin.com.ve.
 monkeyshoulder.com.ve.
-mono.com.ve.
 monofer.com.ve.
 monriaca.com.ve.
 monroywest.com.ve.
@@ -14739,7 +14724,6 @@ montiven.com.ve.
 montserratina.com.ve.
 monumental.com.ve.
 monumentalfm.com.ve.
-monyven.com.ve.
 mood.com.ve.
 moodys.com.ve.
 moodysrating.com.ve.
@@ -16769,7 +16753,6 @@ plasticoslaurbina.com.ve.
 plasticosomega.com.ve.
 plastifar.com.ve.
 plastifarma.com.ve.
-plastiven.com.ve.
 plata.com.ve.
 plataformadearte.net.ve.
 plataformaprepago.com.ve.
@@ -16852,7 +16835,6 @@ pnsii.gob.ve.
 pnud-banmujer.gob.ve.
 pnud.org.ve.
 poacarabobo.gob.ve.
-pochland.com.ve.
 pocholin.com.ve.
 poder21.gob.ve.
 poderjudicial.gob.ve.
@@ -18909,7 +18891,6 @@ seguridadbaruta.gov.ve.
 seguridadciudadana.gob.ve.
 seguridadciudadanametropolitana.gob.ve.
 seguridadglobaleye.com.ve.
-seguridadintegralca.com.ve.
 seguridadmetropolitana.gob.ve.
 seguridadprivada.com.ve.
 seguridadve.com.ve.
@@ -19482,7 +19463,6 @@ sitiosimple.com.ve.
 sitioweb.net.ve.
 sito.com.ve.
 sitssa.gob.ve.
-siva.com.ve.
 sivaimb.com.ve.
 sivasys.com.ve.
 siven.com.ve.
@@ -19794,7 +19774,6 @@ somoscmf.com.ve.
 somoscomunidad.org.ve.
 somosconsultores.com.ve.
 somosfeclave.org.ve.
-somoshitmusic.com.ve.
 somosjpsuv.org.ve.
 somoslimpieza.com.ve.
 somosmerida.com.ve.
@@ -20079,7 +20058,6 @@ stjude.org.ve.
 stm.co.ve.
 stm.com.ve.
 stm32.com.ve.
-stmedical.com.ve.
 stmicroelectronics.co.ve.
 stmicroelectronics.com.ve.
 stobag.com.ve.
@@ -21806,7 +21784,6 @@ uelv.com.ve.
 uemapis.com.ve.
 uemariarosamolas.com.ve.
 ueninodios.com.ve.
-uenlacroix.com.ve.
 uensa.com.ve.
 uensa2.edu.ve.
 uentrasradelasmercedes.edu.ve.
