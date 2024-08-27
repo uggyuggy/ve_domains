@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 25Aug2024 02:11 UTC
+# ve domain names extracted from nameservers on 26Aug2024 02:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1017,7 +1017,6 @@ alextv.com.ve.
 alfa-laval.co.ve.
 alfa-laval.com.ve.
 alfa100fm.com.ve.
-alfabeta.com.ve.
 alfacondominios.com.ve.
 alfael.com.ve.
 alfahogar.com.ve.
@@ -5742,7 +5741,6 @@ cremaparaiso.com.ve.
 crepesywaffles.com.ve.
 cresotec.com.ve.
 crespo-lara.gov.ve.
-cretto.com.ve.
 crforestal.com.ve.
 criaderohohenberg.com.ve.
 criolla.com.ve.
@@ -5857,7 +5855,6 @@ cuisinart.com.ve.
 culligan.com.ve.
 culonas.com.ve.
 culosgratis.com.ve.
-cultibo.com.ve.
 cultivandopatria.gob.ve.
 cultura.com.ve.
 cultura.gov.ve.
@@ -8676,7 +8673,6 @@ fph.com.ve.
 fpnp.gob.ve.
 fpv.org.ve.
 fr8star.co.ve.
-fraa.org.ve.
 fraco.com.ve.
 fraco.net.ve.
 fraga.com.ve.
@@ -9798,7 +9794,6 @@ grupocontinental.com.ve.
 grupocore.com.ve.
 grupocorpos.com.ve.
 grupocostel.com.ve.
-grupocretto.com.ve.
 grupodagianni.com.ve.
 grupodaka.com.ve.
 grupodamca.com.ve.
@@ -10030,7 +10025,6 @@ gusl.org.ve.
 gustavobethermyt.com.ve.
 gustavolopez.com.ve.
 gutierol.com.ve.
-guver.com.ve.
 gvm.com.ve.
 gwave.co.ve.
 gwm.com.ve.
@@ -14958,7 +14952,6 @@ multishop.com.ve.
 multisoluciones.com.ve.
 multisport.com.ve.
 multisportonline.com.ve.
-multitek.com.ve.
 multitel.com.ve.
 multitrading.com.ve.
 multitravel.com.ve.
@@ -14971,7 +14964,6 @@ mundijuegos.com.ve.
 mundipharma.com.ve.
 mundo-oriental.com.ve.
 mundo.com.ve.
-mundoarte.com.ve.
 mundoautomatico.com.ve.
 mundobabytv.com.ve.
 mundoblack.com.ve.
@@ -16999,7 +16991,6 @@ powersafe.com.ve.
 powerstar.com.ve.
 ppgdevenezuela.com.ve.
 ppgvenezuela.com.ve.
-pppgroup.com.ve.
 pps.com.ve.
 practico.com.ve.
 pradaxa.com.ve.
@@ -17466,7 +17457,6 @@ qt.net.ve.
 qtanque.com.ve.
 quala.com.ve.
 qualcom.com.ve.
-qualitas.com.ve.
 quality.com.ve.
 qualityb.net.ve.
 qualitybeisbol.com.ve.
@@ -18136,7 +18126,6 @@ rnce.gov.ve.
 rnmaracay.com.ve.
 rnv.gob.ve.
 roadassist.com.ve.
-roalmesmar.com.ve.
 robert-bosch.co.ve.
 robert-bosch.com.ve.
 robertbosch.co.ve.
@@ -22289,7 +22278,6 @@ venceremos.com.ve.
 vencert.gob.ve.
 vencloro.com.ve.
 venco.com.ve.
-vencomservices.com.ve.
 vencontrols.com.ve.
 vencor.com.ve.
 vencor.web.ve.
@@ -22441,7 +22429,6 @@ verautos.com.ve.
 verawangbride.com.ve.
 verd.com.ve.
 verdeso.co.ve.
-vereda.com.ve.
 verifone.com.ve.
 verisign.co.ve.
 verisign.com.ve.
