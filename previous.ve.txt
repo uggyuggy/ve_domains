@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Aug2024 02:19 UTC
+# ve domain names extracted from nameservers on 27Aug2024 02:13 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2013,6 +2013,7 @@ avanti.com.ve.
 avantione.co.ve.
 avantione.com.ve.
 avanza.com.ve.
+avasi.com.ve.
 avast.co.ve.
 avat.org.ve.
 avaya.co.ve.
@@ -2396,6 +2397,7 @@ bdt.com.ve.
 bdv.com.ve.
 be2.com.ve.
 beaches.com.ve.
+bean.com.ve.
 beanz.co.ve.
 beanz.com.ve.
 bearcom.com.ve.
@@ -2904,6 +2906,7 @@ bolyter.com.ve.
 bomac.com.ve.
 bombardier.com.ve.
 bombasantco.com.ve.
+bombasdeagua.com.ve.
 bombasydragasmundo.com.ve.
 bombaysaphire.com.ve.
 bombaysapphire.com.ve.
@@ -2984,6 +2987,7 @@ bowem.com.ve.
 bowling.com.ve.
 bowlingclub.com.ve.
 box39.com.ve.
+boxpro.com.ve.
 boxycharm.com.ve.
 boza.com.ve.
 bp.com.ve.
@@ -3338,6 +3342,7 @@ campoelias-merida.gov.ve.
 campoeliasmerida.gob.ve.
 campuscofae.edu.ve.
 campusvirtualuba.net.ve.
+camsa.com.ve.
 canab.com.ve.
 canadadeurdaneta-zulia.gob.ve.
 canadefu.org.ve.
@@ -3381,7 +3386,6 @@ canon.co.ve.
 canon.com.ve.
 canon.net.ve.
 canoseguros.com.ve.
-cantoplast.com.ve.
 cantv.com.ve.
 canva.co.ve.
 canva.com.ve.
@@ -4538,6 +4542,7 @@ cmgm.com.ve.
 cmgm.info.ve.
 cmgm.org.ve.
 cmi.com.ve.
+cmide.com.ve.
 cmit.edu.ve.
 cmjalamas.gob.ve.
 cmjjm.gob.ve.
@@ -4725,6 +4730,7 @@ colegiocubagua.edu.ve.
 colegiodanielista.com.ve.
 colegiodebioanalistas.com.ve.
 colegiodecroly.edu.ve.
+colegiodeenfermeriamerida.com.ve.
 colegiodelavemariaelparaiso.com.ve.
 colegiodelsantisimo.com.ve.
 colegiodivinapastora.com.ve.
@@ -6177,7 +6183,6 @@ decoralia.com.ve.
 decorpe.com.ve.
 decortile.com.ve.
 decosmart.com.ve.
-decotel.com.ve.
 deepfresh.com.ve.
 deepsea.co.ve.
 deepsea.com.ve.
@@ -6324,7 +6329,6 @@ desarrollosocial-carabobo.gob.ve.
 desarrollosweb.com.ve.
 desarrolloweb.com.ve.
 desca.com.ve.
-descargadetodo.com.ve.
 descargas.com.ve.
 descartindustries.com.ve.
 descartmedic.com.ve.
@@ -6687,7 +6691,6 @@ divinasonrisa.com.ve.
 divinonino.com.ve.
 divinopastor.edu.ve.
 dixie.co.ve.
-dizinimega.com.ve.
 dj.com.ve.
 djcs.com.ve.
 djkhamaofficial.com.ve.
@@ -7789,6 +7792,7 @@ europhone.com.ve.
 eurotec.com.ve.
 eurotrack.com.ve.
 eutelsat.com.ve.
+evaluar.web.ve.
 evaneos.com.ve.
 evantec.com.ve.
 evarrest.com.ve.
@@ -8067,7 +8071,6 @@ farmadon.com.ve.
 farmaenlinea.com.ve.
 farmago.com.ve.
 farmagro.com.ve.
-farmaheres.com.ve.
 farmahorro.com.ve.
 farmaindustria.com.ve.
 farmanselmo.com.ve.
@@ -9761,6 +9764,7 @@ grupo7f.com.ve.
 grupo96.com.ve.
 grupoab.com.ve.
 grupoalma.com.ve.
+grupoalri.com.ve.
 grupoambito.com.ve.
 grupoandes.com.ve.
 grupoapc.com.ve.
@@ -12822,7 +12826,6 @@ lavozdejesus.org.ve.
 lavozdelaesperanza.com.ve.
 lavozdelamisericordiafm.com.ve.
 lavozdelosmartires.com.ve.
-lavozdelpueblo.com.ve.
 lavozdelvalle.org.ve.
 lavozdemoron935fm.com.ve.
 lavozqueclama.org.ve.
@@ -14802,6 +14805,7 @@ moviesonheels.com.ve.
 movil.com.ve.
 movilcontable.com.ve.
 movilink.com.ve.
+movilizacion.com.ve.
 movilizadorfuturo.org.ve.
 movilnet-e.com.ve.
 movilnet.com.ve.
@@ -14821,6 +14825,7 @@ movrezma.com.ve.
 mozart.com.ve.
 mp.gob.ve.
 mp.gov.ve.
+mpa.com.ve.
 mpc.com.ve.
 mpcomunas.gob.ve.
 mpd.gob.ve.
@@ -15180,6 +15185,7 @@ nebido.com.ve.
 neboxhost.com.ve.
 nec.com.ve.
 neds.com.ve.
+neeonet.com.ve.
 nefos.com.ve.
 nefrologia.com.ve.
 negoceando.com.ve.
@@ -16098,7 +16104,6 @@ paez.net.ve.
 paezapure.gob.ve.
 pafar.com.ve.
 pagano.com.ve.
-pagarapido.com.ve.
 pagas.com.ve.
 pagepotential.com.ve.
 pagetalent.com.ve.
@@ -16282,6 +16287,7 @@ partstown.com.ve.
 partypatch.com.ve.
 pasajeestudiantil.gob.ve.
 pasajesaereos.com.ve.
+pasajesbaratos.com.ve.
 pasar.com.ve.
 pasarex.com.ve.
 pasarexpress.com.ve.
@@ -18594,6 +18600,9 @@ sanro.com.ve.
 sansebastiandelosreyes-aragua.gov.ve.
 sansha.com.ve.
 sanson.com.ve.
+sansui-venezuela.com.ve.
+sansui.com.ve.
+sansuivenezuela.com.ve.
 santa-ines.gov.ve.
 santaana-anzoategui.gob.ve.
 santabarbara-monagas.gob.ve.
@@ -20006,7 +20015,6 @@ starwhite.com.ve.
 statera.com.ve.
 statoil.com.ve.
 stats.com.ve.
-status.org.ve.
 statusinmobiliario.com.ve.
 stauff.com.ve.
 staufferhotel.com.ve.
@@ -20420,7 +20428,6 @@ taketwo.com.ve.
 takis.com.ve.
 talbotuw.com.ve.
 talbriskserv.com.ve.
-talenthumvalores.com.ve.
 talentocriollo.com.ve.
 talentohumano.net.ve.
 talentotricolor.com.ve.
@@ -20542,7 +20549,6 @@ techomat.com.ve.
 techservicelux.com.ve.
 techsoup.com.ve.
 techtrol.com.ve.
-tecmed.com.ve.
 tecmin.gob.ve.
 tecnibalanzasguerra.com.ve.
 tecnicjats.com.ve.
@@ -21567,6 +21573,7 @@ tusclases.com.ve.
 tuseguro.com.ve.
 tusegurodeviaje.net.ve.
 tuservermu.com.ve.
+tusimviajera.com.ve.
 tusitio.web.ve.
 tusnumeritos.org.ve.
 tusolucionlegal.com.ve.
@@ -22826,8 +22833,10 @@ vtest.com.ve.
 vtgp.com.ve.
 vtscorp.com.ve.
 vtv.gob.ve.
+vuba.com.ve.
 vuce.gob.ve.
 vuelo24.com.ve.
+vuelos-baratos.com.ve.
 vuelos.com.ve.
 vuelosbaratos.co.ve.
 vuelosbaratos.com.ve.
