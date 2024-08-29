@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Aug2024 02:13 UTC
+# ve domain names extracted from nameservers on 28Aug2024 02:08 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1175,6 +1175,7 @@ always.net.ve.
 alzheimer.org.ve.
 am3.com.ve.
 ama-ve.com.ve.
+amabehr.com.ve.
 amada.co.ve.
 amadeus.co.ve.
 amadeus.com.ve.
@@ -1897,7 +1898,6 @@ audible.com.ve.
 audicont.com.ve.
 audicontnv.com.ve.
 audioconcept.com.ve.
-audiodj.net.ve.
 audiofonologiacarabobo.edu.ve.
 audioline.com.ve.
 audiomarket.com.ve.
@@ -2680,6 +2680,7 @@ biogem.com.ve.
 biogeminis.com.ve.
 biografia.com.ve.
 biohiggins.com.ve.
+bioidentidad.com.ve.
 bioinsumos.com.ve.
 biokern.com.ve.
 biolab360.com.ve.
@@ -4671,6 +4672,7 @@ codinggiants.com.ve.
 codire.com.ve.
 coditech.com.ve.
 coei.com.ve.
+coexdevenezuela.com.ve.
 cofae.edu.ve.
 coffee-mate.com.ve.
 coffeebreak.com.ve.
@@ -5198,6 +5200,7 @@ confirmado.com.ve.
 confranquicias.com.ve.
 confraternidad.com.ve.
 confurca.com.ve.
+confuserca.com.ve.
 congefan.gob.ve.
 congefanb.mil.ve.
 conglobad.com.ve.
@@ -6327,7 +6330,6 @@ desarrollominero.gob.ve.
 desarrollosglobal.com.ve.
 desarrollosocial-carabobo.gob.ve.
 desarrollosweb.com.ve.
-desarrolloweb.com.ve.
 desca.com.ve.
 descargas.com.ve.
 descartindustries.com.ve.
@@ -8071,7 +8073,6 @@ farmadon.com.ve.
 farmaenlinea.com.ve.
 farmago.com.ve.
 farmagro.com.ve.
-farmahorro.com.ve.
 farmaindustria.com.ve.
 farmanselmo.com.ve.
 farmaonline.com.ve.
@@ -8140,6 +8141,7 @@ fede.gob.ve.
 fedecamaras.com.ve.
 fedecamaras.net.ve.
 fedecamaras.org.ve.
+fedeinta.org.ve.
 fedequim.org.ve.
 federacion-falcon.gov.ve.
 federacionvzlanadeastrologos.com.ve.
@@ -8267,7 +8269,6 @@ fibersystems.com.ve.
 fibextelecom.net.ve.
 fibrahogar.com.ve.
 fibraselsiglo.com.ve.
-fibratv.com.ve.
 fic.gob.ve.
 fichauna.com.ve.
 ficofloravenezuela.info.ve.
@@ -9027,6 +9028,7 @@ futbolfinanciero.com.ve.
 futbollasalle.com.ve.
 futbolvision.com.ve.
 futmesa.com.ve.
+futronic.com.ve.
 futurafm.gob.ve.
 futuragro.com.ve.
 futuro.co.ve.
@@ -9310,6 +9312,7 @@ gestion24.co.ve.
 gestiones.nic.ve.
 gestionrrhh.com.ve.
 gestionyacademia.com.ve.
+gestordesoluciones.com.ve.
 getapp.co.ve.
 getopauto.com.ve.
 getphone.com.ve.
@@ -10754,6 +10757,7 @@ iaturpa.gob.ve.
 iaveb.gob.ve.
 iban.co.ve.
 iban.com.ve.
+ibao.com.ve.
 ibartisoftware.com.ve.
 ibas.com.ve.
 ibcentraldecaracas.org.ve.
@@ -11499,6 +11503,7 @@ intercargo.com.ve.
 intercom.net.ve.
 intercomputomc.com.ve.
 intercon.net.ve.
+interconcreto.com.ve.
 interconectadosvenezuela.com.ve.
 interexpress.com.ve.
 interfaceflor.co.ve.
@@ -13490,6 +13495,8 @@ magna.com.ve.
 magneticafm.com.ve.
 magnit.co.ve.
 magnum.com.ve.
+magnumcompany.com.ve.
+magnumicecreamcompany.com.ve.
 magohost.com.ve.
 magro.com.ve.
 magros.com.ve.
@@ -13576,7 +13583,6 @@ manroland.com.ve.
 manser.com.ve.
 manserca.com.ve.
 mansion.com.ve.
-manta.com.ve.
 mantenimientoelectricocostel.com.ve.
 mantenimientosemahinst.com.ve.
 mantenimientotrading.com.ve.
@@ -14645,6 +14651,7 @@ modabaly.com.ve.
 modafm.com.ve.
 modascopacabana.com.ve.
 modastimay.com.ve.
+modaurbana.com.ve.
 model-space.com.ve.
 modella.com.ve.
 modelo.com.ve.
@@ -16751,6 +16758,7 @@ plasticoslaurbina.com.ve.
 plasticosomega.com.ve.
 plastifar.com.ve.
 plastifarma.com.ve.
+plastiven.com.ve.
 plata.com.ve.
 plataformadearte.net.ve.
 plataformaprepago.com.ve.
@@ -17048,6 +17056,7 @@ presaludca.com.ve.
 prescriptiondiet.com.ve.
 prescriptives.com.ve.
 presidencia.gob.ve.
+presidenciadelanacion.com.ve.
 prestamo.com.ve.
 prestamos.com.ve.
 prestige-yachts.com.ve.
@@ -18889,6 +18898,7 @@ seguridadbaruta.gov.ve.
 seguridadciudadana.gob.ve.
 seguridadciudadanametropolitana.gob.ve.
 seguridadglobaleye.com.ve.
+seguridadintegralca.com.ve.
 seguridadmetropolitana.gob.ve.
 seguridadprivada.com.ve.
 seguridadve.com.ve.
@@ -19252,7 +19262,6 @@ siceiweb.web.ve.
 siclick.com.ve.
 sicm.gob.ve.
 siconsulting.com.ve.
-sicorca.com.ve.
 sicoven.com.ve.
 sicred.com.ve.
 sicura.com.ve.
@@ -19696,6 +19705,7 @@ solicitudes.nic.ve.
 solideo.org.ve.
 solidworks.com.ve.
 solili.com.ve.
+solimet.com.ve.
 solin.com.ve.
 solinca.com.ve.
 solinf.com.ve.
@@ -22285,6 +22295,7 @@ venceremos.com.ve.
 vencert.gob.ve.
 vencloro.com.ve.
 venco.com.ve.
+vencomservices.com.ve.
 vencontrols.com.ve.
 vencor.com.ve.
 vencor.web.ve.
