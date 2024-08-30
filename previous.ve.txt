@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Aug2024 02:08 UTC
+# ve domain names extracted from nameservers on 29Aug2024 02:15 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2047,6 +2047,7 @@ avery.com.ve.
 averydennison.co.ve.
 averydennison.com.ve.
 avessoc.org.ve.
+avetech.com.ve.
 aveva.com.ve.
 avex.com.ve.
 avgh.org.ve.
@@ -3264,6 +3265,7 @@ cajasfuertessb.com.ve.
 cajavenezolana.com.ve.
 cajigal-sucre.gov.ve.
 cajim.com.ve.
+calar.com.ve.
 calasanzcaracas.com.ve.
 calaven.com.ve.
 calcichew.com.ve.
@@ -3302,6 +3304,7 @@ camaradecaracas.org.ve.
 camaradevargas.gob.ve.
 camarainmobiliaria.org.ve.
 camaramunicipalpc.gob.ve.
+camarashiperbaricasoxiair.com.ve.
 camargo.net.ve.
 camatagua-aragua.gob.ve.
 cambiandovidas.com.ve.
@@ -3410,6 +3413,7 @@ capitalinternational.com.ve.
 capitax.com.ve.
 capm.com.ve.
 capmil.org.ve.
+capmp.com.ve.
 cappoucla.org.ve.
 capres.com.ve.
 caprice.co.ve.
@@ -4481,7 +4485,6 @@ clubbarbie.com.ve.
 clubcanario.com.ve.
 clubcubano.com.ve.
 clubfordfiesta.com.ve.
-clubhipico.com.ve.
 clubizcaragua.com.ve.
 clublike.com.ve.
 clubmapfre.com.ve.
@@ -4966,6 +4969,7 @@ com.ve.
 comando-nacional-maisanta.gov.ve.
 comandoantidrogas.mil.ve.
 comandochavez.org.ve.
+comandohuerfano.com.ve.
 comandomaisanta.gov.ve.
 comandonacionalantidrogas.mil.ve.
 comandonacionalantidrogasgnb.mil.ve.
@@ -6063,6 +6067,7 @@ dasani.com.ve.
 dasem.com.ve.
 dasi.com.ve.
 dasiclean.com.ve.
+dasilrod.com.ve.
 dasimerca.com.ve.
 dasoluciones.com.ve.
 dat-com.com.ve.
@@ -6147,7 +6152,6 @@ dcadvisory.com.ve.
 dcargo.com.ve.
 dcarisa.com.ve.
 dcarnes.com.ve.
-dcc.com.ve.
 dcfs.com.ve.
 dcim.mil.ve.
 dcmpisos.com.ve.
@@ -6779,6 +6783,7 @@ door2door.com.ve.
 dopi.com.ve.
 doplim.com.ve.
 doralte.com.ve.
+dores.com.ve.
 dorh.com.ve.
 dorta.net.ve.
 dortaappccs.net.ve.
@@ -7264,6 +7269,7 @@ ellucian.com.ve.
 elmaizalito.com.ve.
 elmanglar.org.ve.
 elmar.com.ve.
+elmartilloven.com.ve.
 elmejorhelado.com.ve.
 elmex.com.ve.
 elmisionero.com.ve.
@@ -7456,6 +7462,7 @@ enfagrow.com.ve.
 enfamil.co.ve.
 enfamil.com.ve.
 enfinitas.com.ve.
+enfocandome.com.ve.
 enfoqueocupacional.com.ve.
 engidea.com.ve.
 engie.com.ve.
@@ -10083,7 +10090,6 @@ halls.com.ve.
 hallsoft.com.ve.
 halseca.com.ve.
 hamael.org.ve.
-hamilton.com.ve.
 hammernutrition.com.ve.
 hampton.co.ve.
 hampton.com.ve.
@@ -12691,6 +12697,7 @@ lampshade.com.ve.
 lamuralla.com.ve.
 lamy.com.ve.
 lamyshop.com.ve.
+lanacion.com.ve.
 lanacional.com.ve.
 lanamineralderoca.com.ve.
 lancome.com.ve.
@@ -12895,6 +12902,7 @@ lelabofragrances.co.ve.
 lelabofragrances.com.ve.
 lemarche.com.ve.
 lenoxtools.co.ve.
+lentesdecontacto.com.ve.
 leo-pharma.com.ve.
 leo.com.ve.
 leoburnett.com.ve.
@@ -16150,7 +16158,6 @@ paletas.com.ve.
 palette.com.ve.
 palladiumboots.co.ve.
 palladiumboots.com.ve.
-palletxpress.com.ve.
 palm.co.ve.
 palmania.com.ve.
 palmasola-falcon.gov.ve.
@@ -16371,6 +16378,7 @@ pazcastillo.gob.ve.
 pbmir.gob.ve.
 pbserum.com.ve.
 pbsystem.com.ve.
+pbx.net.ve.
 pc-adcarabobo.gob.ve.
 pc-pistons.com.ve.
 pc2goca.com.ve.
@@ -17199,7 +17207,6 @@ proexito.com.ve.
 profejacksson.com.ve.
 profertil.com.ve.
 profesionales-fertilidad.com.ve.
-profesionalesdevenezuela.org.ve.
 profimark.com.ve.
 profimed.com.ve.
 profit.com.ve.
@@ -17809,6 +17816,7 @@ redsalud.com.ve.
 redsentinel.com.ve.
 redsoc.org.ve.
 redsocialistaagroecologica.gob.ve.
+redsoporte.com.ve.
 redticket.com.ve.
 redtoken.com.ve.
 redtube.com.ve.
@@ -19262,6 +19270,7 @@ siceiweb.web.ve.
 siclick.com.ve.
 sicm.gob.ve.
 siconsulting.com.ve.
+sicorca.com.ve.
 sicoven.com.ve.
 sicred.com.ve.
 sicura.com.ve.
@@ -19382,6 +19391,7 @@ simplyhired.com.ve.
 simulcastplus.com.ve.
 sinadic.gov.ve.
 sinamaica.gob.ve.
+sincables.com.ve.
 sincar.com.ve.
 sinco.gob.ve.
 sinco.net.ve.
@@ -21061,6 +21071,7 @@ todomedico.com.ve.
 todomotores.com.ve.
 todoparati.com.ve.
 todos.com.ve.
+todosaludcr.com.ve.
 todosconocenaalguien.com.ve.
 todostore.com.ve.
 todoticket.com.ve.
@@ -21520,7 +21531,6 @@ tuliofebres-merida.gov.ve.
 tulobuscas.com.ve.
 tuloenvias.com.ve.
 tumalla.com.ve.
-tumaquinitadecoser.com.ve.
 tumarketplace.com.ve.
 tumascota.com.ve.
 tumayorferretero.com.ve.
@@ -22009,7 +22019,6 @@ uole.com.ve.
 uomo.com.ve.
 up-science.com.ve.
 up-sciences.com.ve.
-upaca.co.ve.
 upaebvirtual.edu.ve.
 upafv.edu.ve.
 upatadigital.com.ve.

@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Aug2024 02:15 UTC
+# ve domain names extracted from nameservers on 30Aug2024 02:06 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3935,6 +3935,7 @@ centromedicosanfrancisco.com.ve.
 centromedicosanjose.co.ve.
 centromedicosanjose.com.ve.
 centromedicosantabarbara.com.ve.
+centromedkar.com.ve.
 centromueble.com.ve.
 centronet.com.ve.
 centrooftalmologico.net.ve.
@@ -6334,7 +6335,6 @@ desarrollominero.gob.ve.
 desarrollosglobal.com.ve.
 desarrollosocial-carabobo.gob.ve.
 desarrollosweb.com.ve.
-desca.com.ve.
 descargas.com.ve.
 descartindustries.com.ve.
 descartmedic.com.ve.
@@ -8418,7 +8418,6 @@ flexicon.com.ve.
 flexopack.com.ve.
 flexoven.com.ve.
 flg.com.ve.
-flg.net.ve.
 flightengine.com.ve.
 flightpag.com.ve.
 flintgrp.co.ve.
@@ -9680,6 +9679,7 @@ grainca.com.ve.
 grainger.co.ve.
 grainger.com.ve.
 gramoca.com.ve.
+granbrasa.com.ve.
 grancacique.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
@@ -12776,6 +12776,7 @@ lasercenter.com.ve.
 laserclub.com.ve.
 lasermed.com.ve.
 lasermedicalspa20.com.ve.
+lasiniestra.org.ve.
 laslineasdechavez.gob.ve.
 lasmiditan.com.ve.
 lasnonnitas.com.ve.
@@ -13960,6 +13961,7 @@ mdticket.com.ve.
 me.gob.ve.
 me.gov.ve.
 meadjohnson.co.ve.
+meanwell.com.ve.
 meber.com.ve.
 mecabit.net.ve.
 mecanicoentucasa.com.ve.
@@ -15871,6 +15873,7 @@ onvesto.com.ve.
 onza.com.ve.
 oohpod.com.ve.
 ooid.com.ve.
+oona.com.ve.
 oos.com.ve.
 op-mobility.com.ve.
 opcionempleo.co.ve.
@@ -16611,6 +16614,7 @@ pharmetiquelabs.com.ve.
 phd.com.ve.
 phdnetwork.com.ve.
 philadelphia.com.ve.
+philco.com.ve.
 philip-morris.co.ve.
 philip-morris.com.ve.
 philipmorris.co.ve.
@@ -19304,7 +19308,6 @@ sientelooriginal.com.ve.
 sienteloriginal.com.ve.
 sienteoriginal.com.ve.
 sierra-nevada.com.ve.
-siescom.com.ve.
 siete.com.ve.
 sietemares.com.ve.
 sievd.com.ve.
@@ -20535,7 +20538,6 @@ tdl.com.ve.
 tdr.co.ve.
 tdr.com.ve.
 tdsac.com.ve.
-te.co.ve.
 te.com.ve.
 teacherplease.com.ve.
 tealca.com.ve.
@@ -20622,7 +20624,6 @@ tecnologicosucre.edu.ve.
 tecnolux.com.ve.
 tecnoly.com.ve.
 tecnomar.com.ve.
-tecnomarket.com.ve.
 tecnomat.com.ve.
 tecnomax.com.ve.
 tecnomaxca.com.ve.
@@ -23044,6 +23045,7 @@ white-hat.com.ve.
 white-hat.org.ve.
 whitemedical.com.ve.
 whitepages.com.ve.
+whitewestinghouse.com.ve.
 whois.com.ve.
 wholefoods.com.ve.
 wholefoodsmarket.com.ve.
@@ -23143,7 +23145,6 @@ worldcourier.com.ve.
 worldgift.co.ve.
 worldgift.com.ve.
 worldline.com.ve.
-worldmusic.com.ve.
 worldnomads.com.ve.
 worldofjudaica.com.ve.
 worldpokertour.co.ve.
