@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 30Aug2024 02:06 UTC
+# ve domain names extracted from nameservers on 31Aug2024 02:12 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2916,6 +2916,7 @@ bomberoscaracas.gob.ve.
 bomberoscaracas.gov.ve.
 bomberosdeamazonas.gob.ve.
 bomberosdemiranda.gob.ve.
+bomberosenaccion.com.ve.
 bomberosmerida.gob.ve.
 bomberosmonagas.gob.ve.
 bomberossandiego.gob.ve.
@@ -3026,7 +3027,6 @@ brando.com.ve.
 brandsight.co.ve.
 brandsight.com.ve.
 brandsimex.com.ve.
-brandvely.com.ve.
 bravecommunity.com.ve.
 bravosnorkel.co.ve.
 bravosports.net.ve.
@@ -5755,6 +5755,7 @@ cremaparaiso.com.ve.
 crepesywaffles.com.ve.
 cresotec.com.ve.
 crespo-lara.gov.ve.
+cretto.com.ve.
 crforestal.com.ve.
 criaderohohenberg.com.ve.
 criolla.com.ve.
@@ -7110,7 +7111,6 @@ eepaer.mil.ve.
 eezzy.com.ve.
 ef.co.ve.
 efacademy.com.ve.
-efagency.com.ve.
 efcelt.com.ve.
 efenglishlive.co.ve.
 efenglishlive.com.ve.
@@ -8080,6 +8080,7 @@ farmadon.com.ve.
 farmaenlinea.com.ve.
 farmago.com.ve.
 farmagro.com.ve.
+farmahorro.com.ve.
 farmaindustria.com.ve.
 farmanselmo.com.ve.
 farmaonline.com.ve.
@@ -9808,6 +9809,7 @@ grupocontinental.com.ve.
 grupocore.com.ve.
 grupocorpos.com.ve.
 grupocostel.com.ve.
+grupocretto.com.ve.
 grupodagianni.com.ve.
 grupodaka.com.ve.
 grupodamca.com.ve.
@@ -10039,6 +10041,7 @@ gusl.org.ve.
 gustavobethermyt.com.ve.
 gustavolopez.com.ve.
 gutierol.com.ve.
+guver.com.ve.
 gvm.com.ve.
 gwave.co.ve.
 gwm.com.ve.
@@ -10062,7 +10065,6 @@ habitainmueble.com.ve.
 habitat.gov.ve.
 hablabla.com.ve.
 hablemosdeambientebolivar.gob.ve.
-hablemosdebeisbol.com.ve.
 haciendainfante.com.ve.
 haciendalaceiba.com.ve.
 haciendalaconcepcion.com.ve.
@@ -10585,7 +10587,6 @@ hotmail.rec.ve.
 hotmail.web.ve.
 hotornot.co.ve.
 hotornot.com.ve.
-hotradiofm.com.ve.
 hotwire.co.ve.
 hotwire.com.ve.
 houseofmarley.com.ve.
@@ -12333,6 +12334,7 @@ keds.co.ve.
 keds.com.ve.
 keenmind.com.ve.
 keepwalking.com.ve.
+keiber.info.ve.
 keithley.co.ve.
 keithley.com.ve.
 keito.com.ve.
@@ -18099,6 +18101,7 @@ riesgos.gob.ve.
 riev.gov.ve.
 rifas-venezuela.com.ve.
 rifascaejerb.com.ve.
+rifaslavictoria.com.ve.
 rifel.com.ve.
 rightnowclimatefund.co.ve.
 rightnowclimatefund.com.ve.
@@ -20910,6 +20913,7 @@ thrill.co.ve.
 thrill.com.ve.
 thrivelife.com.ve.
 thryv.com.ve.
+tht.com.ve.
 thule.co.ve.
 thule.com.ve.
 thunder.com.ve.
@@ -21292,6 +21296,7 @@ transparente.org.ve.
 transporte.com.ve.
 transporte.gov.ve.
 transporteaereo.gov.ve.
+transportefenixexpress.com.ve.
 transporteflexible.com.ve.
 transportekapetco.com.ve.
 transporteleyhangel.com.ve.
@@ -21916,6 +21921,7 @@ unibet.com.ve.
 unica.edu.ve.
 unicablemargarita.com.ve.
 unicamail.edu.ve.
+unicar.com.ve.
 unicasa.com.ve.
 unicatalunya.co.ve.
 unichem.com.ve.
@@ -22020,6 +22026,7 @@ uole.com.ve.
 uomo.com.ve.
 up-science.com.ve.
 up-sciences.com.ve.
+upaca.co.ve.
 upaebvirtual.edu.ve.
 upafv.edu.ve.
 upatadigital.com.ve.

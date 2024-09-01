@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 31Aug2024 02:12 UTC
+# ve domain names extracted from nameservers on 01Sep2024 02:06 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -614,7 +614,6 @@ agropica.com.ve.
 agroplus.com.ve.
 agroquimicoszambrano.com.ve.
 agrosistemasjpj.com.ve.
-agrosol.com.ve.
 agrosur.com.ve.
 agrosur.gob.ve.
 agrototal.com.ve.
@@ -2606,7 +2605,6 @@ bicigovzla.com.ve.
 bicimotosaltamiranda.com.ve.
 bid.com.ve.
 bienaldelsur.gob.ve.
-bienesraices.com.ve.
 bienesraicesbarquisimeto.com.ve.
 bienhecho.com.ve.
 biensimple.com.ve.
@@ -5030,7 +5028,6 @@ commerzbank.co.ve.
 commerzbank.com.ve.
 commovil.com.ve.
 commscope.com.ve.
-commservices.com.ve.
 communicate.co.ve.
 comovendermas.com.ve.
 compago.com.ve.
@@ -7249,7 +7246,6 @@ elimer.com.ve.
 eliminator.com.ve.
 elinca.com.ve.
 elinformador.com.ve.
-elink.com.ve.
 eliquis.com.ve.
 elisantech.com.ve.
 eliteburgers.com.ve.
@@ -8440,7 +8436,6 @@ florestor.com.ve.
 floritec.com.ve.
 flormar.co.ve.
 flowers.com.ve.
-flowpark.com.ve.
 fluidcon.com.ve.
 fluidcontainment.com.ve.
 fluidcontainmentandina.com.ve.
@@ -9006,7 +9001,6 @@ funpolca.com.ve.
 funrevi.gob.ve.
 funrevi.gov.ve.
 funtadehu.org.ve.
-funtel.com.ve.
 funtha.gov.ve.
 funtramir.gob.ve.
 funval.gob.ve.
@@ -13724,7 +13718,6 @@ marnamazonas.gob.ve.
 marnr.gov.ve.
 marnys.com.ve.
 maroa-amazonas.gov.ve.
-maroca.com.ve.
 maroil.com.ve.
 marora.com.ve.
 marqeta.co.ve.
@@ -14969,7 +14962,6 @@ multiphone.net.ve.
 multiplastic2020rj.com.ve.
 multiplicas.com.ve.
 multiserviciosdag.com.ve.
-multiserviciosleblanc.com.ve.
 multiservicioslosarias.com.ve.
 multiserviciosti.com.ve.
 multishop.com.ve.
@@ -15716,7 +15708,6 @@ officialdavidosio.co.ve.
 officium.com.ve.
 oficina24.com.ve.
 oficinasgabrielosorio.com.ve.
-oficinavirtual.com.ve.
 ofilmyzilla.com.ve.
 ofimarket.com.ve.
 ofimaster.com.ve.
@@ -17405,7 +17396,6 @@ publicis.com.ve.
 publicisdialog.com.ve.
 publiinmuebles.com.ve.
 publik.com.ve.
-publimovil.com.ve.
 publinet.net.ve.
 publinsite.com.ve.
 publiweb.com.ve.
