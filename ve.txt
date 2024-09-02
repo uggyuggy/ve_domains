@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Sep2024 02:06 UTC
+# ve domain names extracted from nameservers on 02Sep2024 02:12 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -14,7 +14,6 @@
 11.com.ve.
 123.com.ve.
 123english.com.ve.
-123negocios.com.ve.
 12diasderegalosdeitunes.co.ve.
 12diasderegalosdeitunes.com.ve.
 15-de-agosto.gov.ve.
@@ -317,7 +316,6 @@ acirema.com.ve.
 acl.com.ve.
 acm.com.ve.
 acmediagroup.com.ve.
-acn.com.ve.
 acne.co.ve.
 acnielsen.com.ve.
 aco.co.ve.
@@ -1234,7 +1232,6 @@ americanblack.com.ve.
 americanchemistry.co.ve.
 americanchemistry.com.ve.
 americancolors.com.ve.
-americaneagle.com.ve.
 americaneagleoutfitters.com.ve.
 americanexpress.co.ve.
 americanexpress.com.ve.
@@ -3828,7 +3825,6 @@ celarg.gob.ve.
 celarg.org.ve.
 celat.org.ve.
 celayahermanos.com.ve.
-celebrate.com.ve.
 celebrex.com.ve.
 celgene.com.ve.
 celhost.com.ve.
@@ -5301,7 +5297,6 @@ consultek.com.ve.
 consultorass.com.ve.
 consultoreslegales.com.ve.
 consultoresmct.com.ve.
-consultoriait.net.ve.
 consultoriodontologicokarlopez.com.ve.
 contabilidadaldia.com.ve.
 contactociudadano.com.ve.
@@ -7211,7 +7206,6 @@ element.com.ve.
 element14.co.ve.
 element14.com.ve.
 elemental.com.ve.
-elemtech.net.ve.
 eleoccidente.gob.ve.
 eleoccidente.gov.ve.
 elepos.com.ve.
@@ -10075,7 +10069,6 @@ haemophiliasolutions.com.ve.
 haesposito.com.ve.
 hagios.com.ve.
 haircompanyprofessional.co.ve.
-haki.com.ve.
 haldus.com.ve.
 haleon.co.ve.
 haleon.com.ve.
@@ -11428,7 +11421,6 @@ institutostiefel.com.ve.
 institutouniversitariodeseguros.co.ve.
 institutouniversitarioinsular.edu.ve.
 instrumentalia.com.ve.
-instrumentosallegro.com.ve.
 insubiol.com.ve.
 insulibro.gob.ve.
 insumar2016.com.ve.
@@ -12668,7 +12660,6 @@ lala.com.ve.
 lalinda.net.ve.
 lalis.com.ve.
 lalo.com.ve.
-lalucha.com.ve.
 lamarinacaracas.com.ve.
 lamarmotors.com.ve.
 lamborghini.co.ve.
@@ -14049,7 +14040,6 @@ megalatina.com.ve.
 megalink.net.ve.
 megamarket.com.ve.
 megamec.com.ve.
-megamotors.com.ve.
 megaoffice.com.ve.
 megaparts.com.ve.
 megaparty.com.ve.
@@ -14615,7 +14605,6 @@ mjd.com.ve.
 mjpg.com.ve.
 mkmotors.com.ve.
 mktpca.com.ve.
-mktrading.com.ve.
 mlplas.com.ve.
 mlscaracas.com.ve.
 mlsltd.com.ve.
@@ -17564,7 +17553,6 @@ radioamerica.com.ve.
 radioamiga909.com.ve.
 radioantenalibre.com.ve.
 radioanzoateguifm.com.ve.
-radiocanal.com.ve.
 radiodeportivastereo.com.ve.
 radiodinamica.com.ve.
 radiodisney.com.ve.
@@ -17671,7 +17659,6 @@ rapidssl.co.ve.
 rapidssl.com.ve.
 rapiexpress.com.ve.
 rapifarma.com.ve.
-rappi.com.ve.
 raptor.com.ve.
 rar.ve.
 rareminerals.com.ve.
@@ -20507,7 +20494,6 @@ taylormadegolf.com.ve.
 taylorswift.co.ve.
 taylorswift.com.ve.
 tazucrc.org.ve.
-tcavenezuela.com.ve.
 tcl.com.ve.
 tcm.com.ve.
 tcmclassichollywood.com.ve.
