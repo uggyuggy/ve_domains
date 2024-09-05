@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03Sep2024 02:17 UTC
+# ve domain names extracted from nameservers on 04Sep2024 02:10 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -406,6 +406,7 @@ adhdsupport.com.ve.
 adiaca.com.ve.
 adinstruments.com.ve.
 adios.com.ve.
+aditecsoluciones.com.ve.
 aditel.com.ve.
 adium.com.ve.
 adlittle.com.ve.
@@ -2194,6 +2195,7 @@ baic.com.ve.
 baidu.co.ve.
 bailar.com.ve.
 baile.com.ve.
+baileylove.com.ve.
 baileys.com.ve.
 baileysentreamigas.com.ve.
 baileysmomentosparacompartir.com.ve.
@@ -2647,6 +2649,7 @@ bingo.com.ve.
 bingobonusfinder.com.ve.
 bingomania.com.ve.
 bingonthebox.com.ve.
+bingotocuyo.com.ve.
 bingyahoonetwork.co.ve.
 bingyahoonetwork.com.ve.
 bino.com.ve.
@@ -3753,6 +3756,7 @@ ccto.e12.ve.
 ccv.com.ve.
 ccv.net.ve.
 ccvs.com.ve.
+cczulia.org.ve.
 cdate.co.ve.
 cdating.co.ve.
 cdc.com.ve.
@@ -3824,6 +3828,7 @@ celarg.gob.ve.
 celarg.org.ve.
 celat.org.ve.
 celayahermanos.com.ve.
+celebrate.com.ve.
 celebrex.com.ve.
 celgene.com.ve.
 celhost.com.ve.
@@ -4544,7 +4549,6 @@ cmide.com.ve.
 cmit.edu.ve.
 cmjalamas.gob.ve.
 cmjjm.gob.ve.
-cmkautos.com.ve.
 cmlab.com.ve.
 cmldc.gob.ve.
 cmlmerida.gob.ve.
@@ -5024,6 +5028,7 @@ commerzbank.co.ve.
 commerzbank.com.ve.
 commovil.com.ve.
 commscope.com.ve.
+commservices.com.ve.
 communicate.co.ve.
 comovendermas.com.ve.
 compago.com.ve.
@@ -5336,6 +5341,7 @@ contraloriadebaruta.gob.ve.
 contraloriadebolivar.gob.ve.
 contraloriadebruzual.gob.ve.
 contraloriadecardenas-tachira.gob.ve.
+contraloriadecarirubana.gob.ve.
 contraloriadecaroni.gob.ve.
 contraloriadecojedes.gob.ve.
 contraloriadecrespo.gob.ve.
@@ -6225,7 +6231,6 @@ delinea.com.ve.
 delineo.com.ve.
 delitosinformaticos.gob.ve.
 deliveryhero.com.ve.
-deliverypro.com.ve.
 deliveza.com.ve.
 dell-emc.com.ve.
 dell-technologies.com.ve.
@@ -6329,6 +6334,7 @@ desarrollominero.gob.ve.
 desarrollosglobal.com.ve.
 desarrollosocial-carabobo.gob.ve.
 desarrollosweb.com.ve.
+desarrolloweb.com.ve.
 descargas.com.ve.
 descartindustries.com.ve.
 descartmedic.com.ve.
@@ -6511,6 +6517,7 @@ digitalx.net.ve.
 digitel.com.ve.
 digitel.net.ve.
 digitelpay.net.ve.
+digizone.com.ve.
 dilan.com.ve.
 diligentcompliance.co.ve.
 diligentcompliance.com.ve.
@@ -6847,7 +6854,6 @@ drogueriadivinapastora.com.ve.
 drogueriafarmalor.com.ve.
 drogueriaits2015.com.ve.
 drogueriajosy.com.ve.
-drogueriavenezuela.com.ve.
 dromax.com.ve.
 dromedqx.com.ve.
 dromega.com.ve.
@@ -7148,6 +7154,7 @@ elamucs.edu.ve.
 elangel.edu.ve.
 elaprase.com.ve.
 elaragueno.com.ve.
+elbingodereny.emprende.ve.
 elbolivariano.com.ve.
 elcallao-bolivar.gob.ve.
 elcambur.com.ve.
@@ -7281,7 +7288,6 @@ elmundodeldulce.com.ve.
 elmundodelmarco.com.ve.
 elnorte.com.ve.
 elnuevosaber.com.ve.
-eloccidental.com.ve.
 elofertazo.com.ve.
 elonva.com.ve.
 elorriaga.com.ve.
@@ -8224,7 +8230,6 @@ fertilidad.net.ve.
 fertiquim.com.ve.
 fertiven.com.ve.
 fervenca.com.ve.
-fervica.com.ve.
 fesa-merpro.com.ve.
 fesitpven.com.ve.
 fesnojiv.gob.ve.
@@ -9499,6 +9504,7 @@ gmacfs.com.ve.
 gmail.co.ve.
 gmail.com.ve.
 gmailbuzz.co.ve.
+gmarconil.com.ve.
 gmarket.com.ve.
 gmbt.gob.ve.
 gmcupaz.gob.ve.
@@ -10266,7 +10272,6 @@ hewlettpackard.com.ve.
 hewlettpackardenterprise.com.ve.
 hexa.web.ve.
 hexagrams.com.ve.
-heyanuncialo.com.ve.
 heydude.co.ve.
 heydude.com.ve.
 heydudeshoes.co.ve.
@@ -10995,6 +11000,7 @@ impactodengue.com.ve.
 impal.com.ve.
 impala.com.ve.
 imperialgarden.com.ve.
+impetu.com.ve.
 impexca.com.ve.
 impinj.com.ve.
 implanon-nxt.com.ve.
@@ -11465,6 +11471,7 @@ inteligenciadelser.com.ve.
 inteligencianaval.gob.ve.
 inteligenciavibracional.com.ve.
 intelinet.com.ve.
+intelipay.com.ve.
 intelipos.com.ve.
 intellicad.com.ve.
 intellicyber.com.ve.
@@ -12362,6 +12369,7 @@ kfc.com.ve.
 kfcvenezuela.com.ve.
 kfedigital.com.ve.
 kfg.com.ve.
+khaled.com.ve.
 khilnmer.com.ve.
 kia.com.ve.
 kibref.com.ve.
@@ -17740,7 +17748,6 @@ recipedia.com.ve.
 reckitt.com.ve.
 reckittbenckiser.com.ve.
 recordreport.com.ve.
-recordsports.com.ve.
 recoveryair.com.ve.
 recrea.com.ve.
 recreacionalminimundo.com.ve.
@@ -18866,6 +18873,7 @@ sedebat.net.ve.
 sedebats.gob.ve.
 sedec.gob.ve.
 sedefanb.gob.ve.
+sedegas.org.ve.
 sedemat.gob.ve.
 sedematlagunillas.gob.ve.
 sedematyaritagua.com.ve.
@@ -19310,7 +19318,6 @@ sigib.org.ve.
 sigis.com.ve.
 siglasweb.com.ve.
 sigma.com.ve.
-sigma3012.com.ve.
 sigmaaps.com.ve.
 sigmadental.net.ve.
 sigmadomus.net.ve.
@@ -19884,6 +19891,7 @@ speedo.com.ve.
 speedrubik.com.ve.
 speedstick.co.ve.
 speedstick.com.ve.
+speedtrasnport.com.ve.
 spermcheck.co.ve.
 spermcheckfertility.co.ve.
 sperry.co.ve.
@@ -20751,6 +20759,7 @@ teresianolacastellanastj.edu.ve.
 termax.com.ve.
 terminallabandera.gob.ve.
 termofluidos.com.ve.
+termometroeconomico.com.ve.
 termotex.com.ve.
 termotronic.com.ve.
 terneros.com.ve.
@@ -20771,7 +20780,6 @@ teslatechnology.com.ve.
 tesoroclub.com.ve.
 tess.com.ve.
 tess.net.ve.
-tessa.com.ve.
 test-20200624.com.ve.
 test.com.ve.
 testers.com.ve.
@@ -23107,6 +23115,7 @@ wisp.com.ve.
 wispcore.com.ve.
 witec.com.ve.
 witsseo.com.ve.
+wiwi.com.ve.
 wixroyd.co.ve.
 wlacruz.com.ve.
 wlot.com.ve.
