@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 04Sep2024 02:10 UTC
+# ve domain names extracted from nameservers on 05Sep2024 03:32 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -748,7 +748,6 @@ aladino.com.ve.
 alamano.com.ve.
 alamo.co.ve.
 alamovenezuela.com.ve.
-alanon.org.ve.
 alaplaf.org.ve.
 alas.com.ve.
 alascorpca.com.ve.
@@ -1869,7 +1868,6 @@ atmdc.com.ve.
 atmsuite.com.ve.
 atmus.com.ve.
 atomtickets.com.ve.
-aton.com.ve.
 atos-group.com.ve.
 atos.co.ve.
 atosorigin.com.ve.
@@ -4948,6 +4946,7 @@ colombeiatv.gob.ve.
 colombianosenvenezuela.org.ve.
 colon-zulia.gob.ve.
 coloplas.com.ve.
+colorados.com.ve.
 colorcloset.com.ve.
 colorescience.com.ve.
 colorfrut.com.ve.
@@ -6795,7 +6794,6 @@ dosdoce.com.ve.
 dose.gob.ve.
 dosel.com.ve.
 dostorres.com.ve.
-dotainca.com.ve.
 doterra.co.ve.
 doterra.com.ve.
 dovemencare.com.ve.
@@ -9044,6 +9042,7 @@ fuvidit.com.ve.
 fuze-tea.com.ve.
 fva.com.ve.
 fvas.com.ve.
+fveu.com.ve.
 fvf.com.ve.
 fvfclubes.com.ve.
 fvi.com.ve.
@@ -11491,7 +11490,6 @@ inter.com.ve.
 inter.net.ve.
 interacables.com.ve.
 interactiva.com.ve.
-interactivaisg.com.ve.
 interactivas.com.ve.
 interagro.com.ve.
 interaktivos.com.ve.
@@ -13529,6 +13527,7 @@ makerspace.com.ve.
 maketicket.com.ve.
 makevents.com.ve.
 makia.com.ve.
+makinas.com.ve.
 makingmorehealth.com.ve.
 makint.com.ve.
 makler.com.ve.
@@ -15017,6 +15016,7 @@ munoz-apure.gob.ve.
 muonlinela.com.ve.
 mupica.com.ve.
 muralesccs.gob.ve.
+murano.com.ve.
 muronto.gob.ve.
 musarp.gob.ve.
 musarquitectura.gob.ve.
@@ -17259,7 +17259,6 @@ pronet21.com.ve.
 proneurax-er.com.ve.
 pronovias.com.ve.
 pronovision.com.ve.
-pronto.com.ve.
 prontoticket.com.ve.
 propacaaos.co.ve.
 propanil.com.ve.
@@ -17606,6 +17605,7 @@ radios.co.ve.
 radios.com.ve.
 radiosabrosita.com.ve.
 radiosant.com.ve.
+radiosdebarinas.com.ve.
 radiosensacion.com.ve.
 radioshow927fm.com.ve.
 radiosintonia1420.com.ve.
@@ -17873,6 +17873,7 @@ regus.co.ve.
 regus.com.ve.
 rehau.com.ve.
 reicom.com.ve.
+reier.com.ve.
 reiki.com.ve.
 reiki.org.ve.
 reinco.com.ve.
@@ -18475,6 +18476,7 @@ saladmaster.org.ve.
 salas.com.ve.
 salasituacional.gob.ve.
 salaverria.com.ve.
+salbas.com.ve.
 saldorapido.com.ve.
 salerm.com.ve.
 salesianosarria.edu.ve.
@@ -22351,7 +22353,6 @@ venezolanademodulares.com.ve.
 venezolanaderevestimiento.com.ve.
 venezolano.com.ve.
 venezuela-eu.gob.ve.
-venezuela.com.ve.
 venezuela.gob.ve.
 venezuela.org.ve.
 venezuela2000.gov.ve.
@@ -23113,6 +23114,7 @@ wiser.com.ve.
 wisium.com.ve.
 wisp.com.ve.
 wispcore.com.ve.
+wisptecnoger.com.ve.
 witec.com.ve.
 witsseo.com.ve.
 wiwi.com.ve.
