@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Sep2024 04:13 UTC
+# ve domain names extracted from nameservers on 07Sep2024 05:59 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -97,7 +97,6 @@
 3pmshield.com.ve.
 3pmsolutions.co.ve.
 3pmsolutions.com.ve.
-3r.nets.ve.
 412.com.ve.
 42brigadaparacaidista.mil.ve.
 4cloud.com.ve.
@@ -1298,7 +1297,6 @@ anabolicoscaracas.com.ve.
 anaco-anzoategui.gob.ve.
 anacowireless.com.ve.
 anadarko.com.ve.
-anairam.com.ve.
 anaj.org.ve.
 analesdenutricion.org.ve.
 analizar.com.ve.
@@ -1664,7 +1662,6 @@ arrow.arts.ve.
 arrow.co.ve.
 arrow.com.ve.
 arrow.info.ve.
-arrow.nom.ve.
 arrow.org.ve.
 arrow.rec.ve.
 arrow.store.ve.
@@ -3296,7 +3293,6 @@ cam.edu.ve.
 cam4.co.ve.
 camaguan-guarico.gob.ve.
 camaracomerciolag.org.ve.
-camaradallamarada.org.ve.
 camaradecaracas.org.ve.
 camaradevargas.gob.ve.
 camarainmobiliaria.org.ve.
@@ -3489,7 +3485,6 @@ caribia.gob.ve.
 caripe-monagas.gob.ve.
 carirubana-falcon.gob.ve.
 carirubana-falcon.gov.ve.
-caritasfatimacp.org.ve.
 caritovenezuela.com.ve.
 carlos.com.ve.
 carlosarvelo-carabobo.gob.ve.
@@ -5298,14 +5293,12 @@ consuladodepanama.com.ve.
 consulados.gob.ve.
 consuladosenvenezuela.com.ve.
 consulate-ny.gov.ve.
-consulbank.com.ve.
 consulta.com.ve.
 consultalegal.com.ve.
 consultek.com.ve.
 consultorass.com.ve.
 consultoreslegales.com.ve.
 consultoresmct.com.ve.
-consultoriait.net.ve.
 consultoriodontologicokarlopez.com.ve.
 contabilidadaldia.com.ve.
 contactociudadano.com.ve.
@@ -6703,7 +6696,6 @@ divinasonrisa.com.ve.
 divinonino.com.ve.
 divinopastor.edu.ve.
 dixie.co.ve.
-dizinimega.com.ve.
 dj.com.ve.
 djcs.com.ve.
 djkhamaofficial.com.ve.
@@ -13708,7 +13700,6 @@ marken.com.ve.
 market.com.ve.
 marketbook.co.ve.
 marketeam.com.ve.
-marketing-crew.com.ve.
 marketingfino.com.ve.
 marketingnow.com.ve.
 marketingstudio.com.ve.
@@ -14888,6 +14879,7 @@ mpptaa.gob.ve.
 mppti.gob.ve.
 mpptop.gob.ve.
 mpr.com.ve.
+mpt.com.ve.
 mr-robot.com.ve.
 mrbotas.com.ve.
 mrd.gob.ve.
@@ -16805,7 +16797,6 @@ plcservices.com.ve.
 plduniformes.com.ve.
 pleasurechest.com.ve.
 pleat.com.ve.
-plenitud.com.ve.
 plg.com.ve.
 plm.com.ve.
 plmgroup.com.ve.
@@ -17328,7 +17319,6 @@ provita.org.ve.
 proviviendas.org.ve.
 prowall.com.ve.
 proweb.com.ve.
-proxicom.com.ve.
 proy3ct.net.ve.
 proydent.com.ve.
 proyect.com.ve.
@@ -18486,7 +18476,6 @@ saladmaster.org.ve.
 salas.com.ve.
 salasituacional.gob.ve.
 salaverria.com.ve.
-salbas.com.ve.
 saldorapido.com.ve.
 salerm.com.ve.
 salesianosarria.edu.ve.
@@ -18981,7 +18970,6 @@ senamecf.gob.ve.
 sencamer.gob.ve.
 sencamer.gov.ve.
 sencillo.com.ve.
-sencilloemprende.com.ve.
 seneka.com.ve.
 senetic.co.ve.
 senetic.com.ve.
@@ -20514,7 +20502,6 @@ taxiservicediaz.com.ve.
 taylormadegolf.com.ve.
 taylorswift.co.ve.
 taylorswift.com.ve.
-tazucrc.org.ve.
 tcavenezuela.com.ve.
 tcl.com.ve.
 tcm.com.ve.
@@ -20625,7 +20612,6 @@ tecnologicosucre.edu.ve.
 tecnolux.com.ve.
 tecnoly.com.ve.
 tecnomar.com.ve.
-tecnomarket.com.ve.
 tecnomat.com.ve.
 tecnomax.com.ve.
 tecnomaxca.com.ve.
@@ -20832,7 +20818,6 @@ thalesgroup.com.ve.
 thawte.co.ve.
 thawte.com.ve.
 thawte.firm.ve.
-thawte.nom.ve.
 thawte.rec.ve.
 thawte.store.ve.
 thawte.web.ve.
@@ -21625,7 +21610,6 @@ tuvoz.com.ve.
 tuwebmaster.com.ve.
 tuyo.com.ve.
 tv-cable.com.ve.
-tvcablenetsystems.com.ve.
 tvd-venezuela.co.ve.
 tvd-venezuela.com.ve.
 tvd-venezuela.gob.ve.
@@ -22363,7 +22347,6 @@ venetur.gob.ve.
 venetur.gov.ve.
 venevision.com.ve.
 venevisioncontinental.com.ve.
-venezdem.com.ve.
 venezolanademodulares.com.ve.
 venezolanaderevestimiento.com.ve.
 venezolano.com.ve.
@@ -22786,7 +22769,6 @@ volvo.arts.ve.
 volvo.com.ve.
 volvo.firm.ve.
 volvo.info.ve.
-volvo.nom.ve.
 volvo.org.ve.
 volvo.rec.ve.
 volvo.store.ve.
@@ -23188,7 +23170,6 @@ ww.com.ve.
 wwe.co.ve.
 wwe.com.ve.
 wwenetwork.com.ve.
-wwte.nom.ve.
 www.info.ve.
 www.net.ve.
 www.web.ve.
