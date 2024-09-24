@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Sep2024 03:04 UTC
+# ve domain names extracted from nameservers on 23Sep2024 03:02 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2290,6 +2290,7 @@ barcelobusiness.com.ve.
 barclays.com.ve.
 barco.com.ve.
 bardinetsimon.com.ve.
+bareca.com.ve.
 bareescentual.com.ve.
 bareescentuals.com.ve.
 baricitinib.com.ve.
@@ -3032,6 +3033,7 @@ brickaffix.com.ve.
 bricket.com.ve.
 brickmancorp.com.ve.
 brickmansuministros.com.ve.
+bricotek.com.ve.
 bridgemarkets.com.ve.
 bridgestone.co.ve.
 briescomsys.com.ve.
@@ -3412,6 +3414,7 @@ capterra.co.ve.
 capterra.com.ve.
 capucla.org.ve.
 caputo.com.ve.
+capywod.com.ve.
 car.com.ve.
 carabobo-desarrollosocial.gob.ve.
 carabobo.gob.ve.
@@ -4932,6 +4935,7 @@ collectania.com.ve.
 colledge.com.ve.
 collistar.com.ve.
 colmed.com.ve.
+colnetwork.com.ve.
 cologgnv.mil.ve.
 colombeia.edu.ve.
 colombeia.gob.ve.
@@ -6175,7 +6179,6 @@ decoraciones.com.ve.
 decoralia.com.ve.
 decorpe.com.ve.
 decortile.com.ve.
-decosmart.com.ve.
 decotel.com.ve.
 deepfresh.com.ve.
 deepsea.co.ve.
@@ -7316,7 +7319,6 @@ elsoldeoriente.com.ve.
 elsotano.com.ve.
 elsuper.com.ve.
 eltaquito.com.ve.
-elteide.com.ve.
 elterminalito.com.ve.
 eltiempo.com.ve.
 eltigre.com.ve.
@@ -8115,7 +8117,6 @@ fcnd.gob.ve.
 fcnd.org.ve.
 fcnm.gob.ve.
 fct.com.ve.
-fcv.com.ve.
 fcv.org.ve.
 fd3.com.ve.
 fda.com.ve.
@@ -8251,7 +8252,6 @@ fiaven.net.ve.
 fiaven.org.ve.
 fiaven.web.ve.
 fiber.com.ve.
-fiberconexion.com.ve.
 fibernet.com.ve.
 fibernetwork.com.ve.
 fibersolutions.com.ve.
@@ -9126,7 +9126,6 @@ gan.gov.ve.
 ganaco.com.ve.
 ganaconsplenda.com.ve.
 ganbaro.com.ve.
-gangabet.com.ve.
 ganovzla.com.ve.
 gap.co.ve.
 gapkids.co.ve.
@@ -10879,6 +10878,7 @@ ifica.com.ve.
 ificecilioacosta.com.ve.
 iformaciononline.com.ve.
 ifuca.org.ve.
+ifv.com.ve.
 ifwd.co.ve.
 ifx.com.ve.
 ifxnetworks.com.ve.
@@ -11655,7 +11655,6 @@ ioi.com.ve.
 iol.net.ve.
 iomtelecom.com.ve.
 ionos.com.ve.
-iorfancep.com.ve.
 ipa.co.ve.
 ipadmini.co.ve.
 ipadpro.co.ve.
@@ -11923,7 +11922,6 @@ iventium.com.ve.
 ivg.edu.ve.
 ivic.gob.ve.
 ivid.com.ve.
-ivila.com.ve.
 ivimiranda.gob.ve.
 ivivar.gob.ve.
 ivoclar-vivadent.com.ve.
@@ -13435,6 +13433,7 @@ madebyrodney.com.ve.
 madeco.co.ve.
 madeidea.com.ve.
 madeinitaly.com.ve.
+madenor.com.ve.
 maderasdelalba.gob.ve.
 maderasdelorinoco.gob.ve.
 maderasguayabal.com.ve.
@@ -14206,7 +14205,6 @@ mesosystem.com.ve.
 messen.com.ve.
 messenger.com.ve.
 messika.com.ve.
-mesuin.com.ve.
 met.com.ve.
 meta.co.ve.
 meta.com.ve.
@@ -15722,7 +15720,6 @@ ohlins.com.ve.
 ohmyhost.com.ve.
 oi.com.ve.
 oilv.com.ve.
-oink.com.ve.
 ojdt.com.ve.
 ojocaribe.com.ve.
 okey1049fm.com.ve.
@@ -16127,7 +16124,6 @@ paisa.com.ve.
 paisdelosjuegos.co.ve.
 pajarolandia.com.ve.
 pajarolandia2000.com.ve.
-pal-tv.com.ve.
 palacalle.com.ve.
 palacehotel.com.ve.
 palante.com.ve.
@@ -16393,6 +16389,7 @@ pdicenter.com.ve.
 pdisa.com.ve.
 pdmercal.gob.ve.
 pdval.gob.ve.
+pdvcomunal.com.ve.
 pdvsa.co.ve.
 pdvsa.com.ve.
 pdvsa.info.ve.
@@ -16544,7 +16541,6 @@ petrodisa.com.ve.
 petroglifosrevistacritica.org.ve.
 petroguia.com.ve.
 petroleosdeamerica.com.ve.
-petrolera.com.ve.
 petroleum.com.ve.
 petroleumcontractor.com.ve.
 petronet.co.ve.
@@ -17978,6 +17974,8 @@ resonac.com.ve.
 respaldocomunal.gob.ve.
 respiralibre.com.ve.
 respiramejor.com.ve.
+respiratorycenter.co.ve.
+respiratorycentre.co.ve.
 respirayvive.com.ve.
 respironics.co.ve.
 resquimc.gob.ve.
@@ -18025,7 +18023,6 @@ rexon.com.ve.
 rexroth.co.ve.
 rexroth.com.ve.
 reycore.com.ve.
-reyes.com.ve.
 reyfeca.com.ve.
 reymarconstrucciones.com.ve.
 reymontsport.com.ve.
@@ -19216,7 +19213,6 @@ showmax.com.ve.
 showmb.com.ve.
 shownautico.com.ve.
 shpvc.com.ve.
-shulemena.com.ve.
 siaca.net.ve.
 siaca1.com.ve.
 siace.gob.ve.
@@ -20320,6 +20316,7 @@ suvinca.gob.ve.
 sv3.net.ve.
 svanestesia.org.ve.
 svc.net.ve.
+svcc.org.ve.
 svcot.org.ve.
 svdcd.org.ve.
 sve-espeleologia.org.ve.
@@ -20452,6 +20449,7 @@ tapestry.com.ve.
 tapp.com.ve.
 taquillaunica.gob.ve.
 tarahumara.com.ve.
+tarekwilliamsaab.com.ve.
 tarekwilliamsaab.net.ve.
 tarifasdeluz.com.ve.
 tarjeta.com.ve.
@@ -21200,6 +21198,7 @@ tracking.com.ve.
 tractonorte.com.ve.
 tractorhouse.co.ve.
 tractorpool.com.ve.
+tradeeu.com.ve.
 trademarkers.co.ve.
 trademarkers.com.ve.
 trademarkia.co.ve.
@@ -21825,6 +21824,7 @@ umi.com.ve.
 una.edu.ve.
 unalaraweb.com.ve.
 unanina.com.ve.
+unareguia.com.ve.
 unasucre.com.ve.
 unation.com.ve.
 unatur.edu.ve.
@@ -22019,7 +22019,6 @@ uptbal.edu.ve.
 uptbal.info.ve.
 uptbolivar.edu.ve.
 uptecms.edu.ve.
-uptjaa.com.ve.
 uptjaa.edu.ve.
 uptjfr.edu.ve.
 uptllanos.net.ve.
@@ -22701,7 +22700,6 @@ vlsuministros.com.ve.
 vlu.com.ve.
 vmb.org.ve.
 vmf.com.ve.
-vms.com.ve.
 vmware.co.ve.
 vmware.com.ve.
 vnet.co.ve.
