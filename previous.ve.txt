@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Oct2024 04:21 UTC
+# ve domain names extracted from nameservers on 07Oct2024 04:10 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -97,7 +97,6 @@
 3pmshield.com.ve.
 3pmsolutions.co.ve.
 3pmsolutions.com.ve.
-3r.nets.ve.
 412.com.ve.
 42brigadaparacaidista.mil.ve.
 4cloud.com.ve.
@@ -147,12 +146,7 @@
 99designs.com.ve.
 9round.com.ve.
 9xmovies.com.ve.
-_443._tcp.estadisticas.nic.ve.
 _443._tcp.nic.ve.
-_443._tcp.rdap.nic.ve.
-_443._tcp.whois.nic.ve.
-_443._tcp.www.nic.ve.
-_dmarc.mail.nic.ve.
 _dmarc.nic.ve.
 a-riesgo.com.ve.
 a.com.ve.
@@ -636,6 +630,7 @@ ahp.com.ve.
 ai.com.ve.
 aiag.org.ve.
 aiam.gob.ve.
+aicorporate.com.ve.
 aieca.com.ve.
 aiesec.org.ve.
 aifem.com.ve.
@@ -1001,6 +996,7 @@ alfa-laval.com.ve.
 alfa100fm.com.ve.
 alfacondominios.com.ve.
 alfael.com.ve.
+alfafarmaceuticacr.com.ve.
 alfahogar.com.ve.
 alfalaval.co.ve.
 alfalaval.com.ve.
@@ -1257,7 +1253,6 @@ amoena.co.ve.
 amolca.com.ve.
 amor.com.ve.
 amornatural.com.ve.
-amortiguadorescaracas.com.ve.
 amovenca.com.ve.
 amplusgroup.com.ve.
 amprobe.com.ve.
@@ -4134,7 +4129,6 @@ childrensplace.org.ve.
 chill-bet.com.ve.
 chillbet.com.ve.
 chillsner.com.ve.
-chilo21.com.ve.
 china.com.ve.
 chinohung.com.ve.
 chinotto.com.ve.
@@ -8929,7 +8923,6 @@ fundafelices.org.ve.
 fundagenetica.gob.ve.
 fundagraez.gob.ve.
 fundahuntingtonzulia.org.ve.
-fundaibero.com.ve.
 fundaival.com.ve.
 fundalanavial.gob.ve.
 fundalegria.gob.ve.
@@ -9308,7 +9301,6 @@ gesca.com.ve.
 gesincorp.com.ve.
 gesindoni.com.ve.
 gestion24.co.ve.
-gestiones.nic.ve.
 gestionrrhh.com.ve.
 gestionyacademia.com.ve.
 gestordesoluciones.com.ve.
@@ -9392,7 +9384,6 @@ githubae.com.ve.
 githubenterpriseae.co.ve.
 githubenterpriseae.com.ve.
 giti.com.ve.
-gitlab.nic.ve.
 giulianico.com.ve.
 giulianimachines.com.ve.
 givaudan.co.ve.
@@ -10384,7 +10375,6 @@ hitachiaircon.com.ve.
 hitachidatasystems.co.ve.
 hitachivantara.co.ve.
 hitachivantara.com.ve.
-hiteco.com.ve.
 hitrypvo.com.ve.
 hiwin.com.ve.
 hlarrubla.com.ve.
@@ -11307,6 +11297,7 @@ inmuebleya.com.ve.
 inmunooncologia.com.ve.
 inn.gob.ve.
 innaca.com.ve.
+innelec.com.ve.
 innoaestheticsvzla.com.ve.
 innoba.com.ve.
 innocuous.com.ve.
@@ -12366,6 +12357,7 @@ kfedigital.com.ve.
 kfg.com.ve.
 khaled.com.ve.
 kia.com.ve.
+kiabox.com.ve.
 kiasmuebles.com.ve.
 kibref.com.ve.
 kickers.com.ve.
@@ -12573,6 +12565,7 @@ laboratoriolansa.com.ve.
 laboratoriomppcn.com.ve.
 laboratoriooptico.com.ve.
 laboratoriosalbem.com.ve.
+laboratoriosbluepoint.com.ve.
 laboratorioselmor.co.ve.
 laboratorioselmor.com.ve.
 laboratorioselmor.info.ve.
@@ -12874,7 +12867,6 @@ ledplus.com.ve.
 ledvance.com.ve.
 lee.com.ve.
 leecooper.com.ve.
-leehamilton.com.ve.
 leejaeyong.co.ve.
 leejaeyong.com.ve.
 leekunhee.co.ve.
@@ -15220,7 +15212,6 @@ neilmed.com.ve.
 nektar.co.ve.
 nektar.com.ve.
 neoanalisis.net.ve.
-neobranding.com.ve.
 neodent.co.ve.
 neodent.com.ve.
 neogenesisbs.com.ve.
@@ -15519,10 +15510,6 @@ npr.com.ve.
 npvagency.com.ve.
 nrds.co.ve.
 ns2desarrollosweb.com.ve.
-ns3.nic.ve.
-ns4.nic.ve.
-ns5.nic.ve.
-ns6.nic.ve.
 nsdelcamino.e12.ve.
 nsfvi.com.ve.
 nslourdes.edu.ve.
@@ -15732,7 +15719,6 @@ og.com.ve.
 oga.com.ve.
 ogame.com.ve.
 ogilvy.com.ve.
-ogliastriasociados.com.ve.
 ogyar.com.ve.
 oherzio.com.ve.
 oherzyo.com.ve.
@@ -17344,7 +17330,6 @@ proyectolacarlota.gob.ve.
 proyectoleander.gob.ve.
 proyectoresponsabilidad.com.ve.
 proyectos.com.ve.
-proyectos.nic.ve.
 proyectosbrain.com.ve.
 proyectosjym.com.ve.
 proyectosromaca.com.ve.
@@ -18112,7 +18097,6 @@ rinmar.com.ve.
 rintoca.com.ve.
 rioclarocafe.com.ve.
 rionegro-amazonas.gob.ve.
-ripple.com.ve.
 risankizumab.com.ve.
 risksolutions.net.ve.
 ritmica1015fm.com.ve.
@@ -19170,6 +19154,7 @@ sgrtrujillo.gob.ve.
 sgrzulia.gob.ve.
 sgrzulia.gov.ve.
 sgs.com.ve.
+sgt.com.ve.
 sh.com.ve.
 shabureau.com.ve.
 shacman.co.ve.
@@ -19302,7 +19287,6 @@ sierra-nevada.com.ve.
 siescom.com.ve.
 siete.com.ve.
 sietemares.com.ve.
-sievd.com.ve.
 siex.gob.ve.
 sifa.com.ve.
 sifa.org.ve.
@@ -19701,7 +19685,6 @@ solfacil.com.ve.
 solfin.com.ve.
 solfinagricola.com.ve.
 solgasmedical.com.ve.
-solicitudes.nic.ve.
 solideo.org.ve.
 solidworks.com.ve.
 solili.com.ve.
@@ -19957,7 +19940,6 @@ squarespace.com.ve.
 srabogados.com.ve.
 src.com.ve.
 srivasso.com.ve.
-srka.com.ve.
 srpt.com.ve.
 srv02.com.ve.
 ssab.com.ve.
@@ -22141,7 +22123,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22531,6 +22512,7 @@ viaplay.com.ve.
 viatris.com.ve.
 viaweb.com.ve.
 viba.com.ve.
+vibes.com.ve.
 vibracoustic.co.ve.
 vibraval.com.ve.
 viceministerioparaafrica.gob.ve.
@@ -23147,11 +23129,9 @@ wrangler.com.ve.
 ws.com.ve.
 wsaud.co.ve.
 wsaud.com.ve.
-wscalidad.nic.ve.
 wsedtrfsdcxzfczxdc.com.ve.
 wsi.com.ve.
 wsp.com.ve.
-wsprod.nic.ve.
 wsradioonline.com.ve.
 wtw.com.ve.
 wtwco.co.ve.
