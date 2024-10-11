@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 10Oct2024 04:20 UTC
+# ve domain names extracted from nameservers on 11Oct2024 04:48 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1957,6 +1957,7 @@ autopartes2006.com.ve.
 autoparteslara.com.ve.
 autopartesmp2ca.com.ve.
 autopartesoriginalesgs.com.ve.
+autopartesorion.com.ve.
 autopartestopdealer.com.ve.
 autopartsjr.com.ve.
 autoplaza.com.ve.
@@ -11512,6 +11513,7 @@ interconectadosvenezuela.com.ve.
 interexpress.com.ve.
 interfaceflor.co.ve.
 interfaceflor.com.ve.
+interfibra.net.ve.
 interflash.com.ve.
 intergeo.com.ve.
 intergest.com.ve.
@@ -11578,6 +11580,7 @@ intt.gob.ve.
 inttt.com.ve.
 inttt.gob.ve.
 inttt.org.ve.
+intu.org.ve.
 intuit.co.ve.
 intuniv.com.ve.
 intyfem.com.ve.
@@ -15615,7 +15618,6 @@ oakite.com.ve.
 oaktreepos.com.ve.
 oaktreesys.com.ve.
 oakwood.com.ve.
-oara.com.ve.
 oasisdelyabo.com.ve.
 oasishotel.com.ve.
 oasisstereofm.com.ve.
@@ -15869,6 +15871,7 @@ onstagegroup.com.ve.
 onstar.co.ve.
 onstar.com.ve.
 ont.gob.ve.
+ontech.com.ve.
 ontier.com.ve.
 ontier.net.ve.
 onu.org.ve.
@@ -19076,6 +19079,7 @@ servicons.com.ve.
 servicool.com.ve.
 servidoreslinux.com.ve.
 servieleca.com.ve.
+servientrega.co.ve.
 servienvia.com.ve.
 servienvios.com.ve.
 servier.com.ve.
@@ -19349,7 +19353,9 @@ silverlight.com.ve.
 silvernet.com.ve.
 silvertrading.com.ve.
 silvestripharma.com.ve.
+sim.com.ve.
 sim.org.ve.
+sim.web.ve.
 simaca.com.ve.
 simark.com.ve.
 simax.com.ve.
@@ -19439,6 +19445,7 @@ sistelnet.com.ve.
 sistelred.com.ve.
 sistemacrm.com.ve.
 sistemadeformacionfranciscodemiranda.org.ve.
+sistemadegestionciti.com.ve.
 sistemadeventas.com.ve.
 sistemapia.com.ve.
 sistemas-empresariales.com.ve.
@@ -19968,7 +19975,6 @@ ssab.com.ve.
 ssas.gob.ve.
 ssdigital.com.ve.
 sseecoquimica.com.ve.
-ssgyf.com.ve.
 ssi-schaefer.com.ve.
 ssi.org.ve.
 ssn.com.ve.
@@ -20350,6 +20356,7 @@ sv3.net.ve.
 svanestesia.org.ve.
 svc.net.ve.
 svcc.org.ve.
+svcot.org.ve.
 svdcd.org.ve.
 sve-espeleologia.org.ve.
 svh-web.org.ve.
@@ -22181,6 +22188,7 @@ valera-trujillo.gov.ve.
 valeramotorssa.com.ve.
 valeranoticias.com.ve.
 valeromontacargas.com.ve.
+valery.com.ve.
 valerysoftware.com.ve.
 valetparkingv.com.ve.
 valfor.com.ve.
@@ -22590,6 +22598,7 @@ vidaza.com.ve.
 video.com.ve.
 videochat.com.ve.
 videoclub.com.ve.
+videoelect.com.ve.
 videojet.com.ve.
 videojuego.com.ve.
 videomapping.com.ve.
@@ -22630,7 +22639,6 @@ vinfast.com.ve.
 vinfastauto.com.ve.
 vinodol.com.ve.
 vinotintosmlb.com.ve.
-vintage.com.ve.
 vinted.co.ve.
 vio.com.ve.
 viotto.com.ve.
@@ -22679,7 +22687,6 @@ visor.com.ve.
 visorojasyasociados.com.ve.
 vistacalifornia.com.ve.
 vistage.com.ve.
-vistalavila.com.ve.
 visualartstudio.com.ve.
 visualbro.com.ve.
 visualmarketing3.com.ve.
