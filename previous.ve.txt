@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 16Oct2024 04:54 UTC
+# ve domain names extracted from nameservers on 17Oct2024 04:51 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -966,6 +966,7 @@ alcoholimetros.com.ve.
 alconpat.org.ve.
 alcott.co.ve.
 aldata.com.ve.
+aldea.com.ve.
 aldeasinfantiles.org.ve.
 aldebaran.net.ve.
 aldo.com.ve.
@@ -1970,6 +1971,7 @@ autoservicios.com.ve.
 autoshop.com.ve.
 autosolar.com.ve.
 autosoluciones.com.ve.
+autosya.com.ve.
 autotapiceriaeuropa.com.ve.
 autotek.com.ve.
 autoto.com.ve.
@@ -5161,6 +5163,7 @@ condominioaldia.com.ve.
 condominioexpress.com.ve.
 condominioflamingo.com.ve.
 condominionunezponte.com.ve.
+condominios-avalor.com.ve.
 condominioslider.com.ve.
 condominiosmargarita.com.ve.
 condominiossantamonica.com.ve.
@@ -9102,6 +9105,8 @@ galepso.com.ve.
 galeriasvelazquez.com.ve.
 galipan.com.ve.
 gallerycomputer.com.ve.
+galletera-carabobo.com.ve.
+galleteracaraboboglobal.com.ve.
 gallofx.com.ve.
 galloverde.com.ve.
 galup.com.ve.
@@ -10146,6 +10151,7 @@ haygroup.co.ve.
 haygroup.com.ve.
 hays.co.ve.
 hays.com.ve.
+hbe.com.ve.
 hbfuller.com.ve.
 hbo.co.ve.
 hbogo.com.ve.
@@ -10899,7 +10905,6 @@ igcahierro.com.ve.
 igez.edu.ve.
 igi.com.ve.
 iglealfayomega.com.ve.
-iglesia-anglicana.org.ve.
 iglesiadehoyconcristo.com.ve.
 iglesiadejesucristo.org.ve.
 iglesiadeleste.com.ve.
@@ -11089,6 +11094,7 @@ incret.gob.ve.
 incubadoraenergetica.com.ve.
 ind.gob.ve.
 ind.gov.ve.
+indabpco.com.ve.
 indaca.com.ve.
 indal.com.ve.
 inde.gob.ve.
@@ -11318,6 +11324,7 @@ innovalosandes.com.ve.
 innovalosllanos.com.ve.
 innovaoriente.com.ve.
 innovar.com.ve.
+innovasoft.co.ve.
 innovasoluciones.com.ve.
 innovasolucionesti.com.ve.
 innovat.com.ve.
@@ -12455,7 +12462,6 @@ kontent.co.ve.
 kontent.com.ve.
 kontrol.com.ve.
 koodek.com.ve.
-koralite.com.ve.
 kores.com.ve.
 kormacol.com.ve.
 kornferry.co.ve.
@@ -12483,7 +12489,6 @@ kraft.com.ve.
 kraftfoods.com.ve.
 kraiburg.com.ve.
 krays.com.ve.
-krdigital.com.ve.
 kre-o.com.ve.
 kreare.com.ve.
 kreasoft.com.ve.
@@ -12868,6 +12873,7 @@ ledplus.com.ve.
 ledvance.com.ve.
 lee.com.ve.
 leecooper.com.ve.
+leehamilton.com.ve.
 leejaeyong.co.ve.
 leejaeyong.com.ve.
 leekunhee.co.ve.
@@ -14284,7 +14290,6 @@ mfpack.com.ve.
 mgct.com.ve.
 mgf.com.ve.
 mggv.com.ve.
-mglawyers.com.ve.
 mgmgrand.com.ve.
 mgmmirage.com.ve.
 mgmresorts.com.ve.
@@ -15822,8 +15827,10 @@ one-and-one.com.ve.
 one-blade.com.ve.
 one.com.ve.
 oneandone.com.ve.
+oneblade.com.ve.
 onedrive.co.ve.
 onedrive.com.ve.
+onergy.com.ve.
 onestar.com.ve.
 onestopplus.co.ve.
 onestopplus.com.ve.
@@ -18034,7 +18041,6 @@ revistanegotium.org.ve.
 revistaorbis.org.ve.
 revistaorinocopyp.org.ve.
 revistaronda.com.ve.
-revistaunes.com.ve.
 revistavenacor.com.ve.
 revlimid.com.ve.
 rewardsclub.com.ve.
@@ -18490,7 +18496,6 @@ salongalipan.com.ve.
 salonpas.co.ve.
 salonpas.com.ve.
 saloodo.com.ve.
-salpro.com.ve.
 salsaycultura.com.ve.
 salsera.net.ve.
 saltoadelante.gob.ve.
@@ -19063,6 +19068,7 @@ serviciosintegrales.com.ve.
 serviciosintegralesapis.com.ve.
 serviciosmecanicostrarca.com.ve.
 serviciosmedicos.com.ve.
+serviciosuberamigo.com.ve.
 serviciotecnicowhirlpool.com.ve.
 servicoffeenj.com.ve.
 servicom.com.ve.
@@ -19070,6 +19076,7 @@ servicons.com.ve.
 servicool.com.ve.
 servidoreslinux.com.ve.
 servieleca.com.ve.
+servientrega.co.ve.
 servienvia.com.ve.
 servienvios.com.ve.
 servier.com.ve.
@@ -19341,7 +19348,9 @@ silveriasoc.com.ve.
 silverlight.com.ve.
 silvertrading.com.ve.
 silvestripharma.com.ve.
+sim.com.ve.
 sim.org.ve.
+sim.web.ve.
 simaca.com.ve.
 simark.com.ve.
 simax.com.ve.
@@ -19432,6 +19441,7 @@ sistemacrm.com.ve.
 sistemadeformacionfranciscodemiranda.org.ve.
 sistemadegestionciti.com.ve.
 sistemadeventas.com.ve.
+sistemadevidayeshuapro.com.ve.
 sistemapia.com.ve.
 sistemas-empresariales.com.ve.
 sistemas.emprende.ve.
@@ -20552,6 +20562,7 @@ technocrata.com.ve.
 technologie.com.ve.
 technopc.com.ve.
 technosmart.com.ve.
+technotypes.com.ve.
 techomat.com.ve.
 techservicelux.com.ve.
 techsoup.com.ve.
@@ -22673,6 +22684,7 @@ visor.com.ve.
 visorojasyasociados.com.ve.
 vistacalifornia.com.ve.
 vistage.com.ve.
+vistalavila.com.ve.
 visualartstudio.com.ve.
 visualbro.com.ve.
 visualmarketing3.com.ve.
