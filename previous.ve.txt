@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 17Oct2024 04:51 UTC
+# ve domain names extracted from nameservers on 18Oct2024 04:32 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -564,6 +564,7 @@ agrimer.com.ve.
 agrinova.com.ve.
 agriplus.com.ve.
 agritrader.net.ve.
+agro-austin.com.ve.
 agro.com.ve.
 agro.net.ve.
 agrocasa.com.ve.
@@ -1024,6 +1025,7 @@ alge.net.ve.
 algodonesdelorinoco.gob.ve.
 alhaja.com.ve.
 aliadospharmetiquelabs.com.ve.
+aliantec.com.ve.
 alianzanethv.com.ve.
 alianzasalud.com.ve.
 alica.com.ve.
@@ -5054,7 +5056,6 @@ compraventa.com.ve.
 compreahora.com.ve.
 comprotic.com.ve.
 compuamerica.com.ve.
-compucaracas.com.ve.
 compufacil.com.ve.
 compugatecenter.com.ve.
 compumarketfh.com.ve.
@@ -6807,7 +6808,6 @@ dpana.com.ve.
 dpasesores.co.ve.
 dpcmerida.gob.ve.
 dpg.com.ve.
-dpxcomics.com.ve.
 dra.com.ve.
 draeger-safety.com.ve.
 draeger.co.ve.
@@ -9556,7 +9556,6 @@ goeuro.co.ve.
 gofundme.co.ve.
 gogetter.com.ve.
 gogl.com.ve.
-gogle.co.ve.
 gogol.com.ve.
 goherbalife.co.ve.
 gola.com.ve.
@@ -9677,6 +9676,7 @@ grainca.com.ve.
 grainger.co.ve.
 grainger.com.ve.
 gramoca.com.ve.
+granapadano.com.ve.
 granbrasa.com.ve.
 grancacique.com.ve.
 grancapitulo.org.ve.
@@ -10143,6 +10143,7 @@ hatillo.com.ve.
 hatillomarket.com.ve.
 hats.com.ve.
 hatzalah.com.ve.
+hav.com.ve.
 havaianas.com.ve.
 haveityourway.co.ve.
 haveityourway.com.ve.
@@ -11324,7 +11325,6 @@ innovalosandes.com.ve.
 innovalosllanos.com.ve.
 innovaoriente.com.ve.
 innovar.com.ve.
-innovasoft.co.ve.
 innovasoluciones.com.ve.
 innovasolucionesti.com.ve.
 innovat.com.ve.
@@ -11511,6 +11511,7 @@ interconectadosvenezuela.com.ve.
 interexpress.com.ve.
 interfaceflor.co.ve.
 interfaceflor.com.ve.
+interfibra.com.ve.
 interfibra.net.ve.
 interflash.com.ve.
 intergeo.com.ve.
@@ -12603,7 +12604,6 @@ lacarlota.mil.ve.
 lacasadelasmangueras.com.ve.
 lacasadelcerrajero.com.ve.
 lacasadelhabano.com.ve.
-lacasadelhidrojet.com.ve.
 lacasadelpapel.com.ve.
 lacasadelsincronicoaragua.com.ve.
 lacasadelviento.com.ve.
@@ -14290,6 +14290,7 @@ mfpack.com.ve.
 mgct.com.ve.
 mgf.com.ve.
 mggv.com.ve.
+mglawyers.com.ve.
 mgmgrand.com.ve.
 mgmmirage.com.ve.
 mgmresorts.com.ve.
@@ -14425,7 +14426,6 @@ mimovistar-online.com.ve.
 mimovistar-online.net.ve.
 mimovistaronline.com.ve.
 mimusicaweb.com.ve.
-minaamp.gob.ve.
 minagricultura.gob.ve.
 minaguas.gob.ve.
 minal.gob.ve.
@@ -14693,7 +14693,6 @@ monagas-guarico.gob.ve.
 monagas.gob.ve.
 monagas.gov.ve.
 monasterios.com.ve.
-monastery.com.ve.
 monatin.com.ve.
 moncler.co.ve.
 moncler.com.ve.
@@ -15569,6 +15568,7 @@ nutramigen.co.ve.
 nutramigen.com.ve.
 nutribasicos.com.ve.
 nutribiosis.com.ve.
+nutribites.com.ve.
 nutribullet.co.ve.
 nutribullet.com.ve.
 nutribyfood.com.ve.
@@ -17461,6 +17461,7 @@ pyrukynd.com.ve.
 pys.com.ve.
 qarepas.com.ve.
 qasesorios.com.ve.
+qbarato.com.ve.
 qca.com.ve.
 qdevs.com.ve.
 qiangliled.com.ve.
@@ -18270,7 +18271,6 @@ roodos.com.ve.
 roomba.co.ve.
 roomba.com.ve.
 roomgo.com.ve.
-roraima.com.ve.
 roraimamotors.com.ve.
 rosariodeperija-zulia.gob.ve.
 rosariodeperija.gob.ve.
@@ -19350,7 +19350,6 @@ silvertrading.com.ve.
 silvestripharma.com.ve.
 sim.com.ve.
 sim.org.ve.
-sim.web.ve.
 simaca.com.ve.
 simark.com.ve.
 simax.com.ve.
@@ -19400,6 +19399,7 @@ sineauca.gob.ve.
 sinelmeca.com.ve.
 sinergia.org.ve.
 sinergiaccp.com.ve.
+sinergios.com.ve.
 sinest.gob.ve.
 sinfronteras.co.ve.
 singel.com.ve.
@@ -20398,6 +20398,7 @@ syh.com.ve.
 symaca.com.ve.
 symantec.co.ve.
 symantec.com.ve.
+symux.com.ve.
 sync.com.ve.
 syngenta.co.ve.
 synopsys.com.ve.
@@ -21127,6 +21128,7 @@ topused.co.ve.
 topventas.com.ve.
 torakku.com.ve.
 torbes-tachira.gov.ve.
+torca.com.ve.
 toritoexpress.com.ve.
 tork.co.ve.
 tork.com.ve.
@@ -22186,7 +22188,6 @@ valera-trujillo.gov.ve.
 valeramotorssa.com.ve.
 valeranoticias.com.ve.
 valeromontacargas.com.ve.
-valery.com.ve.
 valerysoftware.com.ve.
 valetparkingv.com.ve.
 valfor.com.ve.
@@ -22330,6 +22331,7 @@ vendetutti.com.ve.
 vendigital.com.ve.
 veneasesores.com.ve.
 veneasistencia.com.ve.
+veneaventura.com.ve.
 venecita.com.ve.
 veneconcret.com.ve.
 venecorrndt.com.ve.
