@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 18Oct2024 04:32 UTC
+# ve domain names extracted from nameservers on 19Oct2024 04:46 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -96,7 +96,6 @@
 3pmshield.com.ve.
 3pmsolutions.co.ve.
 3pmsolutions.com.ve.
-3r.nets.ve.
 412.com.ve.
 42brigadaparacaidista.mil.ve.
 4cloud.com.ve.
@@ -127,6 +126,7 @@
 800flowers.com.ve.
 888.co.ve.
 888.com.ve.
+888.net.ve.
 888casino.co.ve.
 888casino.com.ve.
 888poker.co.ve.
@@ -558,7 +558,6 @@ agriclass.com.ve.
 agricolalagiralda.com.ve.
 agriculturaproductiva.gob.ve.
 agridevenezuela.com.ve.
-agriequip.com.ve.
 agrimar.com.ve.
 agrimer.com.ve.
 agrinova.com.ve.
@@ -2705,6 +2704,7 @@ biruaca-apure.gob.ve.
 bisoft.com.ve.
 bissell.com.ve.
 bistrolibertador.com.ve.
+bisuteria888.com.ve.
 bisuteriaryr.com.ve.
 bitbank.com.ve.
 bitbase.com.ve.
@@ -8176,7 +8176,6 @@ fenixsalud.com.ve.
 fenixwebcaracas.com.ve.
 fepafem.org.ve.
 fepr.gob.ve.
-fercam.com.ve.
 feriadellibroccs.org.ve.
 feriainternacionaldevalencia.gob.ve.
 fermaca.com.ve.
@@ -8436,6 +8435,7 @@ fluidcon.com.ve.
 fluidcontainment.com.ve.
 fluidcontainmentandina.com.ve.
 fluidmaster.com.ve.
+flujotv.com.ve.
 fluke.co.ve.
 fluke.com.ve.
 flukeprocessinstruments.co.ve.
@@ -9091,7 +9091,6 @@ gaesca.com.ve.
 gagil.com.ve.
 gaitashighclass.com.ve.
 gaitronics.com.ve.
-galainmuebles.com.ve.
 galanet.com.ve.
 galatelecom.com.ve.
 galatelecom.net.ve.
@@ -10585,6 +10584,7 @@ hotornot.com.ve.
 hotradiofm.com.ve.
 hotwire.co.ve.
 hotwire.com.ve.
+houmi.com.ve.
 housedecor.com.ve.
 houseofmarley.com.ve.
 houseofrock.com.ve.
@@ -11325,6 +11325,7 @@ innovalosandes.com.ve.
 innovalosllanos.com.ve.
 innovaoriente.com.ve.
 innovar.com.ve.
+innovasoft.co.ve.
 innovasoluciones.com.ve.
 innovasolucionesti.com.ve.
 innovat.com.ve.
@@ -14426,6 +14427,7 @@ mimovistar-online.com.ve.
 mimovistar-online.net.ve.
 mimovistaronline.com.ve.
 mimusicaweb.com.ve.
+minaamp.gob.ve.
 minagricultura.gob.ve.
 minaguas.gob.ve.
 minal.gob.ve.
@@ -15187,7 +15189,6 @@ navator.com.ve.
 navegante.co.ve.
 navegante.com.ve.
 naviarca.co.ve.
-naviarca.com.ve.
 navibus.com.ve.
 navica.co.ve.
 navicu.com.ve.
@@ -15249,7 +15250,6 @@ nestle.com.ve.
 nestleprofessional.com.ve.
 nestpick.com.ve.
 net.ve.
-netandsoft.com.ve.
 netarea.com.ve.
 netart.com.ve.
 netartcloud.com.ve.
@@ -16015,6 +16015,7 @@ oshica.com.ve.
 oshkosh.com.ve.
 oshkoshbgosh.com.ve.
 osisoft.co.ve.
+osisteconsa.com.ve.
 osmotech.com.ve.
 osodesarrollos.com.ve.
 osoriogroup.com.ve.
@@ -18115,7 +18116,6 @@ rinmar.com.ve.
 rintoca.com.ve.
 rioclarocafe.com.ve.
 rionegro-amazonas.gob.ve.
-risankizumab.com.ve.
 risksolutions.net.ve.
 ritmica1015fm.com.ve.
 rittal.com.ve.
@@ -18271,6 +18271,7 @@ roodos.com.ve.
 roomba.co.ve.
 roomba.com.ve.
 roomgo.com.ve.
+roraima.com.ve.
 roraimamotors.com.ve.
 rosariodeperija-zulia.gob.ve.
 rosariodeperija.gob.ve.
@@ -19350,6 +19351,7 @@ silvertrading.com.ve.
 silvestripharma.com.ve.
 sim.com.ve.
 sim.org.ve.
+sim.web.ve.
 simaca.com.ve.
 simark.com.ve.
 simax.com.ve.
@@ -22156,6 +22158,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22188,6 +22191,7 @@ valera-trujillo.gov.ve.
 valeramotorssa.com.ve.
 valeranoticias.com.ve.
 valeromontacargas.com.ve.
+valery.com.ve.
 valerysoftware.com.ve.
 valetparkingv.com.ve.
 valfor.com.ve.
