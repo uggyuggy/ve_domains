@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19Oct2024 04:46 UTC
+# ve domain names extracted from nameservers on 20Oct2024 08:15 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -96,6 +96,7 @@
 3pmshield.com.ve.
 3pmsolutions.co.ve.
 3pmsolutions.com.ve.
+3r.nets.ve.
 412.com.ve.
 42brigadaparacaidista.mil.ve.
 4cloud.com.ve.
@@ -4623,7 +4624,6 @@ cobb.com.ve.
 cober.com.ve.
 cobinca.com.ve.
 cobra.com.ve.
-cobrex.com.ve.
 coc.com.ve.
 coca-cola.com.ve.
 coca-colafemsa.com.ve.
@@ -6174,7 +6174,6 @@ decd-merida.gov.ve.
 dechra.com.ve.
 deciem.co.ve.
 deciem.com.ve.
-decoblinds.com.ve.
 decocar.com.ve.
 decocristal.com.ve.
 decoglass.com.ve.
@@ -6276,7 +6275,6 @@ denca.com.ve.
 denca.net.ve.
 dencorub.com.ve.
 denios.co.ve.
-denizfotografia.com.ve.
 dennagutierrezc-inmuebles.com.ve.
 denso.com.ve.
 dental-smile.com.ve.
@@ -7009,7 +7007,6 @@ eccochemical.com.ve.
 eclass.com.ve.
 ecoazul.org.ve.
 ecobike.com.ve.
-ecobio.com.ve.
 ecocolor.com.ve.
 ecocosmetica.com.ve.
 ecoem.com.ve.
@@ -8176,6 +8173,7 @@ fenixsalud.com.ve.
 fenixwebcaracas.com.ve.
 fepafem.org.ve.
 fepr.gob.ve.
+fercam.com.ve.
 feriadellibroccs.org.ve.
 feriainternacionaldevalencia.gob.ve.
 fermaca.com.ve.
@@ -8427,7 +8425,6 @@ florentino.gob.ve.
 florentino.gov.ve.
 florentino.mil.ve.
 florestor.com.ve.
-floritec.com.ve.
 flormar.co.ve.
 flowers.com.ve.
 flowpark.com.ve.
@@ -9091,6 +9088,7 @@ gaesca.com.ve.
 gagil.com.ve.
 gaitashighclass.com.ve.
 gaitronics.com.ve.
+galainmuebles.com.ve.
 galanet.com.ve.
 galatelecom.com.ve.
 galatelecom.net.ve.
@@ -9225,7 +9223,6 @@ geforce.com.ve.
 geforcenow.com.ve.
 gehealthcare.com.ve.
 gekkosystems.com.ve.
-gelantibacterial.com.ve.
 gelerc.com.ve.
 gelosol.com.ve.
 gelvez.com.ve.
@@ -11085,7 +11082,6 @@ inces.net.ve.
 incestocuyito.emprende.ve.
 incetra.com.ve.
 incivo.com.ve.
-incluyeme.org.ve.
 incoco.co.ve.
 incosa.com.ve.
 incosoluciones.com.ve.
@@ -12648,7 +12644,6 @@ laferreteria.com.ve.
 lafiestadeljoropo.edu.ve.
 lafilmschool.com.ve.
 lafilmschool.net.ve.
-laflorida.com.ve.
 lafm.com.ve.
 lagentedelmarmol.com.ve.
 lagevrio.com.ve.
@@ -14341,7 +14336,6 @@ michelena-tachira.gob.ve.
 michelin.com.ve.
 michigansp.com.ve.
 micielo.org.ve.
-micolegio.com.ve.
 micondominio.com.ve.
 miconocimiento.gov.ve.
 micorreo.com.ve.
@@ -15189,6 +15183,7 @@ navator.com.ve.
 navegante.co.ve.
 navegante.com.ve.
 naviarca.co.ve.
+naviarca.com.ve.
 navibus.com.ve.
 navica.co.ve.
 navicu.com.ve.
@@ -16503,6 +16498,7 @@ performance.com.ve.
 performancegym.com.ve.
 performia.com.ve.
 perforosven.com.ve.
+perfumadas.com.ve.
 perfumesclub.co.ve.
 perfumesclub.com.ve.
 perfumessence.com.ve.
@@ -18121,7 +18117,6 @@ ritmica1015fm.com.ve.
 rittal.com.ve.
 ritz.com.ve.
 riv-elhatillo.com.ve.
-riv-lasamericas.com.ve.
 riv-sureste.com.ve.
 riv.com.ve.
 riv.web.ve.
@@ -20041,7 +20036,6 @@ staufferhotel.com.ve.
 stay-in-range.com.ve.
 stayfree.com.ve.
 stayinrange.com.ve.
-stbv.org.ve.
 ste.com.ve.
 steel.com.ve.
 stefano-ricci.co.ve.
@@ -20137,7 +20131,6 @@ subasta.com.ve.
 subastaonline.com.ve.
 sublimacionamericana.com.ve.
 sublime.com.ve.
-subliven.com.ve.
 submariner.co.ve.
 submariner.com.ve.
 submariner.info.ve.
@@ -20765,7 +20758,6 @@ tequenet.com.ve.
 terabytesoluciones.com.ve.
 teradata.com.ve.
 teragrip.com.ve.
-teraminer.com.ve.
 terapeuta.co.ve.
 teresianolacastellana.edu.ve.
 teresianolacastellanastj.edu.ve.
@@ -20902,7 +20894,6 @@ thomasgroup.com.ve.
 thomassabo.com.ve.
 thomsit.com.ve.
 thomsonreuters.com.ve.
-thoriumcorp.com.ve.
 thornlighting.com.ve.
 threetom.com.ve.
 thrill.co.ve.
@@ -22158,7 +22149,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
