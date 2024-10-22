@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Oct2024 08:15 UTC
+# ve domain names extracted from nameservers on 21Oct2024 07:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -7007,6 +7007,7 @@ eccochemical.com.ve.
 eclass.com.ve.
 ecoazul.org.ve.
 ecobike.com.ve.
+ecobio.com.ve.
 ecocolor.com.ve.
 ecocosmetica.com.ve.
 ecoem.com.ve.
@@ -8089,7 +8090,6 @@ farmavida.com.ve.
 farmrio.com.ve.
 faroca.com.ve.
 fasganz.gob.ve.
-fashiondepot.com.ve.
 fashionunited.com.ve.
 fasilca.com.ve.
 fasmee.gob.ve.
@@ -10776,7 +10776,6 @@ ibmetro.com.ve.
 ibmwatson.com.ve.
 ibprovivienda.com.ve.
 ibsoftdev.com.ve.
-ibt.com.ve.
 ibydi.com.ve.
 icab.com.ve.
 icad.com.ve.
@@ -13547,7 +13546,6 @@ manamaccs.com.ve.
 manapiare-amazonas.gob.ve.
 manapro.com.ve.
 manave.com.ve.
-mancent.com.ve.
 manchas.com.ve.
 mancorasuites.com.ve.
 mandalaremesa.com.ve.
@@ -13637,6 +13635,7 @@ maracay.com.ve.
 maradeoro.com.ve.
 marak.com.ve.
 maralyexpress.com.ve.
+maranet.net.ve.
 marantz.com.ve.
 marapet.com.ve.
 marari.com.ve.
@@ -15994,7 +15993,6 @@ ortopediamedicafalcon.com.ve.
 oruga.com.ve.
 oruga.net.ve.
 orval.com.ve.
-oryxresources.com.ve.
 osaic.com.ve.
 oscal.com.ve.
 oscar.com.ve.
@@ -19262,6 +19260,7 @@ sicave.com.ve.
 sicc.com.ve.
 siceiweb.net.ve.
 siceiweb.web.ve.
+sicgocrm.com.ve.
 siclick.com.ve.
 sicm.gob.ve.
 siconsulting.com.ve.
@@ -22149,6 +22148,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
