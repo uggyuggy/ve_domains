@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Oct2024 07:46 UTC
+# ve domain names extracted from nameservers on 23Oct2024 04:45 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -967,6 +967,7 @@ alcoholimetros.com.ve.
 alconpat.org.ve.
 alcott.co.ve.
 aldata.com.ve.
+aldea.com.ve.
 aldeasinfantiles.org.ve.
 aldebaran.net.ve.
 aldo.com.ve.
@@ -1435,7 +1436,6 @@ aparkate.com.ve.
 apartamentos.com.ve.
 apartamentosvacacionalesmargarita.com.ve.
 apcc.com.ve.
-apem.org.ve.
 aphservices.org.ve.
 api.com.ve.
 apis.com.ve.
@@ -1519,6 +1519,7 @@ aquaazul.com.ve.
 aquamarina.com.ve.
 aquamundo.com.ve.
 aquapark.com.ve.
+aquarela.com.ve.
 aquarena.com.ve.
 aquariumdevalencia.gob.ve.
 aquatech.com.ve.
@@ -1795,7 +1796,6 @@ assaabloy.com.ve.
 assing.com.ve.
 assistotuviaje.com.ve.
 asteca.com.ve.
-astego.com.ve.
 astellaspharma.co.ve.
 astellaspharma.com.ve.
 astom.com.ve.
@@ -3131,7 +3131,6 @@ burrosabanero.com.ve.
 burster.com.ve.
 buscador.com.ve.
 buscador.nic.ve.
-buscagram.com.ve.
 buscalo.com.ve.
 buscamint.com.ve.
 buscapartes.com.ve.
@@ -3914,7 +3913,6 @@ centroitalianovenezolano.com.ve.
 centrolam.com.ve.
 centrolatino.com.ve.
 centrolit.com.ve.
-centromedico.net.ve.
 centromedicocarvajal.com.ve.
 centromedicodecaracas.com.ve.
 centromedicopasoreal.com.ve.
@@ -7779,6 +7777,7 @@ eurolicores.com.ve.
 euromercado.com.ve.
 euromotor.com.ve.
 europa.com.ve.
+europaeducation.com.ve.
 europamundo.com.ve.
 europcar.com.ve.
 europehotels.com.ve.
@@ -7952,6 +7951,7 @@ exxonmobilchemical.com.ve.
 ey.co.ve.
 ey.com.ve.
 eyaculacionprecoz.com.ve.
+eyd.com.ve.
 eyekids.com.ve.
 eyescloud3d.com.ve.
 eyespace.com.ve.
@@ -8083,6 +8083,7 @@ farmavida.com.ve.
 farmrio.com.ve.
 faroca.com.ve.
 fasganz.gob.ve.
+fashiondepot.com.ve.
 fashionunited.com.ve.
 fasilca.com.ve.
 fasmee.gob.ve.
@@ -9170,7 +9171,6 @@ gbi.com.ve.
 gbit.com.ve.
 gbst.gob.ve.
 gbuzz.co.ve.
-gbv.com.ve.
 gc.com.ve.
 gcautopartes.com.ve.
 gcc.com.ve.
@@ -10130,7 +10130,6 @@ hatillo.com.ve.
 hatillomarket.com.ve.
 hats.com.ve.
 hatzalah.com.ve.
-hav.com.ve.
 havaianas.com.ve.
 haveityourway.co.ve.
 haveityourway.com.ve.
@@ -10572,7 +10571,6 @@ hotornot.com.ve.
 hotradiofm.com.ve.
 hotwire.co.ve.
 hotwire.com.ve.
-houmi.com.ve.
 housedecor.com.ve.
 houseofmarley.com.ve.
 houseofrock.com.ve.
@@ -11311,7 +11309,6 @@ innovalosandes.com.ve.
 innovalosllanos.com.ve.
 innovaoriente.com.ve.
 innovar.com.ve.
-innovasoft.co.ve.
 innovasoluciones.com.ve.
 innovasolucionesti.com.ve.
 innovat.com.ve.
@@ -11566,6 +11563,7 @@ intt.gob.ve.
 inttt.com.ve.
 inttt.gob.ve.
 inttt.org.ve.
+intu.org.ve.
 intuit.co.ve.
 intuniv.com.ve.
 intyfem.com.ve.
@@ -14666,6 +14664,7 @@ molinaviajes.com.ve.
 molipasa.com.ve.
 molo.com.ve.
 molvenca.com.ve.
+mombeu.org.ve.
 mombi.com.ve.
 momentive.com.ve.
 momentos.com.ve.
@@ -15483,7 +15482,6 @@ novared.net.ve.
 novartis.com.ve.
 novasystem.net.ve.
 novatechinternational.com.ve.
-novaweb.com.ve.
 novelis.co.ve.
 novelis.com.ve.
 novia.com.ve.
@@ -16086,7 +16084,6 @@ packup.com.ve.
 paddeo.com.ve.
 paddypower.co.ve.
 paddypower.com.ve.
-padel.com.ve.
 padelcore.com.ve.
 padelguia.com.ve.
 padelmaster.com.ve.
@@ -16699,6 +16696,7 @@ pirca.com.ve.
 piriolitosnet.edu.ve.
 piritu-anzoategui.gob.ve.
 piritu-falcon.gov.ve.
+pirotecnicabomba.com.ve.
 pirotecnicaprimium.com.ve.
 pirson.com.ve.
 pisos.com.ve.
@@ -17952,7 +17950,6 @@ reporterosdemerida.com.ve.
 repossi.com.ve.
 representacionespl.com.ve.
 representacioneszafir.com.ve.
-reproinca.com.ve.
 repropaper.com.ve.
 repuestofacil.com.ve.
 repuestos.com.ve.
@@ -18047,7 +18044,6 @@ rfsystems.com.ve.
 rgo.com.ve.
 rgtech.com.ve.
 rh.com.ve.
-rhai.com.ve.
 rhasesorate.com.ve.
 rheem.com.ve.
 rhinorack.com.ve.
@@ -19424,7 +19420,6 @@ sistelnet.com.ve.
 sistelred.com.ve.
 sistemacrm.com.ve.
 sistemadeformacionfranciscodemiranda.org.ve.
-sistemadegestionciti.com.ve.
 sistemadeventas.com.ve.
 sistemadevidayeshuapro.com.ve.
 sistemapia.com.ve.
@@ -19465,6 +19460,7 @@ sivasys.com.ve.
 siven.com.ve.
 sivencasinger.com.ve.
 sivensa.com.ve.
+six.com.ve.
 sixcontinents.co.ve.
 sixcontinents.com.ve.
 sixcontinentshotels.co.ve.
@@ -19499,7 +19495,6 @@ skyglobe.com.ve.
 skygroup.com.ve.
 skygroupinvictus.com.ve.
 skyhome.com.ve.
-skylack.com.ve.
 skymedical.com.ve.
 skymuebles.com.ve.
 skyp.co.ve.
@@ -19921,7 +19916,6 @@ sportingbet.com.ve.
 sportium.co.ve.
 sportium.com.ve.
 sportmax.com.ve.
-sportrak.com.ve.
 sportsbetting.co.ve.
 sportsdirect.co.ve.
 sportsdirect.com.ve.
@@ -21982,6 +21976,7 @@ universidadcatalunya.co.ve.
 universidaddelasalud.edu.ve.
 universidadenlinea.com.ve.
 universidades.edu.ve.
+universidadeuropea.com.ve.
 universidadsaludalba.edu.ve.
 universidadsantarosa.com.ve.
 universidadvirtual.edu.ve.
@@ -23105,7 +23100,6 @@ witsseo.com.ve.
 wiwi.com.ve.
 wixroyd.co.ve.
 wlacruz.com.ve.
-wlot.com.ve.
 wltw.com.ve.
 wobenzym.com.ve.
 wolfang.info.ve.
@@ -23220,6 +23214,7 @@ xperimental.com.ve.
 xpertgroup.com.ve.
 xplorer.com.ve.
 xpormayor.com.ve.
+xstore.com.ve.
 xtremetech.com.ve.
 xvcenso.gob.ve.
 xven.com.ve.
