@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 25Oct2024 04:26 UTC
+# ve domain names extracted from nameservers on 26Oct2024 04:59 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -150,8 +150,6 @@
 _443._tcp.estadisticas.nic.ve.
 _443._tcp.nic.ve.
 _443._tcp.rdap.nic.ve.
-_443._tcp.whois.nic.ve.
-_443._tcp.www.nic.ve.
 _dmarc.mail.nic.ve.
 _dmarc.nic.ve.
 a-riesgo.com.ve.
@@ -404,7 +402,6 @@ admauditores.com.ve.
 admfox.com.ve.
 admicond.com.ve.
 administracion-condominio.com.ve.
-administradora-diamante.com.ve.
 administradora-octagon.com.ve.
 administradora-vickyann.com.ve.
 administradoraam.com.ve.
@@ -4647,7 +4644,6 @@ code49.com.ve.
 codeacademy.com.ve.
 codecademy.com.ve.
 codecerc.com.ve.
-codeconsulting.com.ve.
 codecyt.gob.ve.
 codelmar.com.ve.
 codena.gob.ve.
@@ -5360,6 +5356,7 @@ contraloriadeportuguesa.gob.ve.
 contraloriaderibas.gob.ve.
 contraloriadesancristobal.gob.ve.
 contraloriadesanfrancisco.gob.ve.
+contraloriadevalera.com.ve.
 contraloriadevalera.gob.ve.
 contraloriadezamora-miranda.gob.ve.
 contraloriaestadoamazonas.gob.ve.
@@ -5546,6 +5543,7 @@ corporacioneesystem.com.ve.
 corporacionfinancieraatlantida.com.ve.
 corporaciongonzca.com.ve.
 corporacionjc.com.ve.
+corporacionkriel.com.ve.
 corporacionprotex.com.ve.
 corporacionrwc.com.ve.
 corporacionrz.com.ve.
@@ -7417,7 +7415,6 @@ encantadohumboldt.org.ve.
 encarguelo.com.ve.
 enco.com.ve.
 encoca2enti.info.ve.
-enconsultasalud.com.ve.
 encuentralo.com.ve.
 encuentroinmueble.com.ve.
 encuentronacionalvespa.org.ve.
@@ -7689,6 +7686,7 @@ estafa.com.ve.
 estafeta.com.ve.
 estamosenlinea.com.ve.
 estamosenlinea.org.ve.
+estampados.com.ve.
 estancialastapias.com.ve.
 estanteriaselsol.com.ve.
 estasenlecheria.com.ve.
@@ -8056,6 +8054,7 @@ farmacia.com.ve.
 farmacia72.com.ve.
 farmaciaavuniversidad.com.ve.
 farmaciab12.com.ve.
+farmaciacentral.com.ve.
 farmacialalago.com.ve.
 farmacialaredoma.com.ve.
 farmaciaprada.com.ve.
@@ -10096,6 +10095,7 @@ hamptonbyhilton.com.ve.
 hamptoninnbyhilton.co.ve.
 hamptoninnbyhilton.com.ve.
 hanami.com.ve.
+handbellvenezuela.com.ve.
 hands.com.ve.
 handshake.com.ve.
 hangar74.com.ve.
@@ -14970,7 +14970,6 @@ multiplicas.com.ve.
 multiserviciosdag.com.ve.
 multiservicioslosarias.com.ve.
 multiserviciosti.com.ve.
-multishop.com.ve.
 multisoluciones.com.ve.
 multisport.com.ve.
 multisportonline.com.ve.
@@ -15004,7 +15003,6 @@ mundomac.com.ve.
 mundomar.com.ve.
 mundomax.com.ve.
 mundonorma.com.ve.
-mundootaku.com.ve.
 mundosatelital.co.ve.
 mundosatelital.com.ve.
 mundotrauma.com.ve.
@@ -15378,6 +15376,7 @@ nhow-hotels.com.ve.
 nhow.com.ve.
 nibru.com.ve.
 nic.ve.
+niccon.com.ve.
 nicelocal.com.ve.
 nicetrading.com.ve.
 nido.com.ve.
@@ -16483,6 +16482,7 @@ penmans.com.ve.
 pentagramita.com.ve.
 pentasa.co.ve.
 pentasa.com.ve.
+pentashoes.com.ve.
 pentasoft.net.ve.
 pentel.com.ve.
 penthouse.co.ve.
@@ -16531,6 +16531,7 @@ perpetualspirit.com.ve.
 perros.com.ve.
 persecucion.com.ve.
 persianaselavila.com.ve.
+personalizados.com.ve.
 personalizalotodo.com.ve.
 personalplus.com.ve.
 personas.com.ve.
@@ -17577,7 +17578,6 @@ radiocanal.com.ve.
 radiodeportivastereo.com.ve.
 radiodinamica.com.ve.
 radiodisney.com.ve.
-radioelbombillo92-1fm.com.ve.
 radioestadio.com.ve.
 radioflyer.com.ve.
 radioguaco.com.ve.
@@ -20210,7 +20210,6 @@ sumiven.com.ve.
 summit.com.ve.
 summitpartners.com.ve.
 summum.com.ve.
-sumproelect.com.ve.
 sumup.com.ve.
 sun.co.ve.
 sun.com.ve.
@@ -21434,6 +21433,7 @@ tsj-dem.gob.ve.
 tsj.gob.ve.
 tsjdem.gob.ve.
 tsr.com.ve.
+tsrca.com.ve.
 tss.gob.ve.
 tssca.com.ve.
 tst-comercioenlinea.com.ve.
@@ -22583,7 +22583,6 @@ victronenergy.co.ve.
 victtoryweb.com.ve.
 vidalibros.co.ve.
 vidalibros.com.ve.
-vidanet.com.ve.
 vidaprofesional.com.ve.
 vidaradio.com.ve.
 vidasexualsaludable.com.ve.
@@ -23155,11 +23154,9 @@ wrangler.com.ve.
 ws.com.ve.
 wsaud.co.ve.
 wsaud.com.ve.
-wscalidad.nic.ve.
 wsedtrfsdcxzfczxdc.com.ve.
 wsi.com.ve.
 wsp.com.ve.
-wsprod.nic.ve.
 wsradioonline.com.ve.
 wtw.com.ve.
 wtwco.co.ve.
