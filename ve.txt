@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Oct2024 04:19 UTC
+# ve domain names extracted from nameservers on 28Oct2024 05:17 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2372,7 +2372,6 @@ bcv.org.ve.
 bcvasiaeurocaribe.org.ve.
 bcveuroasia.org.ve.
 bcvopvc.org.ve.
-bcvve.org.ve.
 bcw-global.com.ve.
 bdc.com.ve.
 bddintegralonline.com.ve.
@@ -3192,6 +3191,7 @@ cabildometropolitano.gov.ve.
 cabimas-zulia.gob.ve.
 cabisoar.com.ve.
 cabisoguarnac.com.ve.
+cablebrasil.com.ve.
 cablehogar.net.ve.
 cablepar.com.ve.
 cablesindustriales.com.ve.
@@ -4734,7 +4734,6 @@ colegioeugeniaravasco.edu.ve.
 colegioevangelicosw.com.ve.
 colegiofatima.com.ve.
 colegiofrancia.edu.ve.
-colegiofranciscolazomarti.com.ve.
 colegiofrayluisdeleon.com.ve.
 colegiofrayluisdeleon.edu.ve.
 colegiofraymigueldeolivares.com.ve.
@@ -5188,6 +5187,7 @@ conexionescbg.com.ve.
 conexitusconsultores.com.ve.
 conext.com.ve.
 conext.net.ve.
+confeccioneshermanoscantos.com.ve.
 conferencecall.com.ve.
 confiabilidad.com.ve.
 confiarp.org.ve.
@@ -5520,7 +5520,6 @@ corpoelecindustrial.net.ve.
 corpoelecindustrial.org.ve.
 corpoelecindustrial.web.ve.
 corpoez.gob.ve.
-corpoglobotelecom.com.ve.
 corpojuventud.com.ve.
 corpolara.gob.ve.
 corpomiranda.com.ve.
@@ -5890,6 +5889,7 @@ cursoscleveland.edu.ve.
 cursosgeomin.com.ve.
 cursosgerenciales.com.ve.
 cursosmlv.com.ve.
+cursosvirtuales.emprende.ve.
 cursosycarreras.com.ve.
 cuspal.gob.ve.
 customed.com.ve.
@@ -6863,6 +6863,7 @@ drywall.com.ve.
 ds-automobiles.co.ve.
 dsa.com.ve.
 dsautomobiles.co.ve.
+dsc.com.ve.
 dsc.nic.ve.
 dsm.com.ve.
 dsp.com.ve.
@@ -11122,7 +11123,6 @@ indoxyl.com.ve.
 indra.com.ve.
 indrex.com.ve.
 induchem.com.ve.
-indusa.com.ve.
 indusalca.com.ve.
 induservica.com.ve.
 induservifumigaciones.com.ve.
@@ -13446,7 +13446,6 @@ madenor.com.ve.
 maderasdelalba.gob.ve.
 maderasdelorinoco.gob.ve.
 maderasguayabal.com.ve.
-maderasisidro.com.ve.
 maderca.com.ve.
 madman.com.ve.
 madrecarmenrendiles.edu.ve.
@@ -15409,7 +15408,6 @@ nissan.co.ve.
 nissan.net.ve.
 nissanve.com.ve.
 nisum.com.ve.
-nitori.com.ve.
 nittotires.co.ve.
 niuzai.com.ve.
 nivada.com.ve.
@@ -17146,7 +17144,6 @@ proalmo.com.ve.
 proamatine.com.ve.
 proanzoategui.org.ve.
 proavenca.com.ve.
-probe.com.ve.
 probe.net.ve.
 probeauty.com.ve.
 probeautygroup.com.ve.
@@ -17816,7 +17813,6 @@ redsoc.org.ve.
 redsocialistaagroecologica.gob.ve.
 redsoporte.com.ve.
 redticket.com.ve.
-redtoken.com.ve.
 redtube.com.ve.
 redtv.gob.ve.
 redumbrella.com.ve.
@@ -21769,7 +21765,6 @@ ueelpoblado.com.ve.
 ueemiliogermanandrus.com.ve.
 ueeporlamar.com.ve.
 ueestebansmonzon.edu.ve.
-uefranciscodemiranda.com.ve.
 uefrayelias.com.ve.
 ueiesimonbolivar.com.ve.
 ueindependencia.com.ve.

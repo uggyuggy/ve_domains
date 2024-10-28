@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Oct2024 04:59 UTC
+# ve domain names extracted from nameservers on 27Oct2024 04:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -150,6 +150,8 @@
 _443._tcp.estadisticas.nic.ve.
 _443._tcp.nic.ve.
 _443._tcp.rdap.nic.ve.
+_443._tcp.whois.nic.ve.
+_443._tcp.www.nic.ve.
 _dmarc.mail.nic.ve.
 _dmarc.nic.ve.
 a-riesgo.com.ve.
@@ -1630,7 +1632,6 @@ aromaven.com.ve.
 aronin.com.ve.
 arquetipo.com.ve.
 arquideas.com.ve.
-arquidiocesisdebarquisimeto.org.ve.
 arquidiocesisdecoro.org.ve.
 arquidiocesisdemerida.org.ve.
 arquitec.com.ve.
@@ -1664,7 +1665,6 @@ arsys.com.ve.
 art-vertising.com.ve.
 artc.com.ve.
 artecolor.com.ve.
-arteenlinea.com.ve.
 artefinalradio.com.ve.
 artefrio.com.ve.
 arteinmueble.com.ve.
@@ -2311,7 +2311,6 @@ barunu.com.ve.
 baruta-miranda.gob.ve.
 baruta.net.ve.
 barwil.com.ve.
-basalo.com.ve.
 basemiranda.mil.ve.
 basf.com.ve.
 basilea.co.ve.
@@ -6310,7 +6309,6 @@ dermocellcenter.com.ve.
 dermosalud.com.ve.
 derumbax.com.ve.
 desaca.com.ve.
-desarrollalo.com.ve.
 desarrollando.web.ve.
 desarrolloecobar.gov.ve.
 desarrollohumano.com.ve.
@@ -10954,7 +10952,6 @@ imagecom.com.ve.
 imagenesxxx.com.ve.
 imagenologialaurbina.com.ve.
 imaginacion961.com.ve.
-imaginasoluciones.com.ve.
 imago.com.ve.
 imalbeca.com.ve.
 imar.com.ve.
@@ -20157,6 +20154,7 @@ sucre-zulia.gob.ve.
 sucrecomercial.com.ve.
 sucrenet.com.ve.
 sucreturismo.gob.ve.
+suculentas.com.ve.
 sudeaseg.gob.ve.
 sudeban.gob.ve.
 sudeban.gov.ve.
@@ -23154,9 +23152,11 @@ wrangler.com.ve.
 ws.com.ve.
 wsaud.co.ve.
 wsaud.com.ve.
+wscalidad.nic.ve.
 wsedtrfsdcxzfczxdc.com.ve.
 wsi.com.ve.
 wsp.com.ve.
+wsprod.nic.ve.
 wsradioonline.com.ve.
 wtw.com.ve.
 wtwco.co.ve.
