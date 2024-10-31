@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Oct2024 05:34 UTC
+# ve domain names extracted from nameservers on 30Oct2024 05:57 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -345,6 +345,7 @@ actividadesvenezuela.com.ve.
 activo.com.ve.
 activtrades.com.ve.
 actualidad2000.com.ve.
+actualidadeducativa.com.ve.
 actualidadfm.com.ve.
 actualidadlaboral.com.ve.
 actualtravel.com.ve.
@@ -378,6 +379,7 @@ adckrone.com.ve.
 adclic.com.ve.
 adclichosting.com.ve.
 adconsultoria.com.ve.
+addc.com.ve.
 addigrains.com.ve.
 additech.com.ve.
 addiuva.com.ve.
@@ -2210,6 +2212,7 @@ balsam.com.ve.
 baltico.com.ve.
 balvenie.com.ve.
 baly.com.ve.
+bam.com.ve.
 bambary.com.ve.
 bambino.com.ve.
 banahost.com.ve.
@@ -3407,6 +3410,7 @@ captainmorgan.com.ve.
 capterra.co.ve.
 capterra.com.ve.
 capucla.org.ve.
+capurro.com.ve.
 caputo.com.ve.
 capywod.com.ve.
 car.com.ve.
@@ -4227,6 +4231,7 @@ cilara.org.ve.
 cim-caracas.gov.ve.
 cim.org.ve.
 cimaca.com.ve.
+cimarron.com.ve.
 cimavenezuela.com.ve.
 cimb.edu.ve.
 cimbali.com.ve.
@@ -4322,6 +4327,7 @@ citypumps.com.ve.
 ciudad.com.ve.
 ciudadanodigital.com.ve.
 ciudadanuncios.co.ve.
+ciudadcallenorte.com.ve.
 ciudadcalzado.com.ve.
 ciudadccs.info.ve.
 ciudaddesanfrancisco.gob.ve.
@@ -4680,6 +4686,7 @@ cointech.com.ve.
 cojedes.gob.ve.
 coke.com.ve.
 colaborador.com.ve.
+colarebo.com.ve.
 colegio.com.ve.
 colegio19deabril.com.ve.
 colegio24dejuniode1821.com.ve.
@@ -5153,7 +5160,6 @@ condoclick.com.ve.
 condomaniaplus.com.ve.
 condomina.com.ve.
 condominioaldia.com.ve.
-condominioexpress.com.ve.
 condominioflamingo.com.ve.
 condominionunezponte.com.ve.
 condominios-avalor.com.ve.
@@ -7236,6 +7242,7 @@ elica.co.ve.
 elimer.com.ve.
 eliminator.com.ve.
 elinca.com.ve.
+elincanoticias.com.ve.
 elinformador.com.ve.
 elink.com.ve.
 eliquis.com.ve.
@@ -7273,6 +7280,7 @@ elmundodelaseguridad.com.ve.
 elmundodelcolor.com.ve.
 elmundodeldulce.com.ve.
 elmundodelmarco.com.ve.
+elnegrero.com.ve.
 elnorte.com.ve.
 elnuevosaber.com.ve.
 elofertazo.com.ve.
@@ -7287,6 +7295,7 @@ elpeaton.org.ve.
 elperiodicodemonagas.com.ve.
 elperoleropzo.com.ve.
 elperroylarana.gob.ve.
+elpetarazo.com.ve.
 elpetro.com.ve.
 elpetro.gob.ve.
 elpetro.net.ve.
@@ -7317,6 +7326,7 @@ eltaquito.com.ve.
 elteide.com.ve.
 elterminalito.com.ve.
 eltiempo.com.ve.
+eltiempodecaricuao.com.ve.
 eltigre.com.ve.
 eltigre.gob.ve.
 eltrendecolores.com.ve.
@@ -7515,6 +7525,7 @@ envopack.com.ve.
 epa.com.ve.
 epac.com.ve.
 epaer.mil.ve.
+epaparroquia.com.ve.
 epar.edu.ve.
 epcamericas.com.ve.
 epiceerevista.com.ve.
@@ -7589,6 +7600,7 @@ escg.com.ve.
 escinetv.org.ve.
 esclerosismultiplehoy.com.ve.
 escolar.com.ve.
+esconusted.com.ve.
 escribaescueladeescritores.com.ve.
 escubafab.mil.ve.
 escubafan.mil.ve.
@@ -8171,6 +8183,7 @@ fepr.gob.ve.
 fercam.com.ve.
 feriadellibroccs.org.ve.
 feriainternacionaldevalencia.gob.ve.
+feriaplast.com.ve.
 fermaca.com.ve.
 fermetal.com.ve.
 fernandezfeo-tachira.gob.ve.
@@ -9222,7 +9235,6 @@ gekkosystems.com.ve.
 gelerc.com.ve.
 gelosol.com.ve.
 gelvez.com.ve.
-gemalabs.com.ve.
 gemalto.co.ve.
 gemalto.com.ve.
 gempro.com.ve.
@@ -14326,6 +14338,7 @@ micardis-amlo.com.ve.
 micardis.com.ve.
 micardisamlo.com.ve.
 micasa.com.ve.
+micasavale.com.ve.
 micasino.com.ve.
 mice.gob.ve.
 michacha.com.ve.
@@ -14658,6 +14671,7 @@ modafm.com.ve.
 modastimay.com.ve.
 modaurbana.com.ve.
 model-space.com.ve.
+modella.com.ve.
 modelo.com.ve.
 modelos.com.ve.
 modernage.com.ve.
@@ -15481,6 +15495,7 @@ notificaciones.com.ve.
 notificaciones.net.ve.
 notiribas.com.ve.
 notitarde.com.ve.
+notivecinos.com.ve.
 notivenezuela.com.ve.
 nottamotor.com.ve.
 noumatrading.com.ve.
@@ -15656,6 +15671,7 @@ oceanautos.com.ve.
 oceandrive.com.ve.
 oceaneering.co.ve.
 oceaniacruises.com.ve.
+oceanides.com.ve.
 oceanlogistic.com.ve.
 oceano.com.ve.
 oceanomedicina.com.ve.
@@ -16477,7 +16493,6 @@ penmans.com.ve.
 pentagramita.com.ve.
 pentasa.co.ve.
 pentasa.com.ve.
-pentashoes.com.ve.
 pentasoft.net.ve.
 pentel.com.ve.
 penthouse.co.ve.
@@ -16701,6 +16716,7 @@ pinturasvenex.com.ve.
 pinup.com.ve.
 pioneer.co.ve.
 pioneros.com.ve.
+piotamayo131.org.ve.
 piovesan.com.ve.
 pioxiicoro.org.ve.
 pipienlacama.co.ve.
@@ -17704,7 +17720,6 @@ rcasesores.com.ve.
 rcautoparts.com.ve.
 rcbn.com.ve.
 rccl.com.ve.
-rch.com.ve.
 rclt.com.ve.
 rcr.com.ve.
 rcstudios.com.ve.
@@ -17896,7 +17911,6 @@ reley.com.ve.
 relistor.com.ve.
 reltripvee.com.ve.
 relxnow.com.ve.
-remaca.com.ve.
 remax-class.com.ve.
 remax.com.ve.
 remaxmillenium.com.ve.
@@ -19326,6 +19340,7 @@ sigmadomus.net.ve.
 sigmasys.com.ve.
 signia.co.ve.
 signium.com.ve.
+signum.emprende.ve.
 signummedia.com.ve.
 sigo.com.ve.
 sigroup.com.ve.
@@ -20154,7 +20169,6 @@ sucre-zulia.gob.ve.
 sucrecomercial.com.ve.
 sucrenet.com.ve.
 sucreturismo.gob.ve.
-suculentas.com.ve.
 sudeaseg.gob.ve.
 sudeban.gob.ve.
 sudeban.gov.ve.
@@ -20183,6 +20197,7 @@ suiche7b.com.ve.
 suimprenta.com.ve.
 suitco.com.ve.
 sulca.com.ve.
+sultana.com.ve.
 sulzer.com.ve.
 suma.net.ve.
 sumandokilometros.com.ve.
@@ -21735,7 +21750,6 @@ uecmariadesantaana.edu.ve.
 uecmariauxiliadora.com.ve.
 uecmg.com.ve.
 uecnazaretfya.com.ve.
-uecnsa.com.ve.
 uecolegioandresbello.com.ve.
 uecolegioaplicacion.com.ve.
 uecolegiocastelao.com.ve.
@@ -22147,6 +22161,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22430,7 +22445,6 @@ ventilven.com.ve.
 vento.com.ve.
 ventyx.com.ve.
 venucia.com.ve.
-venusoffice.com.ve.
 venvanse.com.ve.
 venviajes.com.ve.
 venvias.info.ve.
@@ -23217,7 +23231,6 @@ xn--compaiasdeseguros-jxb.com.ve.
 xn--concejomunicipaldesantiagomario-aragua-1vd.gob.ve.
 xn--diseoweb-g3a.com.ve.
 xn--e-cedeo-9za.gob.ve.
-xn--elcupireo-s6a.com.ve.
 xn--fuerzaguaiquer-emb.com.ve.
 xn--guios-qta.com.ve.
 xn--hogarea-9za.com.ve.
