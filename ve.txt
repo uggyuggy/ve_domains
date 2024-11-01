@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 31Oct2024 06:05 UTC
+# ve domain names extracted from nameservers on 01Nov2024 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -35,6 +35,7 @@
 1stchoice.com.ve.
 1win.co.ve.
 1win.com.ve.
+1x10.com.ve.
 1x10delbuengobierno.gob.ve.
 1x10nm.com.ve.
 1xbet.co.ve.
@@ -97,6 +98,7 @@
 3pmsolutions.co.ve.
 3pmsolutions.com.ve.
 3r.nets.ve.
+3sm.com.ve.
 412.com.ve.
 42brigadaparacaidista.mil.ve.
 4cloud.com.ve.
@@ -405,6 +407,7 @@ admauditores.com.ve.
 admfox.com.ve.
 admicond.com.ve.
 administracion-condominio.com.ve.
+administradora-diamante.com.ve.
 administradora-octagon.com.ve.
 administradora-vickyann.com.ve.
 administradoraam.com.ve.
@@ -1641,6 +1644,7 @@ arquitec.com.ve.
 arquitecnica.com.ve.
 arquitecturacreativa.com.ve.
 arrb.com.ve.
+arrecife-express.com.ve.
 arriesgo.com.ve.
 arrigo.com.ve.
 arrobamujer.com.ve.
@@ -1668,6 +1672,7 @@ arsys.com.ve.
 art-vertising.com.ve.
 artc.com.ve.
 artecolor.com.ve.
+arteenlinea.com.ve.
 artefinalradio.com.ve.
 artefrio.com.ve.
 arteinmueble.com.ve.
@@ -3984,7 +3989,6 @@ cervezaduff.co.ve.
 cervezapolar.com.ve.
 cesc.com.ve.
 cesi.co.ve.
-cesimonbolivar.com.ve.
 ceslmoca.com.ve.
 cesna.gob.ve.
 cesppa.gob.ve.
@@ -4652,7 +4656,6 @@ codecyt.gob.ve.
 codelmar.com.ve.
 codena.gob.ve.
 coderhouse.com.ve.
-coderhub.com.ve.
 codetaragua.gob.ve.
 codica.com.ve.
 codigoabierto.com.ve.
@@ -4723,6 +4726,7 @@ colegioclaretmcbo.edu.ve.
 colegioconcordia.edu.ve.
 colegiocorazondejesus.com.ve.
 colegiocorazondejesus.edu.ve.
+colegiocristodelbuenviaje.com.ve.
 colegiocristoreysantamonica.com.ve.
 colegiocubagua.edu.ve.
 colegiodanielista.com.ve.
@@ -4734,6 +4738,7 @@ colegiodelsantisimo.com.ve.
 colegiodivinapastora.com.ve.
 colegiodivinapastorabolivar.com.ve.
 colegiodonbosco.edu.ve.
+colegiodonboscovalencia.com.ve.
 colegioelcarmelo.com.ve.
 colegioelrosario.com.ve.
 colegioeugeniaravasco.edu.ve.
@@ -5806,7 +5811,6 @@ cs-tsgservers.com.ve.
 cs.co.ve.
 cs.com.ve.
 cs2017.com.ve.
-csac.com.ve.
 csac.edu.ve.
 csantabarbara.com.ve.
 csb.gob.ve.
@@ -12138,6 +12142,7 @@ jobtome.com.ve.
 jobuniverse.com.ve.
 jockey.co.ve.
 joco.com.ve.
+joelzerpa.emprende.ve.
 johancruyffinstitute.com.ve.
 johnniewalker.com.ve.
 johnniewalkerbluelabel.com.ve.
@@ -13106,6 +13111,7 @@ linetwo.com.ve.
 linio.com.ve.
 link.co.ve.
 link.com.ve.
+link2web.net.ve.
 linkec.com.ve.
 linkedin.com.ve.
 linknetwork.com.ve.
@@ -13123,7 +13129,6 @@ liquidnetfusion.com.ve.
 lisa18.com.ve.
 lisbethlozano.org.ve.
 listerine.com.ve.
-listex.com.ve.
 listo.net.ve.
 listopago.com.ve.
 litin.edu.ve.
@@ -14327,6 +14332,7 @@ mi-movistaronline.com.ve.
 mi-movistaronline.net.ve.
 mi-perftest1.co.ve.
 mi.com.ve.
+mia.com.ve.
 miabcdario.com.ve.
 miamigifts.com.ve.
 miapuesta.com.ve.
@@ -17156,6 +17162,7 @@ prinx.com.ve.
 priorin.com.ve.
 prisma.web.ve.
 pritt.com.ve.
+privilege-assistance.com.ve.
 privilegeservices.com.ve.
 prm.com.ve.
 pro-unidas.com.ve.
@@ -19023,11 +19030,9 @@ seplan.gob.ve.
 septep.gob.ve.
 sepyaracuy.gob.ve.
 sequoia.com.ve.
-seralica.com.ve.
 sercanto.com.ve.
 sercatel.com.ve.
 serco.com.ve.
-sercoamb.com.ve.
 sercoinfal.com.ve.
 sercom.net.ve.
 serconplafumigaciones.com.ve.
@@ -19441,6 +19446,7 @@ sipoa.com.ve.
 sipp.com.ve.
 siragon.com.ve.
 siratachira.gob.ve.
+sirconet.com.ve.
 sirgregory-anzoategui.gob.ve.
 siriustech.com.ve.
 sis.gob.ve.
@@ -19461,7 +19467,9 @@ siss.gob.ve.
 sistelcorp.com.ve.
 sistelnet.com.ve.
 sistelred.com.ve.
+sistemaapure.com.ve.
 sistemacrm.com.ve.
+sistemadeapartadocaejerb.com.ve.
 sistemadeformacionfranciscodemiranda.org.ve.
 sistemadeformacionpsuv.com.ve.
 sistemadegestionciti.com.ve.
@@ -20022,7 +20030,6 @@ stanhomeworld.com.ve.
 stanhomeworldtv.com.ve.
 stanley1913.com.ve.
 stanleytools.com.ve.
-star-link.com.ve.
 star-plus.com.ve.
 starbucks.co.ve.
 starbucks.com.ve.
@@ -20332,6 +20339,7 @@ supplyautosval.com.ve.
 supracal.com.ve.
 supradigital.com.ve.
 supraragua.gob.ve.
+suprema102.com.ve.
 supriad.com.ve.
 supricom.com.ve.
 suptrima.com.ve.
@@ -21784,6 +21792,7 @@ uecolegiosimonrodriguez.com.ve.
 uecolegiotrinademedina.com.ve.
 uecoromoto.com.ve.
 uecploscaminos.edu.ve.
+uecpnuestrasradelpilar.com.ve.
 uecprm.com.ve.
 uecristianaelbuenpastor.com.ve.
 uecsanfranciscodeasis.com.ve.
@@ -21819,6 +21828,7 @@ uelv.com.ve.
 uemapis.com.ve.
 uemariarosamolas.com.ve.
 ueninodios.com.ve.
+ueninosimon.com.ve.
 uensa.com.ve.
 uensa2.edu.ve.
 uentrasradelasmercedes.edu.ve.
@@ -22279,7 +22289,6 @@ vdi.com.ve.
 vdlm.com.ve.
 vdv.com.ve.
 vdvgroup.com.ve.
-ve-hosting.com.ve.
 ve-ix.com.ve.
 ve-ix.net.ve.
 ve-ix.org.ve.
@@ -22608,6 +22617,7 @@ victronenergy.co.ve.
 victtoryweb.com.ve.
 vidalibros.co.ve.
 vidalibros.com.ve.
+vidanet.com.ve.
 vidaprofesional.com.ve.
 vidaradio.com.ve.
 vidasexualsaludable.com.ve.
@@ -22844,7 +22854,6 @@ vr.com.ve.
 vrb.com.ve.
 vrbo.com.ve.
 vrcabogados.com.ve.
-vri.com.ve.
 vrio.co.ve.
 vrio.com.ve.
 vrio.net.ve.

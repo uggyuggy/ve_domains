@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 30Oct2024 05:57 UTC
+# ve domain names extracted from nameservers on 31Oct2024 06:05 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2439,6 +2439,7 @@ belkom.com.ve.
 bellafm.com.ve.
 bellagio.com.ve.
 bellaliss.com.ve.
+bellamacchina.com.ve.
 bellasexitosas.com.ve.
 bellavistawireless.com.ve.
 belle.com.ve.
@@ -4827,6 +4828,7 @@ colegionslourdesguanare.com.ve.
 colegionsv.com.ve.
 colegionuestrasenoradelaconcordia.com.ve.
 colegionuestrasenoradelaesperanza.com.ve.
+colegionuestrasenoradelapaz.com.ve.
 colegionuestrasradecoromoto.com.ve.
 colegionuestrasradelvallenazaret.com.ve.
 colegioorinoco.com.ve.
@@ -5893,7 +5895,6 @@ cursoscleveland.edu.ve.
 cursosgeomin.com.ve.
 cursosgerenciales.com.ve.
 cursosmlv.com.ve.
-cursosvirtuales.emprende.ve.
 cursosycarreras.com.ve.
 cuspal.gob.ve.
 customed.com.ve.
@@ -7000,6 +7001,7 @@ ebooking.co.ve.
 ebooking.com.ve.
 ebus.com.ve.
 ebv.org.ve.
+ec-consulting.com.ve.
 eccochemical.com.ve.
 eclass.com.ve.
 ecoazul.org.ve.
@@ -7139,7 +7141,6 @@ ekatontravels.com.ve.
 ekator.com.ve.
 ekvilibro.com.ve.
 elac.edu.ve.
-elaltar.com.ve.
 elam.edu.ve.
 elamsa.edu.ve.
 elamucs.edu.ve.
@@ -7249,6 +7250,7 @@ eliquis.com.ve.
 eliteburgers.com.ve.
 elitedating.com.ve.
 elitemodellook.com.ve.
+elitepadelcenter.com.ve.
 elitepartner.com.ve.
 eliteprofessional.com.ve.
 elitesingles.com.ve.
@@ -8381,6 +8383,7 @@ fitconnection.com.ve.
 fitelven.com.ve.
 fitflop.com.ve.
 fitven.gob.ve.
+fiume.com.ve.
 fiven.co.ve.
 fiven.com.ve.
 fixerfriend.com.ve.
@@ -9235,6 +9238,7 @@ gekkosystems.com.ve.
 gelerc.com.ve.
 gelosol.com.ve.
 gelvez.com.ve.
+gemalabs.com.ve.
 gemalto.co.ve.
 gemalto.com.ve.
 gempro.com.ve.
@@ -10068,6 +10072,7 @@ habbohotel.com.ve.
 habitainmueble.com.ve.
 habitat.gov.ve.
 hablabla.com.ve.
+hablanlospueblos.com.ve.
 hablemosdeambientebolivar.gob.ve.
 haciendainfante.com.ve.
 haciendalaceiba.com.ve.
@@ -15307,6 +15312,7 @@ networkspeed.com.ve.
 networkworld.com.ve.
 netwrix.com.ve.
 neumatica.com.ve.
+neumaticavalencia.com.ve.
 neumaticos-online.com.ve.
 neupro.com.ve.
 neurobion.com.ve.
@@ -16493,6 +16499,7 @@ penmans.com.ve.
 pentagramita.com.ve.
 pentasa.co.ve.
 pentasa.com.ve.
+pentashoes.com.ve.
 pentasoft.net.ve.
 pentel.com.ve.
 penthouse.co.ve.
@@ -16748,6 +16755,7 @@ placacentromasisa.com.ve.
 places.com.ve.
 pladetec.com.ve.
 plafam.org.ve.
+planbim.com.ve.
 plandelapatria.gob.ve.
 plandeviaje.com.ve.
 planeta.co.ve.
@@ -17479,6 +17487,7 @@ qbarato.com.ve.
 qbos.com.ve.
 qca.com.ve.
 qdevs.com.ve.
+qhay.com.ve.
 qiangliled.com.ve.
 qigroup.com.ve.
 qlaira.com.ve.
@@ -17679,6 +17688,7 @@ ramica.com.ve.
 ramon.com.ve.
 ramosyfrutas.com.ve.
 ramrom.com.ve.
+ramv.emprende.ve.
 ranchocriollo.com.ve.
 random.com.ve.
 rangel-merida.gov.ve.
@@ -18650,6 +18660,7 @@ santiagoaguirre.com.ve.
 santiagomarino-aragua.gov.ve.
 santillana.com.ve.
 santologia.com.ve.
+santorinibdu.com.ve.
 santosasociados.com.ve.
 santosluzardo.gob.ve.
 santosmarquina-merida.gov.ve.
@@ -19452,6 +19463,7 @@ sistelnet.com.ve.
 sistelred.com.ve.
 sistemacrm.com.ve.
 sistemadeformacionfranciscodemiranda.org.ve.
+sistemadeformacionpsuv.com.ve.
 sistemadegestionciti.com.ve.
 sistemadeventas.com.ve.
 sistemadevidayeshuapro.com.ve.
@@ -19550,6 +19562,7 @@ slipngrip.com.ve.
 sljtelecom.com.ve.
 sljtelecom.org.ve.
 slmnca.com.ve.
+slo.com.ve.
 slylogistics.com.ve.
 slyng.com.ve.
 sma.co.ve.
@@ -20169,6 +20182,7 @@ sucre-zulia.gob.ve.
 sucrecomercial.com.ve.
 sucrenet.com.ve.
 sucreturismo.gob.ve.
+suculentas.com.ve.
 sudeaseg.gob.ve.
 sudeban.gob.ve.
 sudeban.gov.ve.
@@ -20989,6 +21003,7 @@ timberland.co.ve.
 timberland.com.ve.
 timberlandpro.com.ve.
 timbresfiscales.com.ve.
+timca.com.ve.
 time-in-range.com.ve.
 time-warner.com.ve.
 timeinrange.com.ve.
@@ -21184,7 +21199,6 @@ tovar-aragua.gov.ve.
 tovar-merida.gov.ve.
 tovarsat.com.ve.
 toveco.com.ve.
-tovenca.com.ve.
 towertech.com.ve.
 toyoaltamira.com.ve.
 toyoandina.com.ve.
@@ -22161,7 +22175,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22378,6 +22391,7 @@ venezolanademodulares.com.ve.
 venezolanaderevestimiento.com.ve.
 venezolano.com.ve.
 venezuela-eu.gob.ve.
+venezuela.com.ve.
 venezuela.gob.ve.
 venezuela.org.ve.
 venezuela2000.gov.ve.
@@ -23172,6 +23186,7 @@ wsi.com.ve.
 wsp.com.ve.
 wsprod.nic.ve.
 wsradioonline.com.ve.
+wts.com.ve.
 wtw.com.ve.
 wtwco.co.ve.
 wtwco.com.ve.
@@ -23231,6 +23246,7 @@ xn--compaiasdeseguros-jxb.com.ve.
 xn--concejomunicipaldesantiagomario-aragua-1vd.gob.ve.
 xn--diseoweb-g3a.com.ve.
 xn--e-cedeo-9za.gob.ve.
+xn--elcupireo-s6a.com.ve.
 xn--fuerzaguaiquer-emb.com.ve.
 xn--guios-qta.com.ve.
 xn--hogarea-9za.com.ve.
