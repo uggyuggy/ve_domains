@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Nov2024 05:23 UTC
+# ve domain names extracted from nameservers on 02Nov2024 04:41 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -254,6 +254,7 @@ acare.com.ve.
 acarigua-merida.gov.ve.
 acav.gob.ve.
 acbl.net.ve.
+acblcorp.net.ve.
 accapaeec.org.ve.
 accertification.com.ve.
 acceso.net.ve.
@@ -1444,6 +1445,7 @@ apcc.com.ve.
 apem.org.ve.
 aphservices.org.ve.
 api.com.ve.
+api.net.ve.
 apis.com.ve.
 apisconsultores.com.ve.
 apismol.com.ve.
@@ -1513,7 +1515,6 @@ apueston.com.ve.
 apunellarg.com.ve.
 apure.com.ve.
 apure.gob.ve.
-apuregrande.com.ve.
 apus.com.ve.
 apv.com.ve.
 apx.com.ve.
@@ -2134,6 +2135,7 @@ azuaca.com.ve.
 azuca.com.ve.
 azucar-carora.com.ve.
 azucar.com.ve.
+azulado.com.ve.
 azulgranaelite.com.ve.
 azulita.com.ve.
 azzhmoda.com.ve.
@@ -2495,6 +2497,12 @@ beru.com.ve.
 besign.com.ve.
 besing.com.ve.
 besoccer.com.ve.
+bessersolutions.co.ve.
+bessersolutions.com.ve.
+bessersolutions.info.ve.
+bessersolutions.net.ve.
+bessersolutions.org.ve.
+bessersolutions.web.ve.
 bestday.com.ve.
 bestexpress.com.ve.
 bestpay.com.ve.
@@ -2651,6 +2659,7 @@ bino.com.ve.
 bio-cell.com.ve.
 bio-oil.co.ve.
 bio-oil.com.ve.
+biobeta.com.ve.
 biocanna.com.ve.
 biochemicals.com.ve.
 biochrom.com.ve.
@@ -2696,6 +2705,7 @@ biopharma.com.ve.
 bioplaga.com.ve.
 biopsicosalud.com.ve.
 biore.com.ve.
+biorenacer.com.ve.
 biotech.com.ve.
 biotecnologiasfbc.com.ve.
 biotek.com.ve.
@@ -3944,7 +3954,6 @@ centrotet.com.ve.
 centrotextil.com.ve.
 centrotraki.com.ve.
 centrouniversitas.com.ve.
-centtry.com.ve.
 century21.com.ve.
 century21aba.com.ve.
 centurylink.com.ve.
@@ -4072,6 +4081,7 @@ chavez.org.ve.
 chc.com.ve.
 chc.org.ve.
 chcgroup.com.ve.
+cheapmonday.com.ve.
 cheaptickets.co.ve.
 cheaptickets.com.ve.
 chebetos.web.ve.
@@ -7956,7 +7966,6 @@ extratex.com.ve.
 extratexacademy.com.ve.
 extravirgen.com.ve.
 extreme-sports.com.ve.
-extremeit.com.ve.
 extremetech.com.ve.
 extrufan.com.ve.
 exxel.com.ve.
@@ -8202,6 +8211,7 @@ ferre-soluciones.com.ve.
 ferrealtos.com.ve.
 ferregrupogc.com.ve.
 ferreindustrialtocome.com.ve.
+ferremateriales.com.ve.
 ferrenmax.com.ve.
 ferreobras.com.ve.
 ferreofertas.com.ve.
@@ -8653,7 +8663,6 @@ forvis-mazars.com.ve.
 forvismazars.co.ve.
 forvismazars.com.ve.
 forvismazars.net.ve.
-fospuca.com.ve.
 fosrenol.com.ve.
 fossil.co.ve.
 fossil.com.ve.
@@ -8881,6 +8890,7 @@ fundacionbod.com.ve.
 fundacioncami.gob.ve.
 fundacioncaracasparalosninos.gob.ve.
 fundacioncolombeia.gob.ve.
+fundacioncristoteama.org.ve.
 fundaciondelninotrujillo.gob.ve.
 fundaciondemedicinafamiliar.com.ve.
 fundacionelninosimon.gob.ve.
@@ -11638,6 +11648,7 @@ inversionespb.com.ve.
 inversionespistonesjw.com.ve.
 inversionespromes.com.ve.
 inversionesrh.com.ve.
+inversionesskybeta.com.ve.
 inversionessurteen.com.ve.
 inversionesveterinarias.com.ve.
 inversorals.com.ve.
@@ -13766,7 +13777,6 @@ maryruthorganics.co.ve.
 maryruthorganics.com.ve.
 mas-sport.com.ve.
 masa.com.ve.
-masautoselvinedo.com.ve.
 masaya.org.ve.
 masciencia.com.ve.
 masciencia.net.ve.
@@ -14519,7 +14529,6 @@ minto.co.ve.
 mintra.gob.ve.
 mintur.gob.ve.
 minube.com.ve.
-minue.com.ve.
 minutoaminuto.com.ve.
 minvih.gob.ve.
 minya.com.ve.
@@ -14731,6 +14740,7 @@ moneygram.com.ve.
 mongaru.com.ve.
 monin.com.ve.
 monkeyshoulder.com.ve.
+monki.com.ve.
 monofer.com.ve.
 monriaca.com.ve.
 monroywest.com.ve.
@@ -14978,7 +14988,6 @@ multicargas.com.ve.
 multiconsumos.com.ve.
 multiecservicios.com.ve.
 multieventsvenezuela.com.ve.
-multifruit.com.ve.
 multigrapas.com.ve.
 multiguia.com.ve.
 multiinternacionalvzla.com.ve.
@@ -15326,7 +15335,6 @@ neurofarmagen.com.ve.
 neuronet.com.ve.
 neuropediatriaaldia.org.ve.
 neuropsicologiahuc.com.ve.
-neurovision.com.ve.
 neutrogena.com.ve.
 neuvoo.com.ve.
 nevada.com.ve.
@@ -15525,6 +15533,7 @@ novared.net.ve.
 novartis.com.ve.
 novasystem.net.ve.
 novatechinternational.com.ve.
+novaweb.com.ve.
 novelis.co.ve.
 novelis.com.ve.
 novia.com.ve.
@@ -15845,6 +15854,7 @@ oncopedia.org.ve.
 oncp.gob.ve.
 oncti.gob.ve.
 ondaflex.com.ve.
+ondasdelcercado.com.ve.
 one-and-one.com.ve.
 one-blade.com.ve.
 one.com.ve.
@@ -16125,6 +16135,7 @@ packup.com.ve.
 paddeo.com.ve.
 paddypower.co.ve.
 paddypower.com.ve.
+padel.com.ve.
 padelcore.com.ve.
 padelguia.com.ve.
 padelmaster.com.ve.
@@ -16237,7 +16248,6 @@ panoramio.com.ve.
 pantalla.com.ve.
 pantene.com.ve.
 panteonnacional.gob.ve.
-panterasentertainment.com.ve.
 panthers.com.ve.
 pantinarts.com.ve.
 pantrysdoscaminos.com.ve.
@@ -17293,7 +17303,6 @@ promozulia.com.ve.
 promozulia.org.ve.
 pronasa.com.ve.
 pronature.com.ve.
-pronet.com.ve.
 pronet21.com.ve.
 proneurax-er.com.ve.
 pronovias.com.ve.
@@ -17997,6 +18006,7 @@ reporterosdemerida.com.ve.
 repossi.com.ve.
 representacionespl.com.ve.
 representacioneszafir.com.ve.
+reproinca.com.ve.
 repropaper.com.ve.
 repuestofacil.com.ve.
 repuestos.com.ve.
@@ -18214,7 +18224,6 @@ rodamientos.com.ve.
 rodamientosimpemeica.com.ve.
 rodanandfields.com.ve.
 rodas.com.ve.
-rodaticarros.com.ve.
 rodelca.com.ve.
 rodeogrill.com.ve.
 rodima.com.ve.
@@ -18981,7 +18990,6 @@ sellatuparley.co.ve.
 sellatuparley.com.ve.
 selma.com.ve.
 selvaplus.com.ve.
-semana.com.ve.
 semanadelacocinaitaliana.com.ve.
 semanca.com.ve.
 semat-pc.gob.ve.
@@ -21772,6 +21780,7 @@ uecmariadesantaana.edu.ve.
 uecmariauxiliadora.com.ve.
 uecmg.com.ve.
 uecnazaretfya.com.ve.
+uecnsa.com.ve.
 uecolegioandresbello.com.ve.
 uecolegioaplicacion.com.ve.
 uecolegiocastelao.com.ve.
@@ -22185,6 +22194,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22315,7 +22325,6 @@ velaprumig.com.ve.
 velas3n.com.ve.
 velasaromaticas.com.ve.
 velaselfraile.com.ve.
-velaslanoche.com.ve.
 velasperegrino.com.ve.
 velassanagustin.com.ve.
 velcosa.com.ve.
@@ -22635,7 +22644,6 @@ videosc4.com.ve.
 videoycomputacion.com.ve.
 vidinter.com.ve.
 vidriosmonagas.com.ve.
-vidvie.com.ve.
 vienefmcabimas.com.ve.
 vierge.com.ve.
 viewsonic.com.ve.
@@ -22647,6 +22655,7 @@ viginet.com.ve.
 vigle.com.ve.
 vignettecollection.com.ve.
 vignettecollectionhotels.com.ve.
+vigorseed.com.ve.
 viiv.com.ve.
 vijayeswaran.com.ve.
 vilca.com.ve.
@@ -22938,6 +22947,7 @@ walmart.int.ve.
 walmartcard.co.ve.
 walmartfinancialservices.co.ve.
 walo.com.ve.
+wamma1025fm.com.ve.
 wantel.com.ve.
 waoprints.com.ve.
 warairarepano.gob.ve.
@@ -23030,6 +23040,7 @@ webuyanycar.co.ve.
 webuyanycar.com.ve.
 webuyanycar.org.ve.
 wecatalogo.com.ve.
+weekday.com.ve.
 weg.co.ve.
 weg.com.ve.
 wegotwe.com.ve.
