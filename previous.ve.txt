@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 02Nov2024 04:41 UTC
+# ve domain names extracted from nameservers on 03Nov2024 04:55 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -5864,7 +5864,6 @@ cuarzoven.com.ve.
 cuatrecasas.com.ve.
 cuatrofdigital.info.ve.
 cubitt.com.ve.
-cubreca.com.ve.
 cuc.edu.ve.
 cucinasimpatica.com.ve.
 cuecmc.edu.ve.
@@ -10525,7 +10524,6 @@ hostingenlaweb.com.ve.
 hostingned.com.ve.
 hostingnedreseller.com.ve.
 hostingvenezuela.com.ve.
-hostingydominios.com.ve.
 hostmar.com.ve.
 hostpoint.com.ve.
 hostwinds.com.ve.
@@ -14701,7 +14699,6 @@ modicon.com.ve.
 modilac.com.ve.
 modularbox.com.ve.
 moduled.com.ve.
-modulesphoenix.com.ve.
 moduoccidente.com.ve.
 mogaservicios.com.ve.
 mogollon.com.ve.
@@ -15325,6 +15322,7 @@ networkappliance.com.ve.
 networkconsultores.com.ve.
 networkspeed.com.ve.
 networkworld.com.ve.
+networx.com.ve.
 netwrix.com.ve.
 neumatica.com.ve.
 neumaticavalencia.com.ve.
@@ -15444,7 +15442,6 @@ nissan.co.ve.
 nissan.net.ve.
 nissanve.com.ve.
 nisum.com.ve.
-nittotires.co.ve.
 niuzai.com.ve.
 nivada.com.ve.
 nivaria.com.ve.
@@ -17758,6 +17755,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19090,7 +19088,6 @@ servicioscomac.com.ve.
 servicioscreativos.com.ve.
 serviciosdesalud.com.ve.
 serviciosdigitales3000.com.ve.
-serviciosfawel.com.ve.
 serviciosfeyalegria.org.ve.
 serviciosflyteline.com.ve.
 servicioshosting.com.ve.
@@ -20482,7 +20479,6 @@ tailoy.com.ve.
 takata.com.ve.
 takeda.co.ve.
 takeda.com.ve.
-taketwo.com.ve.
 takis.com.ve.
 talbotuw.com.ve.
 talbriskserv.com.ve.
@@ -22194,7 +22190,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22211,6 +22206,7 @@ vaac.com.ve.
 vacaciones.com.ve.
 vacacionesbarcelo.com.ve.
 vack.com.ve.
+vadas.com.ve.
 vadellhnoseditores.com.ve.
 vademecumavisa.org.ve.
 vaderstad.co.ve.
@@ -22984,7 +22980,6 @@ wb.com.ve.
 wbc.com.ve.
 wbdiscovery.com.ve.
 wbdsports.com.ve.
-wbpp.com.ve.
 wcasino.com.ve.
 wcreator.com.ve.
 wct.com.ve.

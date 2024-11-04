@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03Nov2024 04:55 UTC
+# ve domain names extracted from nameservers on 04Nov2024 04:47 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1110,7 +1110,6 @@ alpa.org.ve.
 alpesexpress.com.ve.
 alphacolor.com.ve.
 alphacreativa.com.ve.
-alphasense.com.ve.
 alphasigma.com.ve.
 alphasoft.com.ve.
 alphasoluciones.com.ve.
@@ -3610,7 +3609,6 @@ caselogic.co.ve.
 caselogic.com.ve.
 casep.org.ve.
 casetel.org.ve.
-casf.com.ve.
 cash365.co.ve.
 casillerodeldiablo.com.ve.
 casinca.com.ve.
@@ -4696,6 +4694,7 @@ coincoin.com.ve.
 coinme.co.ve.
 coinrule.co.ve.
 coinsertel.com.ve.
+cointeca.com.ve.
 cointech.com.ve.
 cojedes.gob.ve.
 coke.com.ve.
@@ -16874,7 +16873,6 @@ pluxeegroup.com.ve.
 plymouth.com.ve.
 pm.gob.ve.
 pm.gov.ve.
-pmax.com.ve.
 pmb-law.com.ve.
 pmcfundiciones.com.ve.
 pmi.org.ve.
@@ -19020,7 +19018,6 @@ sensacine.com.ve.
 sensecondoms.com.ve.
 sensei.com.ve.
 sensilis.co.ve.
-sensilis.com.ve.
 sensodyne.com.ve.
 sensormatic.com.ve.
 sentilooriginal.com.ve.
