@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 05Nov2024 04:52 UTC
+# ve domain names extracted from nameservers on 06Nov2024 04:57 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -374,6 +374,7 @@ adaptiverecognition.com.ve.
 adarchi.com.ve.
 adarme.com.ve.
 adave.gov.ve.
+adawall.com.ve.
 adc.co.ve.
 adc.com.ve.
 adcherlo.com.ve.
@@ -941,6 +942,7 @@ alcaldiasanrafaeldecarvajal.gob.ve.
 alcaldiasantarosalia.gob.ve.
 alcaldiasantiagomarino.gob.ve.
 alcaldiasantosmichelena.gob.ve.
+alcaldiasimonbolivar.com.ve.
 alcaldiasimonbolivar.gob.ve.
 alcaldiasimonplanas.gob.ve.
 alcaldiasimonrodriguez.gob.ve.
@@ -1111,6 +1113,7 @@ alpa.org.ve.
 alpesexpress.com.ve.
 alphacolor.com.ve.
 alphacreativa.com.ve.
+alphasense.com.ve.
 alphasigma.com.ve.
 alphasoft.com.ve.
 alphasoluciones.com.ve.
@@ -1498,6 +1501,7 @@ aptivus.com.ve.
 aptts.net.ve.
 apucvipp.org.ve.
 apuestafacil.com.ve.
+apuestaoficial.com.ve.
 apuestas-deportivas.com.ve.
 apuestasdeportivas.co.ve.
 apuestasdeportivas.com.ve.
@@ -2609,7 +2613,6 @@ bienesraicesbarquisimeto.com.ve.
 bienhecho.com.ve.
 biensimple.com.ve.
 bienvenidoatumundo.com.ve.
-bigben.com.ve.
 bigbrother.com.ve.
 bigcode.com.ve.
 bigcommerce.co.ve.
@@ -3939,6 +3942,7 @@ centromedicosanfrancisco.com.ve.
 centromedicosanjose.co.ve.
 centromedicosanjose.com.ve.
 centromedicosantabarbara.com.ve.
+centromedicosantamarta.com.ve.
 centromedkar.com.ve.
 centromueble.com.ve.
 centronacionaldeartesaniavnzla.com.ve.
@@ -4299,6 +4303,7 @@ cisco.com.ve.
 cisco.info.ve.
 cisco.org.ve.
 cisco.web.ve.
+ciscom.com.ve.
 ciscomsecurity.com.ve.
 ciscosystems.co.ve.
 ciscosystems.com.ve.
@@ -4727,7 +4732,6 @@ colegiobolivarypalacios.com.ve.
 colegiocalasanz.com.ve.
 colegiocanigua.edu.ve.
 colegiocarlossoublette.com.ve.
-colegiocedros.com.ve.
 colegiociudadlatendida.com.ve.
 colegioclaretmcbo.edu.ve.
 colegioconcordia.edu.ve.
@@ -5268,7 +5272,6 @@ consermuca.edu.ve.
 conserval.com.ve.
 conservarvida.com.ve.
 conserviaj.com.ve.
-consiguelo.com.ve.
 consocar.gob.ve.
 consolacionbarcelona.com.ve.
 consolacionmaracay.com.ve.
@@ -5602,7 +5605,6 @@ corpovex.info.ve.
 corpovex.net.ve.
 corpovex.org.ve.
 corpovex.web.ve.
-corpovigui.com.ve.
 corpoweb.com.ve.
 corpoweb.net.ve.
 corpozulia.gob.ve.
@@ -5820,6 +5822,7 @@ cs-tsgservers.com.ve.
 cs.co.ve.
 cs.com.ve.
 cs2017.com.ve.
+csac.com.ve.
 csac.edu.ve.
 csantabarbara.com.ve.
 csb.gob.ve.
@@ -7335,6 +7338,7 @@ elsoldemargarita.com.ve.
 elsoldeoriente.com.ve.
 elsotano.com.ve.
 elsuper.com.ve.
+eltallerdelabuelito.com.ve.
 eltaquito.com.ve.
 elteide.com.ve.
 elterminalito.com.ve.
@@ -7492,7 +7496,6 @@ enlaceindigenas.gob.ve.
 enlaceregional.com.ve.
 enlacerv.co.ve.
 enlanube.co.ve.
-enlanube.com.ve.
 enmohca.gob.ve.
 enmotion.co.ve.
 enon.com.ve.
@@ -7927,6 +7930,7 @@ expertoentrombosis.com.ve.
 expglobalvenezuela.co.ve.
 exploracasa.co.ve.
 exploracasa.com.ve.
+exploracion.com.ve.
 exploradoroceanico.org.ve.
 explorauto.co.ve.
 explorauto.com.ve.
@@ -7959,8 +7963,6 @@ expressvpn.co.ve.
 expvenezuela.co.ve.
 extina.co.ve.
 extractoreseolicos.com.ve.
-extratex.com.ve.
-extratexacademy.com.ve.
 extravirgen.com.ve.
 extreme-sports.com.ve.
 extremetech.com.ve.
@@ -8731,7 +8733,6 @@ franzlee.org.ve.
 frappuccino.co.ve.
 frappuccino.com.ve.
 frapuccino.com.ve.
-fraternidad.org.ve.
 frayluisdeleon.com.ve.
 freecom.com.ve.
 freed.com.ve.
@@ -11702,6 +11703,8 @@ ipanu.com.ve.
 ipas-estadal-mda.gob.ve.
 ipasme.gob.ve.
 ipasme.gov.ve.
+ipbooster.co.ve.
+ipbooster.com.ve.
 ipc.com.ve.
 ipc.gob.ve.
 ipc.gov.ve.
@@ -12295,6 +12298,7 @@ kadigroup.com.ve.
 kainos.com.ve.
 kairos.com.ve.
 kairos.org.ve.
+kaiyi.com.ve.
 kaizen.com.ve.
 kaizen.net.ve.
 kaizenholdings.com.ve.
@@ -12974,7 +12978,6 @@ lexusdevenezuela.com.ve.
 lexusvenezuela.com.ve.
 leydehidrocarburos.gov.ve.
 leyresorte.gob.ve.
-lfcamara.com.ve.
 lfp.com.ve.
 lg.com.ve.
 lgcgsoluciones.com.ve.
@@ -13885,6 +13888,7 @@ maxwellleadership.com.ve.
 maxwhite.com.ve.
 maxwipe.com.ve.
 maxxa.com.ve.
+maxysweet.com.ve.
 maya.com.ve.
 maybelline.com.ve.
 mayka.com.ve.
@@ -17172,7 +17176,6 @@ proactiv.co.ve.
 proactiv.com.ve.
 proagrosanare.com.ve.
 proal.gov.ve.
-proalca.com.ve.
 proalmo.com.ve.
 proamatine.com.ve.
 proanzoategui.org.ve.
@@ -17603,7 +17606,6 @@ radioamiga909.com.ve.
 radioantenalibre.com.ve.
 radioanzoateguifm.com.ve.
 radiocanal.com.ve.
-radiodeportivastereo.com.ve.
 radiodinamica.com.ve.
 radiodisney.com.ve.
 radioestadio.com.ve.
@@ -19010,6 +19012,7 @@ sensacine.com.ve.
 sensecondoms.com.ve.
 sensei.com.ve.
 sensilis.co.ve.
+sensilis.com.ve.
 sensodyne.com.ve.
 sensormatic.com.ve.
 sentilooriginal.com.ve.
@@ -20023,6 +20026,7 @@ stanhomeworld.com.ve.
 stanhomeworldtv.com.ve.
 stanley1913.com.ve.
 stanleytools.com.ve.
+star-link.com.ve.
 star-plus.com.ve.
 starbucks.co.ve.
 starbucks.com.ve.
@@ -21839,6 +21843,7 @@ uepmaariflosriscos.com.ve.
 uepnuestrossimbolos.com.ve.
 uepsimonrodriguez.com.ve.
 uepsimonrodriguez.edu.ve.
+uepsr.com.ve.
 ueptc.com.ve.
 uepverdadyvida.co.ve.
 ues.edu.ve.
@@ -22177,7 +22182,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22880,6 +22884,7 @@ vtc.com.ve.
 vtelca.gob.ve.
 vtest.co.ve.
 vtest.com.ve.
+vtgp.com.ve.
 vtscorp.com.ve.
 vtv.com.ve.
 vtv.gob.ve.
@@ -23422,7 +23427,6 @@ zeppelink.com.ve.
 zerust.com.ve.
 zet.edu.ve.
 zeta.com.ve.
-zettabits.com.ve.
 zf-friedrichshafen.com.ve.
 zf-group.com.ve.
 zf.com.ve.
