@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Nov2024 04:57 UTC
+# ve domain names extracted from nameservers on 07Nov2024 05:13 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -293,7 +293,6 @@ acerosmundiales.com.ve.
 acerosytubos.com.ve.
 acevedo-miranda.gob.ve.
 acg.com.ve.
-acgviajes.com.ve.
 achaguas-apure.gob.ve.
 acica.com.ve.
 acicp.edu.ve.
@@ -5958,7 +5957,6 @@ cybersecuritycorporate.com.ve.
 cybersource.co.ve.
 cybersource.com.ve.
 cyberspace3d.com.ve.
-cybersys.com.ve.
 cybertech.com.ve.
 cyccoatings.com.ve.
 cycproducciones.com.ve.
@@ -15695,7 +15693,6 @@ oceano.com.ve.
 oceanomedicina.com.ve.
 oceanomksap.com.ve.
 oceanstore.com.ve.
-oceanus.com.ve.
 ocei.gov.ve.
 ocg.net.ve.
 ochina.gob.ve.
@@ -17998,7 +17995,6 @@ reporterosdemerida.com.ve.
 repossi.com.ve.
 representacionespl.com.ve.
 representacioneszafir.com.ve.
-reproinca.com.ve.
 repropaper.com.ve.
 repuestofacil.com.ve.
 repuestos.com.ve.
@@ -19802,7 +19798,6 @@ solvencia.com.ve.
 solventum.co.ve.
 solventum.com.ve.
 solvia.com.ve.
-soma.com.ve.
 somago.com.ve.
 something-special.com.ve.
 somethingspecial.com.ve.
@@ -20401,6 +20396,7 @@ swaybet.com.ve.
 sweb.com.ve.
 swedbank.com.ve.
 sweetbees.com.ve.
+sweetest.com.ve.
 swingenergy.com.ve.
 swissclinic.com.ve.
 swissre.co.ve.
@@ -21835,7 +21831,6 @@ uepcbuenpastor.edu.ve.
 uepeccristorey.com.ve.
 uepedrozaraza.com.ve.
 uepgp.edu.ve.
-uepgrancolombia.com.ve.
 uepioxii.com.ve.
 uepjmc.com.ve.
 ueplazasesamo.edu.ve.
@@ -22182,6 +22177,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
