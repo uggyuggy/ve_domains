@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 09Nov2024 05:01 UTC
+# ve domain names extracted from nameservers on 10Nov2024 04:59 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2283,7 +2283,6 @@ banquetespremier.com.ve.
 banservice.com.ve.
 bantel.com.ve.
 bantel.net.ve.
-banvene.com.ve.
 banvenez.com.ve.
 banwood.co.ve.
 banwood.com.ve.
@@ -3321,7 +3320,6 @@ cami.com.ve.
 camimpeg.com.ve.
 camin.com.ve.
 camionheladero.com.ve.
-camipibes.com.ve.
 camisaskavak.com.ve.
 camisetas.com.ve.
 camopla.com.ve.
@@ -6108,7 +6106,6 @@ davidluna.com.ve.
 davidosio.co.ve.
 daviduzcategui.com.ve.
 daviduzcategui.net.ve.
-daviduzcategui.org.ve.
 davila.com.ve.
 davimar.com.ve.
 davinciristorante.com.ve.
@@ -12080,7 +12077,6 @@ jetes.com.ve.
 jetix.com.ve.
 jetstore.com.ve.
 jf2soluciones.com.ve.
-jfl.com.ve.
 jflvenezuela.com.ve.
 jfpz.com.ve.
 jfsports.com.ve.
@@ -12892,7 +12888,6 @@ lectra.co.ve.
 lectra.com.ve.
 led.com.ve.
 ledezmaair.com.ve.
-ledplus.com.ve.
 ledvance.com.ve.
 lee.com.ve.
 leecooper.com.ve.
@@ -14964,7 +14959,6 @@ mueblehogar.com.ve.
 muebles-modernos.com.ve.
 muebles.com.ve.
 mueblesfranceska.com.ve.
-muevetepsuv.org.ve.
 mufg.co.ve.
 mufg.com.ve.
 mujer.com.ve.
@@ -15460,7 +15454,6 @@ nokia.com.ve.
 nom.ve.
 nomad.co.ve.
 nomad.com.ve.
-nomadticket.com.ve.
 nombres.com.ve.
 nomex.co.ve.
 nomex.com.ve.
@@ -15716,7 +15709,6 @@ odf.com.ve.
 odigeo.com.ve.
 odontoclinic.com.ve.
 odontolaser.com.ve.
-odontologianews.com.ve.
 odontologicopremier.com.ve.
 odontologo.com.ve.
 odontologos.com.ve.
@@ -15839,7 +15831,6 @@ once-once.com.ve.
 onceonce.com.ve.
 oncocirugia.org.ve.
 oncologia.org.ve.
-oncologicolasagrada.com.ve.
 oncomedica.com.ve.
 oncop.gob.ve.
 oncop.gov.ve.
@@ -16240,6 +16231,7 @@ panoramio.com.ve.
 pantalla.com.ve.
 pantene.com.ve.
 panteonnacional.gob.ve.
+panther.com.ve.
 panthers.com.ve.
 pantinarts.com.ve.
 pantrysdoscaminos.com.ve.
@@ -17424,6 +17416,7 @@ ptricas.com.ve.
 pts.org.ve.
 pty.com.ve.
 pubex.com.ve.
+publiarte.com.ve.
 publicholidays.com.ve.
 publicidadcenteno.com.ve.
 publicis.com.ve.
@@ -18002,7 +17995,6 @@ repuestosbusdriver.com.ve.
 repuestoscarroschinos.com.ve.
 repuestoscherokee.com.ve.
 repuestosfastcars.com.ve.
-repuestoshonda.com.ve.
 repuestosjeep.com.ve.
 repuestoskrm.com.ve.
 repuestosocan.com.ve.
@@ -19071,7 +19063,6 @@ serviciointeligente.com.ve.
 servicios-telavip.com.ve.
 servicios.com.ve.
 servicioscomac.com.ve.
-servicioscreativos.com.ve.
 serviciosdesalud.com.ve.
 serviciosdigitales3000.com.ve.
 serviciosfeyalegria.org.ve.
@@ -19500,6 +19491,7 @@ sito.com.ve.
 sitssa.gob.ve.
 sivaimb.com.ve.
 sivasys.com.ve.
+sivca.com.ve.
 siven.com.ve.
 sivencasinger.com.ve.
 sivensa.com.ve.
@@ -19600,7 +19592,6 @@ smc99.com.ve.
 smedical.com.ve.
 smi.com.ve.
 smiledirectclub.com.ve.
-smileonworld.com.ve.
 smip.com.ve.
 smirnoff.co.ve.
 smirnoff.com.ve.
@@ -23137,7 +23128,6 @@ winstelecom.com.ve.
 wintech.com.ve.
 winterhalter.co.ve.
 winterhalter.com.ve.
-wireplus.com.ve.
 wisdom.com.ve.
 wisekey.co.ve.
 wisekey.com.ve.
