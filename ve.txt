@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 11Nov2024 04:57 UTC
+# ve domain names extracted from nameservers on 12Nov2024 04:59 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4384,7 +4384,6 @@ clarotv.com.ve.
 clarovenezuela.com.ve.
 claseazul.com.ve.
 clasenw.com.ve.
-clasesenlinea.com.ve.
 clasf.co.ve.
 clasicapublicidad.com.ve.
 clasificadoseluniversal.com.ve.
@@ -5069,7 +5068,6 @@ compugatecenter.com.ve.
 compumarketfh.com.ve.
 compunetwork.com.ve.
 compuroca.com.ve.
-compuser.com.ve.
 compuserve.com.ve.
 computerking.com.ve.
 computerplay.com.ve.
@@ -5445,7 +5443,6 @@ converse.com.ve.
 convexo.com.ve.
 convialba.gob.ve.
 conviteac.org.ve.
-cool955fm.com.ve.
 coolblue.co.ve.
 cooperativabermudez.org.ve.
 cooperativas.gov.ve.
@@ -7271,7 +7268,6 @@ elmar.com.ve.
 elmartilloven.com.ve.
 elmejorhelado.com.ve.
 elmex.com.ve.
-elmisionero.com.ve.
 elmor.co.ve.
 elmor.com.ve.
 elmor.info.ve.
@@ -7775,7 +7771,6 @@ euro.com.ve.
 euroamerica.edu.ve.
 eurobrands.com.ve.
 eurobuilding.com.ve.
-eurocasa.com.ve.
 eurocasino.co.ve.
 eurocasino.com.ve.
 eurociencia.com.ve.
@@ -10078,7 +10073,6 @@ habitat.gov.ve.
 hablabla.com.ve.
 hablanlospueblos.com.ve.
 hablemosdeambientebolivar.gob.ve.
-haciendainfante.com.ve.
 haciendalaceiba.com.ve.
 haciendalaconcepcion.com.ve.
 haciendasantateresa.com.ve.
@@ -10542,7 +10536,6 @@ hoteles.com.ve.
 hotelescuela.edu.ve.
 hotelescuela.org.ve.
 hotelesdevenezuela.com.ve.
-hotelesencaracas.com.ve.
 hotelesenmargaritatodoincluido.com.ve.
 hoteleshesperia.com.ve.
 hoteleuro.com.ve.
@@ -12071,6 +12064,7 @@ jetcar.com.ve.
 jetcost.co.ve.
 jetes.com.ve.
 jetix.com.ve.
+jetourvenezuela.com.ve.
 jetstore.com.ve.
 jf2soluciones.com.ve.
 jflvenezuela.com.ve.
@@ -12182,7 +12176,6 @@ jozynter.com.ve.
 jps.com.ve.
 jpseguridad.com.ve.
 jravenezuela.com.ve.
-jrconsultores.com.ve.
 jrnservice.com.ve.
 jsafra.co.ve.
 jsafra.com.ve.
@@ -13508,6 +13501,10 @@ magictannic.com.ve.
 magin.com.ve.
 magma.com.ve.
 magna.com.ve.
+magnattack.co.ve.
+magnattack.com.ve.
+magnattackglobal.co.ve.
+magnattackglobal.com.ve.
 magnit.co.ve.
 magnum.com.ve.
 magnumcompany.com.ve.
@@ -13761,6 +13758,7 @@ maryruthorganics.co.ve.
 maryruthorganics.com.ve.
 mas-sport.com.ve.
 masa.com.ve.
+masautoselvinedo.com.ve.
 masaya.org.ve.
 masciencia.com.ve.
 masciencia.net.ve.
@@ -14975,6 +14973,7 @@ multiguia.com.ve.
 multiinternacionalvzla.com.ve.
 multilac.com.ve.
 multimarca.com.ve.
+multimax.com.ve.
 multimport.com.ve.
 multinet.com.ve.
 multiphone.com.ve.
@@ -15449,7 +15448,6 @@ nokia.co.ve.
 nokia.com.ve.
 nom.ve.
 nomad.co.ve.
-nomad.com.ve.
 nombres.com.ve.
 nomex.co.ve.
 nomex.com.ve.
@@ -15728,6 +15726,7 @@ oficina24.com.ve.
 oficinasgabrielosorio.com.ve.
 ofilmyzilla.com.ve.
 ofimarket.com.ve.
+ofimarkt.com.ve.
 ofimaster.com.ve.
 ofimayor.com.ve.
 ofinueva.com.ve.
@@ -15806,7 +15805,6 @@ omne.com.ve.
 omni.com.ve.
 omnibees.com.ve.
 omniconsult.com.ve.
-omnisalud.com.ve.
 omnissa.com.ve.
 omono.com.ve.
 omron.com.ve.
@@ -18958,7 +18956,6 @@ selflex.com.ve.
 selgrana.com.ve.
 selgrava.com.ve.
 sellatuparley.co.ve.
-sellatuparley.com.ve.
 selma.com.ve.
 selvaplus.com.ve.
 semanadelacocinaitaliana.com.ve.
@@ -19417,6 +19414,7 @@ sintesisonline.com.ve.
 sinthesis.com.ve.
 sio.com.ve.
 sioca.com.ve.
+sion.com.ve.
 sipacha.com.ve.
 sipheca.com.ve.
 sipoa.com.ve.
@@ -19427,7 +19425,6 @@ sirconet.com.ve.
 sirgregory-anzoategui.gob.ve.
 siriustech.com.ve.
 sis.gob.ve.
-sisal.com.ve.
 sisaludparaiso.com.ve.
 sisas.com.ve.
 siscacamimpeg.com.ve.
@@ -20508,7 +20505,6 @@ tasisto.com.ve.
 tassimo.com.ve.
 tatmak.com.ve.
 tatuaje.com.ve.
-tauro.com.ve.
 taxback.co.ve.
 taxback.com.ve.
 taxbid.com.ve.
@@ -20725,6 +20721,7 @@ telequip.com.ve.
 telerace.net.ve.
 telesat.com.ve.
 telescopios.com.ve.
+telesol.com.ve.
 telespica.com.ve.
 teletaxi.com.ve.
 teletech.com.ve.
@@ -21164,6 +21161,8 @@ total-parts.com.ve.
 total.com.ve.
 totalchef.com.ve.
 totalclean.com.ve.
+totalcom.com.ve.
+totalcom.net.ve.
 totalenergies.com.ve.
 totalfoods.com.ve.
 totalpagos.com.ve.
@@ -21912,6 +21911,7 @@ unete.com.ve.
 unete.net.ve.
 unete.org.ve.
 uneti.edu.ve.
+uneticket.com.ve.
 unetieduca.edu.ve.
 unetrans.edu.ve.
 uneweb.edu.ve.
@@ -23281,7 +23281,6 @@ yacht-master.net.ve.
 yacht-master.org.ve.
 yacht-master.web.ve.
 yachtcenter.com.ve.
-yadicamejo.com.ve.
 yaguamart.com.ve.
 yagumi.com.ve.
 yahoo.co.ve.

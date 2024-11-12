@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 10Nov2024 04:59 UTC
+# ve domain names extracted from nameservers on 11Nov2024 04:57 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4770,7 +4770,6 @@ colegioinmaculadaconcepcionmerida.com.ve.
 colegioitaloplc.edu.ve.
 colegiojardinfranciscano.com.ve.
 colegiojesusdenazaret.edu.ve.
-colegiojesusobrero.com.ve.
 colegiojosefelixribas.com.ve.
 colegiojosegregoriobastidas.com.ve.
 colegiojosephratzinger.com.ve.
@@ -4849,7 +4848,6 @@ colegiopadremachadobarquisimeto.com.ve.
 colegiopadreseijas.com.ve.
 colegiopadreseijas.edu.ve.
 colegiopaparonielvigia.com.ve.
-colegiopatrociniodemaria.com.ve.
 colegiopirineosdonbosco.com.ve.
 colegioplacidomaneiro.edu.ve.
 colegiopompei.com.ve.
@@ -8174,7 +8172,6 @@ felixojedaoropeza.com.ve.
 felixromanduque.edu.ve.
 felizviaje.com.ve.
 femelycosmetics.com.ve.
-femini.com.ve.
 femsur.edu.ve.
 femsur.gob.ve.
 fenar.com.ve.
@@ -9078,7 +9075,6 @@ fya.org.ve.
 fyapadrelegaria.com.ve.
 fyezlab.com.ve.
 fynddy.com.ve.
-fyrlois.com.ve.
 g-desktop.com.ve.
 g-mail.com.ve.
 g-p.co.ve.
@@ -10070,6 +10066,7 @@ gynocanesten.com.ve.
 h-m.com.ve.
 h.com.ve.
 h2opro.com.ve.
+h2otech.com.ve.
 haagen-dazs.com.ve.
 haagendazs.com.ve.
 habanos.co.ve.
@@ -10547,7 +10544,6 @@ hotelescuela.org.ve.
 hotelesdevenezuela.com.ve.
 hotelesencaracas.com.ve.
 hotelesenmargaritatodoincluido.com.ve.
-hotelesenvenezuela.com.ve.
 hoteleshesperia.com.ve.
 hoteleuro.com.ve.
 hotelgarner.com.ve.
@@ -12187,7 +12183,6 @@ jps.com.ve.
 jpseguridad.com.ve.
 jravenezuela.com.ve.
 jrconsultores.com.ve.
-jrlvenezuela.com.ve.
 jrnservice.com.ve.
 jsafra.co.ve.
 jsafra.com.ve.
@@ -15054,6 +15049,7 @@ museodeltachira.gob.ve.
 museodeltachira.gov.ve.
 museosdevenezuela.gov.ve.
 museosefardi.com.ve.
+museosefardidecaracas.org.ve.
 museosnacionales.gob.ve.
 museovirtual.gob.ve.
 musfotografia.gob.ve.
