@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 12Nov2024 04:59 UTC
+# ve domain names extracted from nameservers on 13Nov2024 04:51 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -293,6 +293,7 @@ acerosmundiales.com.ve.
 acerosytubos.com.ve.
 acevedo-miranda.gob.ve.
 acg.com.ve.
+acgviajes.com.ve.
 achaguas-apure.gob.ve.
 acica.com.ve.
 acicp.edu.ve.
@@ -1541,7 +1542,6 @@ aquienmerida.com.ve.
 aquihay.com.ve.
 ar2.com.ve.
 arabica.com.ve.
-arabito.com.ve.
 aracom17.com.ve.
 aragua-anzoategui.gob.ve.
 aragua.gob.ve.
@@ -3007,7 +3007,6 @@ braganzajoyas.com.ve.
 brahmakumaris.org.ve.
 braid.com.ve.
 braincorp.com.ve.
-braincorp.net.ve.
 braining.com.ve.
 brainly.com.ve.
 brainpop.co.ve.
@@ -3607,6 +3606,7 @@ caselogic.co.ve.
 caselogic.com.ve.
 casep.org.ve.
 casetel.org.ve.
+casf.com.ve.
 cash365.co.ve.
 casillerodeldiablo.com.ve.
 casinca.com.ve.
@@ -5068,6 +5068,7 @@ compugatecenter.com.ve.
 compumarketfh.com.ve.
 compunetwork.com.ve.
 compuroca.com.ve.
+compuser.com.ve.
 compuserve.com.ve.
 computerking.com.ve.
 computerplay.com.ve.
@@ -7872,7 +7873,6 @@ excelenciabc.com.ve.
 exceline.com.ve.
 excelineprofesional.com.ve.
 excelon.com.ve.
-excelsus.com.ve.
 excess-catamarans.com.ve.
 exclusiveclubca.com.ve.
 excor.com.ve.
@@ -9722,7 +9722,6 @@ graph.com.ve.
 graphicservices.com.ve.
 grapic.com.ve.
 grasaca.com.ve.
-grasaselpuerto.com.ve.
 grassrootslife.com.ve.
 gratitudaa.org.ve.
 graxalta.com.ve.
@@ -12935,6 +12934,7 @@ levapan.com.ve.
 levee.com.ve.
 level3.co.ve.
 level3.com.ve.
+levelnetplus.com.ve.
 levi.com.ve.
 levis.com.ve.
 levistrauss.com.ve.
@@ -13458,6 +13458,7 @@ madenor.com.ve.
 maderasdelalba.gob.ve.
 maderasdelorinoco.gob.ve.
 maderasguayabal.com.ve.
+maderasisidro.com.ve.
 maderca.com.ve.
 madman.com.ve.
 madrecarmenrendiles.edu.ve.
@@ -14397,7 +14398,6 @@ midiabetespasoapaso.com.ve.
 midmen.com.ve.
 midolar.com.ve.
 miele.com.ve.
-miemprendimiento.com.ve.
 miescuela.com.ve.
 miferre.com.ve.
 migas.com.ve.
@@ -17068,6 +17068,7 @@ preferate.com.ve.
 premierestateproperties.co.ve.
 premioscelarg.com.ve.
 premiospepsimusic.com.ve.
+premiumbrands.co.ve.
 premiumbrands.com.ve.
 premiumfarma.com.ve.
 premiummotors.com.ve.
@@ -17989,6 +17990,7 @@ repuestosbusdriver.com.ve.
 repuestoscarroschinos.com.ve.
 repuestoscherokee.com.ve.
 repuestosfastcars.com.ve.
+repuestoshonda.com.ve.
 repuestosjeep.com.ve.
 repuestoskrm.com.ve.
 repuestosocan.com.ve.
@@ -18279,6 +18281,7 @@ roraimamotors.com.ve.
 rosariodeperija-zulia.gob.ve.
 rosariodeperija.gob.ve.
 rosariograficos.com.ve.
+rosbook7.com.ve.
 roscio-bolivar.gob.ve.
 roser.com.ve.
 rosettastone.co.ve.
@@ -19425,6 +19428,7 @@ sirconet.com.ve.
 sirgregory-anzoategui.gob.ve.
 siriustech.com.ve.
 sis.gob.ve.
+sisal.com.ve.
 sisaludparaiso.com.ve.
 sisas.com.ve.
 siscacamimpeg.com.ve.
@@ -21944,6 +21948,7 @@ unidigital.com.ve.
 unieuro.co.ve.
 unif.gob.ve.
 uniformes.com.ve.
+uniformese.com.ve.
 uniformesklio.com.ve.
 uniformesmariarivas.com.ve.
 uniformespattygrey.com.ve.
@@ -22634,6 +22639,7 @@ villa.com.ve.
 villaavila.com.ve.
 villadelcine.gob.ve.
 villadelrosario.com.ve.
+villadivinamargarita.com.ve.
 villafm.com.ve.
 villalba-nuevaesparta.gob.ve.
 villartechnologies.com.ve.
