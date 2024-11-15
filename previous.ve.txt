@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 13Nov2024 04:51 UTC
+# ve domain names extracted from nameservers on 14Nov2024 05:00 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -5514,6 +5514,7 @@ corpdata.com.ve.
 corpesca.gob.ve.
 corpglobalit.com.ve.
 corpivensa.gob.ve.
+corpl.com.ve.
 corpoagro.com.ve.
 corpoalimentosdelsur.com.ve.
 corpoandes.gob.ve.
@@ -6889,6 +6890,7 @@ dulcemadera.com.ve.
 dulcesgatitas.com.ve.
 dulcitoysalado.com.ve.
 duluxletscolor.com.ve.
+dunamisradiotv.com.ve.
 dunas.com.ve.
 dunati.com.ve.
 dunbar.com.ve.
@@ -7954,6 +7956,7 @@ extreme-sports.com.ve.
 extremetech.com.ve.
 extrufan.com.ve.
 exxel.com.ve.
+exxomax.com.ve.
 exxon.co.ve.
 exxon.com.ve.
 exxonmobil.co.ve.
@@ -10508,6 +10511,7 @@ hostingenlaweb.com.ve.
 hostingned.com.ve.
 hostingnedreseller.com.ve.
 hostingvenezuela.com.ve.
+hostingydominios.com.ve.
 hostmar.com.ve.
 hostpoint.com.ve.
 hostwinds.com.ve.
@@ -12143,6 +12147,8 @@ johnsoncontrols.co.ve.
 johnsoncontrols.com.ve.
 johnsonsbaby.com.ve.
 jolemanaduana.com.ve.
+joma-sport.com.ve.
+joma.com.ve.
 jomalone.co.ve.
 jomalone.com.ve.
 jomi.com.ve.
@@ -12705,7 +12711,6 @@ lancontrols.com.ve.
 lander-miranda.gob.ve.
 landsend.co.ve.
 landsend.com.ve.
-lanewcuisine.co.ve.
 lanewcuisine.com.ve.
 languageinternational.co.ve.
 lanitas.com.ve.
@@ -14808,6 +14813,7 @@ motorshop.com.ve.
 motortro.com.ve.
 motorvenca.com.ve.
 motorzona.com.ve.
+motos.com.ve.
 motosonic.com.ve.
 mototurismo.com.ve.
 motoval.com.ve.
@@ -15678,6 +15684,7 @@ oceanlogistic.com.ve.
 oceano.com.ve.
 oceanomedicina.com.ve.
 oceanomksap.com.ve.
+oceanpro.com.ve.
 oceanstore.com.ve.
 ocei.gov.ve.
 ocg.net.ve.
@@ -17367,6 +17374,7 @@ proyservin.com.ve.
 proysistelca.com.ve.
 pru.com.ve.
 prudential.com.ve.
+pruka.com.ve.
 prumerica.com.ve.
 ps4u.com.ve.
 psa.com.ve.
@@ -17581,7 +17589,6 @@ radimax.net.ve.
 radio.co.ve.
 radio.com.ve.
 radio2000.com.ve.
-radio903.com.ve.
 radioalegria1027fm.com.ve.
 radioamerica.com.ve.
 radioamiga909.com.ve.
@@ -18259,6 +18266,7 @@ romamia.com.ve.
 romeda.com.ve.
 romelguzman.com.ve.
 romie.com.ve.
+romoinca.com.ve.
 rompiendolanorma.org.ve.
 romsnintendoenespanol.com.ve.
 romulobetancourt.edu.ve.
@@ -19448,7 +19456,6 @@ sistelred.com.ve.
 sistemaapure.com.ve.
 sistemacrm.com.ve.
 sistemadeapartadocaejerb.com.ve.
-sistemadeformacionfranciscodemiranda.org.ve.
 sistemadeformacionpsuv.com.ve.
 sistemadegestionciti.com.ve.
 sistemadeventas.com.ve.
@@ -20049,6 +20056,7 @@ staufferhotel.com.ve.
 stay-in-range.com.ve.
 stayfree.com.ve.
 stayinrange.com.ve.
+stbv.org.ve.
 ste.com.ve.
 steel.com.ve.
 stefano-ricci.co.ve.
@@ -20817,6 +20825,7 @@ tetratop.com.ve.
 teva.com.ve.
 tevapharm.com.ve.
 tex.com.ve.
+texaco.com.ve.
 textiland.com.ve.
 textileshai.com.ve.
 textilesmadutex.com.ve.
@@ -22186,7 +22195,6 @@ vacaciones.com.ve.
 vacacionesbarcelo.com.ve.
 vack.com.ve.
 vadas.com.ve.
-vadellhnoseditores.com.ve.
 vademecumavisa.org.ve.
 vaderstad.co.ve.
 valbia.com.ve.
@@ -22291,6 +22299,7 @@ vectorservices.com.ve.
 vedesat.gob.ve.
 veet.com.ve.
 vega.com.ve.
+vegascars.com.ve.
 veja.com.ve.
 vel.co.ve.
 vel.com.ve.
@@ -22926,6 +22935,7 @@ walo.com.ve.
 wamma1025fm.com.ve.
 wantel.com.ve.
 waoprints.com.ve.
+wapi.com.ve.
 warairarepano.gob.ve.
 waraujo.com.ve.
 waripete.co.ve.
@@ -23379,6 +23389,7 @@ zamora-aragua.gov.ve.
 zamora-falcon.gov.ve.
 zamora-miranda.gov.ve.
 zanox.com.ve.
+zapatos.com.ve.
 zapmeta.co.ve.
 zapping.co.ve.
 zapping.com.ve.
