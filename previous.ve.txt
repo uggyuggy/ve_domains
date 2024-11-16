@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 14Nov2024 05:00 UTC
+# ve domain names extracted from nameservers on 15Nov2024 04:51 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2609,6 +2609,7 @@ bienesraicesbarquisimeto.com.ve.
 bienhecho.com.ve.
 biensimple.com.ve.
 bienvenidoatumundo.com.ve.
+bigben.com.ve.
 bigbrother.com.ve.
 bigcode.com.ve.
 bigcommerce.co.ve.
@@ -2769,6 +2770,7 @@ blaufarmaceutica.com.ve.
 blenders-pride.com.ve.
 blenderspride.com.ve.
 blendtec.com.ve.
+blibliotecaunes.com.ve.
 bligoo.com.ve.
 blindacenter.com.ve.
 blindamar.com.ve.
@@ -3235,6 +3237,7 @@ cadif1.com.ve.
 cadipa.com.ve.
 cadivi.com.ve.
 cadivi.org.ve.
+cadominfra.com.ve.
 cadp.com.ve.
 cady.com.ve.
 caeb.edu.ve.
@@ -6164,6 +6167,7 @@ dear.com.ve.
 deatech.com.ve.
 debarr.com.ve.
 debatecultural.net.ve.
+debconsultores.com.ve.
 debenhams.com.ve.
 decalcomania.com.ve.
 decathlon.co.ve.
@@ -6249,6 +6253,7 @@ deltainn.com.ve.
 deltaintegradores.com.ve.
 deltalight.com.ve.
 deltap.com.ve.
+deltaprint.com.ve.
 deltasalud.com.ve.
 delti.com.ve.
 delticom.com.ve.
@@ -7043,6 +7048,7 @@ ecsa.com.ve.
 ecsistemas.com.ve.
 ect.com.ve.
 ecv.com.ve.
+ecysca.com.ve.
 edaca.com.ve.
 edat.org.ve.
 edatmerida.com.ve.
@@ -7155,6 +7161,7 @@ elca.com.ve.
 elcallao-bolivar.gob.ve.
 elcambur.com.ve.
 elcartel.com.ve.
+elcarupanerodigital.com.ve.
 elcastillo.com.ve.
 elchapuzasinformatico.com.ve.
 elclarin.net.ve.
@@ -9073,6 +9080,7 @@ fya.org.ve.
 fyapadrelegaria.com.ve.
 fyezlab.com.ve.
 fynddy.com.ve.
+fyrlois.com.ve.
 g-desktop.com.ve.
 g-mail.com.ve.
 g-p.co.ve.
@@ -9922,6 +9930,7 @@ gruposelco.com.ve.
 gruposelecto.com.ve.
 gruposend.com.ve.
 gruposiglo.com.ve.
+gruposolve.com.ve.
 grupossa.com.ve.
 gruposupply.com.ve.
 gruposuramerica.com.ve.
@@ -10343,6 +10352,7 @@ hifhair.com.ve.
 higer.com.ve.
 highfil.com.ve.
 highschoolmusical.com.ve.
+hightech.com.ve.
 hightech.net.ve.
 higienistasucv.com.ve.
 higienol.com.ve.
@@ -12507,6 +12517,7 @@ krediya.com.ve.
 krispykreme.co.ve.
 krispykreme.com.ve.
 kristianisima.com.ve.
+kriza.com.ve.
 krloz.com.ve.
 krombacher.co.ve.
 krone.co.ve.
@@ -13530,7 +13541,6 @@ mainstays.co.ve.
 maisanta.gov.ve.
 maisanta.mil.ve.
 maisonblanche.com.ve.
-maizbistro.com.ve.
 maizina.com.ve.
 maizorilandia.com.ve.
 maizoritos.com.ve.
@@ -14052,6 +14062,7 @@ mega6.com.ve.
 mega6tntsports.co.ve.
 mega6tntsports.com.ve.
 megabusiness.com.ve.
+megacentro.com.ve.
 megaconfites.com.ve.
 megacontrol.com.ve.
 megadataleca.com.ve.
@@ -14805,6 +14816,7 @@ motindustria.com.ve.
 motocool.com.ve.
 motofloy.com.ve.
 motorcomca.com.ve.
+motorepuestosonline.com.ve.
 motores.com.ve.
 motorescabriales.com.ve.
 motorola.com.ve.
@@ -15068,7 +15080,6 @@ musix.com.ve.
 muspalabra.gob.ve.
 mustang-jeans.com.ve.
 mustela.com.ve.
-mutato.com.ve.
 muyestetica.com.ve.
 mva.com.ve.
 mvh.gob.ve.
@@ -15122,7 +15133,6 @@ nadiagonzalez.com.ve.
 nagar.com.ve.
 naguanagua-carabobo.gob.ve.
 naguanaguense.net.ve.
-nahuel.com.ve.
 naica.com.ve.
 nalco.co.ve.
 nalco.com.ve.
@@ -15812,6 +15822,7 @@ omne.com.ve.
 omni.com.ve.
 omnibees.com.ve.
 omniconsult.com.ve.
+omnisalud.com.ve.
 omnissa.com.ve.
 omono.com.ve.
 omron.com.ve.
@@ -16241,7 +16252,6 @@ panvida.com.ve.
 panzyga.com.ve.
 pao-cojedes.gob.ve.
 papajohns.co.ve.
-papajohns.com.ve.
 papayatravel.com.ve.
 papelandia.com.ve.
 papelerasramirez.com.ve.
@@ -17017,7 +17027,6 @@ posadamediterraneo.com.ve.
 posadas.com.ve.
 posadasdevenezuela.com.ve.
 posadaventisquero.com.ve.
-posadayaquesol.com.ve.
 posadayemaya.com.ve.
 posan.com.ve.
 post-it.co.ve.
@@ -17347,7 +17356,6 @@ provenra.com.ve.
 provincialbarinitas.edu.ve.
 provision.com.ve.
 provita.org.ve.
-proviviendas.org.ve.
 prowall.com.ve.
 proweb.com.ve.
 proy3ct.net.ve.
@@ -17589,6 +17597,7 @@ radimax.net.ve.
 radio.co.ve.
 radio.com.ve.
 radio2000.com.ve.
+radio903.com.ve.
 radioalegria1027fm.com.ve.
 radioamerica.com.ve.
 radioamiga909.com.ve.
@@ -17739,6 +17748,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -21986,6 +21996,8 @@ uniprint.com.ve.
 uniqlo.co.ve.
 uniqlo.com.ve.
 unique.com.ve.
+unir.co.ve.
+unir.com.ve.
 unir.edu.ve.
 uniradio.org.ve.
 unisant.com.ve.
@@ -22178,6 +22190,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22309,6 +22322,7 @@ velaprumig.com.ve.
 velas3n.com.ve.
 velasaromaticas.com.ve.
 velaselfraile.com.ve.
+velaslanoche.com.ve.
 velasperegrino.com.ve.
 velassanagustin.com.ve.
 velcosa.com.ve.
