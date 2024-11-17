@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 15Nov2024 04:51 UTC
+# ve domain names extracted from nameservers on 16Nov2024 04:54 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -318,6 +318,7 @@ acord.com.ve.
 acoservices.com.ve.
 acosta-falcon.gov.ve.
 acosta-monagas.gov.ve.
+acosta.com.ve.
 acovis.com.ve.
 acquablue.com.ve.
 acquadiparma.com.ve.
@@ -2591,6 +2592,7 @@ bibliotecapiotamayo.gob.ve.
 bibliotecaspublicasguarico.gob.ve.
 bibliotecasucredigital.edu.ve.
 bibliotecasvirtuales.org.ve.
+bibliotecaunes.com.ve.
 bibliotecayacucho.gob.ve.
 bicarbonato.com.ve.
 bicentenario.gob.ve.
@@ -2717,6 +2719,7 @@ birkenstock.co.ve.
 biruaca-apure.gob.ve.
 bisoft.com.ve.
 bissell.com.ve.
+bistecca.com.ve.
 bistrolibertador.com.ve.
 bisuteria888.com.ve.
 bisuteriaryr.com.ve.
@@ -4735,6 +4738,7 @@ colegiocorazondejesus.edu.ve.
 colegiocristodelbuenviaje.com.ve.
 colegiocristoreysantamonica.com.ve.
 colegiocubagua.edu.ve.
+colegiodanielflorenciooleary.com.ve.
 colegiodanielista.com.ve.
 colegiodebioanalistas.com.ve.
 colegiodecroly.edu.ve.
@@ -4817,6 +4821,7 @@ colegiomariaauxiliadoraaltamira.com.ve.
 colegiomariaauxiliadoralosteques.com.ve.
 colegiomariadelourdesperera.com.ve.
 colegiomariainmaculada.edu.ve.
+colegiomariainmaculadaguarico.com.ve.
 colegiomariamontessori.com.ve.
 colegiomarianopiconsalas.edu.ve.
 colegiomariasantisima.com.ve.
@@ -7103,7 +7108,6 @@ educredito.org.ve.
 educuv.com.ve.
 edudatos.com.ve.
 edugn.mil.ve.
-edunova.com.ve.
 eduweb.com.ve.
 edux.com.ve.
 eepa.mil.ve.
@@ -7773,6 +7777,7 @@ etrade.com.ve.
 etro.com.ve.
 etuttoqua.com.ve.
 eucerin.com.ve.
+eum.com.ve.
 eureka.co.ve.
 eureka.net.ve.
 euro-diesel.co.ve.
@@ -9349,7 +9354,6 @@ ggimage.co.ve.
 ggsa.com.ve.
 ghae.co.ve.
 ghae.com.ve.
-ghalmaca.com.ve.
 ghhoteles.com.ve.
 ghm.com.ve.
 ghmarcano.com.ve.
@@ -9963,7 +9967,6 @@ grupowjsc.com.ve.
 grupoxdevenezuela.com.ve.
 grupoyoma.com.ve.
 grupozakhia.com.ve.
-grupozaki.com.ve.
 grupozonafm.com.ve.
 grupozulcon.net.ve.
 grupozuliano.com.ve.
@@ -13206,6 +13209,7 @@ loctite-consumo.com.ve.
 loctite.com.ve.
 locutora.com.ve.
 locutores.com.ve.
+locutorio.com.ve.
 loder.com.ve.
 loderbrands.com.ve.
 loea-eacuaticos.gov.ve.
@@ -13616,7 +13620,6 @@ manta.com.ve.
 mantenimientoelectricocostel.com.ve.
 mantenimientosemahinst.com.ve.
 mantenimientotrading.com.ve.
-mantis.com.ve.
 mantruckandbus.co.ve.
 mantruckandbus.com.ve.
 manu.com.ve.
@@ -14149,6 +14152,7 @@ merant.co.ve.
 mercabar.gob.ve.
 mercabid.com.ve.
 mercadelivery.com.ve.
+mercadillo.com.ve.
 mercado-libre.com.ve.
 mercado.com.ve.
 mercadoads.co.ve.
@@ -15695,7 +15699,6 @@ oceano.com.ve.
 oceanomedicina.com.ve.
 oceanomksap.com.ve.
 oceanpro.com.ve.
-oceanstore.com.ve.
 ocei.gov.ve.
 ocg.net.ve.
 ochina.gob.ve.
@@ -17159,6 +17162,7 @@ pringles.co.ve.
 pringles.com.ve.
 printa.com.ve.
 printco.com.ve.
+printergroup.com.ve.
 printline.com.ve.
 printwhat.com.ve.
 prinx.com.ve.
@@ -17748,7 +17752,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -18535,7 +18538,6 @@ saludambiental.gob.ve.
 saludanz.gob.ve.
 saludguarico.gob.ve.
 saludigital.gov.ve.
-saludlaguaira.com.ve.
 saludportuguesa.gob.ve.
 saludsanbernardino.com.ve.
 saludvisualmargarita.com.ve.
@@ -19909,6 +19911,7 @@ sparkle.co.ve.
 spartan.co.ve.
 spartanrace.co.ve.
 spartanrace.com.ve.
+spazio.com.ve.
 spaziodicasa.com.ve.
 spcnu.gob.ve.
 spcnu.gov.ve.
@@ -21781,11 +21784,13 @@ uecolegiocristobalmendoza.com.ve.
 uecolegiodomingosavio.edu.ve.
 uecolegioelalba.com.ve.
 uecolegioelmorro.com.ve.
+uecolegioguataparo.com.ve.
 uecolegiolafe.com.ve.
 uecolegiometropolitano.com.ve.
 uecolegiomicaeliano.com.ve.
 uecolegiomiguelangel.edu.ve.
 uecolegioorinoco.com.ve.
+uecolegiopedrolegaria.com.ve.
 uecolegioprivadomontesano.com.ve.
 uecolegioprivadoyuruari.com.ve.
 uecolegioresurrecciondelsenor.com.ve.
@@ -22190,7 +22195,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -23007,7 +23011,6 @@ we-buildgroup.com.ve.
 wearfigs.com.ve.
 weather.com.ve.
 weatherford.com.ve.
-weathertech.com.ve.
 web.co.ve.
 web.ve.
 webbeds.com.ve.
@@ -23065,7 +23068,6 @@ wert.com.ve.
 wesco.com.ve.
 westernchemicals.com.ve.
 westernunion.co.ve.
-westlake.com.ve.
 wetalks.com.ve.
 wework.co.ve.
 wework.com.ve.
@@ -23359,8 +23361,8 @@ ymca.com.ve.
 ymcconsulting.com.ve.
 ymgsoluciones.com.ve.
 yocorroconmovistar.com.ve.
-yokohama.com.ve.
 yola.com.ve.
+yolohagobien.com.ve.
 yonka.com.ve.
 yonkaformen.com.ve.
 yonlui.com.ve.
