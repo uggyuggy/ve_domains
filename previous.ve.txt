@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 16Nov2024 04:54 UTC
+# ve domain names extracted from nameservers on 17Nov2024 04:30 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3408,7 +3408,6 @@ capeapep.com.ve.
 capellaniapnb.org.ve.
 capem.com.ve.
 capi.com.ve.
-capify.com.ve.
 capitalgroup.co.ve.
 capitalgroup.com.ve.
 capitalinternational.com.ve.
@@ -5205,7 +5204,6 @@ conettech.com.ve.
 conexion.com.ve.
 conexiondental.com.ve.
 conexionescbg.com.ve.
-conexitusconsultores.com.ve.
 conext.com.ve.
 conext.net.ve.
 confeccioneshermanoscantos.com.ve.
@@ -10613,7 +10611,6 @@ housedecor.com.ve.
 houseofmarley.com.ve.
 houseofrock.com.ve.
 housingagent.co.ve.
-houstontexas.com.ve.
 hovertours.com.ve.
 howard.com.ve.
 howdy.com.ve.
@@ -13213,12 +13210,6 @@ locutorio.com.ve.
 loder.com.ve.
 loderbrands.com.ve.
 loea-eacuaticos.gov.ve.
-logginet.co.ve.
-logginet.com.ve.
-logginet.info.ve.
-logginet.net.ve.
-logginet.org.ve.
-logginet.web.ve.
 logic.com.ve.
 logica.com.ve.
 logicadigital.com.ve.
@@ -17624,7 +17615,6 @@ radiomaranatha.co.ve.
 radiomaria.com.ve.
 radiomaria.org.ve.
 radiomigrante.com.ve.
-radiominuto.com.ve.
 radiomiraflores.co.ve.
 radiomiraflores.com.ve.
 radiomiraflores.info.ve.
@@ -21569,7 +21559,6 @@ tumayorferretero.net.ve.
 tumedico.com.ve.
 tumedicoculturista.com.ve.
 tumedicointernistaenchacao.com.ve.
-tumercado.com.ve.
 tumoto.com.ve.
 tumudanza.com.ve.
 tumundointer.com.ve.
@@ -22195,6 +22184,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -23524,7 +23514,6 @@ zurzuvae.com.ve.
 zwan.com.ve.
 zwilling.com.ve.
 zxauto.com.ve.
-zygtraductores.com.ve.
 zynga.com.ve.
 zys.com.ve.
 zz.com.ve.
