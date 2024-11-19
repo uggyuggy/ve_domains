@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 18Nov2024 04:48 UTC
+# ve domain names extracted from nameservers on 19Nov2024 04:37 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -753,7 +753,6 @@ alaservice.com.ve.
 alav.org.ve.
 alba.gov.ve.
 albacultural.gob.ve.
-albahogar.com.ve.
 albatrosair.com.ve.
 albazete.com.ve.
 albeca.com.ve.
@@ -993,7 +992,6 @@ alenbru.com.ve.
 alensa.com.ve.
 alentuy.gob.ve.
 aleo.com.ve.
-aleph.com.ve.
 alequin.com.ve.
 alere.com.ve.
 alesca.net.ve.
@@ -1025,6 +1023,7 @@ alfareriasantaclara.com.ve.
 alfashop.com.ve.
 alfasur.com.ve.
 alfaturagua.com.ve.
+alfayaracuy.com.ve.
 alfer.com.ve.
 alfonzorivas.com.ve.
 alfovenca.com.ve.
@@ -1460,7 +1459,6 @@ aplus.net.ve.
 apn.gob.ve.
 apollogamesandsearch.com.ve.
 apostolado.org.ve.
-apoyocontable.com.ve.
 app.com.ve.
 appalbatros.com.ve.
 appbel.com.ve.
@@ -3275,6 +3273,7 @@ calendarios.com.ve.
 calendas.org.ve.
 calentadoresaltamira.com.ve.
 calentadoresgarrido.com.ve.
+cales.com.ve.
 calibots.com.ve.
 caliente.co.ve.
 calientefm.com.ve.
@@ -6983,7 +6982,6 @@ earlylearningcentre.com.ve.
 easupernova.com.ve.
 easy.com.ve.
 easyaccess.com.ve.
-easybox.com.ve.
 easycancha.com.ve.
 easycar.co.ve.
 easyceph.com.ve.
@@ -7564,7 +7562,6 @@ epson.com.ve.
 epson.net.ve.
 eptinezumab.com.ve.
 epuvenezuela.gob.ve.
-eqc100.com.ve.
 equasym.com.ve.
 equasymir.com.ve.
 equasymxl.com.ve.
@@ -7755,6 +7752,7 @@ etienda.com.ve.
 etiflexenco.com.ve.
 etiflexo.com.ve.
 etig.edu.ve.
+etilox.com.ve.
 etimark.com.ve.
 etimazzarello.com.ve.
 etimed.com.ve.
@@ -9930,7 +9928,6 @@ gruposantarosa.com.ve.
 gruposds.com.ve.
 gruposeguridadvip.com.ve.
 gruposelco.com.ve.
-gruposelecto.com.ve.
 gruposend.com.ve.
 gruposiglo.com.ve.
 gruposolve.com.ve.
@@ -10216,7 +10213,6 @@ heidenhain.co.ve.
 heimcore.com.ve.
 heimdall.com.ve.
 heinz.com.ve.
-helado.com.ve.
 helados.com.ve.
 heladoscali.com.ve.
 heladosefe.com.ve.
@@ -11840,6 +11836,7 @@ itfca.com.ve.
 itiformacion.edu.ve.
 itime.com.ve.
 itjo.edu.ve.
+itmanagercompany.com.ve.
 itmedia.com.ve.
 itmediatech.com.ve.
 itmediax.com.ve.
@@ -17553,6 +17550,7 @@ quiltednorthern.co.ve.
 quilvest-private-equity.com.ve.
 quilvestprivateequity.com.ve.
 quimbiotec.gob.ve.
+quimicaetilox.com.ve.
 quimicasorocolor.com.ve.
 quimicolor.com.ve.
 quimicosancaro.com.ve.
@@ -18826,6 +18824,7 @@ scouts.org.ve.
 scoutsvenezuela.org.ve.
 scr.gob.ve.
 screen.com.ve.
+screenconnect.com.ve.
 screendesigns.com.ve.
 scribe.com.ve.
 scricca.com.ve.
@@ -20768,6 +20767,7 @@ tempur.com.ve.
 tempus.co.ve.
 tempuslabs.co.ve.
 tempuslabs.com.ve.
+temu.co.ve.
 temu.com.ve.
 tena.com.ve.
 tenable.com.ve.
@@ -21024,6 +21024,7 @@ tinderplus.com.ve.
 tinkoff.com.ve.
 tinsa.co.ve.
 tinsa.com.ve.
+tintasanjovzla.com.ve.
 tintaymedia.com.ve.
 tintexpress.com.ve.
 tinyletter.co.ve.
@@ -21067,7 +21068,6 @@ toba.com.ve.
 tocopero-falcon.gov.ve.
 toctino.co.ve.
 toctino.com.ve.
-todoagro.com.ve.
 todoairescaracas.com.ve.
 todoaki.com.ve.
 todoauto.com.ve.
@@ -21562,7 +21562,6 @@ tumedico.com.ve.
 tumedicoculturista.com.ve.
 tumedicointernistaenchacao.com.ve.
 tumoto.com.ve.
-tumudanza.com.ve.
 tumundointer.com.ve.
 tuorohoy.com.ve.
 tuoutlet.com.ve.
@@ -21698,7 +21697,6 @@ uba.edu.ve.
 ubaldi.org.ve.
 ubc.org.ve.
 uber-one.com.ve.
-uber.com.ve.
 uberfreight.com.ve.
 ubicame.com.ve.
 ubicar.com.ve.

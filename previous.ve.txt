@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 17Nov2024 04:30 UTC
+# ve domain names extracted from nameservers on 18Nov2024 04:48 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4389,6 +4389,7 @@ clarotv.com.ve.
 clarovenezuela.com.ve.
 claseazul.com.ve.
 clasenw.com.ve.
+clasesenlinea.com.ve.
 clasf.co.ve.
 clasicapublicidad.com.ve.
 clasificadoseluniversal.com.ve.
@@ -8180,6 +8181,7 @@ felixojedaoropeza.com.ve.
 felixromanduque.edu.ve.
 felizviaje.com.ve.
 femelycosmetics.com.ve.
+femini.com.ve.
 femsur.edu.ve.
 femsur.gob.ve.
 fenar.com.ve.
@@ -8331,7 +8333,6 @@ fima.gov.ve.
 fimaca.com.ve.
 fimarval.com.ve.
 fimnpsa.mil.ve.
-fimp-civ.com.ve.
 financialrating.com.ve.
 finanzas.com.ve.
 finanzas.gov.ve.
@@ -14523,6 +14524,7 @@ minto.co.ve.
 mintra.gob.ve.
 mintur.gob.ve.
 minube.com.ve.
+minue.com.ve.
 minutoaminuto.com.ve.
 minvih.gob.ve.
 minya.com.ve.
@@ -14981,6 +14983,7 @@ multicargas.com.ve.
 multiconsumos.com.ve.
 multiecservicios.com.ve.
 multieventsvenezuela.com.ve.
+multifruit.com.ve.
 multigrapas.com.ve.
 multiguia.com.ve.
 multiinternacionalvzla.com.ve.
@@ -15075,6 +15078,7 @@ musix.com.ve.
 muspalabra.gob.ve.
 mustang-jeans.com.ve.
 mustela.com.ve.
+mutato.com.ve.
 muyestetica.com.ve.
 mva.com.ve.
 mvh.gob.ve.
@@ -16108,7 +16112,6 @@ oysterperpetual.web.ve.
 oz.com.ve.
 ozono.com.ve.
 ozonomedic.com.ve.
-p2.com.ve.
 p2pnetwork.com.ve.
 p4f.co.ve.
 p4f.com.ve.
@@ -18528,8 +18531,8 @@ saludambiental.gob.ve.
 saludanz.gob.ve.
 saludguarico.gob.ve.
 saludigital.gov.ve.
+saludlaguaira.com.ve.
 saludportuguesa.gob.ve.
-saludsanbernardino.com.ve.
 saludvisualmargarita.com.ve.
 saludvital.com.ve.
 saludvitale.com.ve.
@@ -19466,7 +19469,6 @@ sistemapia.com.ve.
 sistemas-empresariales.com.ve.
 sistemas.emprende.ve.
 sistemasalamedida.com.ve.
-sistemascubosoft.com.ve.
 sistemasderiego.com.ve.
 sistemasdeseguridad.com.ve.
 sistemasgarc.com.ve.
@@ -22184,7 +22186,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
