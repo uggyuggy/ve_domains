@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19Nov2024 04:37 UTC
+# ve domain names extracted from nameservers on 20Nov2024 04:33 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -121,7 +121,6 @@
 6a98892a-ac11-11ee-b590-f099d94a046c._domainkey.nic.ve.
 745.com.ve.
 770.com.ve.
-777pop.com.ve.
 77post.com.ve.
 7forallmankind.com.ve.
 8.com.ve.
@@ -1709,6 +1708,7 @@ arya.com.ve.
 aryesca.com.ve.
 arzobispochacon-merida.gov.ve.
 as.co.ve.
+asactech.com.ve.
 asambleanacional.gob.ve.
 asambleanacional.gov.ve.
 asambleanacionalconstituyente.gob.ve.
@@ -5936,7 +5936,6 @@ cvgtelecom.gob.ve.
 cvi.edu.ve.
 cvir.com.ve.
 cvm.com.ve.
-cvn.com.ve.
 cvrd.com.ve.
 cvrdinternational.com.ve.
 cvrtours.com.ve.
@@ -7403,7 +7402,6 @@ emporiodelaseguridad.com.ve.
 emporiodelastelas.com.ve.
 emprende.edu.ve.
 emprende.ve.
-emprendedor.com.ve.
 emprenderjuntos.gob.ve.
 emprendimientoymarketing.com.ve.
 empresa.com.ve.
@@ -7495,7 +7493,6 @@ enlanube.co.ve.
 enmohca.gob.ve.
 enmotion.co.ve.
 enon.com.ve.
-enoteca.com.ve.
 enpa.gob.ve.
 enphase.com.ve.
 enphaseenergy.com.ve.
@@ -10184,6 +10181,7 @@ hce.com.ve.
 hcsc.gov.ve.
 hcservicios.com.ve.
 hcudamp.gob.ve.
+hdg.com.ve.
 hdgcorporacion.com.ve.
 hds.co.ve.
 headandshoulders.com.ve.
@@ -14725,6 +14723,7 @@ mondelez-international.com.ve.
 mondelez.com.ve.
 mondelezinternational.com.ve.
 mondelezintl.com.ve.
+mondellopromotional.com.ve.
 moneix.com.ve.
 moneyexpress.com.ve.
 moneygram.co.ve.
@@ -16246,6 +16245,7 @@ panvida.com.ve.
 panzyga.com.ve.
 pao-cojedes.gob.ve.
 papajohns.co.ve.
+papajohns.com.ve.
 papayatravel.com.ve.
 papelandia.com.ve.
 papelerasramirez.com.ve.
@@ -17743,6 +17743,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19030,7 +19031,6 @@ serconplafumigaciones.com.ve.
 serdolect.com.ve.
 sereca.com.ve.
 serenidadmental.com.ve.
-sergama.com.ve.
 sergeca.com.ve.
 sergiorossi.co.ve.
 sergiorossi.com.ve.
@@ -19585,7 +19585,6 @@ smartgraphic.com.ve.
 smarthome.com.ve.
 smartlink.net.ve.
 smartnet.com.ve.
-smartoil.com.ve.
 smartours.com.ve.
 smartsecurity-systems.com.ve.
 smartsite.com.ve.
@@ -20724,7 +20723,6 @@ telefonicamoviles.com.ve.
 telefonicatech.com.ve.
 telefunken.com.ve.
 telegon.com.ve.
-telehost.com.ve.
 teleinformatica.gob.ve.
 teleiva.com.ve.
 telemecanique.co.ve.
@@ -22184,6 +22182,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22356,7 +22355,6 @@ vendenostuauto.com.ve.
 venderylisto.com.ve.
 vendes.com.ve.
 vendetutti.com.ve.
-vendigital.com.ve.
 veneasesores.com.ve.
 veneasistencia.com.ve.
 veneaventura.com.ve.
@@ -22596,6 +22594,7 @@ victoria-secrets.co.ve.
 victoria-secrets.com.ve.
 victoriabolivariana.gov.ve.
 victoriafm.com.ve.
+victorialloretestetica.com.ve.
 victorianet.com.ve.
 victorias-secret.co.ve.
 victorias-secret.com.ve.
