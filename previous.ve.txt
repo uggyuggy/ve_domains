@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Nov2024 04:33 UTC
+# ve domain names extracted from nameservers on 21Nov2024 04:33 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -38,6 +38,7 @@
 1x10.com.ve.
 1x10delbuengobierno.gob.ve.
 1x10nm.com.ve.
+1xbet-sport.com.ve.
 1xbet.co.ve.
 1xbet.com.ve.
 1xbet.org.ve.
@@ -2325,6 +2326,7 @@ basemiranda.mil.ve.
 basf.com.ve.
 basilea.co.ve.
 basilea.com.ve.
+basilicatimotes.org.ve.
 basinger.com.ve.
 bastadebullying.com.ve.
 bata.com.ve.
@@ -4775,6 +4777,7 @@ colegioinmaculadaconcepcionmerida.com.ve.
 colegioitaloplc.edu.ve.
 colegiojardinfranciscano.com.ve.
 colegiojesusdenazaret.edu.ve.
+colegiojesusobrero.com.ve.
 colegiojosefelixribas.com.ve.
 colegiojosegregoriobastidas.com.ve.
 colegiojosephratzinger.com.ve.
@@ -4854,6 +4857,7 @@ colegiopadremachadobarquisimeto.com.ve.
 colegiopadreseijas.com.ve.
 colegiopadreseijas.edu.ve.
 colegiopaparonielvigia.com.ve.
+colegiopatrociniodemaria.com.ve.
 colegiopirineosdonbosco.com.ve.
 colegioplacidomaneiro.edu.ve.
 colegiopompei.com.ve.
@@ -6693,7 +6697,6 @@ diversey.co.ve.
 diversey.com.ve.
 diverseybrands.com.ve.
 diversidadcultural.gob.ve.
-divinafm.com.ve.
 divinasonrisa.com.ve.
 divinonino.com.ve.
 divinopastor.edu.ve.
@@ -7881,6 +7884,7 @@ excelenciabc.com.ve.
 exceline.com.ve.
 excelineprofesional.com.ve.
 excelon.com.ve.
+excelsus.com.ve.
 excess-catamarans.com.ve.
 exclusiveclubca.com.ve.
 excor.com.ve.
@@ -8125,6 +8129,7 @@ fay.com.ve.
 fbe.org.ve.
 fca.gov.ve.
 fcavenezuela.com.ve.
+fcb.co.ve.
 fcbyfauci.com.ve.
 fccm.gob.ve.
 fccpvirtual.com.ve.
@@ -8172,6 +8177,7 @@ fejp.gob.ve.
 fejp.gov.ve.
 felcatinternational.com.ve.
 feldentertainment.com.ve.
+felinaestereo.com.ve.
 felixojedaoropeza.com.ve.
 felixromanduque.edu.ve.
 felizviaje.com.ve.
@@ -9052,6 +9058,7 @@ fuze-tea.com.ve.
 fva.com.ve.
 fvas.com.ve.
 fveu.com.ve.
+fveu.org.ve.
 fvf.com.ve.
 fvfclubes.com.ve.
 fvi.com.ve.
@@ -10533,6 +10540,7 @@ hotelbeds.com.ve.
 hotelbrisasparaguana.com.ve.
 hotelcalifornia.com.ve.
 hotelcaroni.com.ve.
+hotelcastillito.com.ve.
 hotelcheck.com.ve.
 hotelchocolat.com.ve.
 hotelcoliseo.com.ve.
@@ -12405,7 +12413,6 @@ kimbino.co.ve.
 kimiceg.com.ve.
 kimoanh.com.ve.
 kinematic.com.ve.
-kingbike.com.ve.
 kingdomnetwork.com.ve.
 kingpack.com.ve.
 kingrental.com.ve.
@@ -12679,6 +12686,7 @@ laguachafa.com.ve.
 laguaira.gob.ve.
 laguia.com.ve.
 lagunillas-zulia.gob.ve.
+laherramienta.com.ve.
 laidealworld.com.ve.
 laiglesiadejesucristo.org.ve.
 laizquierdadiario.com.ve.
@@ -13666,6 +13674,7 @@ maravillosarealidad.com.ve.
 marca.co.ve.
 marcano-nuevaesparta.gob.ve.
 marcano.net.ve.
+marcapais.com.ve.
 marcapaisvenezuela.gob.ve.
 marcaria.com.ve.
 marchofdimes.co.ve.
@@ -13864,7 +13873,6 @@ maxgroup.com.ve.
 maxiboom.com.ve.
 maxiferdevenezuela.com.ve.
 maxigama.com.ve.
-maxima995fm.com.ve.
 maximaca.com.ve.
 maximiza.com.ve.
 maximus.com.ve.
@@ -14715,6 +14723,7 @@ monaca.com.ve.
 monagas-guarico.gob.ve.
 monagas.gob.ve.
 monagas.gov.ve.
+monarcas.com.ve.
 monasterios.com.ve.
 monatin.com.ve.
 moncler.co.ve.
@@ -17290,6 +17299,7 @@ promozulia.com.ve.
 promozulia.org.ve.
 pronasa.com.ve.
 pronature.com.ve.
+pronet.com.ve.
 pronet21.com.ve.
 proneurax-er.com.ve.
 pronovias.com.ve.
@@ -17372,6 +17382,7 @@ proyectos.nic.ve.
 proyectosbrain.com.ve.
 proyectosjym.com.ve.
 proyectosromaca.com.ve.
+proyectostecnicos.com.ve.
 proyectowebsistemas.com.ve.
 proyservin.com.ve.
 proysistelca.com.ve.
@@ -19003,7 +19014,6 @@ senifa.gob.ve.
 senorca.gov.ve.
 senosayuda.org.ve.
 sensacine.com.ve.
-sensecondoms.com.ve.
 sensei.com.ve.
 sensilis.co.ve.
 sensilis.com.ve.
@@ -20323,7 +20333,6 @@ supertecno.com.ve.
 supervideomania.com.ve.
 supervision.com.ve.
 superwow.com.ve.
-supkil.com.ve.
 suplaven.com.ve.
 suplimaca.com.ve.
 suplivac.com.ve.

@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Nov2024 04:33 UTC
+# ve domain names extracted from nameservers on 22Nov2024 04:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1475,6 +1475,7 @@ appliednutrition.com.ve.
 apppentagas.com.ve.
 appsclub.com.ve.
 appserver.com.ve.
+appsta.com.ve.
 apradoc.com.ve.
 aprax.net.ve.
 aprendeconmigo.com.ve.
@@ -1642,6 +1643,7 @@ aromaven.com.ve.
 aronin.com.ve.
 arquetipo.com.ve.
 arquideas.com.ve.
+arquidiocesisdebarquisimeto.org.ve.
 arquidiocesisdecoro.org.ve.
 arquidiocesisdemerida.org.ve.
 arquitec.com.ve.
@@ -2222,12 +2224,15 @@ baltico.com.ve.
 balvenie.com.ve.
 baly.com.ve.
 bam.com.ve.
+bambari.com.ve.
 bambary.com.ve.
 bambino.com.ve.
 banahost.com.ve.
 bananarepublic.co.ve.
 banap.gov.ve.
 banavih.gob.ve.
+banbari.com.ve.
+banbary.com.ve.
 bancaamiga.com.ve.
 bancamiga.com.ve.
 bancaribe.com.ve.
@@ -3012,6 +3017,7 @@ braganzajoyas.com.ve.
 brahmakumaris.org.ve.
 braid.com.ve.
 braincorp.com.ve.
+braincorp.net.ve.
 braining.com.ve.
 brainly.com.ve.
 brainpop.co.ve.
@@ -5233,6 +5239,7 @@ conic.com.ve.
 coninca.com.ve.
 conind.com.ve.
 coninmuebles.com.ve.
+conjuntoamatista.com.ve.
 conkhep.com.ve.
 conmumat.gob.ve.
 conocemark.co.ve.
@@ -6290,7 +6297,6 @@ denso.com.ve.
 dental-smile.com.ve.
 dentalcenter.com.ve.
 dentalclean.com.ve.
-dentalium.com.ve.
 dentalmedica.com.ve.
 dentalnet-ve.com.ve.
 dentalsmile.com.ve.
@@ -8321,7 +8327,6 @@ fila.co.ve.
 filicabh.com.ve.
 filink.com.ve.
 filmbooster.com.ve.
-filmyzilla.com.ve.
 filopack.com.ve.
 filtragua.com.ve.
 filtrete.co.ve.
@@ -9821,7 +9826,6 @@ grupocea.com.ve.
 grupocefemi.com.ve.
 grupocenticom.com.ve.
 grupociuu.com.ve.
-grupocontech.com.ve.
 grupocontinental.com.ve.
 grupocore.com.ve.
 grupocorpos.com.ve.
@@ -10713,6 +10717,7 @@ hylamide.co.ve.
 hylamide.com.ve.
 hyper-v.co.ve.
 hyper-v.com.ve.
+hypereaduptm.com.ve.
 hypermedia.com.ve.
 hypersystems.com.ve.
 hyser.com.ve.
@@ -14417,6 +14422,7 @@ miescuela.com.ve.
 miferre.com.ve.
 migas.com.ve.
 migtel.net.ve.
+miguel.net.ve.
 miguelpadulo.com.ve.
 mih.com.ve.
 miinnovacion.gov.ve.
@@ -16117,6 +16123,7 @@ oysterperpetual.web.ve.
 oz.com.ve.
 ozono.com.ve.
 ozonomedic.com.ve.
+p2.com.ve.
 p2pnetwork.com.ve.
 p4f.co.ve.
 p4f.com.ve.
@@ -17179,6 +17186,7 @@ proactiv.co.ve.
 proactiv.com.ve.
 proagrosanare.com.ve.
 proal.gov.ve.
+proalca.com.ve.
 proalmo.com.ve.
 proamatine.com.ve.
 proanzoategui.org.ve.
@@ -17754,7 +17762,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -18317,7 +18324,6 @@ rotateq.com.ve.
 rothenberger.com.ve.
 rottentomatoes.co.ve.
 rottentomatoes.com.ve.
-rotulagram.com.ve.
 rovilusch.com.ve.
 rowatinex.com.ve.
 rower.com.ve.
@@ -18386,6 +18392,7 @@ rumbastereo947fm.com.ve.
 rumbo.com.ve.
 run.com.ve.
 rundo.com.ve.
+ruperfast.com.ve.
 rupymec.gob.ve.
 rushcasino.com.ve.
 russellbedford.com.ve.
@@ -18834,6 +18841,7 @@ scott-sports.com.ve.
 scottishcollie.com.ve.
 scouts.org.ve.
 scoutsvenezuela.org.ve.
+scoutszulia.org.ve.
 scr.gob.ve.
 screen.com.ve.
 screenconnect.com.ve.
@@ -18848,7 +18856,6 @@ sctc.org.ve.
 scubafoto.com.ve.
 scubatec.com.ve.
 scyasociados.com.ve.
-sdaccess.com.ve.
 sdlg.com.ve.
 sdlgla.com.ve.
 sdmo.co.ve.
@@ -19613,7 +19620,6 @@ smirnoff.co.ve.
 smirnoff.com.ve.
 smith-nephew.com.ve.
 smithsonianchannel.com.ve.
-smlaflorida.net.ve.
 smo.com.ve.
 smol.com.ve.
 smol.net.ve.
@@ -20468,6 +20474,8 @@ tachira.net.ve.
 tachira.org.ve.
 tachiraenlinea.gov.ve.
 tachitec.com.ve.
+tafetractors.co.ve.
+tafetractors.com.ve.
 tag-heuer.com.ve.
 tag24.com.ve.
 taiko.com.ve.
@@ -20654,7 +20662,6 @@ tecnomar.com.ve.
 tecnomarket.com.ve.
 tecnomat.com.ve.
 tecnomax.com.ve.
-tecnomaxca.com.ve.
 tecnonet.com.ve.
 tecnoparaguana.org.ve.
 tecnoparque.gob.ve.
@@ -21484,6 +21491,7 @@ ttpn.com.ve.
 ttsa.com.ve.
 ttup.com.ve.
 tu-certificacion-de-ingresos.com.ve.
+tu885fm.com.ve.
 tuadministrador.com.ve.
 tualfombra.com.ve.
 tualiadoexpress.com.ve.
@@ -22191,7 +22199,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -23384,7 +23391,6 @@ yupii.com.ve.
 yutong.com.ve.
 yv5adm.net.ve.
 z.com.ve.
-zafwy.com.ve.
 zains.com.ve.
 zakia.com.ve.
 zalando-lounge.co.ve.
