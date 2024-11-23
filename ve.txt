@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Nov2024 04:19 UTC
+# ve domain names extracted from nameservers on 23Nov2024 04:22 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2647,6 +2647,7 @@ bimiere.com.ve.
 bimob.com.ve.
 bimzelx.com.ve.
 binaria.com.ve.
+binarysystem.com.ve.
 binaural.com.ve.
 binet.com.ve.
 bing.co.ve.
@@ -6078,7 +6079,6 @@ dasi.com.ve.
 dasiclean.com.ve.
 dasilrod.com.ve.
 dasimerca.com.ve.
-dasoluciones.com.ve.
 dat-com.com.ve.
 data.com.ve.
 data.net.ve.
@@ -7117,6 +7117,7 @@ eduweb.com.ve.
 edux.com.ve.
 eepa.mil.ve.
 eepaer.mil.ve.
+eero.co.ve.
 eezzy.com.ve.
 ef.co.ve.
 efacademy.com.ve.
@@ -7499,6 +7500,7 @@ enlaceregional.com.ve.
 enlacerv.co.ve.
 enlaceucv.org.ve.
 enlanube.co.ve.
+enlanube.com.ve.
 enmohca.gob.ve.
 enmotion.co.ve.
 enon.com.ve.
@@ -8546,6 +8548,7 @@ fonep.gov.ve.
 fonet.com.ve.
 fonfidez.gov.ve.
 fonfinep.gov.ve.
+fongautomercados.com.ve.
 fonhvim.gob.ve.
 fonic.co.ve.
 fonic.com.ve.
@@ -12418,6 +12421,7 @@ kimbino.co.ve.
 kimiceg.com.ve.
 kimoanh.com.ve.
 kinematic.com.ve.
+kingbike.com.ve.
 kingdomnetwork.com.ve.
 kingpack.com.ve.
 kingrental.com.ve.
@@ -13219,6 +13223,12 @@ locutorio.com.ve.
 loder.com.ve.
 loderbrands.com.ve.
 loea-eacuaticos.gov.ve.
+logginet.co.ve.
+logginet.com.ve.
+logginet.info.ve.
+logginet.net.ve.
+logginet.org.ve.
+logginet.web.ve.
 logic.com.ve.
 logica.com.ve.
 logicadigital.com.ve.
@@ -17629,6 +17639,7 @@ radioiberolatina.com.ve.
 radioideal.com.ve.
 radioius.com.ve.
 radiolavozdefedevysme.com.ve.
+radiolavozdenirgua.com.ve.
 radiolink.com.ve.
 radiomaniafm.com.ve.
 radiomaranatha.co.ve.
@@ -18274,6 +18285,7 @@ rolexrae.com.ve.
 rolilara.com.ve.
 rolitec.com.ve.
 roliverio.org.ve.
+rollerdoors.com.ve.
 rolls-royce.co.ve.
 rolls-royce.com.ve.
 rolls-royce.info.ve.
@@ -19654,6 +19666,7 @@ socialsmoke.com.ve.
 sociedad-divulgadora.mil.ve.
 sociedadanticancerosa.org.ve.
 sociedadbolivarianavenezuela.org.ve.
+societarios.com.ve.
 socomec.com.ve.
 socoven.com.ve.
 soda951fm.com.ve.
@@ -21396,7 +21409,6 @@ tribehr.com.ve.
 tribunalconsignacionesccs.gov.ve.
 tributosacevedo.com.ve.
 tributosaragua.com.ve.
-tributoscristobalrojas.com.ve.
 tributosindependencia.com.ve.
 tributosjunin.com.ve.
 tributosmcgregor.com.ve.
@@ -22371,6 +22383,7 @@ vendenostuauto.com.ve.
 venderylisto.com.ve.
 vendes.com.ve.
 vendetutti.com.ve.
+vendigital.com.ve.
 veneasesores.com.ve.
 veneasistencia.com.ve.
 veneaventura.com.ve.
@@ -23188,6 +23201,7 @@ workforce.com.ve.
 workiva.co.ve.
 workiva.com.ve.
 workling.com.ve.
+workpro.com.ve.
 worldbaseballclassic.co.ve.
 worldcourier.com.ve.
 worldline.com.ve.
