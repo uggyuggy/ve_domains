@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 23Nov2024 04:22 UTC
+# ve domain names extracted from nameservers on 24Nov2024 04:16 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -579,7 +579,6 @@ agrocasa.com.ve.
 agrocentro.com.ve.
 agrociencia.com.ve.
 agrofloracorpogaba.org.ve.
-agroforest.com.ve.
 agrofortuna.com.ve.
 agrofy.com.ve.
 agroglobal.com.ve.
@@ -3662,7 +3661,6 @@ castrol.com.ve.
 cat.com.ve.
 cat.org.ve.
 cata-lagoon.com.ve.
-cata.com.ve.
 catagourmets.com.ve.
 catalina.com.ve.
 catalogoaquarella.com.ve.
@@ -5964,6 +5962,7 @@ cybersecuritycorporate.com.ve.
 cybersource.co.ve.
 cybersource.com.ve.
 cyberspace3d.com.ve.
+cybersys.com.ve.
 cybertech.com.ve.
 cyccoatings.com.ve.
 cycproducciones.com.ve.
@@ -7958,7 +7957,6 @@ expoempleos.com.ve.
 expofermarca.com.ve.
 expoferre.com.ve.
 expogastronomia.com.ve.
-expomorro.com.ve.
 exponaval.mil.ve.
 exportafacil.com.ve.
 expotecnia.com.ve.
@@ -8290,7 +8288,6 @@ fibernet.com.ve.
 fibernetwork.com.ve.
 fibersolutions.com.ve.
 fibersystems.com.ve.
-fibextelecom.net.ve.
 fibrahogar.com.ve.
 fibraselsiglo.com.ve.
 fic.gob.ve.
@@ -9991,7 +9988,6 @@ gsm.com.ve.
 gsmfinanzas.com.ve.
 gso.com.ve.
 gsp.com.ve.
-gssanbenito20.org.ve.
 gssc.com.ve.
 gsuite.co.ve.
 gsuite.com.ve.
@@ -10132,7 +10128,6 @@ handbellvenezuela.com.ve.
 hands.com.ve.
 handshake.com.ve.
 hangar74.com.ve.
-hankaimport.com.ve.
 hankison.com.ve.
 hankook.com.ve.
 hankypanky.com.ve.
@@ -11581,7 +11576,6 @@ intersec.com.ve.
 intershipping.co.ve.
 intershipping.com.ve.
 intersis.net.ve.
-intersolucion555.com.ve.
 intersoluciones.com.ve.
 interspeed.com.ve.
 intersurca.com.ve.
@@ -17773,6 +17767,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -22211,6 +22206,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -23401,7 +23397,6 @@ youtube.com.ve.
 ysearch.com.ve.
 yuada.com.ve.
 yummydelivery.com.ve.
-yupii.com.ve.
 yutong.com.ve.
 yv5adm.net.ve.
 z.com.ve.
