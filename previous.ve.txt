@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 24Nov2024 04:16 UTC
+# ve domain names extracted from nameservers on 25Nov2024 04:31 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3420,7 +3420,6 @@ capitalgroup.com.ve.
 capitalinternational.com.ve.
 capitax.com.ve.
 capm.com.ve.
-capmil.org.ve.
 capmp.com.ve.
 cappoucla.org.ve.
 caprebicentenario.com.ve.
@@ -5528,7 +5527,6 @@ corp-ecap.com.ve.
 corpbanca.com.ve.
 corpdata.com.ve.
 corpesca.gob.ve.
-corpglobalit.com.ve.
 corpivensa.gob.ve.
 corpl.com.ve.
 corpoagro.com.ve.
@@ -7321,7 +7319,6 @@ elpetro.net.ve.
 elpetro.org.ve.
 elpodermasjoven.com.ve.
 elpodstudio.com.ve.
-elpregonero.com.ve.
 elpuebloparticipa.gob.ve.
 elrancho.com.ve.
 elrecreocc.com.ve.
@@ -12392,7 +12389,6 @@ keystone.net.ve.
 keyton.com.ve.
 kfc.com.ve.
 kfcvenezuela.com.ve.
-kfedigital.com.ve.
 kfg.com.ve.
 khaled.com.ve.
 kia.com.ve.
@@ -15625,7 +15621,6 @@ nutrimed.com.ve.
 nutrimentospurina.com.ve.
 nutrina.com.ve.
 nutriservi.com.ve.
-nutrisportcenter.com.ve.
 nutrisseo.com.ve.
 nutrisslovers.com.ve.
 nutritec.com.ve.
@@ -17767,7 +17762,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -22206,7 +22200,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22994,7 +22987,6 @@ wavemakerglobal.com.ve.
 waves.com.ve.
 wavin.com.ve.
 waxpeer.com.ve.
-waynance.com.ve.
 wb-discovery.com.ve.
 wb.co.ve.
 wb.com.ve.
