@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 25Nov2024 04:31 UTC
+# ve domain names extracted from nameservers on 26Nov2024 04:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -991,6 +991,7 @@ alenbru.com.ve.
 alensa.com.ve.
 alentuy.gob.ve.
 aleo.com.ve.
+aleph.com.ve.
 alequin.com.ve.
 alere.com.ve.
 alesca.net.ve.
@@ -2519,6 +2520,8 @@ bet-viper.com.ve.
 bet365.com.ve.
 bet4.com.ve.
 bet77.com.ve.
+bet7k.co.ve.
+bet7k.com.ve.
 bet89.co.ve.
 bet89.com.ve.
 bet89.info.ve.
@@ -4551,7 +4554,6 @@ cmemcarrizal.gob.ve.
 cmevvargas.gob.ve.
 cmez.gob.ve.
 cmf.com.ve.
-cmg.com.ve.
 cmgalenoservice.com.ve.
 cmgm.com.ve.
 cmgm.info.ve.
@@ -6468,7 +6470,6 @@ diccionario.com.ve.
 dicer.com.ve.
 dicofan.mil.ve.
 dicom.gob.ve.
-didacticos.com.ve.
 didalcatrading.com.ve.
 didaskalia.com.ve.
 didijin.com.ve.
@@ -7990,7 +7991,6 @@ ezequielzamora-barinas.gob.ve.
 ezequielzamora-monagas.gov.ve.
 ezetrol.com.ve.
 ezflex.com.ve.
-ezpass.com.ve.
 ezugi.com.ve.
 ezviz.co.ve.
 ezviz.com.ve.
@@ -8324,7 +8324,6 @@ filicabh.com.ve.
 filink.com.ve.
 filmbooster.com.ve.
 filopack.com.ve.
-filtragua.com.ve.
 filtrete.co.ve.
 filtrete.com.ve.
 filtros.com.ve.
@@ -9058,6 +9057,7 @@ futuro929fm.com.ve.
 fuvidit.com.ve.
 fuze-tea.com.ve.
 fva.com.ve.
+fvac.org.ve.
 fvas.com.ve.
 fveu.com.ve.
 fveu.org.ve.
@@ -10205,8 +10205,6 @@ heartfulness.org.ve.
 heartsine.com.ve.
 hebraica.com.ve.
 hecasupply.com.ve.
-hechoencomuna.com.ve.
-hechoencomunas.com.ve.
 hechoenmerida.gob.ve.
 hechoscriollos.com.ve.
 hechosnews.com.ve.
@@ -13878,6 +13876,7 @@ maxgroup.com.ve.
 maxiboom.com.ve.
 maxiferdevenezuela.com.ve.
 maxigama.com.ve.
+maxima995fm.com.ve.
 maximaca.com.ve.
 maximiza.com.ve.
 maximus.com.ve.
@@ -14668,7 +14667,6 @@ mmdistribuidora.com.ve.
 mmf.com.ve.
 mmh.com.ve.
 mmica.com.ve.
-mmmvalores.net.ve.
 mmo.net.ve.
 mmservice.com.ve.
 mmsi.com.ve.
@@ -15046,7 +15044,6 @@ mundonorma.com.ve.
 mundosatelital.co.ve.
 mundosatelital.com.ve.
 mundotrauma.com.ve.
-mundoturismo.com.ve.
 municipio.co.ve.
 municipio.com.ve.
 municipioacevedo.gob.ve.
@@ -15117,7 +15114,6 @@ myherbalife.com.ve.
 myheritage.co.ve.
 myheritage.com.ve.
 mykgerenciainmobiliaria.com.ve.
-mylviajes.com.ve.
 mynokia.co.ve.
 mynokia.com.ve.
 mynook.co.ve.
@@ -18165,7 +18161,6 @@ riv.web.ve.
 rivas.org.ve.
 rivasdavila-merida.gov.ve.
 riverisland.co.ve.
-riveroca.com.ve.
 riviera.com.ve.
 rizoma.com.ve.
 rkfm.com.ve.
@@ -18463,7 +18458,6 @@ safav.gob.ve.
 safdec-lara.gob.ve.
 safebrand.com.ve.
 safebrands.com.ve.
-safesecurity.com.ve.
 safonacc.gob.ve.
 safonapp.gob.ve.
 safox.com.ve.
@@ -19049,6 +19043,7 @@ serconplafumigaciones.com.ve.
 serdolect.com.ve.
 sereca.com.ve.
 serenidadmental.com.ve.
+sergama.com.ve.
 sergeca.com.ve.
 sergiorossi.co.ve.
 sergiorossi.com.ve.
@@ -19153,6 +19148,7 @@ servitronic.com.ve.
 servival.com.ve.
 serviweb.com.ve.
 servolab.com.ve.
+servosistemas.com.ve.
 ses.com.ve.
 sesasgo.com.ve.
 sesca.web.ve.
@@ -20170,7 +20166,6 @@ suarezoramas.com.ve.
 suateg.gob.ve.
 suavitel.com.ve.
 subasta.com.ve.
-subastaonline.com.ve.
 sublimacionamericana.com.ve.
 sublime.com.ve.
 submariner.co.ve.
@@ -21902,7 +21897,6 @@ umbrella.com.ve.
 umbrellaconsultores.com.ve.
 umbv.edu.ve.
 umc.edu.ve.
-umi.com.ve.
 una.edu.ve.
 unalaraweb.com.ve.
 unanina.com.ve.
