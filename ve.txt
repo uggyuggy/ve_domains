@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Nov2024 04:31 UTC
+# ve domain names extracted from nameservers on 28Nov2024 04:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2409,7 +2409,6 @@ beautyforapurpose.com.ve.
 beautynow.com.ve.
 beautyrest.co.ve.
 beautyrest.com.ve.
-beautystocks.com.ve.
 bebe.com.ve.
 beccacosmetic.co.ve.
 beccacosmetic.com.ve.
@@ -8738,6 +8737,7 @@ franzlee.org.ve.
 frappuccino.co.ve.
 frappuccino.com.ve.
 frapuccino.com.ve.
+fraternidad.org.ve.
 frayluisdeleon.com.ve.
 freecom.com.ve.
 freed.com.ve.
@@ -10900,6 +10900,7 @@ ienca.com.ve.
 iene.com.ve.
 ies-divinapastora.edu.ve.
 iesa.edu.ve.
+iesb-apucito.edu.ve.
 iesca.com.ve.
 iesip.edu.ve.
 iesv.com.ve.
@@ -13845,7 +13846,6 @@ materialesbrasilmayor.com.ve.
 materialise.com.ve.
 materialo.com.ve.
 matific.com.ve.
-matinca.com.ve.
 matindustrie.com.ve.
 matorca.com.ve.
 matos.com.ve.
@@ -15047,6 +15047,7 @@ mundonorma.com.ve.
 mundosatelital.co.ve.
 mundosatelital.com.ve.
 mundotrauma.com.ve.
+mundoturismo.com.ve.
 municipio.co.ve.
 municipio.com.ve.
 municipioacevedo.gob.ve.
@@ -15460,6 +15461,7 @@ nivea.com.ve.
 niveamen.com.ve.
 nivelmaximo.com.ve.
 nkconsultinggroup.com.ve.
+noam.com.ve.
 noble.com.ve.
 nobleprog.com.ve.
 nobu.com.ve.
@@ -15569,6 +15571,7 @@ nubeazul.com.ve.
 nubeexpress.com.ve.
 nubetechno.com.ve.
 nubo.com.ve.
+nubox.com.ve.
 nucita.com.ve.
 nucitavenezolana.com.ve.
 nucleoluzcol.com.ve.
@@ -16183,7 +16186,6 @@ paisdelosjuegos.co.ve.
 pajarolandia.com.ve.
 pajarolandia2000.com.ve.
 palacalle.com.ve.
-palacehotel.com.ve.
 palantir.co.ve.
 palantir.com.ve.
 palavecino-lara.gob.ve.
@@ -16367,6 +16369,7 @@ pasteurdeleste.com.ve.
 pastilladeemergencia.com.ve.
 pastorenafm.com.ve.
 pasve.org.ve.
+patasencasa.com.ve.
 patinopartners.com.ve.
 patria.org.ve.
 patriagrande.com.ve.
@@ -17761,7 +17764,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19763,7 +19765,6 @@ solmelia.com.ve.
 soloalmayor.com.ve.
 solocruceros.com.ve.
 solodeportes.com.ve.
-solohardware.com.ve.
 solostove.co.ve.
 solostove.com.ve.
 solovatios.com.ve.
@@ -20151,7 +20152,6 @@ striverdi.com.ve.
 strix.com.ve.
 stron.com.ve.
 strongtie.com.ve.
-sts.com.ve.
 stu.com.ve.
 stubhub.co.ve.
 stubhub.com.ve.
@@ -22613,7 +22613,6 @@ victoria-secrets.com.ve.
 victoriabolivariana.gov.ve.
 victoriafm.com.ve.
 victorialloretestetica.com.ve.
-victorianet.com.ve.
 victorias-secret.co.ve.
 victorias-secret.com.ve.
 victorias-secrets.co.ve.

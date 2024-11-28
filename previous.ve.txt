@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Nov2024 04:19 UTC
+# ve domain names extracted from nameservers on 27Nov2024 04:31 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1080,6 +1080,7 @@ allergancontinuous.com.ve.
 allergika.com.ve.
 alliancedefendingfreedom.co.ve.
 alliancedefendingfreedom.com.ve.
+alliancemotors.com.ve.
 alliedtelesis.com.ve.
 alliedtelesyn.com.ve.
 allieduniversal.com.ve.
@@ -3981,6 +3982,7 @@ cepex.com.ve.
 cepia.com.ve.
 cepica.com.ve.
 ceproalarm.com.ve.
+cer.org.ve.
 ceragem.com.ve.
 ceramicoat.com.ve.
 cerazette.com.ve.
@@ -4737,6 +4739,7 @@ colegiobolivarypalacios.com.ve.
 colegiocalasanz.com.ve.
 colegiocanigua.edu.ve.
 colegiocarlossoublette.com.ve.
+colegiocedros.com.ve.
 colegiociudadlatendida.com.ve.
 colegioclaretmcbo.edu.ve.
 colegioconcordia.edu.ve.
@@ -7567,6 +7570,7 @@ epson.com.ve.
 epson.net.ve.
 eptinezumab.com.ve.
 epuvenezuela.gob.ve.
+eqc100.com.ve.
 equasym.com.ve.
 equasymir.com.ve.
 equasymxl.com.ve.
@@ -9696,7 +9700,6 @@ gracobaby.com.ve.
 graficarte.com.ve.
 grafisoft.com.ve.
 grafitime.com.ve.
-grafos.com.ve.
 grainca.com.ve.
 grainger.co.ve.
 grainger.com.ve.
@@ -13556,6 +13559,7 @@ makinas.com.ve.
 makingmorehealth.com.ve.
 makint.com.ve.
 makler.com.ve.
+makos.com.ve.
 makro.com.ve.
 makxcomputer.com.ve.
 malariologia.gov.ve.
@@ -14618,7 +14622,6 @@ misreclamos.com.ve.
 missvenezuela.com.ve.
 mister-auto.co.ve.
 mister-auto.com.ve.
-misterlock.com.ve.
 mistolin.com.ve.
 misueldo.co.ve.
 misueldo.com.ve.
@@ -16883,7 +16886,6 @@ pmicareers.co.ve.
 pmicareers.com.ve.
 pmintl.com.ve.
 pms.com.ve.
-pms.net.ve.
 pmvca.gob.ve.
 pnat.gob.ve.
 pni.gob.ve.
@@ -17544,6 +17546,7 @@ quenaca.com.ve.
 queniqueo.com.ve.
 quepapaya.com.ve.
 quepasa.com.ve.
+queridascompras.com.ve.
 quero.co.ve.
 quero.com.ve.
 quesocrema.com.ve.
@@ -17758,6 +17761,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -18987,7 +18991,7 @@ selgrava.com.ve.
 sellatuparley.co.ve.
 selma.com.ve.
 selvaplus.com.ve.
-semanadelacocinaitaliana.com.ve.
+semana.com.ve.
 semanca.com.ve.
 semat-pc.gob.ve.
 sematiribarren.com.ve.
@@ -19344,6 +19348,7 @@ sifrol.com.ve.
 siga.com.ve.
 sigagem.gob.ve.
 sigapres.gob.ve.
+sigc.com.ve.
 sigcom.net.ve.
 sigeap.com.ve.
 sigesco.com.ve.
@@ -20132,6 +20137,7 @@ stratasysdistribuidor.co.ve.
 strategicmarketing.com.ve.
 strato.co.ve.
 strato.com.ve.
+strava.com.ve.
 streaming.com.ve.
 streetradio.com.ve.
 strepsils.com.ve.
