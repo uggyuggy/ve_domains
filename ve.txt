@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Nov2024 04:24 UTC
+# ve domain names extracted from nameservers on 29Nov2024 04:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -389,7 +389,6 @@ addigrains.com.ve.
 additech.com.ve.
 addiuva.com.ve.
 addonmall.com.ve.
-adega.com.ve.
 adelantos.com.ve.
 adelgazando.com.ve.
 adeltaweb.net.ve.
@@ -1277,7 +1276,6 @@ amprobe.com.ve.
 amsabogados.com.ve.
 amsandiego.com.ve.
 amsd.com.ve.
-amssystem.com.ve.
 amstel.com.ve.
 amtex.com.ve.
 amv.com.ve.
@@ -3576,7 +3574,6 @@ casa.gov.ve.
 casaalejozuloaga.com.ve.
 casabe.com.ve.
 casabello.gob.ve.
-casablanca.com.ve.
 casablanca24.com.ve.
 casacoima-deltaamacuro.gob.ve.
 casadelartista.gob.ve.
@@ -3703,7 +3700,6 @@ cavecom-e.org.ve.
 cavecon.org.ve.
 cavedatos.org.ve.
 cavedom.net.ve.
-cavefar.org.ve.
 cavegas.com.ve.
 caveguias.com.ve.
 cavenas.com.ve.
@@ -4321,6 +4317,7 @@ cissocial.org.ve.
 cit.com.ve.
 citadinos.com.ve.
 citael.com.ve.
+citamed.com.ve.
 citco.com.ve.
 citect.com.ve.
 citi.co.ve.
@@ -6618,7 +6615,6 @@ discoverykidson.com.ve.
 discoverykidsplay.com.ve.
 diseleca.com.ve.
 disenoweb.com.ve.
-disenowebeconomico.com.ve.
 disenowebenvenezuela.com.ve.
 diseresa.com.ve.
 diserialca.com.ve.
@@ -9670,7 +9666,6 @@ got2go.com.ve.
 gotoca.net.ve.
 gotogate.co.ve.
 gotogate.com.ve.
-gotogroup.com.ve.
 gotravelassistance.com.ve.
 goucov.com.ve.
 gourmetmarket.com.ve.
@@ -11160,6 +11155,7 @@ industrialinforesources.com.ve.
 industrias.gob.ve.
 industriasamapola.com.ve.
 industriascanaima.gob.ve.
+industriasclamika.com.ve.
 industriasclark.com.ve.
 industriascosmopartes.com.ve.
 industriasdelmaiz.com.ve.
@@ -16606,6 +16602,7 @@ petrodisa.com.ve.
 petroglifosrevistacritica.org.ve.
 petroguia.com.ve.
 petroleosdeamerica.com.ve.
+petrolera.com.ve.
 petroleum.com.ve.
 petroleumcontractor.com.ve.
 petronet.co.ve.
@@ -17250,7 +17247,6 @@ productosqwik.com.ve.
 produvisa.com.ve.
 produzca.gob.ve.
 proemco.com.ve.
-proenergy.com.ve.
 proesa.com.ve.
 proesmalte.com.ve.
 proexito.com.ve.
@@ -17764,6 +17760,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -23123,7 +23120,6 @@ willistowerswatson.com.ve.
 willyjhons.com.ve.
 wilmax.com.ve.
 wilo.com.ve.
-wilpay.com.ve.
 wilven.com.ve.
 wimzar.com.ve.
 win.net.ve.
