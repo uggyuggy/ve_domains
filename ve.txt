@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Nov2024 04:25 UTC
+# ve domain names extracted from nameservers on 30Nov2024 04:36 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -247,6 +247,7 @@ academiasnacionales.gov.ve.
 academiasol.com.ve.
 academiss.com.ve.
 academos.com.ve.
+academyspace.com.ve.
 acading.org.ve.
 acafar.com.ve.
 acapella.com.ve.
@@ -1444,6 +1445,7 @@ apacuana.com.ve.
 aparkate.com.ve.
 apartamentos.com.ve.
 apartamentosvacacionalesmargarita.com.ve.
+apav.com.ve.
 apcc.com.ve.
 apem.org.ve.
 aphservices.org.ve.
@@ -2407,6 +2409,7 @@ beautyforapurpose.com.ve.
 beautynow.com.ve.
 beautyrest.co.ve.
 beautyrest.com.ve.
+beautystocks.com.ve.
 bebe.com.ve.
 beccacosmetic.co.ve.
 beccacosmetic.com.ve.
@@ -5775,7 +5778,6 @@ cretto.com.ve.
 crforestal.com.ve.
 criaderohohenberg.com.ve.
 criolla.com.ve.
-criolla1007.net.ve.
 cripto.gob.ve.
 criptolago.com.ve.
 criptomonedas.com.ve.
@@ -6028,7 +6030,6 @@ dalfetextil.com.ve.
 daliliana.com.ve.
 dallatorre.com.ve.
 dalzanemdor.com.ve.
-damarq.com.ve.
 damasco.com.ve.
 dambrosio.com.ve.
 damoto.com.ve.
@@ -6615,6 +6616,7 @@ discoverykidson.com.ve.
 discoverykidsplay.com.ve.
 diseleca.com.ve.
 disenoweb.com.ve.
+disenowebeconomico.com.ve.
 disenowebenvenezuela.com.ve.
 diseresa.com.ve.
 diserialca.com.ve.
@@ -9821,6 +9823,7 @@ grupocea.com.ve.
 grupocefemi.com.ve.
 grupocenticom.com.ve.
 grupociuu.com.ve.
+grupocontech.com.ve.
 grupocontinental.com.ve.
 grupocore.com.ve.
 grupocorpos.com.ve.
@@ -9966,6 +9969,7 @@ grupowjsc.com.ve.
 grupoxdevenezuela.com.ve.
 grupoyoma.com.ve.
 grupozakhia.com.ve.
+grupozaki.com.ve.
 grupozonafm.com.ve.
 grupozulcon.net.ve.
 grupozuliano.com.ve.
@@ -10541,6 +10545,7 @@ hotelchocolat.com.ve.
 hotelcoliseo.com.ve.
 hotelcondorsuites.com.ve.
 hotelcostareal.com.ve.
+hotelcountry.com.ve.
 hotelcrillon.com.ve.
 hoteldallas.com.ve.
 hotelelpaseo.com.ve.
@@ -11483,7 +11488,6 @@ intel.co.ve.
 intel.com.ve.
 intelcom.com.ve.
 inteldata.com.ve.
-intelectricracc.com.ve.
 intelhost.com.ve.
 inteligenciadelser.com.ve.
 inteligencianaval.gob.ve.
@@ -12222,6 +12226,7 @@ juegosgratis.co.ve.
 juegosjuegos.co.ve.
 juegosnacionales.gob.ve.
 jueves.com.ve.
+juezasyjuecespazcomunal.org.ve.
 jugosdelvalle.com.ve.
 juguetemagico.gob.ve.
 julio.com.ve.
@@ -13842,6 +13847,7 @@ materialesbrasilmayor.com.ve.
 materialise.com.ve.
 materialo.com.ve.
 matific.com.ve.
+matinca.com.ve.
 matindustrie.com.ve.
 matorca.com.ve.
 matos.com.ve.
@@ -15772,6 +15778,7 @@ ohlesport.com.ve.
 ohlins.com.ve.
 ohmyhost.com.ve.
 oi.com.ve.
+oic.org.ve.
 oilv.com.ve.
 ojdt.com.ve.
 ojocaribe.com.ve.
@@ -17760,7 +17767,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19100,7 +19106,6 @@ serviciosintegralesapis.com.ve.
 serviciosmecanicostrarca.com.ve.
 serviciosmedicos.com.ve.
 serviciosuberamigo.com.ve.
-serviciotecnicowhirlpool.com.ve.
 servicoffeenj.com.ve.
 servicom.com.ve.
 servicons.com.ve.
@@ -19603,6 +19608,7 @@ smartgraphic.com.ve.
 smarthome.com.ve.
 smartlink.net.ve.
 smartnet.com.ve.
+smartoil.com.ve.
 smartours.com.ve.
 smartsecurity-systems.com.ve.
 smartsite.com.ve.
@@ -20149,6 +20155,7 @@ striverdi.com.ve.
 strix.com.ve.
 stron.com.ve.
 strongtie.com.ve.
+sts.com.ve.
 stu.com.ve.
 stubhub.co.ve.
 stubhub.com.ve.
@@ -20339,6 +20346,7 @@ supertecno.com.ve.
 supervideomania.com.ve.
 supervision.com.ve.
 superwow.com.ve.
+supkil.com.ve.
 suplaven.com.ve.
 suplimaca.com.ve.
 suplivac.com.ve.
@@ -21053,7 +21061,6 @@ tirsom.edu.ve.
 tis.com.ve.
 tiservicios.com.ve.
 tisoluciones.com.ve.
-tisolucionesapp.com.ve.
 titan.co.ve.
 titanesgraficos.com.ve.
 titaniccenter.com.ve.
@@ -22214,6 +22221,7 @@ vacaciones.com.ve.
 vacacionesbarcelo.com.ve.
 vack.com.ve.
 vadas.com.ve.
+vadellhnoseditores.com.ve.
 vademecumavisa.org.ve.
 vaderstad.co.ve.
 valbia.com.ve.
