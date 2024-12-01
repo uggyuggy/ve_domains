@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 30Nov2024 04:36 UTC
+# ve domain names extracted from nameservers on 01Dec2024 04:38 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -688,6 +688,7 @@ airsouthwest.co.ve.
 airsouthwest.com.ve.
 airtac.co.ve.
 airtac.com.ve.
+airtap.com.ve.
 airtech.com.ve.
 airtecvzla.com.ve.
 airtek.com.ve.
@@ -1116,7 +1117,6 @@ alphacolor.com.ve.
 alphacreativa.com.ve.
 alphasense.com.ve.
 alphasigma.com.ve.
-alphasoft.com.ve.
 alphasoluciones.com.ve.
 alpina.com.ve.
 alpino.com.ve.
@@ -3084,6 +3084,7 @@ broilking.com.ve.
 brokercheck.co.ve.
 bromic.com.ve.
 brosport.com.ve.
+brosson-equipmil.com.ve.
 brother.co.ve.
 brother.com.ve.
 brs.com.ve.
@@ -6930,6 +6931,7 @@ dviveres.com.ve.
 dvl.com.ve.
 dvsystems.com.ve.
 dw.co.ve.
+dycingenio.com.ve.
 dymel.com.ve.
 dyna.com.ve.
 dynamo.co.ve.
@@ -7929,7 +7931,6 @@ experian.com.ve.
 experiences-hvc.com.ve.
 experienciabarbiequieroser.com.ve.
 experis.com.ve.
-expertechmgi.com.ve.
 expertoentrombosis.com.ve.
 expglobalvenezuela.co.ve.
 exploracasa.co.ve.
@@ -12340,6 +12341,7 @@ kasipolin.edu.ve.
 kaspersky.co.ve.
 katsuro.com.ve.
 kaufland.com.ve.
+kaupa.com.ve.
 kavac.edu.ve.
 kavak.com.ve.
 kavakcapital.com.ve.
@@ -13969,7 +13971,6 @@ mcti-nuevaesparta.gob.ve.
 mcti.gob.ve.
 mcvision.net.ve.
 mdbiolab.com.ve.
-mdconference.com.ve.
 mddlaconnect.com.ve.
 mdlz.com.ve.
 mdm.com.ve.
@@ -17767,6 +17768,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19988,7 +19990,6 @@ sportsdirect.co.ve.
 sportsdirect.com.ve.
 sportspin.com.ve.
 sportwind.com.ve.
-sportzentrum.com.ve.
 spotify.co.ve.
 spotify.net.ve.
 spraymatic.com.ve.
@@ -20520,7 +20521,6 @@ tang.com.ve.
 tangerine.com.ve.
 tanimotors.com.ve.
 tanita.com.ve.
-tanitec.com.ve.
 tanoth.com.ve.
 tanqueshidroneumaticos.com.ve.
 tanquespargasoil.com.ve.
@@ -22204,6 +22204,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22532,6 +22533,7 @@ veroca.com.ve.
 veroes-yaracuy.gov.ve.
 verquvo.com.ve.
 versachem.com.ve.
+versafoam.co.ve.
 versafoamcom.co.ve.
 versah-venezuela.co.ve.
 versah-venezuela.com.ve.
