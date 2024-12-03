@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Dec2024 04:38 UTC
+# ve domain names extracted from nameservers on 02Dec2024 04:29 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1565,7 +1565,6 @@ arba.com.ve.
 arbol.edu.ve.
 arbore.com.ve.
 arburg.com.ve.
-arc.com.ve.
 arcadat.com.ve.
 arcadiodiaz.com.ve.
 arcasport.com.ve.
@@ -5217,6 +5216,7 @@ conettech.com.ve.
 conexion.com.ve.
 conexiondental.com.ve.
 conexionescbg.com.ve.
+conexiontodoxjesus.com.ve.
 conext.com.ve.
 conext.net.ve.
 confeccioneshermanoscantos.com.ve.
@@ -6056,7 +6056,6 @@ danielomana.com.ve.
 danielrodriguez.com.ve.
 danielvarnagy.com.ve.
 danilodiazgranados.co.ve.
-danlipagos.com.ve.
 danone.co.ve.
 danone.com.ve.
 danonino.co.ve.
@@ -6620,7 +6619,6 @@ disenoweb.com.ve.
 disenowebeconomico.com.ve.
 disenowebenvenezuela.com.ve.
 diseresa.com.ve.
-diserialca.com.ve.
 disgaven.com.ve.
 disglobal.com.ve.
 disgonper.com.ve.
@@ -9865,7 +9863,6 @@ grupoflexo.com.ve.
 grupofsi.com.ve.
 grupogalva.com.ve.
 grupogina.com.ve.
-grupoglobal.com.ve.
 grupogoldsea.com.ve.
 grupogpm.com.ve.
 grupogtg.com.ve.
@@ -12629,7 +12626,6 @@ lacana.com.ve.
 lacandelaria.com.ve.
 lacaracola.com.ve.
 lacarlota.mil.ve.
-lacasadelasmangueras.com.ve.
 lacasadelcerrajero.com.ve.
 lacasadelhabano.com.ve.
 lacasadelhidrojet.com.ve.
@@ -16164,7 +16160,6 @@ paez.net.ve.
 paezapure.gob.ve.
 pafar.com.ve.
 pagano.com.ve.
-pagas.com.ve.
 pagepotential.com.ve.
 pagetalent.com.ve.
 paginaamarillas.com.ve.
@@ -16340,7 +16335,6 @@ parrotbay.co.ve.
 parrotbay.com.ve.
 parsel.com.ve.
 parteselectricas.com.ve.
-partex.com.ve.
 partnerone.com.ve.
 partstown.com.ve.
 partypatch.com.ve.
@@ -17768,7 +17762,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19609,7 +19602,6 @@ smartglass.com.ve.
 smartgraphic.com.ve.
 smarthome.com.ve.
 smartlink.net.ve.
-smartnet.com.ve.
 smartoil.com.ve.
 smartours.com.ve.
 smartsecurity-systems.com.ve.
@@ -19782,6 +19774,7 @@ soluciona.com.ve.
 soluciones-advisor.com.ve.
 solucionesacuaticas.com.ve.
 solucionesantco.com.ve.
+solucionesbinarias.com.ve.
 solucionescontables.com.ve.
 solucionescontables.net.ve.
 solucionesdlety.com.ve.
@@ -20516,7 +20509,6 @@ tamponesob.com.ve.
 tamtv.com.ve.
 tanaguarena.com.ve.
 tanapo.com.ve.
-tandem.com.ve.
 tang.com.ve.
 tangerine.com.ve.
 tanimotors.com.ve.
@@ -22204,7 +22196,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.

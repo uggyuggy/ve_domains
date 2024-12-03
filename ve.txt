@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 02Dec2024 04:29 UTC
+# ve domain names extracted from nameservers on 03Dec2024 04:28 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -35,6 +35,7 @@
 1stchoice.com.ve.
 1win.co.ve.
 1win.com.ve.
+1x-bet.com.ve.
 1x10.com.ve.
 1x10delbuengobierno.gob.ve.
 1x10nm.com.ve.
@@ -1732,6 +1733,7 @@ asdej.com.ve.
 aseabrownboveri.co.ve.
 aseabrownboveri.com.ve.
 aseca.com.ve.
+asedebart.com.ve.
 asegumargp.com.ve.
 aseguraronline.com.ve.
 aseguratehoy.com.ve.
@@ -2386,6 +2388,7 @@ bcreati.com.ve.
 bcv.gov.ve.
 bcv.org.ve.
 bcvasiaeurocaribe.org.ve.
+bcve.org.ve.
 bcveuroasia.org.ve.
 bcw-global.com.ve.
 bdc.com.ve.
@@ -3226,6 +3229,7 @@ cablebrasil.com.ve.
 cablehogar.net.ve.
 cablepar.com.ve.
 cablesindustriales.com.ve.
+cabletartaknet.com.ve.
 cabletray.com.ve.
 cablingus.com.ve.
 cablofil.com.ve.
@@ -7094,7 +7098,6 @@ edr.com.ve.
 edreams.com.ve.
 edsca.com.ve.
 edt.com.ve.
-edu.com.ve.
 edu.ve.
 eduardoramirez.com.ve.
 eduardorohl.edu.ve.
@@ -7665,7 +7668,6 @@ eskina.com.ve.
 eslamo.com.ve.
 eslared.org.ve.
 eslovaquia.com.ve.
-esmeralda.com.ve.
 esmicuerpo.com.ve.
 esmolecula.com.ve.
 esoca.com.ve.
@@ -10230,7 +10232,6 @@ hellawell.com.ve.
 hello.com.ve.
 hellomoto.com.ve.
 helukabel.com.ve.
-hemalab.com.ve.
 hemofiliahoy.com.ve.
 hemophiliasolution.co.ve.
 hemophiliasolution.com.ve.
@@ -11040,6 +11041,7 @@ imprapure.gov.ve.
 imprecaroni.com.ve.
 imprecultura.gob.ve.
 impremil.mil.ve.
+imprentadigital421.com.ve.
 imprentadigitalenlinea.com.ve.
 imprentadigitalonline.com.ve.
 imprentanacional.gob.ve.
@@ -11338,7 +11340,6 @@ innosure.com.ve.
 innotech.com.ve.
 innotica.com.ve.
 innova-ingenieria.com.ve.
-innova.com.ve.
 innovabarinas.com.ve.
 innovacion.gob.ve.
 innovalosandes.com.ve.
@@ -13602,7 +13603,6 @@ mangocenter.com.ve.
 mangonet.com.ve.
 mangonet.net.ve.
 mangonet.org.ve.
-manguerasmb.com.ve.
 maniacline.co.ve.
 maniacline.com.ve.
 maniadeti.com.ve.
@@ -13702,7 +13702,6 @@ margaritarealty.com.ve.
 margaritarents.com.ve.
 margaritavillage.com.ve.
 margaritavillageclub.com.ve.
-margaritawings.com.ve.
 mariachiadomicilio.com.ve.
 mariainmaculadacarora.com.ve.
 mariainmaculadacarora.edu.ve.
@@ -13884,6 +13883,7 @@ maxima995fm.com.ve.
 maximaca.com.ve.
 maximiza.com.ve.
 maximus.com.ve.
+maxinet.com.ve.
 maxipet.com.ve.
 maxipisos.com.ve.
 maxirental.com.ve.
@@ -15853,6 +15853,7 @@ once-once.com.ve.
 onceonce.com.ve.
 oncocirugia.org.ve.
 oncologia.org.ve.
+oncologicolasagrada.com.ve.
 oncomedica.com.ve.
 oncop.gob.ve.
 oncop.gov.ve.
@@ -22228,7 +22229,6 @@ valentino.com.ve.
 valera-trujillo.gov.ve.
 valeramotorssa.com.ve.
 valeranoticias.com.ve.
-valeromontacargas.com.ve.
 valery.com.ve.
 valerysoftware.com.ve.
 valetparkingv.com.ve.
