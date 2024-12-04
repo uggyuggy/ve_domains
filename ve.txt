@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03Dec2024 04:28 UTC
+# ve domain names extracted from nameservers on 04Dec2024 04:17 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1205,6 +1205,7 @@ amazongo.com.ve.
 amazoniacorp.com.ve.
 amazoniafilms.gob.ve.
 amazonlat.com.ve.
+amazonnova.co.ve.
 amazonrightnowclimatefund.co.ve.
 amazonrightnowclimatefund.com.ve.
 amazonvideo.co.ve.
@@ -1685,6 +1686,7 @@ artefrio.com.ve.
 arteinmueble.com.ve.
 artekao.com.ve.
 artenatura.com.ve.
+arteolivares.com.ve.
 artetorta.com.ve.
 artevia.com.ve.
 arthrolink.com.ve.
@@ -2105,6 +2107,7 @@ awl-martsucks.com.ve.
 awmdm.co.ve.
 awmdm.com.ve.
 awser.com.ve.
+awsnova.co.ve.
 awsolutions.com.ve.
 axa.com.ve.
 axalta-coating-systems.com.ve.
@@ -4749,6 +4752,7 @@ colegioconcordia.edu.ve.
 colegiocorazondejesus.com.ve.
 colegiocorazondejesus.edu.ve.
 colegiocristodelbuenviaje.com.ve.
+colegiocristorey.com.ve.
 colegiocristoreysantamonica.com.ve.
 colegiocubagua.edu.ve.
 colegiodanielflorenciooleary.com.ve.
@@ -4757,7 +4761,6 @@ colegiodebioanalistas.com.ve.
 colegiodecroly.edu.ve.
 colegiodeenfermeriamerida.com.ve.
 colegiodelavemariaelparaiso.com.ve.
-colegiodelsantisimo.com.ve.
 colegiodivinapastora.com.ve.
 colegiodivinapastorabolivar.com.ve.
 colegiodonbosco.edu.ve.
@@ -5304,7 +5307,6 @@ construaragua.gob.ve.
 construccionesrg2014.com.ve.
 construcenter.com.ve.
 construfer.com.ve.
-construguia.com.ve.
 construlion.com.ve.
 construmadera.com.ve.
 construpatria.gob.ve.
@@ -5863,7 +5865,6 @@ ctca.com.ve.
 cti.com.ve.
 ctr.com.ve.
 ctra.com.ve.
-cts.com.ve.
 ctsca.com.ve.
 ctshtt.com.ve.
 ctt.gov.ve.
@@ -6517,7 +6518,6 @@ digital953fmguarenas-guatire.com.ve.
 digitalarm.com.ve.
 digitalcaracas.com.ve.
 digitalcredit.com.ve.
-digitalesuruguay.com.ve.
 digitalfot.com.ve.
 digitalgo.com.ve.
 digitalprint.com.ve.
@@ -7881,6 +7881,7 @@ ewave.com.ve.
 ewave.net.ve.
 ewig.com.ve.
 ex-cle.com.ve.
+ex-cle.org.ve.
 exacttarget.com.ve.
 exacttarget.info.ve.
 exair.com.ve.
@@ -8760,6 +8761,7 @@ freshconfidence.co.ve.
 freshconfidence.com.ve.
 freshmarket.com.ve.
 freshtechs.com.ve.
+freshvic.com.ve.
 fresubin.com.ve.
 freudenberg.com.ve.
 freyssinet.com.ve.
@@ -8820,7 +8822,6 @@ fselectas.com.ve.
 fsi.com.ve.
 fta.com.ve.
 ftalentos.com.ve.
-ftavenezuela.com.ve.
 ftd.com.ve.
 ftf.gob.ve.
 fticonsulting.com.ve.
@@ -9180,6 +9181,7 @@ garnerhotels.com.ve.
 garnier.com.ve.
 garrettpopcorn.com.ve.
 garrybruno.com.ve.
+gartner.com.ve.
 gasesindustriales.com.ve.
 gasesindustrialesdeleste.com.ve.
 gasfalca.org.ve.
@@ -9312,6 +9314,9 @@ geopetrol.co.ve.
 geoportal.gob.ve.
 geoportalsb.gob.ve.
 geoprint.com.ve.
+geoquest-group.com.ve.
+geoquest.com.ve.
+geoquestgroup.com.ve.
 george-wyndham.com.ve.
 george.com.ve.
 georgewyndham.com.ve.
@@ -11134,6 +11139,7 @@ independencia-yaracuy.gov.ve.
 independencia200.gob.ve.
 indeplas.com.ve.
 indeport.gob.ve.
+indeproven.com.ve.
 inder.gob.ve.
 inder.gov.ve.
 indessa.com.ve.
@@ -13622,6 +13628,7 @@ manta.com.ve.
 mantenimientoelectricocostel.com.ve.
 mantenimientosemahinst.com.ve.
 mantenimientotrading.com.ve.
+mantis.com.ve.
 mantruckandbus.co.ve.
 mantruckandbus.com.ve.
 manu.com.ve.
@@ -14085,6 +14092,7 @@ megaparty.net.ve.
 megapc.com.ve.
 megapet.com.ve.
 megapixel.com.ve.
+megaplay.com.ve.
 megasis.co.ve.
 megasoft.co.ve.
 megasoft.com.ve.
@@ -14817,7 +14825,6 @@ motasa.com.ve.
 motatan-trujillo.gob.ve.
 motelbambu.com.ve.
 motelcastillito.com.ve.
-motelsandiego.com.ve.
 mothercare.co.ve.
 mothercare.com.ve.
 motindustria.com.ve.
@@ -15528,6 +15535,7 @@ nottamotor.com.ve.
 noumatrading.com.ve.
 nourifusion.com.ve.
 nouryon.co.ve.
+nova.co.ve.
 novalac.co.ve.
 novalac.com.ve.
 novall.com.ve.
@@ -16492,6 +16500,8 @@ pedronurse.com.ve.
 pedropablobarnola.edu.ve.
 pedrozafilms.com.ve.
 pedrozaraza-guarico.gov.ve.
+peerconnect.com.ve.
+peerinsights.com.ve.
 peerless-av.com.ve.
 pegamentoscyc.com.ve.
 pegaso.com.ve.
@@ -18200,6 +18210,7 @@ roborock.co.ve.
 roborock.com.ve.
 robot.com.ve.
 robotica.com.ve.
+roboticacefitec.emprende.ve.
 robotshop.co.ve.
 roca.com.ve.
 rocaldent.com.ve.
@@ -18463,6 +18474,7 @@ safav.gob.ve.
 safdec-lara.gob.ve.
 safebrand.com.ve.
 safebrands.com.ve.
+safesecurity.com.ve.
 safonacc.gob.ve.
 safonapp.gob.ve.
 safox.com.ve.
@@ -19722,6 +19734,7 @@ solad.com.ve.
 solana.co.ve.
 solana.com.ve.
 solaraze.com.ve.
+solarcanino.com.ve.
 solarcentury.com.ve.
 solarfm.com.ve.
 solaris-ecig.com.ve.
@@ -20235,7 +20248,6 @@ sumar.gob.ve.
 sumarcaca.com.ve.
 sumat.gob.ve.
 sumeca.com.ve.
-sumelep.com.ve.
 sumeria.com.ve.
 sumeria.org.ve.
 sumi.com.ve.
@@ -21082,6 +21094,7 @@ toba.com.ve.
 tocopero-falcon.gov.ve.
 toctino.co.ve.
 toctino.com.ve.
+todoagro.com.ve.
 todoairescaracas.com.ve.
 todoaki.com.ve.
 todoauto.com.ve.
@@ -21098,6 +21111,7 @@ todoconstructor.com.ve.
 todocursos.com.ve.
 tododeporte.com.ve.
 tododigital.com.ve.
+todoencctv.com.ve.
 todoenlinea.emprende.ve.
 todoexplorer.com.ve.
 todofiestas.com.ve.
@@ -21788,6 +21802,7 @@ uecolegiodomingosavio.edu.ve.
 uecolegioelalba.com.ve.
 uecolegioelmorro.com.ve.
 uecolegioguataparo.com.ve.
+uecolegioindependencia.com.ve.
 uecolegiolafe.com.ve.
 uecolegiometropolitano.com.ve.
 uecolegiomicaeliano.com.ve.
@@ -21843,6 +21858,7 @@ uensa2.edu.ve.
 uentrasradelasmercedes.edu.ve.
 uenuestrasradelavictoria.com.ve.
 uenuevacadiz.com.ve.
+uepanibalrodriguez.com.ve.
 uepcandreseloyblanco.com.ve.
 uepcbuenpastor.edu.ve.
 uepeccristorey.com.ve.
@@ -22148,7 +22164,6 @@ urimat.com.ve.
 uriola.web.ve.
 url.co.ve.
 urls.co.ve.
-urnaslacentral.com.ve.
 urologico.com.ve.
 urosalud.com.ve.
 ursa.com.ve.
@@ -22197,6 +22212,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
