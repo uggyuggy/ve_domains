@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 04Dec2024 04:17 UTC
+# ve domain names extracted from nameservers on 05Dec2024 04:10 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -6061,6 +6061,7 @@ danielomana.com.ve.
 danielrodriguez.com.ve.
 danielvarnagy.com.ve.
 danilodiazgranados.co.ve.
+danlipagos.com.ve.
 danone.co.ve.
 danone.com.ve.
 danonino.co.ve.
@@ -10216,7 +10217,6 @@ hechoenmerida.gob.ve.
 hechoscriollos.com.ve.
 hechosnews.com.ve.
 hectormanrique.com.ve.
-hectorprato.com.ve.
 hediard.com.ve.
 heidenhain.co.ve.
 heimcore.com.ve.
@@ -12779,7 +12779,6 @@ lareddelarte.gob.ve.
 lareforma.com.ve.
 lareina.com.ve.
 larepublica.com.ve.
-larevolucionvive.org.ve.
 larimarmol.com.ve.
 larkin.com.ve.
 larocastereo.com.ve.
@@ -13146,6 +13145,7 @@ lisbethlozano.org.ve.
 listerine.com.ve.
 listo.net.ve.
 listopago.com.ve.
+lithodex.com.ve.
 litin.edu.ve.
 litotrans.com.ve.
 littlecaesar.com.ve.
@@ -13404,7 +13404,6 @@ lumentech.com.ve.
 lumicentro.com.ve.
 lumiere.net.ve.
 luminariasonline.com.ve.
-luminet.com.ve.
 luminika.com.ve.
 luminous.co.ve.
 luminous.com.ve.
@@ -13483,6 +13482,7 @@ madeco.co.ve.
 madeidea.com.ve.
 madeinitaly.com.ve.
 madenor.com.ve.
+maderaganga.com.ve.
 maderasdelalba.gob.ve.
 maderasdelorinoco.gob.ve.
 maderasguayabal.com.ve.
@@ -13738,6 +13738,7 @@ marketeam.com.ve.
 marketingfino.com.ve.
 marketingnow.com.ve.
 marketingstudio.com.ve.
+marketplace.com.ve.
 markina.com.ve.
 marklevinson.co.ve.
 marklevinson.com.ve.
@@ -14597,6 +14598,7 @@ misionciencia.gob.ve.
 misioncuadrantesdepaz.gob.ve.
 misioncultura.gob.ve.
 misioncultura.org.ve.
+misioneros.com.ve.
 misionesbolivarianas.gob.ve.
 misionesenlinea.gob.ve.
 misionessociales.com.ve.
@@ -16899,6 +16901,7 @@ pmicareers.co.ve.
 pmicareers.com.ve.
 pmintl.com.ve.
 pms.com.ve.
+pms.net.ve.
 pmvca.gob.ve.
 pnat.gob.ve.
 pni.gob.ve.
@@ -17773,6 +17776,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -18698,6 +18702,8 @@ santosmarquina-merida.gov.ve.
 sanuk.co.ve.
 sanval.com.ve.
 sanvicentedepaul.edu.ve.
+sap.co.ve.
+sap.com.ve.
 sapi.gob.ve.
 sapi.gov.ve.
 sapienzaconsultores.com.ve.
@@ -19297,6 +19303,7 @@ siamtel.gob.ve.
 sian.info.ve.
 siappmerida.gob.ve.
 siar.com.ve.
+siarteccarabobo.gob.ve.
 sias.gob.ve.
 siataragua.gob.ve.
 sibci.gob.ve.
@@ -19805,7 +19812,6 @@ solucionesmg.com.ve.
 solucionesmoa.com.ve.
 solucionesofthard.com.ve.
 solucionespm.com.ve.
-solucionesssit.com.ve.
 solucionestecnologicas.com.ve.
 solucionesyservicios.com.ve.
 solucioninteligente.com.ve.
@@ -22212,7 +22218,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
