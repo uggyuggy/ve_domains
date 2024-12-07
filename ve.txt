@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Dec2024 04:13 UTC
+# ve domain names extracted from nameservers on 07Dec2024 04:14 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1644,6 +1644,7 @@ aroha.com.ve.
 arokim.com.ve.
 aromaven.com.ve.
 aronin.com.ve.
+arpanettelecom.com.ve.
 arquetipo.com.ve.
 arquideas.com.ve.
 arquidiocesisdebarquisimeto.org.ve.
@@ -4563,6 +4564,7 @@ cmemcarrizal.gob.ve.
 cmevvargas.gob.ve.
 cmez.gob.ve.
 cmf.com.ve.
+cmg.com.ve.
 cmgalenoservice.com.ve.
 cmgm.com.ve.
 cmgm.info.ve.
@@ -5866,6 +5868,7 @@ ctca.com.ve.
 cti.com.ve.
 ctr.com.ve.
 ctra.com.ve.
+cts.com.ve.
 ctsca.com.ve.
 ctshtt.com.ve.
 ctt.gov.ve.
@@ -6273,6 +6276,7 @@ deltalight.com.ve.
 deltap.com.ve.
 deltaprint.com.ve.
 deltasalud.com.ve.
+deltatech.com.ve.
 delti.com.ve.
 delticom.com.ve.
 deluxevacation.com.ve.
@@ -8533,6 +8537,7 @@ fondobicentenario.gob.ve.
 fondobolivar.gob.ve.
 fondocumentalclel.gob.ve.
 fondoefa.gob.ve.
+fondoin.gob.ve.
 fondomixtodeturismolara.gob.ve.
 fondonacionaldeldeporte.gob.ve.
 fondonegroprimero.mil.ve.
@@ -8983,6 +8988,7 @@ fundarritmia.org.ve.
 fundarte.gob.ve.
 fundarte.gov.ve.
 fundasaludtrujillo.gob.ve.
+fundase.org.ve.
 fundasmin.gob.ve.
 fundasol.gob.ve.
 fundasolidaridad.gob.ve.
@@ -10218,6 +10224,7 @@ hechoenmerida.gob.ve.
 hechoscriollos.com.ve.
 hechosnews.com.ve.
 hectormanrique.com.ve.
+hectorprato.com.ve.
 hediard.com.ve.
 heidenhain.co.ve.
 heimcore.com.ve.
@@ -11526,7 +11533,6 @@ interagro.com.ve.
 interaktivos.com.ve.
 interamerica.com.ve.
 interamerican.com.ve.
-interanetcomunicaciones.com.ve.
 interauto.com.ve.
 intercable.com.ve.
 intercable.net.ve.
@@ -14463,7 +14469,6 @@ milo.com.ve.
 miluzdesigns.com.ve.
 milv.com.ve.
 mimagnum.com.ve.
-mimasa.com.ve.
 mimercado.com.ve.
 mimet.com.ve.
 mimovistar-online.com.ve.
@@ -14845,7 +14850,6 @@ motorvenca.com.ve.
 motorzona.com.ve.
 motos.com.ve.
 motosonic.com.ve.
-mototurismo.com.ve.
 motoval.com.ve.
 motoventas.com.ve.
 motrio.co.ve.
@@ -15312,7 +15316,6 @@ netflix.co.ve.
 netflix.com.ve.
 netgo.com.ve.
 nethosting.com.ve.
-netinside.com.ve.
 netjam.com.ve.
 netjam.net.ve.
 netlink.com.ve.
@@ -16367,7 +16370,6 @@ passline.com.ve.
 password.com.ve.
 pastaoro.com.ve.
 pastasallegri.com.ve.
-pastasgordini.com.ve.
 pastassindoni.com.ve.
 pasteleriaencasa.com.ve.
 pasteleriamozart.com.ve.
@@ -20926,7 +20928,6 @@ theprobar.com.ve.
 ther-biotic.com.ve.
 therabody.com.ve.
 theraflu.com.ve.
-therainbow.com.ve.
 therbiotic.com.ve.
 therightnowclimatefund.co.ve.
 therightnowclimatefund.com.ve.
@@ -21872,6 +21873,7 @@ uepcbuenpastor.edu.ve.
 uepeccristorey.com.ve.
 uepedrozaraza.com.ve.
 uepgp.edu.ve.
+uepgrancolombia.com.ve.
 uepioxii.com.ve.
 uepjmc.com.ve.
 ueplazasesamo.edu.ve.

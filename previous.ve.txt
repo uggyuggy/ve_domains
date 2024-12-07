@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 05Dec2024 04:10 UTC
+# ve domain names extracted from nameservers on 06Dec2024 04:13 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1118,6 +1118,7 @@ alphacolor.com.ve.
 alphacreativa.com.ve.
 alphasense.com.ve.
 alphasigma.com.ve.
+alphasoft.com.ve.
 alphasoluciones.com.ve.
 alpina.com.ve.
 alpino.com.ve.
@@ -3245,7 +3246,6 @@ cacib.com.ve.
 cacicaurimare.org.ve.
 cacique.net.ve.
 caciquemanaure-falcon.gov.ve.
-cactus.com.ve.
 cactus24.com.ve.
 cadafe.com.ve.
 cadafe.gob.ve.
@@ -3431,6 +3431,7 @@ capitalgroup.com.ve.
 capitalinternational.com.ve.
 capitax.com.ve.
 capm.com.ve.
+capmil.org.ve.
 capmp.com.ve.
 cappoucla.org.ve.
 caprebicentenario.com.ve.
@@ -6267,7 +6268,6 @@ delsurpoliclinica.com.ve.
 delta.com.ve.
 deltaamacuro.gob.ve.
 deltafiresystems.com.ve.
-deltainn.com.ve.
 deltaintegradores.com.ve.
 deltalight.com.ve.
 deltap.com.ve.
@@ -7202,6 +7202,7 @@ electricforce.com.ve.
 electricforcesolutions.com.ve.
 electricoscaracas.com.ve.
 electrimec.com.ve.
+electriser.com.ve.
 electro.com.ve.
 electroaire.com.ve.
 electrocam.com.ve.
@@ -8532,7 +8533,6 @@ fondobicentenario.gob.ve.
 fondobolivar.gob.ve.
 fondocumentalclel.gob.ve.
 fondoefa.gob.ve.
-fondoin.gob.ve.
 fondomixtodeturismolara.gob.ve.
 fondonacionaldeldeporte.gob.ve.
 fondonegroprimero.mil.ve.
@@ -8740,6 +8740,7 @@ frappuccino.com.ve.
 frapuccino.com.ve.
 fraternidad.org.ve.
 frayluisdeleon.com.ve.
+frecuenciasolar.com.ve.
 freecom.com.ve.
 freed.com.ve.
 freeda.com.ve.
@@ -10222,6 +10223,7 @@ heidenhain.co.ve.
 heimcore.com.ve.
 heimdall.com.ve.
 heinz.com.ve.
+helado.com.ve.
 helados.com.ve.
 heladoscali.com.ve.
 heladosefe.com.ve.
@@ -11467,6 +11469,7 @@ insumedacarigua.com.ve.
 insupen.com.ve.
 insuperable891fm.com.ve.
 insuritas.com.ve.
+insutec.com.ve.
 insystech.com.ve.
 int.ve.
 intarcesoft.com.ve.
@@ -11791,7 +11794,6 @@ islacopy.com.ve.
 isladejuegos.co.ve.
 islademargarita.gob.ve.
 islademargarita.gov.ve.
-isladulce.com.ve.
 islaguia.com.ve.
 islalatortuga.com.ve.
 islamargarita.gob.ve.
@@ -13027,7 +13029,6 @@ library.com.ve.
 librededrogas.org.ve.
 librelinkup.co.ve.
 librelinkup.com.ve.
-libremercado.com.ve.
 libreriacedice.org.ve.
 libreriaeuropa.com.ve.
 librerialaalegria.com.ve.
@@ -13548,7 +13549,6 @@ mail.com.ve.
 mailbox.com.ve.
 mailchimp.co.ve.
 mailchimp.com.ve.
-mains.com.ve.
 mainstays.co.ve.
 maisanta.gov.ve.
 maisanta.mil.ve.
@@ -14664,6 +14664,7 @@ mizuno.net.ve.
 mizuno.org.ve.
 mjd.com.ve.
 mjpg.com.ve.
+mka299.com.ve.
 mkmotors.com.ve.
 mktpca.com.ve.
 mlplas.com.ve.
@@ -17776,7 +17777,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19641,6 +19641,7 @@ smirnoff.co.ve.
 smirnoff.com.ve.
 smith-nephew.com.ve.
 smithsonianchannel.com.ve.
+smlaflorida.net.ve.
 smo.com.ve.
 smol.com.ve.
 smol.net.ve.
@@ -19670,6 +19671,7 @@ sobradasrazones.com.ve.
 sobreseguro.com.ve.
 socaportuguesa.com.ve.
 socialmedianegocios.com.ve.
+socialnet.com.ve.
 socialreport.com.ve.
 socialsmoke.com.ve.
 sociedad-divulgadora.mil.ve.
@@ -19783,6 +19785,7 @@ solmelia.com.ve.
 soloalmayor.com.ve.
 solocruceros.com.ve.
 solodeportes.com.ve.
+solohardware.com.ve.
 solostove.co.ve.
 solostove.com.ve.
 solovatios.com.ve.
@@ -20659,7 +20662,6 @@ tecnogente.com.ve.
 tecnohospitalaria.com.ve.
 tecnohost.com.ve.
 tecnohost.net.ve.
-tecnoin.com.ve.
 tecnointegral.com.ve.
 tecnointer.com.ve.
 tecnoip.com.ve.
@@ -21409,7 +21411,6 @@ trendnet.com.ve.
 tresemme.com.ve.
 tresg.com.ve.
 tresimport.com.ve.
-trexa.net.ve.
 tribal-wars.com.ve.
 tribehr.co.ve.
 tribehr.com.ve.
@@ -21581,6 +21582,7 @@ tuinmueble.com.ve.
 tuinmueblegit.com.ve.
 tuiss.co.ve.
 tuiss.com.ve.
+tulaboratorio.com.ve.
 tulancha.com.ve.
 tulanchaenmargarita.com.ve.
 tulaptop.com.ve.
