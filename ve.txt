@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 08Dec2024 04:12 UTC
+# ve domain names extracted from nameservers on 09Dec2024 04:09 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4069,7 +4069,6 @@ cherimoya.com.ve.
 cheriway.com.ve.
 cherrybanana.com.ve.
 cherrybeauty.com.ve.
-chery.com.ve.
 chessable.com.ve.
 chesterfield.com.ve.
 chesterwood.com.ve.
@@ -5017,6 +5016,7 @@ compuamerica.com.ve.
 compufacil.com.ve.
 compugatecenter.com.ve.
 compumarketfh.com.ve.
+compunetwork.com.ve.
 compuroca.com.ve.
 compuser.com.ve.
 compuserve.com.ve.
@@ -7275,6 +7275,7 @@ emersonramirez.com.ve.
 emesa.com.ve.
 emica.com.ve.
 emigrante.com.ve.
+emilfriedman.com.ve.
 emilmar.com.ve.
 emiltra.gob.ve.
 eminco.com.ve.
@@ -8674,7 +8675,6 @@ fructus.com.ve.
 frugal.com.ve.
 frusnack.com.ve.
 frutalia.com.ve.
-frutascmc.com.ve.
 fruticola.co.ve.
 frutivalle.com.ve.
 fruttare.com.ve.
@@ -10122,6 +10122,7 @@ hermaco.com.ve.
 hermes.com.ve.
 hermoso.com.ve.
 hernandez.com.ve.
+hernanrojas.org.ve.
 heroal.com.ve.
 heroinaleonordelaguerra.com.ve.
 herorising.com.ve.
@@ -11659,7 +11660,6 @@ iter.org.ve.
 itero.com.ve.
 itexservices.com.ve.
 itf.com.ve.
-itfca.com.ve.
 itiformacion.edu.ve.
 itime.com.ve.
 itjo.edu.ve.
@@ -11914,7 +11914,6 @@ jialing.com.ve.
 jifi.edu.ve.
 jifi2000.edu.ve.
 jifi2002.edu.ve.
-jijo.com.ve.
 jimbo.co.ve.
 jimclark.com.ve.
 jimdel.com.ve.
@@ -12424,7 +12423,6 @@ laboratorioselmor.net.ve.
 laboratorioselmor.org.ve.
 laboratorioselmor.web.ve.
 laboratoriosgeminis.com.ve.
-laboratoriosigma.com.ve.
 laboratoriosmiranda.gob.ve.
 laboratoriosvivax.com.ve.
 laboratorioswipe.com.ve.
@@ -12510,7 +12508,6 @@ lala.com.ve.
 lalinda.net.ve.
 lalis.com.ve.
 lalo.com.ve.
-lamarinacaracas.com.ve.
 lamarmotors.com.ve.
 lamborghini.co.ve.
 lamborghini.com.ve.
@@ -16187,6 +16184,7 @@ pcivil.gob.ve.
 pcivil.gov.ve.
 pcivildeltaamacuro.gob.ve.
 pciviltachira.gob.ve.
+pcm.com.ve.
 pcmania.com.ve.
 pcmax.com.ve.
 pcmerida.gob.ve.
@@ -17174,7 +17172,6 @@ pst.com.ve.
 psuv.org.ve.
 psuvbolivar.org.ve.
 psuvyaracuy.org.ve.
-psvsa.com.ve.
 psylca.com.ve.
 pt.com.ve.
 ptck.com.ve.
@@ -18565,7 +18562,6 @@ screenconnect.com.ve.
 screendesigns.com.ve.
 scribe.com.ve.
 scricca.com.ve.
-scrigno.com.ve.
 scrum.co.ve.
 scs.com.ve.
 sct.com.ve.
@@ -18841,7 +18837,6 @@ servinave.com.ve.
 servindustrial.com.ve.
 servinet.com.ve.
 servinet.info.ve.
-serving.com.ve.
 servinorca.com.ve.
 servioil.com.ve.
 serviotovar.com.ve.
@@ -21246,7 +21241,6 @@ tulobuscas.com.ve.
 tuloenvias.com.ve.
 tumalla.com.ve.
 tumaquinitadecoser.com.ve.
-tumascota.com.ve.
 tumayorferretero.com.ve.
 tumayorferretero.net.ve.
 tumedico.com.ve.
@@ -21549,7 +21543,7 @@ uhrcenter.com.ve.
 uiam.com.ve.
 uic.org.ve.
 uideporte.edu.ve.
-uilc.net.ve.
+uilc.com.ve.
 uj.com.ve.
 ujap.edu.ve.
 ujgh.edu.ve.
@@ -21643,7 +21637,6 @@ unidadeducativasanlorenzo.org.ve.
 unidadeducativasierragrande.com.ve.
 unidadesteticaintegralavefenix.com.ve.
 unidea.com.ve.
-uniden.com.ve.
 unidigital.com.ve.
 unieuro.co.ve.
 unif.gob.ve.
