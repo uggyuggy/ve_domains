@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 10Dec2024 04:26 UTC
+# ve domain names extracted from nameservers on 11Dec2024 04:35 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -162,6 +162,7 @@ a2softway.com.ve.
 a414.com.ve.
 aa.com.ve.
 aaa.net.ve.
+aai.com.ve.
 aalatinoamericana.co.ve.
 aba.com.ve.
 abadia.com.ve.
@@ -403,6 +404,7 @@ adma.com.ve.
 admauditores.com.ve.
 admfox.com.ve.
 admicond.com.ve.
+administra.com.ve.
 administracion-condominio.com.ve.
 administradora-diamante.com.ve.
 administradora-octagon.com.ve.
@@ -1276,6 +1278,7 @@ amway-qas.com.ve.
 amway.co.ve.
 amway.com.ve.
 an.gob.ve.
+ana.com.ve.
 anabasii.com.ve.
 anabolicoscaracas.com.ve.
 anaco-anzoategui.gob.ve.
@@ -1348,6 +1351,7 @@ angloamericana.com.ve.
 angsana.com.ve.
 angularweb.com.ve.
 angulo.com.ve.
+anhvenezuela.org.ve.
 aniara.com.ve.
 animalarium.com.ve.
 animalplanet.co.ve.
@@ -1368,6 +1372,7 @@ anntaylor.com.ve.
 anpage.com.ve.
 ansa.org.ve.
 ansloar.com.ve.
+antares.com.ve.
 antaresvision.com.ve.
 antarte.co.ve.
 ante.com.ve.
@@ -1431,7 +1436,6 @@ apartamentosvacacionalesmargarita.com.ve.
 apav.com.ve.
 apcc.com.ve.
 apem.org.ve.
-aphservices.org.ve.
 api.com.ve.
 api.net.ve.
 apis.com.ve.
@@ -1880,6 +1884,7 @@ aulaplaneta.co.ve.
 aulaplaneta.com.ve.
 aulascursosya.com.ve.
 aulavirtual.web.ve.
+aulavirtualcgq.com.ve.
 aulaxpress.com.ve.
 aulin.com.ve.
 aumca.com.ve.
@@ -2231,6 +2236,7 @@ banderas.com.ve.
 bandes.gob.ve.
 bandes.gov.ve.
 bandh.com.ve.
+bandmasterca.com.ve.
 bandres.com.ve.
 banesco.com.ve.
 banescoabanca.com.ve.
@@ -2510,7 +2516,6 @@ betec.com.ve.
 betecnica.com.ve.
 betfair.com.ve.
 bethardrock.com.ve.
-bethel.com.ve.
 bethelca.com.ve.
 bethlemitassocopo.edu.ve.
 betking.co.ve.
@@ -3021,6 +3026,7 @@ breville.com.ve.
 breyanzi.com.ve.
 breyanzihcp.com.ve.
 brick7.co.ve.
+bricket.com.ve.
 brickmancorp.com.ve.
 brickmansuministros.com.ve.
 bricotek.com.ve.
@@ -3473,6 +3479,7 @@ carlos.com.ve.
 carlosarvelo-carabobo.gob.ve.
 carlosarvelo-carabobo.gov.ve.
 carloshermoso.com.ve.
+carlospcssoluciones.com.ve.
 carlospirela.com.ve.
 carlosrodriguez48.emprende.ve.
 carloto.com.ve.
@@ -4408,6 +4415,7 @@ clinicadevarices.com.ve.
 clinicahumana.com.ve.
 clinicaidb.com.ve.
 clinicaidet.com.ve.
+clinicaidetbarquisimeto.com.ve.
 clinicaimd.com.ve.
 clinicalkey.com.ve.
 clinicaloscolorados.com.ve.
@@ -5688,6 +5696,7 @@ credicard-gestion-comercios.com.ve.
 credicard.com.ve.
 credicardenlinea.com.ve.
 credicardpos.com.ve.
+credihogar.com.ve.
 credimara.com.ve.
 credit-agricole.com.ve.
 credit-suisse.co.ve.
@@ -5710,6 +5719,7 @@ cretto.com.ve.
 crforestal.com.ve.
 criaderohohenberg.com.ve.
 criolla.com.ve.
+criolla1007.net.ve.
 cripto.gob.ve.
 criptolago.com.ve.
 criptomonedas.com.ve.
@@ -6366,6 +6376,7 @@ dianaachkar.com.ve.
 dianca.gob.ve.
 dianco.com.ve.
 dianetica.org.ve.
+diaplus.com.ve.
 diarcasa.com.ve.
 diariodelpueblo.com.ve.
 diarioelexpreso.com.ve.
@@ -6691,7 +6702,6 @@ dondominio.com.ve.
 donefectivo.com.ve.
 doneloy.com.ve.
 donnafugata.com.ve.
-donpizza.com.ve.
 donshu.net.ve.
 donvic.com.ve.
 donweb.com.ve.
@@ -7776,7 +7786,6 @@ ex-cle.org.ve.
 exacttarget.com.ve.
 exacttarget.info.ve.
 exair.com.ve.
-examina.com.ve.
 exanet.com.ve.
 exatlon.co.ve.
 excel.net.ve.
@@ -9635,6 +9644,7 @@ gremseca.com.ve.
 greymar.com.ve.
 grial.com.ve.
 griferia.com.ve.
+griferiasgms.com.ve.
 grillo.com.ve.
 grim.com.ve.
 grimeboss.com.ve.
@@ -9671,6 +9681,7 @@ grupo77.com.ve.
 grupo7f.com.ve.
 grupo96.com.ve.
 grupoab.com.ve.
+grupoadf.com.ve.
 grupoalma.com.ve.
 grupoalri.com.ve.
 grupoambito.com.ve.
@@ -9782,6 +9793,7 @@ grupomilos.com.ve.
 grupomistral.com.ve.
 grupomm.com.ve.
 grupompr.com.ve.
+gruponitrox.com.ve.
 gruponovanet.com.ve.
 grupooliveira.com.ve.
 grupoonza.com.ve.
@@ -10277,6 +10289,7 @@ hitachiaircon.com.ve.
 hitachidatasystems.co.ve.
 hitachivantara.co.ve.
 hitachivantara.com.ve.
+hiteco.com.ve.
 hitrypvo.com.ve.
 hiwin.com.ve.
 hlarrubla.com.ve.
@@ -11400,6 +11413,7 @@ intermune.com.ve.
 intermyps.com.ve.
 internacional.com.ve.
 internacionalvdcacademy.com.ve.
+international.com.ve.
 internationalaccounting.com.ve.
 internet2.edu.ve.
 internetexplorer.com.ve.
@@ -12538,7 +12552,6 @@ lamejorfm.com.ve.
 lamer.com.ve.
 lamet.com.ve.
 lamigal.com.ve.
-lamilagrosa.com.ve.
 laminadosalterdeco.com.ve.
 laminaire.com.ve.
 laminova.com.ve.
@@ -13451,7 +13464,6 @@ manuelbruzual-anzoategui.gob.ve.
 manuelfernandez.com.ve.
 manuelmonge-yaracuy.gob.ve.
 manzanares.com.ve.
-manzanoarte.com.ve.
 mapei.com.ve.
 mapfre-asistencia.com.ve.
 mapfre-assistance.com.ve.
@@ -14272,6 +14284,7 @@ minaguas.gob.ve.
 minal.gob.ve.
 minalba.com.ve.
 minamb.gob.ve.
+minanzo.com.ve.
 minasdelguarico.gob.ve.
 minci.gob.ve.
 minci.gov.ve.
@@ -15871,7 +15884,6 @@ overture.com.ve.
 ovi.com.ve.
 ovs.co.ve.
 ovs.gob.ve.
-ovsan.org.ve.
 oway.com.ve.
 owayo.com.ve.
 owletcare.com.ve.
@@ -16499,6 +16511,7 @@ pinkup.com.ve.
 pinpollo.com.ve.
 pint-pharma.co.ve.
 pint-pharma.com.ve.
+pintacasa.com.ve.
 pinterest.co.ve.
 pintuandes.com.ve.
 pintuplast.com.ve.
@@ -17028,7 +17041,6 @@ profertil.com.ve.
 profesionales-fertilidad.com.ve.
 profesionalesdevenezuela.com.ve.
 profimed.com.ve.
-profit.com.ve.
 proforca.gob.ve.
 proforhes.gov.ve.
 programabienestar.com.ve.
@@ -17521,6 +17533,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -18145,6 +18158,7 @@ rum.com.ve.
 rumbas.com.ve.
 rumbastereo947fm.com.ve.
 rumbo.com.ve.
+run.com.ve.
 rundo.com.ve.
 ruperfast.com.ve.
 rupymec.gob.ve.
@@ -18333,6 +18347,7 @@ samschoice.co.ve.
 samsclub.co.ve.
 samsclub.com.ve.
 samsclub.rec.ve.
+samson.com.ve.
 samuelshouse.com.ve.
 sana.org.ve.
 sanagustindecaricuao.edu.ve.
@@ -20217,6 +20232,7 @@ takeda.com.ve.
 takis.com.ve.
 talbotuw.com.ve.
 talbriskserv.com.ve.
+talentocriollo.com.ve.
 talentohumano.net.ve.
 talentotricolor.com.ve.
 talentskey.com.ve.
@@ -21483,6 +21499,7 @@ uecnazaretfya.com.ve.
 uecnsa.com.ve.
 uecolegioandresbello.com.ve.
 uecolegioaplicacion.com.ve.
+uecolegioaraguaneyparaguana.com.ve.
 uecolegiocastelao.com.ve.
 uecolegiocervantes.com.ve.
 uecolegiocristobalmendoza.com.ve.
