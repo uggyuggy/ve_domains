@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 11Dec2024 04:35 UTC
+# ve domain names extracted from nameservers on 12Dec2024 04:20 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1322,6 +1322,7 @@ andresek.com.ve.
 andreseloyblanco-barinas.gov.ve.
 andreseloyblanco-lara.gob.ve.
 andreseloyblanco-sucre.gob.ve.
+andreseloyrodriguez.com.ve.
 andreslevell.com.ve.
 andresmata-sucre.gob.ve.
 andritz.co.ve.
@@ -4679,6 +4680,7 @@ colegioatanasiogirardot.edu.ve.
 colegiobatalladelavictoria.com.ve.
 colegiobelen.com.ve.
 colegioblancagraciela.com.ve.
+colegioblancanieves.com.ve.
 colegiobolivariano.com.ve.
 colegiobolivarygaribaldi.com.ve.
 colegiobolivarypalacios.com.ve.
@@ -5102,6 +5104,7 @@ concejomunicipaljjmora.gob.ve.
 concejomunicipalnaguanagua.gov.ve.
 concejomunicipalplaza.gob.ve.
 concejomunicipalsandiego.gob.ve.
+concejomunicipalsanfernando.com.ve.
 concejomunicipalsc.gob.ve.
 concejomunicipalsotillo.gob.ve.
 concejomunicipalvalera.gob.ve.
@@ -5192,6 +5195,7 @@ conocemark.co.ve.
 conocemark.com.ve.
 conociendoeldolor.com.ve.
 conocophillips.com.ve.
+conopo.com.ve.
 conordem.com.ve.
 consagro.com.ve.
 consalud.gob.ve.
@@ -5262,6 +5266,7 @@ consulbank.com.ve.
 consulta.com.ve.
 consultalegal.com.ve.
 consultarif.com.ve.
+consultatumedico.com.ve.
 consultek.com.ve.
 consultorass.com.ve.
 consultoreslegales.com.ve.
@@ -6381,6 +6386,7 @@ diarcasa.com.ve.
 diariodelpueblo.com.ve.
 diarioelexpreso.com.ve.
 diarioelinformante.com.ve.
+diarioeltiempo.com.ve.
 diariolaantena.com.ve.
 diariometropolitano.com.ve.
 diarioregion.com.ve.
@@ -6448,6 +6454,7 @@ digitalprint.com.ve.
 digitalrealty.com.ve.
 digitalsolution.com.ve.
 digitalstudio.com.ve.
+digitalwebdesign.com.ve.
 digitalwolf.com.ve.
 digitalx.net.ve.
 digitel.com.ve.
@@ -8099,6 +8106,7 @@ feriainternacionaldevalencia.gob.ve.
 feriaplast.com.ve.
 fermaca.com.ve.
 fermetal.com.ve.
+fernacocorp.com.ve.
 fernandezfeo-tachira.gob.ve.
 fernando-anzoategui.gob.ve.
 ferradini.com.ve.
@@ -8137,6 +8145,7 @@ fertica.com.ve.
 fertilidad.net.ve.
 fertiquim.com.ve.
 fertiven.com.ve.
+ferturca.com.ve.
 fervenca.com.ve.
 fesa-merpro.com.ve.
 fesitpven.com.ve.
@@ -8308,6 +8317,7 @@ flashnetworks.com.ve.
 flashscore.co.ve.
 flashscore.com.ve.
 flavica.com.ve.
+flavors.com.ve.
 flb.com.ve.
 flc.com.ve.
 flebologia.org.ve.
@@ -9022,7 +9032,6 @@ gallerycomputer.com.ve.
 galletera-carabobo.com.ve.
 galleteracaraboboglobal.com.ve.
 gallofx.com.ve.
-galloverde.com.ve.
 galup.com.ve.
 galvalume.com.ve.
 gama-decor.com.ve.
@@ -10262,6 +10271,7 @@ himelab.com.ve.
 hindushop.com.ve.
 hino.com.ve.
 hinterlaces.com.ve.
+hinterlaces.net.ve.
 hinterlaces.org.ve.
 hiperdata.com.ve.
 hipertek.com.ve.
@@ -10779,6 +10789,7 @@ iesb-apucito.edu.ve.
 iesca.com.ve.
 iesip.edu.ve.
 iesv.com.ve.
+ietac.net.ve.
 ievene.edu.ve.
 ifaa.com.ve.
 ife.gob.ve.
@@ -10899,7 +10910,6 @@ implanon-nxt.com.ve.
 implanon.com.ve.
 implanonnxt.com.ve.
 implantesmamariosallergan.com.ve.
-implantesmis.com.ve.
 impordiesel.com.ve.
 import.com.ve.
 importadoraizuka.com.ve.
@@ -11205,6 +11215,7 @@ innosure.com.ve.
 innotech.com.ve.
 innotica.com.ve.
 innova-ingenieria.com.ve.
+innova.com.ve.
 innovabarinas.com.ve.
 innovacion.gob.ve.
 innovalosandes.com.ve.
@@ -11231,6 +11242,7 @@ inoncology.co.ve.
 inoxtanq.com.ve.
 inparques.gob.ve.
 inpreabogado.com.ve.
+inprecret.com.ve.
 inprefar.com.ve.
 inpremil.mil.ve.
 inpremilca.mil.ve.
@@ -11340,6 +11352,7 @@ integralsolutionit.com.ve.
 integramc.com.ve.
 integranet.com.ve.
 integraoil.com.ve.
+integrasg.com.ve.
 integrasoftware.com.ve.
 integratum.com.ve.
 integrity.net.ve.
@@ -12446,6 +12459,7 @@ laboratorioclinicogaleno.com.ve.
 laboratoriogaleno.net.ve.
 laboratoriolansa.com.ve.
 laboratoriomppcn.com.ve.
+laboratoriooptico.com.ve.
 laboratoriosalbem.com.ve.
 laboratoriosbluepoint.com.ve.
 laboratorioselmor.co.ve.
@@ -13756,6 +13770,7 @@ mboscarlopezriveraddhh.org.ve.
 mbvalores.com.ve.
 mc-pharmax.com.ve.
 mc2009.com.ve.
+mc3024.com.ve.
 mca-cg.com.ve.
 mcafee.com.ve.
 mcaironline.com.ve.
@@ -15023,6 +15038,7 @@ natuzzi.com.ve.
 natys.com.ve.
 nautica.co.ve.
 nauticaexpress.com.ve.
+nautico.com.ve.
 naval-group.com.ve.
 navan.com.ve.
 navarro.com.ve.
@@ -15599,6 +15615,7 @@ olay.com.ve.
 olayparati.com.ve.
 oldelpaso.com.ve.
 oldnavy.co.ve.
+oldprince.com.ve.
 oleica.com.ve.
 oley.com.ve.
 olimpiadasespeciales.org.ve.
@@ -16821,6 +16838,7 @@ posadamediterraneo.com.ve.
 posadas.com.ve.
 posadasdevenezuela.com.ve.
 posadaventisquero.com.ve.
+posadayaquesol.com.ve.
 posadayemaya.com.ve.
 posan.com.ve.
 post-it.co.ve.
@@ -17533,7 +17551,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -17619,6 +17636,7 @@ redjure.org.ve.
 redjuridica.org.ve.
 redken.com.ve.
 redlion.com.ve.
+redmasiva.com.ve.
 redmlv.com.ve.
 redmuseosdevenezuela.gob.ve.
 redorgbaruta.com.ve.
@@ -18747,6 +18765,7 @@ selflex.com.ve.
 selgrana.com.ve.
 selgrava.com.ve.
 sellatuparley.co.ve.
+selma.com.ve.
 selvaplus.com.ve.
 semana.com.ve.
 semanca.com.ve.
@@ -18825,6 +18844,7 @@ serpic.gob.ve.
 serpu.com.ve.
 serta.com.ve.
 sertecaconsulting.com.ve.
+serteconcret.com.ve.
 sertic.com.ve.
 sertocon24.com.ve.
 serverout.com.ve.
@@ -20365,6 +20385,8 @@ tecnocobros.com.ve.
 tecnocoloravila2000.com.ve.
 tecnocomputer.com.ve.
 tecnoconcret.com.ve.
+tecnoconcretbarcelona.com.ve.
+tecnoconcretvalencia.com.ve.
 tecnodistribuidor.com.ve.
 tecnoelectron.com.ve.
 tecnoelectronics.com.ve.
@@ -21714,6 +21736,7 @@ unionafirmativa.org.ve.
 unionradio.com.ve.
 unipap.edu.ve.
 unipaponline.com.ve.
+uniparts.com.ve.
 unipharma.com.ve.
 uniplast.com.ve.
 uniqlo.co.ve.
@@ -22054,7 +22077,6 @@ velug.org.ve.
 velugmaracaibo.org.ve.
 velux.com.ve.
 velvetouchproducts.com.ve.
-vem.com.ve.
 vemitienda.com.ve.
 ven911.gob.ve.
 venalcasa.gob.ve.
@@ -22062,6 +22084,7 @@ venalum.com.ve.
 venamerica.com.ve.
 venamerican.com.ve.
 venamonline.com.ve.
+venavega.com.ve.
 venbelcom.gob.ve.
 vencatalyst.com.ve.
 vencedores.gov.ve.
