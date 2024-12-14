@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 13Dec2024 04:26 UTC
+# ve domain names extracted from nameservers on 14Dec2024 04:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -328,7 +328,6 @@ acronis.com.ve.
 acropolis.net.ve.
 acsysca.com.ve.
 act4greenhome.com.ve.
-actacientifica.org.ve.
 actacientificaestudiantil.com.ve.
 actalentservices.com.ve.
 actforgreenhome.com.ve.
@@ -441,6 +440,7 @@ adsense.co.ve.
 adsense.com.ve.
 adslsystem.com.ve.
 aduaimport.com.ve.
+aduanas.com.ve.
 aduaneradelzulia.com.ve.
 aduaneragalapagos.com.ve.
 aduaneros.com.ve.
@@ -1772,7 +1772,6 @@ asociacioncivilpuertadelsol.org.ve.
 asociacionvenezolanademasajeinfantil.com.ve.
 asociacionvenezolanademujeres.com.ve.
 asociadosgerenciales.com.ve.
-asodepa.org.ve.
 asoft.com.ve.
 asoramal6.org.ve.
 asos.co.ve.
@@ -2552,6 +2551,7 @@ betwaysports.com.ve.
 betwinner.com.ve.
 beurer.com.ve.
 beval.com.ve.
+bexicaserin.com.ve.
 bexo.com.ve.
 beyondcarbon.com.ve.
 bfc.co.ve.
@@ -4145,6 +4145,7 @@ chronautic.com.ve.
 chronautic.info.ve.
 chronautic.org.ve.
 chronautic.web.ve.
+chrono24.com.ve.
 chrysler.co.ve.
 chryslerdevenezuela.com.ve.
 chryslergroupllc.com.ve.
@@ -4957,6 +4958,7 @@ comcastuniversal.com.ve.
 comcross.com.ve.
 comdicarr.com.ve.
 comecuid.gob.ve.
+comefca.com.ve.
 comeind.com.ve.
 comelpa.com.ve.
 comercialgil.com.ve.
@@ -7066,7 +7068,6 @@ efv.org.ve.
 efys.com.ve.
 egger.co.ve.
 egger.com.ve.
-egidioestereo.com.ve.
 egidsa.org.ve.
 egresadosiesa.com.ve.
 egservice.com.ve.
@@ -9047,6 +9048,7 @@ gallerycomputer.com.ve.
 galletera-carabobo.com.ve.
 galleteracaraboboglobal.com.ve.
 gallofx.com.ve.
+galloverde.com.ve.
 galup.com.ve.
 galvalume.com.ve.
 gama-decor.com.ve.
@@ -9621,6 +9623,7 @@ granbrasa.com.ve.
 grancacique.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
+grandealer.com.ve.
 grandhotel.com.ve.
 grandt.co.ve.
 grandt.com.ve.
@@ -11139,7 +11142,6 @@ infor.co.ve.
 infor.com.ve.
 inforca.com.ve.
 inforcal.edu.ve.
-inforeplicaplus.com.ve.
 informationplanet.com.ve.
 informedico.com.ve.
 inforproin.com.ve.
@@ -11762,7 +11764,6 @@ iuesapar.edu.ve.
 iuesapar.gob.ve.
 iufront.edu.ve.
 iugc.com.ve.
-iugt.com.ve.
 iui.com.ve.
 iui.edu.ve.
 iujel.tec.ve.
@@ -13707,6 +13708,7 @@ matandotigre.com.ve.
 match.com.ve.
 mateco.com.ve.
 matelca21.com.ve.
+mateomanaure.edu.ve.
 matercell.com.ve.
 materiales350.com.ve.
 materialesacrocolor.com.ve.
@@ -13879,6 +13881,7 @@ medicamentos.com.ve.
 medicapanamericana.com.ve.
 medicar.com.ve.
 medicaracas.com.ve.
+medicare.com.ve.
 mediccal.com.ve.
 medicina.com.ve.
 medicinaintegralcomunitaria-portuguesa.gob.ve.
@@ -15301,6 +15304,7 @@ nissan.co.ve.
 nissan.net.ve.
 nissanve.com.ve.
 nisum.com.ve.
+nittotires.co.ve.
 niuzai.com.ve.
 nivada.com.ve.
 nivaria.com.ve.
@@ -15634,7 +15638,6 @@ okta.org.ve.
 oktano.com.ve.
 oku2017.com.ve.
 okupa-proyectos.com.ve.
-ola.com.ve.
 olaice.com.ve.
 olaplex.co.ve.
 olaplex.com.ve.
@@ -18286,6 +18289,7 @@ safra.co.ve.
 saga.net.ve.
 sagaming.co.ve.
 sagaming.com.ve.
+sager.com.ve.
 saget.com.ve.
 sago.com.ve.
 sagogroup.com.ve.
@@ -19453,7 +19457,6 @@ socialnet.com.ve.
 socialreport.com.ve.
 socialsmoke.com.ve.
 sociedad-divulgadora.mil.ve.
-sociedadanticancerosa.org.ve.
 sociedadbolivarianavenezuela.org.ve.
 societarios.com.ve.
 socomec.com.ve.
@@ -20607,7 +20610,6 @@ terraintamer.com.ve.
 terumo.com.ve.
 tesca.com.ve.
 tesica.com.ve.
-tesis.co.ve.
 tesis.com.ve.
 tesisymasters.com.ve.
 tesla-ingenieria.com.ve.
@@ -21889,6 +21891,7 @@ uptntmanuelasaenz-lafria.com.ve.
 uptos.edu.ve.
 uptp.edu.ve.
 uptparia.edu.ve.
+uptpc.edu.ve.
 upttmbi.edu.ve.
 uptvalencia.edu.ve.
 uptvallesdeltuy.edu.ve.
@@ -22553,6 +22556,7 @@ vivomixx.com.ve.
 vivoo.com.ve.
 vivus.com.ve.
 vizcainnovastore.com.ve.
+vla.net.ve.
 vlex.com.ve.
 vlsuministros.com.ve.
 vlu.com.ve.
@@ -23142,6 +23146,7 @@ yourvoyage.com.ve.
 youtube.co.ve.
 youtube.com.ve.
 yoyo.com.ve.
+yoyo.web.ve.
 ysearch.com.ve.
 yuada.com.ve.
 yummydelivery.com.ve.
