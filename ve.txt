@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 15Dec2024 04:28 UTC
+# ve domain names extracted from nameservers on 16Dec2024 04:28 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1125,7 +1125,6 @@ altacocina.com.ve.
 altacucine.com.ve.
 altagastronomia.com.ve.
 altair.com.ve.
-altakwa.com.ve.
 altamira.com.ve.
 altamiracars.com.ve.
 altamoda.com.ve.
@@ -2451,8 +2450,6 @@ belzebu.com.ve.
 belzona.com.ve.
 bemarlboro.com.ve.
 benares.com.ve.
-benchmade.co.ve.
-benchmade.com.ve.
 bendpak.com.ve.
 beneficioclub.com.ve.
 beneficioclubempresa.com.ve.
@@ -3303,7 +3300,6 @@ cambriainns.com.ve.
 cambriasuite.com.ve.
 cambriasuites.com.ve.
 cambridge.com.ve.
-camcam.com.ve.
 came.co.ve.
 camera.co.ve.
 camera.com.ve.
@@ -3368,7 +3364,6 @@ candle.com.ve.
 candlecorporation.com.ve.
 candlecorporationca.com.ve.
 candonga.com.ve.
-canelatoro.com.ve.
 canes.edu.ve.
 canesten.com.ve.
 cania.org.ve.
@@ -6014,7 +6009,6 @@ dapoxetina.com.ve.
 darfa.gob.ve.
 darfa.mil.ve.
 darkorbit2.com.ve.
-darlayca.com.ve.
 darodistribuciones.com.ve.
 darphin.com.ve.
 darsalud.com.ve.
@@ -6611,7 +6605,6 @@ distinmuebles.com.ve.
 distmah.com.ve.
 distramar.com.ve.
 distribucionesconectando.com.ve.
-distribuidora2022ry.com.ve.
 distribuidoraalfredojj.com.ve.
 distribuidoraaustral.com.ve.
 distribuidoradelacultura.gob.ve.
@@ -9873,7 +9866,6 @@ grupounico.com.ve.
 grupov.com.ve.
 grupova.com.ve.
 grupovelezvelez.com.ve.
-grupoveritaslex.com.ve.
 grupovictoria.com.ve.
 grupovida24x7.com.ve.
 grupovilore.com.ve.
@@ -11970,7 +11962,6 @@ jf2soluciones.com.ve.
 jflvenezuela.com.ve.
 jfpz.com.ve.
 jfsports.com.ve.
-jgrautodist.com.ve.
 jgtecnologias.com.ve.
 jhs.com.ve.
 jhservice.com.ve.
@@ -13543,7 +13534,6 @@ marantz.com.ve.
 marapet.com.ve.
 marari.com.ve.
 marateca.com.ve.
-maratelier.com.ve.
 maravillosarealidad.com.ve.
 marca.co.ve.
 marcano-nuevaesparta.gob.ve.
@@ -13569,7 +13559,6 @@ margaritarealty.com.ve.
 margaritarents.com.ve.
 margaritavillage.com.ve.
 margaritavillageclub.com.ve.
-mariachiadomicilio.com.ve.
 mariainmaculadacarora.com.ve.
 mariainmaculadacarora.edu.ve.
 marianurse.com.ve.
@@ -17578,6 +17567,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -18556,7 +18546,6 @@ saxomarkets.com.ve.
 sayegh.com.ve.
 saypro.com.ve.
 sazongourmet.com.ve.
-sbas.com.ve.
 sbasociados.com.ve.
 sbotanica.org.ve.
 sbr.gob.ve.
@@ -18679,7 +18668,6 @@ sealej.mil.ve.
 seancaconsultores.com.ve.
 seas.com.ve.
 seat.com.ve.
-seatgeek.com.ve.
 seatosummit.co.ve.
 seatosummit.com.ve.
 seatosummit.info.ve.
@@ -18844,7 +18832,6 @@ sepyaracuy.gob.ve.
 sequoia.com.ve.
 sercanto.com.ve.
 sercatel.com.ve.
-serco.com.ve.
 sercoinfal.com.ve.
 sercom.net.ve.
 serconplafumigaciones.com.ve.
@@ -19065,6 +19052,7 @@ shoppay.co.ve.
 shoppay.com.ve.
 shoppers.com.ve.
 shoppolar.com.ve.
+shoppu.com.ve.
 shopstyle.co.ve.
 shoptime.com.ve.
 showcenter.com.ve.
@@ -19317,7 +19305,6 @@ sitssa.gob.ve.
 sivaimb.com.ve.
 sivasys.com.ve.
 sivca.com.ve.
-siven.com.ve.
 sivencasinger.com.ve.
 sivensa.com.ve.
 six.com.ve.
@@ -21265,7 +21252,6 @@ tstalent.com.ve.
 tti.com.ve.
 tticket.com.ve.
 ttpn.com.ve.
-ttsa.com.ve.
 ttup.com.ve.
 tu-certificacion-de-ingresos.com.ve.
 tu885fm.com.ve.
@@ -21794,7 +21780,6 @@ unitedway.com.ve.
 uniteg.com.ve.
 uniticket.com.ve.
 uniticketdigital.com.ve.
-unitravel.com.ve.
 unitronics.co.ve.
 univadis.com.ve.
 univarsolutions.com.ve.

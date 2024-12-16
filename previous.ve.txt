@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 14Dec2024 04:24 UTC
+# ve domain names extracted from nameservers on 15Dec2024 04:28 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2189,6 +2189,7 @@ bakertilly.com.ve.
 balanzasdeoriente.com.ve.
 baliv.com.ve.
 ballezarte.com.ve.
+balloon-app-ganar-dinero.com.ve.
 balloon-app.com.ve.
 balluff.co.ve.
 balluff.com.ve.
@@ -3468,7 +3469,6 @@ cargillnutricionanimal.com.ve.
 cargocorp.com.ve.
 cargroup.co.ve.
 cari.co.ve.
-caribana.com.ve.
 caribanahotel.com.ve.
 caribbeanatoms.com.ve.
 caribe.com.ve.
@@ -10960,7 +10960,6 @@ improhogar.com.ve.
 impronta.org.ve.
 impsat.com.ve.
 impsertel.com.ve.
-imrnetsystem.com.ve.
 imroraima.com.ve.
 imsbolivar-anz.gob.ve.
 imsca.net.ve.
@@ -11171,7 +11170,6 @@ ingeniosasweb.com.ve.
 ingenix21.com.ve.
 ingensa.com.ve.
 ingeodrone.com.ve.
-ingeomin.com.ve.
 ingeomin.gob.ve.
 ingeomin.gov.ve.
 ingeserv.com.ve.
@@ -13393,7 +13391,6 @@ magicjack.org.ve.
 magicjack.web.ve.
 magicqueen.com.ve.
 magicradiofm.com.ve.
-magictannic.com.ve.
 magin.com.ve.
 magma.com.ve.
 magna.com.ve.
@@ -13873,7 +13870,6 @@ median.web.ve.
 medianet.com.ve.
 medianet.net.ve.
 mediaset.co.ve.
-mediatica.com.ve.
 mediaweb.com.ve.
 medica2025.com.ve.
 medicalux.com.ve.
@@ -15485,7 +15481,6 @@ nyandcompany.co.ve.
 nyandcompany.com.ve.
 nyden.com.ve.
 nynas.com.ve.
-nynemultimedia.com.ve.
 nyquist.com.ve.
 nyx-cosmetics.com.ve.
 oaef.gov.ve.
@@ -15801,6 +15796,7 @@ optivision.com.ve.
 optra.com.ve.
 optrima.com.ve.
 opus.com.ve.
+opvc.org.ve.
 opvenezuela.com.ve.
 opxion.com.ve.
 oraclehealth.com.ve.
@@ -20449,6 +20445,7 @@ tecnologiasparalasalud.com.ve.
 tecnologiautopica.com.ve.
 tecnologicodelavictoria.edu.ve.
 tecnologicosucre.edu.ve.
+tecnologizate.com.ve.
 tecnolux.com.ve.
 tecnoly.com.ve.
 tecnomar.com.ve.
@@ -21717,7 +21714,6 @@ unesur.edu.ve.
 unet.edu.ve.
 unete.com.ve.
 unete.net.ve.
-unete.org.ve.
 uneti.edu.ve.
 uneticket.com.ve.
 unetieduca.edu.ve.
@@ -22252,7 +22248,6 @@ vento.com.ve.
 ventyx.com.ve.
 venucia.com.ve.
 venvanse.com.ve.
-venviajes.com.ve.
 venvias.info.ve.
 venvidrio.com.ve.
 venwas.com.ve.
