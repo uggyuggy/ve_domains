@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 17Dec2024 04:52 UTC
+# ve domain names extracted from nameservers on 18Dec2024 04:53 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -186,6 +186,7 @@ abcmouseenglish.com.ve.
 abcprodein.org.ve.
 abd.com.ve.
 abdcontrol.com.ve.
+abdo77.com.ve.
 abeinsistemas.com.ve.
 abelandlula.co.ve.
 abelandlula.com.ve.
@@ -1825,7 +1826,6 @@ athlos.com.ve.
 athlosfit.com.ve.
 athos.com.ve.
 atimeca.com.ve.
-atkids.com.ve.
 atlantico.net.ve.
 atlantida.com.ve.
 atlantidafinancialgroup.com.ve.
@@ -3010,6 +3010,7 @@ brando.com.ve.
 brandsight.co.ve.
 brandsight.com.ve.
 brandsimex.com.ve.
+brandvely.com.ve.
 bravecommunity.com.ve.
 bravosnorkel.co.ve.
 bravosports.net.ve.
@@ -5858,6 +5859,7 @@ curagua.com.ve.
 curaprox.com.ve.
 curex.net.ve.
 curiosikid.com.ve.
+cursodemontacargas.com.ve.
 cursoscleveland.edu.ve.
 cursosgerenciales.com.ve.
 cursosmlv.com.ve.
@@ -5892,6 +5894,7 @@ cvgtelecom.gob.ve.
 cvi.edu.ve.
 cvir.com.ve.
 cvm.com.ve.
+cvn.com.ve.
 cvrd.com.ve.
 cvrtours.com.ve.
 cwt.com.ve.
@@ -6408,6 +6411,7 @@ diccionario.com.ve.
 dicer.com.ve.
 dicofan.mil.ve.
 dicom.gob.ve.
+didacticos.com.ve.
 didalcatrading.com.ve.
 didaskalia.com.ve.
 didijin.com.ve.
@@ -9998,6 +10002,7 @@ habitat.gov.ve.
 hablabla.com.ve.
 hablanlospueblos.com.ve.
 hablemosdeambientebolivar.gob.ve.
+hablemosdebeisbol.com.ve.
 haciendalaceiba.com.ve.
 haciendalaconcepcion.com.ve.
 haciendasantateresa.com.ve.
@@ -10040,7 +10045,6 @@ hankypanky.com.ve.
 hansaplast.co.ve.
 hansaplast.com.ve.
 hansgrohe.co.ve.
-hansgrohe.com.ve.
 hapag-lloyd.com.ve.
 hapaglloyd.com.ve.
 haraslaorlyana.com.ve.
@@ -14530,6 +14534,7 @@ mnf.com.ve.
 mns.com.ve.
 mnve.mil.ve.
 mo-lecula.com.ve.
+moacastell.com.ve.
 mobic.com.ve.
 mobil.co.ve.
 mobil.com.ve.
@@ -14853,7 +14858,6 @@ multimport.com.ve.
 multinet.com.ve.
 multiphone.com.ve.
 multiphone.net.ve.
-multiplastic2020rj.com.ve.
 multiplicas.com.ve.
 multiserviciosdag.com.ve.
 multiserviciosti.com.ve.
@@ -21313,6 +21317,7 @@ tuecology.com.ve.
 tuedicto.com.ve.
 tues.gob.ve.
 tuespaciodigital.com.ve.
+tuespaciolibre.com.ve.
 tuespirometriaencaracas.com.ve.
 tugastro.com.ve.
 tugestor.com.ve.
@@ -21958,6 +21963,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
