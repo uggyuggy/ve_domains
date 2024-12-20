@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 18Dec2024 04:53 UTC
+# ve domain names extracted from nameservers on 19Dec2024 04:51 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -972,6 +972,7 @@ alcott.co.ve.
 aldata.com.ve.
 aldea.com.ve.
 aldeasinfantiles.org.ve.
+aldebaran.net.ve.
 aldo.com.ve.
 aldoca.com.ve.
 aldor.com.ve.
@@ -1248,7 +1249,6 @@ amexselects.com.ve.
 amezquimart.com.ve.
 amgca.com.ve.
 amhosting.com.ve.
-ami.com.ve.
 ami.info.ve.
 amigo.com.ve.
 amigoclaro.com.ve.
@@ -2688,7 +2688,6 @@ bioparral.com.ve.
 biopharma.com.ve.
 bioplaga.com.ve.
 biopsicosalud.com.ve.
-biore.com.ve.
 biorenacer.com.ve.
 biotech.com.ve.
 biotecnologiasfbc.com.ve.
@@ -3300,6 +3299,7 @@ cambriainns.com.ve.
 cambriasuite.com.ve.
 cambriasuites.com.ve.
 cambridge.com.ve.
+camcam.com.ve.
 came.co.ve.
 camera.co.ve.
 camera.com.ve.
@@ -3743,6 +3743,7 @@ cdiscount.com.ve.
 cdjuanpabloii.edu.ve.
 cdm-net.com.ve.
 cdp.com.ve.
+cdrmerida.net.ve.
 cds.edu.ve.
 cdt.com.ve.
 cdw.com.ve.
@@ -5752,6 +5753,7 @@ crossfit.co.ve.
 croven.com.ve.
 crowe.com.ve.
 crs.net.ve.
+crsolutions.com.ve.
 crtecnologicas.com.ve.
 crucero.co.ve.
 crucero.com.ve.
@@ -5821,6 +5823,7 @@ cubiko.com.ve.
 cubitt.com.ve.
 cuc.edu.ve.
 cucinasimpatica.com.ve.
+cudy.com.ve.
 cuecmc.edu.ve.
 cuentaverificada.com.ve.
 cuento.com.ve.
@@ -5914,6 +5917,7 @@ cybersys.com.ve.
 cybertech.com.ve.
 cyccoatings.com.ve.
 cycproducciones.com.ve.
+cygstudio.com.ve.
 cylex.co.ve.
 cylex.com.ve.
 cysmos.com.ve.
@@ -7934,6 +7938,7 @@ factorycosmetics.com.ve.
 factronics.com.ve.
 factum.com.ve.
 facturantes.com.ve.
+fademcahogar.com.ve.
 faema.com.ve.
 fag.com.ve.
 fage.com.ve.
@@ -8767,7 +8772,6 @@ fullcargo.com.ve.
 fullcarro.com.ve.
 fullcolor.com.ve.
 fulldata.com.ve.
-fuller.com.ve.
 fullgestion.com.ve.
 fullsail.co.ve.
 fullsailuniversity.co.ve.
@@ -9749,6 +9753,7 @@ grupocretto.com.ve.
 grupodagianni.com.ve.
 grupodaka.com.ve.
 grupodamca.com.ve.
+grupodavila.com.ve.
 grupodavinci.com.ve.
 grupodeli.com.ve.
 grupodelsur.com.ve.
@@ -10778,6 +10783,7 @@ idebol.gob.ve.
 idegeoven.gob.ve.
 idena.gob.ve.
 idenna.com.ve.
+idenna.gob.ve.
 ideo.com.ve.
 ideprocop.com.ve.
 idermi.gob.ve.
@@ -10959,6 +10965,7 @@ improhogar.com.ve.
 impronta.org.ve.
 impsat.com.ve.
 impsertel.com.ve.
+imrnetsystem.com.ve.
 imroraima.com.ve.
 imsbolivar-anz.gob.ve.
 imsca.net.ve.
@@ -11140,6 +11147,7 @@ infor.co.ve.
 infor.com.ve.
 inforca.com.ve.
 inforcal.edu.ve.
+inforeplicaplus.com.ve.
 informationplanet.com.ve.
 informedico.com.ve.
 inforproin.com.ve.
@@ -11966,6 +11974,7 @@ jetes.com.ve.
 jetix.com.ve.
 jetourvenezuela.com.ve.
 jf2soluciones.com.ve.
+jfl.com.ve.
 jflvenezuela.com.ve.
 jfpz.com.ve.
 jfsports.com.ve.
@@ -13500,6 +13509,7 @@ manuelbruzual-anzoategui.gob.ve.
 manuelfernandez.com.ve.
 manuelmonge-yaracuy.gob.ve.
 manzanares.com.ve.
+manzanoarte.com.ve.
 mapei.com.ve.
 mapfre-asistencia.com.ve.
 mapfre-assistance.com.ve.
@@ -14291,7 +14301,6 @@ mij.gob.ve.
 mijp.gob.ve.
 mikebloomberg.com.ve.
 mikia.com.ve.
-mikrotik.com.ve.
 mikroven.com.ve.
 mil.ve.
 mileroticos.co.ve.
@@ -14435,7 +14444,6 @@ mirka.co.ve.
 mirotecnicas.com.ve.
 mirringo.com.ve.
 misalud.com.ve.
-misconsultores.com.ve.
 mision-florentino.gov.ve.
 mision-ny.gov.ve.
 misionalmamater.gob.ve.
@@ -15661,6 +15669,7 @@ olx.co.ve.
 olx.com.ve.
 olxautos.co.ve.
 olxautos.com.ve.
+omarfpg.com.ve.
 omcorp.com.ve.
 omd.com.ve.
 omega.com.ve.
@@ -16542,7 +16551,6 @@ pimco.com.ve.
 pimentelrauseo.com.ve.
 pimvca.com.ve.
 pina.com.ve.
-pinbet.com.ve.
 pine.co.ve.
 pineco.com.ve.
 pinedacardozo.com.ve.
@@ -16975,6 +16983,7 @@ primegroup.com.ve.
 primehome.com.ve.
 primer.com.ve.
 primeradama.gov.ve.
+primerojusticia.org.ve.
 primetravel.com.ve.
 primevideo.co.ve.
 primevideo.com.ve.
@@ -19154,7 +19163,6 @@ sigesp.com.ve.
 sigestel.gob.ve.
 sigib.org.ve.
 sigis.com.ve.
-siglasweb.com.ve.
 sigma.com.ve.
 sigmaaps.com.ve.
 sigmadental.net.ve.
@@ -19572,7 +19580,6 @@ solucionesantco.com.ve.
 solucionesbinarias.com.ve.
 solucionescontables.com.ve.
 solucionescontables.net.ve.
-solucionesdlety.com.ve.
 solucionesempresariales.com.ve.
 solucionesfabnet.com.ve.
 solucionesfx.com.ve.
@@ -20225,7 +20232,6 @@ syfy.co.ve.
 syfy.com.ve.
 syfyuniversal.com.ve.
 sygreca.com.ve.
-syh.com.ve.
 symaca.com.ve.
 symantec.co.ve.
 symantec.com.ve.
@@ -21192,7 +21198,6 @@ tripactions.com.ve.
 tripadviser.co.ve.
 tripadviser.com.ve.
 tripadvisor.co.ve.
-tripadvisor.com.ve.
 tripadvisorrentals.co.ve.
 triplec.com.ve.
 triplecaliente.com.ve.
