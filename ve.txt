@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Dec2024 04:47 UTC
+# ve domain names extracted from nameservers on 21Dec2024 04:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -436,6 +436,7 @@ adriangarcia.com.ve.
 adrianjosevelasquezfigueroa.co.ve.
 adriansoft.com.ve.
 adrocelica.com.ve.
+ads-unionradio.com.ve.
 adsense.co.ve.
 adsense.com.ve.
 adslsystem.com.ve.
@@ -1824,6 +1825,7 @@ athlos.com.ve.
 athlosfit.com.ve.
 athos.com.ve.
 atimeca.com.ve.
+atkids.com.ve.
 atlantico.net.ve.
 atlantida.com.ve.
 atlantidafinancialgroup.com.ve.
@@ -2141,6 +2143,7 @@ babolat.com.ve.
 babyeinstein.com.ve.
 babygap.co.ve.
 babyliss.com.ve.
+babylisspro.com.ve.
 babysec.com.ve.
 babyshower.com.ve.
 babyshowerpampers.com.ve.
@@ -2180,6 +2183,7 @@ bairesdev.co.ve.
 bairesdev.com.ve.
 bajocosto.com.ve.
 bakemark.com.ve.
+bakermckenzie.com.ve.
 bakerssecret.com.ve.
 bakertilly.com.ve.
 balanzasdeoriente.com.ve.
@@ -4034,6 +4038,7 @@ channeladvisor.com.ve.
 chanyu.com.ve.
 charallave.gov.ve.
 charcuteriatovar.com.ve.
+charlasmotivacionales.com.ve.
 charlesandkeith.com.ve.
 charleskeith.com.ve.
 charly.co.ve.
@@ -5449,7 +5454,6 @@ coranztur.gob.ve.
 corasa.gob.ve.
 coravin.com.ve.
 corazondeadonay.org.ve.
-corazondemaria.com.ve.
 corazondemaria.edu.ve.
 cordillera.com.ve.
 cordilleraproducts.com.ve.
@@ -6256,7 +6260,6 @@ dentons.co.ve.
 dentons.com.ve.
 deoliveira.com.ve.
 depa.com.ve.
-depanel.com.ve.
 depingapp.com.ve.
 deportesdigital.com.ve.
 deportesmiranda.gob.ve.
@@ -6738,6 +6741,7 @@ dorta.net.ve.
 dortaappccs.net.ve.
 dosave.com.ve.
 dosco.com.ve.
+dosdoce.com.ve.
 dose.gob.ve.
 dosel.com.ve.
 dostorres.com.ve.
@@ -7539,7 +7543,6 @@ esab.com.ve.
 esainca.com.ve.
 esal-ca.com.ve.
 escala.com.ve.
-escaladeportiva.com.ve.
 escampadero.com.ve.
 escan.co.ve.
 escanav.co.ve.
@@ -7641,7 +7644,6 @@ estafa.co.ve.
 estafa.com.ve.
 estafeta.com.ve.
 estamosenlinea.com.ve.
-estamosenlinea.org.ve.
 estampados.com.ve.
 estancialastapias.com.ve.
 estanteriaselsol.com.ve.
@@ -9602,7 +9604,6 @@ gov.ve.
 gova.com.ve.
 goweb.com.ve.
 gowireline.com.ve.
-gp.com.ve.
 gpc.com.ve.
 gplus.com.ve.
 gplus.net.ve.
@@ -13196,6 +13197,7 @@ loteriadecojedes.com.ve.
 loteriadeguayana.com.ve.
 loteriadelara.com.ve.
 loteriadeltachira.com.ve.
+loteriadelzulia.com.ve.
 loteriadelzulia.gob.ve.
 loteriademargarita.gob.ve.
 loto.com.ve.
@@ -13438,14 +13440,12 @@ makepanels.com.ve.
 makerspace.com.ve.
 maketicket.com.ve.
 makevents.com.ve.
-makia.com.ve.
 makinas.com.ve.
 makingmorehealth.com.ve.
 makint.com.ve.
 makler.com.ve.
 makos.com.ve.
 makro.com.ve.
-makxcomputer.com.ve.
 malariologia.gov.ve.
 malave.com.ve.
 maletti.com.ve.
@@ -13852,7 +13852,6 @@ mdbiolab.com.ve.
 mddlaconnect.com.ve.
 mdlz.com.ve.
 mdm.com.ve.
-mdnplus.com.ve.
 mdp.com.ve.
 mdqualityoffice.com.ve.
 mdrive.co.ve.
@@ -14539,6 +14538,7 @@ mmcabledata.com.ve.
 mmcomputer.com.ve.
 mmdistribuidora.com.ve.
 mmf.com.ve.
+mmh.com.ve.
 mmica.com.ve.
 mmo.net.ve.
 mmservice.com.ve.
@@ -14644,7 +14644,6 @@ montes-sucre.gob.ve.
 montiven.com.ve.
 montserratina.com.ve.
 monumental.com.ve.
-monumentalfm.com.ve.
 mood.com.ve.
 moodys.com.ve.
 moodysrating.com.ve.
@@ -14919,7 +14918,6 @@ municipiocarvajal.gov.ve.
 municipioescuque.gov.ve.
 municipiomarcano.org.ve.
 municipiopampanito.gov.ve.
-municipiosinteligentes.com.ve.
 municipiotrujillo.gov.ve.
 municipiovalera.gov.ve.
 munis.com.ve.
@@ -15377,7 +15375,6 @@ noticiasculturarte.com.ve.
 noticiasdeportivas.com.ve.
 noticiasdiarias.com.ve.
 noticiasmormonas.org.ve.
-notidiario.net.ve.
 notiexpres24.com.ve.
 notificaciones.com.ve.
 notificaciones.net.ve.
@@ -17070,7 +17067,6 @@ procuraduriamerida.gob.ve.
 procuraduriaportuguesa.gob.ve.
 procuraduriasucre.gob.ve.
 procurebne.gob.ve.
-prodalam.com.ve.
 prodecor.com.ve.
 prodigy.com.ve.
 prodimat.org.ve.
@@ -17302,7 +17298,6 @@ pulsar.com.ve.
 pulso.com.ve.
 pulzo.com.ve.
 puma.com.ve.
-pumpervac.com.ve.
 pumpstoponline.com.ve.
 punceres-monagas.gob.ve.
 puntacuchillo.com.ve.
@@ -17592,7 +17587,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -17718,7 +17712,6 @@ refrigases.com.ve.
 refrigeracionnacional.com.ve.
 refrigerantes.com.ve.
 refrilux.com.ve.
-refrimaq.com.ve.
 refrimarket.net.ve.
 refrisa.com.ve.
 refugiodepaz.com.ve.
@@ -19199,6 +19192,7 @@ silverlight.com.ve.
 silvertrading.com.ve.
 silvestripharma.com.ve.
 sim.com.ve.
+sim.org.ve.
 sim.web.ve.
 simaca.com.ve.
 simark.com.ve.
@@ -19825,6 +19819,7 @@ ssoven.com.ve.
 sspca.com.ve.
 sstecnologia.com.ve.
 ssv.com.ve.
+ssvpvenezuela.com.ve.
 ssyp.com.ve.
 st-hugo.com.ve.
 staines.gov.ve.
@@ -20302,7 +20297,6 @@ talentotricolor.com.ve.
 talentskey.com.ve.
 talentus.com.ve.
 tallerdinomotors.com.ve.
-tallereseuropa.com.ve.
 talleresrootes.com.ve.
 talpes.com.ve.
 taltz.com.ve.
@@ -22623,7 +22617,6 @@ vortioson.co.ve.
 vortioson.com.ve.
 vortioxetine.co.ve.
 vossabeis.com.ve.
-vota5si.org.ve.
 voxanalyzer.com.ve.
 voxclever.com.ve.
 voxtel.com.ve.
@@ -23273,7 +23266,6 @@ zucaritas.com.ve.
 zucchero.com.ve.
 zucom.net.ve.
 zukbox.com.ve.
-zuled.com.ve.
 zulia.gob.ve.
 zuliaagropecuaria.gob.ve.
 zuliafc.com.ve.
