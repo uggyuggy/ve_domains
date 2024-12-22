@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Dec2024 04:23 UTC
+# ve domain names extracted from nameservers on 22Dec2024 04:14 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -585,7 +585,6 @@ agromatic.com.ve.
 agromoc.com.ve.
 agromolinos.com.ve.
 agronet.com.ve.
-agronetworth.com.ve.
 agroo.com.ve.
 agroo.net.ve.
 agropatria.com.ve.
@@ -1808,7 +1807,6 @@ atabapo-amazonas.gob.ve.
 atanordeseguros.com.ve.
 ataro.com.ve.
 atarraya.com.ve.
-atc.com.ve.
 atc.net.ve.
 atc.org.ve.
 ate.gob.ve.
@@ -2588,7 +2586,6 @@ bicentenarioindependencia.gob.ve.
 bicentenarionuestraamerica.gob.ve.
 bicentenarionuestramerica.gob.ve.
 bicentenariovenezuela.gob.ve.
-bicigovzla.com.ve.
 bicimotosaltamiranda.com.ve.
 bid.com.ve.
 bienaldelsur.gob.ve.
@@ -6625,7 +6622,6 @@ distribuidoradisante.com.ve.
 distribuidoradm.com.ve.
 distribuidoradtodito.com.ve.
 distribuidorahidvenezuela.com.ve.
-distribuidoramauroh.com.ve.
 distribuidoramurat.com.ve.
 distribuidorapastagranoro.com.ve.
 distribuidorapetz.com.ve.
@@ -7758,7 +7754,6 @@ evelynvisnapuu.com.ve.
 eventas.com.ve.
 eventbrite.com.ve.
 eventim.com.ve.
-eventosdatanalisis.com.ve.
 eventoselabuelo.com.ve.
 eventosjuridicos.com.ve.
 eventosvipmch.com.ve.
@@ -9530,7 +9525,6 @@ goldin.com.ve.
 goldinauctions.co.ve.
 goldinauctions.com.ve.
 goldmansachspactual.com.ve.
-goldoil2000.com.ve.
 goldsgym.com.ve.
 golfdigest.co.ve.
 golfdigest.com.ve.
@@ -10089,7 +10083,6 @@ hartford.com.ve.
 hartung.com.ve.
 hashtagproducciones.com.ve.
 hatillo.com.ve.
-hatillomarket.com.ve.
 hats.com.ve.
 hatzalah.com.ve.
 hav.com.ve.
@@ -12090,7 +12083,6 @@ jovenesnestle.com.ve.
 joyeriainternacional.com.ve.
 jozynter.com.ve.
 jps.com.ve.
-jpseguridad.com.ve.
 jravenezuela.com.ve.
 jrnservice.com.ve.
 jsafra.co.ve.
@@ -12570,7 +12562,6 @@ lafilmschool.com.ve.
 lafilmschool.net.ve.
 laflorida.com.ve.
 lafm.com.ve.
-lagentedelmarmol.com.ve.
 lagevrio.com.ve.
 lagilda.com.ve.
 lagiralda.com.ve.
@@ -14142,7 +14133,6 @@ metalagro.com.ve.
 metalcar.com.ve.
 metalelectric.com.ve.
 metales.com.ve.
-metalesguriguri.com.ve.
 metaleshk.com.ve.
 metalex.com.ve.
 metalger.com.ve.
@@ -14798,6 +14788,7 @@ mrbotas.com.ve.
 mrd.gob.ve.
 mre.gob.ve.
 mre.gov.ve.
+mrm.com.ve.
 mryasociados.com.ve.
 ms.gob.ve.
 mscconsultores.net.ve.
@@ -15234,7 +15225,6 @@ newyorkaccessories.com.ve.
 newyorkandcompany.co.ve.
 newyorkandcompany.com.ve.
 newyorknewyork.com.ve.
-nexans.com.ve.
 nexcare.co.ve.
 nexcare.com.ve.
 nexcom.com.ve.
@@ -17223,7 +17213,6 @@ proyectoresponsabilidad.com.ve.
 proyectos.com.ve.
 proyectos.nic.ve.
 proyectosbrain.com.ve.
-proyectosjym.com.ve.
 proyectosromaca.com.ve.
 proyectostecnicos.com.ve.
 proyectowebsistemas.com.ve.
@@ -17918,7 +17907,6 @@ rexroth.co.ve.
 rexroth.com.ve.
 reycore.com.ve.
 reyfeca.com.ve.
-reymarconstrucciones.com.ve.
 reymontsport.com.ve.
 reymoreno.com.ve.
 reyrep.com.ve.
@@ -18373,6 +18361,7 @@ saludguarico.gob.ve.
 saludigital.gov.ve.
 saludlaguaira.com.ve.
 saludportuguesa.gob.ve.
+saludsanbernardino.com.ve.
 saludvisualmargarita.com.ve.
 saludvital.com.ve.
 saludvitale.com.ve.
@@ -19706,7 +19695,6 @@ soveso.org.ve.
 sovetorax.org.ve.
 soydanzamargarita.com.ve.
 soynexxus.com.ve.
-soytuguia.com.ve.
 soyvivery.com.ve.
 sp.com.ve.
 sp2011.com.ve.
@@ -20012,6 +20000,7 @@ sudeseg.gov.ve.
 sudetec.com.ve.
 sudipe.com.ve.
 suelatex.com.ve.
+suelodeleste.com.ve.
 suelolarense.com.ve.
 suenaavenezuela.gob.ve.
 suenacaracas.org.ve.
@@ -20265,7 +20254,6 @@ t3.web.ve.
 t3chsistemas.com.ve.
 t931fm.com.ve.
 tabaccostore.com.ve.
-tabarato.com.ve.
 tabibak.com.ve.
 tabica.com.ve.
 tac.edu.ve.
