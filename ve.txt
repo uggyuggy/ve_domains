@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 23Dec2024 04:17 UTC
+# ve domain names extracted from nameservers on 24Dec2024 04:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1436,6 +1436,7 @@ apartamentosvacacionalesmargarita.com.ve.
 apav.com.ve.
 apcc.com.ve.
 apem.org.ve.
+aphservices.org.ve.
 api.com.ve.
 api.net.ve.
 apis.com.ve.
@@ -4919,7 +4920,6 @@ colombianosenvenezuela.org.ve.
 colon-zulia.gob.ve.
 coloplas.com.ve.
 colorados.com.ve.
-colorcloset.com.ve.
 colorescience.com.ve.
 colorfrut.com.ve.
 coloridovenezuela.com.ve.
@@ -12036,6 +12036,7 @@ jockey.co.ve.
 joco.com.ve.
 joelzerpa.emprende.ve.
 johancruyffinstitute.com.ve.
+johnflores.com.ve.
 johnniewalker.com.ve.
 johnniewalkerbluelabel.com.ve.
 johnniewalkerredmix.com.ve.
@@ -12533,6 +12534,7 @@ lacteosdelalba.gob.ve.
 lacteoslosandes.gob.ve.
 lacteosoptimus.com.ve.
 lacteosrd.com.ve.
+lactibonbybiolube.com.ve.
 lactic.gov.ve.
 lactic2000.gov.ve.
 lactogen.com.ve.
@@ -13525,7 +13527,6 @@ maquinariastesla.com.ve.
 maquinazul.com.ve.
 maquiven.com.ve.
 mara-zulia.gob.ve.
-mara.com.ve.
 marabu.com.ve.
 maracaibo-zulia.gov.ve.
 maracaibo.com.ve.
@@ -13725,7 +13726,6 @@ matza.com.ve.
 maureletprom.co.ve.
 mauroa-falcon.gov.ve.
 mavala.com.ve.
-mavanclad.com.ve.
 mavenclad.com.ve.
 mavica.com.ve.
 mavulca.com.ve.
@@ -15121,7 +15121,6 @@ nerianna.com.ve.
 nescafe.com.ve.
 nescape.com.ve.
 neskytapia.com.ve.
-nespresso-pro.co.ve.
 nespresso.co.ve.
 nespresso.com.ve.
 nespressopro.co.ve.
@@ -15334,6 +15333,7 @@ noreste.com.ve.
 norkaluque.co.ve.
 norkut.com.ve.
 normansalas.com.ve.
+norte.com.ve.
 norteconecta.net.ve.
 northernlakerealestate.com.ve.
 northface.com.ve.
@@ -15505,6 +15505,7 @@ obando.com.ve.
 obelisco.co.ve.
 obelisco.com.ve.
 obelisco.net.ve.
+obelus.com.ve.
 oberlo.com.ve.
 obispo.com.ve.
 obisporamos-merida.gov.ve.
@@ -16600,7 +16601,6 @@ plandeviaje.com.ve.
 planeta.co.ve.
 planetadelibros.co.ve.
 planetadelibros.com.ve.
-planetamarketing.com.ve.
 planetaradio.com.ve.
 planetasports.com.ve.
 planetavenezuela.com.ve.
@@ -16883,6 +16883,7 @@ ppc.com.ve.
 ppcgroup.com.ve.
 ppgdevenezuela.com.ve.
 ppgvenezuela.com.ve.
+ppjcontrol.emprende.ve.
 pppgroup.com.ve.
 pps.com.ve.
 practico.com.ve.
@@ -19300,7 +19301,6 @@ sitiosimple.com.ve.
 sitioweb.net.ve.
 sito.com.ve.
 sitssa.gob.ve.
-sivaimb.com.ve.
 sivasys.com.ve.
 sivca.com.ve.
 sivencasinger.com.ve.
@@ -20916,6 +20916,9 @@ tooncast.net.ve.
 toondisney.com.ve.
 toonix.com.ve.
 top-ten.com.ve.
+topcom.com.ve.
+topcommunications.com.ve.
+topcomunications.com.ve.
 topcupones.com.ve.
 topdental.com.ve.
 topdesigners.com.ve.
@@ -21313,7 +21316,6 @@ tugps.com.ve.
 tugraduacion.com.ve.
 tuguia.com.ve.
 tuhigado.com.ve.
-tuhome24.com.ve.
 tui.co.ve.
 tui.com.ve.
 tuimagencreativa.com.ve.

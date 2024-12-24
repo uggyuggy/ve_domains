@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Dec2024 04:14 UTC
+# ve domain names extracted from nameservers on 23Dec2024 04:17 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3107,7 +3107,6 @@ buildabear.com.ve.
 buildabearworkshop.com.ve.
 buitoni.com.ve.
 bulgari.com.ve.
-bull.com.ve.
 bullpadel.com.ve.
 bulls.com.ve.
 bultel.com.ve.
@@ -3390,6 +3389,7 @@ capco.com.ve.
 capeapep.com.ve.
 capem.com.ve.
 capi.com.ve.
+capillasanantonio.com.ve.
 capitalgroup.co.ve.
 capitalgroup.com.ve.
 capitalinternational.com.ve.
@@ -4483,7 +4483,6 @@ cmaaltamira.edu.ve.
 cmaat.gob.ve.
 cmaconsultores.com.ve.
 cmao.gob.ve.
-cmasistencia.com.ve.
 cmb.gob.ve.
 cmblcaracas.gob.ve.
 cmbnaguanagua.gob.ve.
@@ -4707,7 +4706,6 @@ colegiodanielista.com.ve.
 colegiodebioanalistas.com.ve.
 colegiodecroly.edu.ve.
 colegiodeenfermeriamerida.com.ve.
-colegiodelavemariaelparaiso.com.ve.
 colegiodivinapastorabolivar.com.ve.
 colegiodonbosco.edu.ve.
 colegiodonboscovalencia.com.ve.
@@ -5034,7 +5032,6 @@ compraventa.com.ve.
 compreahora.com.ve.
 comprotic.com.ve.
 compuamerica.com.ve.
-compufacil.com.ve.
 compugatecenter.com.ve.
 compumarketfh.com.ve.
 compunetwork.com.ve.
@@ -6956,7 +6953,6 @@ ebooking.com.ve.
 ebus.com.ve.
 ebv.org.ve.
 ec-consulting.com.ve.
-eccochemical.com.ve.
 eclass.com.ve.
 ecoazul.org.ve.
 ecobike.com.ve.
@@ -7787,7 +7783,6 @@ evisagov.com.ve.
 evisex.com.ve.
 evisiongps.com.ve.
 evisos.com.ve.
-evoclin.co.ve.
 evoice.co.ve.
 evoice.com.ve.
 evolucionconsciente.org.ve.
@@ -7889,7 +7884,6 @@ expresaloquesientes.com.ve.
 express.com.ve.
 expressvpn.co.ve.
 expvenezuela.co.ve.
-extina.co.ve.
 extractoreseolicos.com.ve.
 extravirgen.com.ve.
 extreme-sports.com.ve.
@@ -7963,7 +7957,6 @@ falupa.com.ve.
 famac.org.ve.
 famadeamerica.com.ve.
 famawatch.com.ve.
-famca.com.ve.
 famedicalglobal.com.ve.
 fameex.co.ve.
 fameex.com.ve.
@@ -15657,8 +15650,6 @@ oliveira.com.ve.
 oliverblanco.com.ve.
 olodaterol.com.ve.
 oltpvoice.com.ve.
-olux-e.co.ve.
-olux.co.ve.
 olx.co.ve.
 olx.com.ve.
 olxautos.co.ve.
@@ -19219,6 +19210,7 @@ simplyhired.com.ve.
 simulcastplus.com.ve.
 sinadic.gov.ve.
 sinamaica.gob.ve.
+sinbom.org.ve.
 sincables.com.ve.
 sinco.gob.ve.
 sinco.net.ve.
@@ -19233,7 +19225,6 @@ sinergia.org.ve.
 sinergiaccp.com.ve.
 sinergios.com.ve.
 sinest.gob.ve.
-sinfronteras.co.ve.
 singel.com.ve.
 singoteras.com.ve.
 singulair.com.ve.
@@ -20919,7 +20910,6 @@ toofaced.co.ve.
 toofaced.com.ve.
 toofacedcosmetics.co.ve.
 toofacedcosmetics.com.ve.
-toolsgroup.com.ve.
 toonami.com.ve.
 tooncast.com.ve.
 tooncast.net.ve.
@@ -22267,7 +22257,6 @@ veramed.com.ve.
 verautos.com.ve.
 verawangbride.com.ve.
 verd.com.ve.
-verdeso.co.ve.
 verifone.com.ve.
 verisign.co.ve.
 verisign.com.ve.
