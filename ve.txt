@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 24Dec2024 04:24 UTC
+# ve domain names extracted from nameservers on 25Dec2024 04:20 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -12615,7 +12615,6 @@ lanonlineca.com.ve.
 lanprosystems.com.ve.
 lanprosystems.net.ve.
 lansarcaracas.com.ve.
-lansionbio.com.ve.
 lanta.com.ve.
 lanxess.com.ve.
 laoratorioselmor.web.ve.
@@ -21310,6 +21309,7 @@ tues.gob.ve.
 tuespaciodigital.com.ve.
 tuespaciolibre.com.ve.
 tuespirometriaencaracas.com.ve.
+tugarantiatva.com.ve.
 tugastro.com.ve.
 tugestor.com.ve.
 tugps.com.ve.
@@ -21953,6 +21953,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
