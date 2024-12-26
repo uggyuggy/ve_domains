@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 25Dec2024 04:20 UTC
+# ve domain names extracted from nameservers on 26Dec2024 04:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -7095,6 +7095,7 @@ elaprase.com.ve.
 elaragueno.com.ve.
 elbingodereny.emprende.ve.
 elbolivariano.com.ve.
+elbombillo92-1.com.ve.
 elca.com.ve.
 elcallao-bolivar.gob.ve.
 elcambur.com.ve.
@@ -11639,7 +11640,6 @@ iribarren-lara.gob.ve.
 irobot.co.ve.
 irobot.com.ve.
 ironclub.com.ve.
-ironcompany.com.ve.
 ironflex.com.ve.
 ironmountain.co.ve.
 ironmountain.com.ve.
@@ -12680,7 +12680,6 @@ lasmiditan.com.ve.
 lasnonnitas.com.ve.
 lasnoticiasdehoy.com.ve.
 lasnovedades.com.ve.
-lasoberana.com.ve.
 lasociete.com.ve.
 lasolasresort.com.ve.
 lastfm.co.ve.
@@ -13290,7 +13289,6 @@ luv.edu.ve.
 luve.com.ve.
 luvebras.com.ve.
 luxig.co.ve.
-luxiq.co.ve.
 luxor.com.ve.
 luxuryretreats.co.ve.
 luxuryretreats.com.ve.
@@ -13647,8 +13645,6 @@ mas-sport.com.ve.
 masa.com.ve.
 masautoselvinedo.com.ve.
 masaya.org.ve.
-masciencia.com.ve.
-masciencia.net.ve.
 mascota.com.ve.
 mascotas.co.ve.
 mascotas.com.ve.
@@ -16199,16 +16195,7 @@ patrimoniometropolitano.gob.ve.
 patrullajeinteligente.gob.ve.
 patza.com.ve.
 paulgillman.com.ve.
-paulmiguelortegagonzalez.co.ve.
-paulmiguelortegagonzalez.com.ve.
-paulmiguelortegagonzalez.info.ve.
-paulmiguelortegagonzalez.net.ve.
-paulmiguelortegagonzalez.org.ve.
-paulmiguelortegagonzalez.web.ve.
-paulortegagonzalez.info.ve.
 paulortegagonzalez.net.ve.
-paulortegagonzalez.org.ve.
-paulortegagonzalez.web.ve.
 pavco.com.ve.
 pave.com.ve.
 pave.org.ve.
@@ -20353,6 +20340,7 @@ teamviajes.com.ve.
 teatrex.com.ve.
 teatrobaralt.org.ve.
 teatromunicipaldevalencia.gob.ve.
+teatroribas.com.ve.
 teatros.com.ve.
 teatroteresacarreno.gob.ve.
 tebca.com.ve.
@@ -21675,6 +21663,7 @@ underarmor.co.ve.
 underarmor.com.ve.
 underarmour.co.ve.
 underberg.com.ve.
+underccs.com.ve.
 underwood.com.ve.
 une.edu.ve.
 unearte.edu.ve.
@@ -21953,7 +21942,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
