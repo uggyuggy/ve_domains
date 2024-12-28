@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Dec2024 04:24 UTC
+# ve domain names extracted from nameservers on 27Dec2024 04:14 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1620,7 +1620,6 @@ armichelena.com.ve.
 armorgroup.com.ve.
 armura.com.ve.
 arneg.com.ve.
-aroha.com.ve.
 arokim.com.ve.
 aromaven.com.ve.
 aronin.com.ve.
@@ -2276,6 +2275,7 @@ banyantree.com.ve.
 baraki.com.ve.
 baralt-zulia.gov.ve.
 barana.com.ve.
+baratta.com.ve.
 baratza.co.ve.
 baratza.com.ve.
 barberology.com.ve.
@@ -6458,6 +6458,7 @@ digital953fmguarenas-guatire.com.ve.
 digitalarm.com.ve.
 digitalcaracas.com.ve.
 digitalcredit.com.ve.
+digitalesuruguay.com.ve.
 digitalfot.com.ve.
 digitalgo.com.ve.
 digitalprint.com.ve.
@@ -6721,6 +6722,7 @@ dondominio.com.ve.
 donefectivo.com.ve.
 doneloy.com.ve.
 donnafugata.com.ve.
+donpizza.com.ve.
 donshu.net.ve.
 donvic.com.ve.
 donweb.com.ve.
@@ -6990,6 +6992,7 @@ ecrs.com.ve.
 ecsa.com.ve.
 ecsistemas.com.ve.
 ect.com.ve.
+ecuabet.com.ve.
 ecv.com.ve.
 ecysca.com.ve.
 edaca.com.ve.
@@ -7934,6 +7937,7 @@ factoriadigital.com.ve.
 factorycosmetics.com.ve.
 factronics.com.ve.
 factum.com.ve.
+facturafacil.com.ve.
 facturantes.com.ve.
 fademcahogar.com.ve.
 faema.com.ve.
@@ -9592,6 +9596,7 @@ gov.ve.
 gova.com.ve.
 goweb.com.ve.
 gowireline.com.ve.
+gp.com.ve.
 gpc.com.ve.
 gplus.com.ve.
 gplus.net.ve.
@@ -11383,6 +11388,7 @@ intel.co.ve.
 intel.com.ve.
 intelcom.com.ve.
 inteldata.com.ve.
+intelectricracc.com.ve.
 intelhost.com.ve.
 inteligenciadelser.com.ve.
 inteligencianaval.gob.ve.
@@ -12372,6 +12378,7 @@ kontrol.com.ve.
 koodek.com.ve.
 kores.com.ve.
 kormacol.com.ve.
+kornetti.com.ve.
 kornferry.co.ve.
 kornferry.com.ve.
 kornferry.info.ve.
@@ -14980,6 +14987,7 @@ myworldofjomalonelondon.com.ve.
 mz.com.ve.
 nacionfutbol.com.ve.
 nadamasimporta.com.ve.
+nadiagonzalez.com.ve.
 nagar.com.ve.
 naguanagua-carabobo.gob.ve.
 naguanaguense.net.ve.
@@ -15051,6 +15059,7 @@ naturami.com.ve.
 naturella.com.ve.
 naturelladetess.com.ve.
 naturescharm.com.ve.
+naturnua.com.ve.
 naturtint.com.ve.
 natuzzi.com.ve.
 natys.com.ve.
@@ -16010,6 +16019,7 @@ paisdelosjuegos.co.ve.
 pajarolandia.com.ve.
 pajarolandia2000.com.ve.
 palacalle.com.ve.
+palacehotel.com.ve.
 palantir.co.ve.
 palantir.com.ve.
 palavecino-lara.gob.ve.
@@ -17586,6 +17596,7 @@ recargasvenezuela.com.ve.
 recargate.com.ve.
 receta.com.ve.
 recetasnestle.com.ve.
+recetasvenezolanas.com.ve.
 recipedia.com.ve.
 reckitt.com.ve.
 reckittbenckiser.com.ve.
@@ -18422,7 +18433,6 @@ sanjuandedios.org.ve.
 sanjuba.edu.ve.
 sanjudastadeo-tachira.gob.ve.
 sanjudastadeobarinas.edu.ve.
-sanluis.com.ve.
 sanmartindeporresguatire.com.ve.
 sanmiguel.com.ve.
 sannet.com.ve.
@@ -19635,7 +19645,6 @@ sopelca.com.ve.
 sopinveca.com.ve.
 soporte.com.ve.
 soportecatasuite.com.ve.
-soportewebcol.net.ve.
 soprema.com.ve.
 sor.com.ve.
 sorbact.com.ve.
@@ -21942,6 +21951,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
