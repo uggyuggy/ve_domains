@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Dec2024 04:14 UTC
+# ve domain names extracted from nameservers on 28Dec2024 04:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1033,7 +1033,6 @@ alicorp.com.ve.
 alienstudio.com.ve.
 alienware.com.ve.
 aliexpress.com.ve.
-aliflor.com.ve.
 alimak.com.ve.
 alimakhek.com.ve.
 alimentos-difresca.com.ve.
@@ -3762,6 +3761,7 @@ cebac.gob.ve.
 cebg.com.ve.
 cebisa.com.ve.
 cebm.gob.ve.
+cebne.gob.ve.
 cebra.com.ve.
 cec.com.ve.
 cecainca.net.ve.
@@ -7031,6 +7031,7 @@ edr.com.ve.
 edreams.com.ve.
 edsca.com.ve.
 edt.com.ve.
+edu.com.ve.
 edu.ve.
 eduardoramirez.com.ve.
 eduardorohl.edu.ve.
@@ -7755,7 +7756,6 @@ eventas.com.ve.
 eventbrite.com.ve.
 eventim.com.ve.
 eventoselabuelo.com.ve.
-eventosjuridicos.com.ve.
 eventosvipmch.com.ve.
 eventplanner.com.ve.
 eventura.com.ve.
@@ -11249,6 +11249,7 @@ innovalosandes.com.ve.
 innovalosllanos.com.ve.
 innovaoriente.com.ve.
 innovar.com.ve.
+innovared.com.ve.
 innovasoft.co.ve.
 innovasoluciones.com.ve.
 innovasolucionesti.com.ve.
@@ -11646,6 +11647,7 @@ iribarren-lara.gob.ve.
 irobot.co.ve.
 irobot.com.ve.
 ironclub.com.ve.
+ironcompany.com.ve.
 ironflex.com.ve.
 ironmountain.co.ve.
 ironmountain.com.ve.
@@ -12499,7 +12501,6 @@ laboratorioselmor.org.ve.
 laboratorioselmor.web.ve.
 laboratoriosgeminis.com.ve.
 laboratoriosmiranda.gob.ve.
-laboratoriosvivax.com.ve.
 laboratorioswipe.com.ve.
 laboratoriototal.com.ve.
 labrioche.com.ve.
@@ -13603,6 +13604,7 @@ marketingfino.com.ve.
 marketingnow.com.ve.
 marketingstudio.com.ve.
 marketplace.com.ve.
+marketplaces.com.ve.
 markina.com.ve.
 marklevinson.co.ve.
 marklevinson.com.ve.
@@ -15070,6 +15072,7 @@ naval-group.com.ve.
 navan.com.ve.
 navarro.com.ve.
 navasca.com.ve.
+navasoft.com.ve.
 navator.com.ve.
 navegante.co.ve.
 navegante.com.ve.
@@ -16312,6 +16315,7 @@ pedrozaraza-guarico.gov.ve.
 peerconnect.com.ve.
 peerinsights.com.ve.
 peerless-av.com.ve.
+pegamentoscyc.com.ve.
 pegaso.com.ve.
 pegasusgroup.com.ve.
 pegatanke.com.ve.
@@ -17564,6 +17568,7 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
+reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19163,6 +19168,7 @@ sillaca.com.ve.
 silladeruedas.com.ve.
 siloamazo.com.ve.
 silva-falcon.gov.ve.
+silvatec.com.ve.
 silverado.com.ve.
 silveriasoc.com.ve.
 silverlight.com.ve.
@@ -19560,6 +19566,7 @@ solucionesantco.com.ve.
 solucionesbinarias.com.ve.
 solucionescontables.com.ve.
 solucionescontables.net.ve.
+solucionesdlety.com.ve.
 solucionesempresariales.com.ve.
 solucionesfabnet.com.ve.
 solucionesfx.com.ve.
@@ -19948,6 +19955,7 @@ suarezoramas.com.ve.
 suateg.gob.ve.
 suavitel.com.ve.
 subasta.com.ve.
+subete.com.ve.
 sublimacionamericana.com.ve.
 sublime.com.ve.
 submariner.co.ve.
@@ -21951,7 +21959,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22058,7 +22065,6 @@ ve-ix.com.ve.
 ve-ix.net.ve.
 ve-ix.org.ve.
 ve-laboratorioscofasa.com.ve.
-ve-payall.com.ve.
 ve.com.ve.
 vecafo.com.ve.
 vecata.com.ve.
@@ -23136,13 +23142,10 @@ zains.com.ve.
 zakia.com.ve.
 zalando-lounge.co.ve.
 zalando-lounge.com.ve.
-zalando-sports.co.ve.
 zalando-sports.com.ve.
 zalando.co.ve.
 zalando.com.ve.
-zalandolounge.co.ve.
 zalandolounge.com.ve.
-zalandosports.co.ve.
 zalandosports.com.ve.
 zambrano.net.ve.
 zamora-aragua.gov.ve.
@@ -23150,20 +23153,16 @@ zamora-falcon.gov.ve.
 zamora-miranda.gov.ve.
 zanox.com.ve.
 zapatos.com.ve.
-zapping.co.ve.
 zapping.com.ve.
 zappingzone.com.ve.
-zapzap.co.ve.
 zapzap.com.ve.
 zara.com.ve.
 zarate.net.ve.
 zas.com.ve.
-zazzle.co.ve.
 zazzle.com.ve.
 zea-merida.gov.ve.
 zea.gob.ve.
 zea.gov.ve.
-zebra.co.ve.
 zecarabobo.gob.ve.
 zedes.gob.ve.
 zee.org.ve.
@@ -23173,7 +23172,6 @@ zemonagas.gob.ve.
 zenda.com.ve.
 zendesk.com.ve.
 zenithmedia.com.ve.
-zentiva.co.ve.
 zentiva.com.ve.
 zenu.com.ve.
 zepatier.com.ve.
@@ -23196,28 +23194,21 @@ zildjian.com.ve.
 zimbra.com.ve.
 zimbraprueba.com.ve.
 zimmer.com.ve.
-zinli.co.ve.
 zinli.com.ve.
 zinli.info.ve.
 zinli.net.ve.
 zinli.org.ve.
 zinli.web.ve.
-zippo.co.ve.
 ziprecruiter.com.ve.
 znet99.com.ve.
-zocdoc.co.ve.
 zocdoc.com.ve.
 zodio.com.ve.
-zoetis.co.ve.
 zoetis.com.ve.
 zoetishealthcare.com.ve.
-zoho.co.ve.
 zoho.com.ve.
 zoi.com.ve.
 zoionline.com.ve.
-zojirushi.co.ve.
 zolinza.com.ve.
-zoll.co.ve.
 zoll.info.ve.
 zoll.net.ve.
 zoll.org.ve.
@@ -23250,7 +23241,6 @@ zuliafc.com.ve.
 zuliatec.com.ve.
 zumaque.com.ve.
 zumayor.com.ve.
-zumba.co.ve.
 zumba.com.ve.
 zumex.com.ve.
 zumtobel.com.ve.
@@ -23260,7 +23250,6 @@ zuperarte.org.ve.
 zupla.com.ve.
 zurat.com.ve.
 zuricars.com.ve.
-zurich.co.ve.
 zurich.com.ve.
 zurzuvae.com.ve.
 zwan.com.ve.
