@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Dec2024 04:25 UTC
+# ve domain names extracted from nameservers on 29Dec2024 04:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1768,7 +1768,6 @@ asociacioncivilpuertadelsol.org.ve.
 asociacionvenezolanademasajeinfantil.com.ve.
 asociacionvenezolanademujeres.com.ve.
 asociadosgerenciales.com.ve.
-asoft.com.ve.
 asoramal6.org.ve.
 asos.co.ve.
 asos.com.ve.
@@ -1832,7 +1831,6 @@ atlas-store.com.ve.
 atlas.com.ve.
 atlascopco.com.ve.
 atlasfiltri.com.ve.
-atlasindustries.com.ve.
 atlaspc.com.ve.
 atlasviajes.com.ve.
 atletica.com.ve.
@@ -5230,6 +5228,7 @@ consermuca.edu.ve.
 conserval.com.ve.
 conservarvida.com.ve.
 conserviaj.com.ve.
+consiguelo.com.ve.
 consocar.gob.ve.
 consolacionbarcelona.com.ve.
 consolacionmaracay.com.ve.
@@ -5687,6 +5686,7 @@ creatas.com.ve.
 creatasonline.com.ve.
 creatigraf.com.ve.
 creatiguille.com.ve.
+creationalsystems.com.ve.
 creationweb.com.ve.
 creativecolors.com.ve.
 creativecommonsve.org.ve.
@@ -5979,7 +5979,6 @@ dalellano.com.ve.
 dalfetextil.com.ve.
 daliliana.com.ve.
 dalzanemdor.com.ve.
-damasco.com.ve.
 dambrosio.com.ve.
 damoto.com.ve.
 damovo.com.ve.
@@ -6176,7 +6175,6 @@ delcorp.com.ve.
 delcorral.com.ve.
 deldia.com.ve.
 delectra.com.ve.
-delegar.com.ve.
 deleobuvir.com.ve.
 deleste.com.ve.
 delgrano.com.ve.
@@ -6620,7 +6618,6 @@ distribuidoradisante.com.ve.
 distribuidoradm.com.ve.
 distribuidoradtodito.com.ve.
 distribuidorahidvenezuela.com.ve.
-distribuidoramurat.com.ve.
 distribuidorapastagranoro.com.ve.
 distribuidorapetz.com.ve.
 distribuidorary.com.ve.
@@ -7826,7 +7823,6 @@ exilim.com.ve.
 exitopoleas.com.ve.
 exllanca.com.ve.
 exness.co.ve.
-exnova.com.ve.
 exodo.org.ve.
 exodus.com.ve.
 exotecnologia.com.ve.
@@ -11599,7 +11595,6 @@ iorfancep.com.ve.
 ipa.co.ve.
 ipadmini.co.ve.
 ipadpro.co.ve.
-ipanu.com.ve.
 ipas-estadal-mda.gob.ve.
 ipasme.gob.ve.
 ipasme.gov.ve.
@@ -14133,7 +14128,6 @@ metales.com.ve.
 metaleshk.com.ve.
 metalex.com.ve.
 metalger.com.ve.
-metalica.com.ve.
 metalinks.com.ve.
 metallca.com.ve.
 metallethal.com.ve.
@@ -17001,7 +16995,6 @@ privilege-assistance.com.ve.
 privilegeservices.com.ve.
 prm.com.ve.
 pro-unidas.com.ve.
-pro.com.ve.
 proacce.com.ve.
 proactiv.co.ve.
 proactiv.com.ve.
@@ -17568,7 +17561,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -19680,7 +19672,6 @@ southwestairlines.com.ve.
 souvenirtravel.com.ve.
 sovconsultores.com.ve.
 sovemepal.org.ve.
-sovemib.org.ve.
 sovemo.org.ve.
 sovenplast.com.ve.
 sovepcys.org.ve.
@@ -21959,6 +21950,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -23142,10 +23134,13 @@ zains.com.ve.
 zakia.com.ve.
 zalando-lounge.co.ve.
 zalando-lounge.com.ve.
+zalando-sports.co.ve.
 zalando-sports.com.ve.
 zalando.co.ve.
 zalando.com.ve.
+zalandolounge.co.ve.
 zalandolounge.com.ve.
+zalandosports.co.ve.
 zalandosports.com.ve.
 zambrano.net.ve.
 zamora-aragua.gov.ve.
@@ -23153,16 +23148,20 @@ zamora-falcon.gov.ve.
 zamora-miranda.gov.ve.
 zanox.com.ve.
 zapatos.com.ve.
+zapping.co.ve.
 zapping.com.ve.
 zappingzone.com.ve.
+zapzap.co.ve.
 zapzap.com.ve.
 zara.com.ve.
 zarate.net.ve.
 zas.com.ve.
+zazzle.co.ve.
 zazzle.com.ve.
 zea-merida.gov.ve.
 zea.gob.ve.
 zea.gov.ve.
+zebra.co.ve.
 zecarabobo.gob.ve.
 zedes.gob.ve.
 zee.org.ve.
@@ -23172,6 +23171,7 @@ zemonagas.gob.ve.
 zenda.com.ve.
 zendesk.com.ve.
 zenithmedia.com.ve.
+zentiva.co.ve.
 zentiva.com.ve.
 zenu.com.ve.
 zepatier.com.ve.
@@ -23194,21 +23194,28 @@ zildjian.com.ve.
 zimbra.com.ve.
 zimbraprueba.com.ve.
 zimmer.com.ve.
+zinli.co.ve.
 zinli.com.ve.
 zinli.info.ve.
 zinli.net.ve.
 zinli.org.ve.
 zinli.web.ve.
+zippo.co.ve.
 ziprecruiter.com.ve.
 znet99.com.ve.
+zocdoc.co.ve.
 zocdoc.com.ve.
 zodio.com.ve.
+zoetis.co.ve.
 zoetis.com.ve.
 zoetishealthcare.com.ve.
+zoho.co.ve.
 zoho.com.ve.
 zoi.com.ve.
 zoionline.com.ve.
+zojirushi.co.ve.
 zolinza.com.ve.
+zoll.co.ve.
 zoll.info.ve.
 zoll.net.ve.
 zoll.org.ve.
@@ -23241,6 +23248,7 @@ zuliafc.com.ve.
 zuliatec.com.ve.
 zumaque.com.ve.
 zumayor.com.ve.
+zumba.co.ve.
 zumba.com.ve.
 zumex.com.ve.
 zumtobel.com.ve.
@@ -23250,6 +23258,7 @@ zuperarte.org.ve.
 zupla.com.ve.
 zurat.com.ve.
 zuricars.com.ve.
+zurich.co.ve.
 zurich.com.ve.
 zurzuvae.com.ve.
 zwan.com.ve.
