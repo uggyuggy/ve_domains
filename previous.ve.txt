@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Dec2024 04:23 UTC
+# ve domain names extracted from nameservers on 30Dec2024 04:22 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -997,7 +997,6 @@ alexanderpaez.com.ve.
 alexirojas.org.ve.
 alexisaularurologo.com.ve.
 alexisuranga.com.ve.
-alextv.com.ve.
 alfa-laval.co.ve.
 alfa-laval.com.ve.
 alfa100fm.com.ve.
@@ -1966,7 +1965,6 @@ autotracking.com.ve.
 autotune.co.ve.
 autotuy.com.ve.
 autover.com.ve.
-autovidriosvictoria.com.ve.
 autoyota.com.ve.
 autozulia.com.ve.
 auvision.com.ve.
@@ -3654,7 +3652,6 @@ cauchos.co.ve.
 cauchos.com.ve.
 cauchosalianza.com.ve.
 cauchoslamundial.com.ve.
-cauchosnd.com.ve.
 cauchossts.com.ve.
 cauchosya.com.ve.
 caudalie.com.ve.
@@ -9522,7 +9519,6 @@ goldmansachspactual.com.ve.
 goldsgym.com.ve.
 golfdigest.co.ve.
 golfdigest.com.ve.
-golflowacademy.com.ve.
 goliiive.com.ve.
 gomail.gob.ve.
 gomalave.com.ve.
@@ -9752,7 +9748,6 @@ grupodaka.com.ve.
 grupodamca.com.ve.
 grupodavila.com.ve.
 grupodavinci.com.ve.
-grupodeli.com.ve.
 grupodelsur.com.ve.
 grupodemar.com.ve.
 grupodf.com.ve.
@@ -13773,7 +13768,6 @@ mayoral.com.ve.
 mayorauto.com.ve.
 mayorca.com.ve.
 mayorkinatours.com.ve.
-mayorocan.com.ve.
 maytag.com.ve.
 mayven.com.ve.
 mazars-forvis.co.ve.
@@ -15220,7 +15214,6 @@ newyorkandcompany.com.ve.
 newyorknewyork.com.ve.
 nexcare.co.ve.
 nexcare.com.ve.
-nexcom.com.ve.
 nexgard.com.ve.
 nexia.com.ve.
 nexlizet.com.ve.
@@ -15587,7 +15580,6 @@ officemaster.com.ve.
 officenet.net.ve.
 officialdavidosio.co.ve.
 oficina24.com.ve.
-ofilmyzilla.com.ve.
 ofimarket.com.ve.
 ofimarkt.com.ve.
 ofimaster.com.ve.
@@ -15784,7 +15776,6 @@ opskins.com.ve.
 opsu.gob.ve.
 opticaindependencia.com.ve.
 opticajohnen.com.ve.
-opticamonasterio.com.ve.
 opticasanchez.com.ve.
 opticasolovision.com.ve.
 opticolor.com.ve.
@@ -16358,7 +16349,6 @@ perforosven.com.ve.
 perfumadas.com.ve.
 perfumesclub.co.ve.
 perfumesclub.com.ve.
-perfumessence.com.ve.
 pergoveris.com.ve.
 pericon.com.ve.
 perinoladesign.com.ve.
@@ -16396,7 +16386,6 @@ pescalba.gob.ve.
 pescaloapulmon.com.ve.
 pet.com.ve.
 petardashd.com.ve.
-petcenterplus.com.ve.
 petcurean.co.ve.
 peterbilt.com.ve.
 petermillar.co.ve.
@@ -21950,7 +21939,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22401,7 +22389,6 @@ viewsonic.com.ve.
 vigilanciacosteragn.mil.ve.
 vigilo.co.ve.
 vigilo.com.ve.
-viginem.com.ve.
 viginet.com.ve.
 vigle.com.ve.
 vignettecollection.com.ve.
@@ -22816,7 +22803,6 @@ wework.co.ve.
 wework.com.ve.
 weys.com.ve.
 wgdigital.com.ve.
-wh.com.ve.
 whaticket.com.ve.
 whatsapp.co.ve.
 whatsapp.com.ve.
