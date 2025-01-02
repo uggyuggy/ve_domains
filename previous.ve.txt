@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 31Dec2024 04:18 UTC
+# ve domain names extracted from nameservers on 01Jan2025 04:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1025,6 +1025,7 @@ algodonesdelorinoco.gob.ve.
 alhaja.com.ve.
 aliadospharmetiquelabs.com.ve.
 aliantec.com.ve.
+alianzalegal.com.ve.
 alianzanethv.com.ve.
 alianzasalud.com.ve.
 alice.com.ve.
@@ -6966,6 +6967,7 @@ ecologicclean.com.ve.
 ecologist.com.ve.
 ecologymedical.com.ve.
 ecommerce.co.ve.
+ecommerce.com.ve.
 ecommerceday.com.ve.
 ecomoda.com.ve.
 ecompras.com.ve.
@@ -9358,7 +9360,6 @@ glaube.com.ve.
 glc.com.ve.
 glcconsulting.com.ve.
 gleason.com.ve.
-gleco.com.ve.
 glencore.com.ve.
 glenfiddich.com.ve.
 glivec.com.ve.
@@ -11567,7 +11568,6 @@ inviu.com.ve.
 inviva.com.ve.
 invivar.gob.ve.
 invivo.com.ve.
-invmm310.com.ve.
 invnt.com.ve.
 invtecyz.com.ve.
 invupos.com.ve.
@@ -14485,7 +14485,6 @@ miturno.net.ve.
 miurberadio.com.ve.
 mivca.com.ve.
 miviajecl.com.ve.
-miviajeseguro.com.ve.
 miweb.com.ve.
 mixels.com.ve.
 miza-fpolar.info.ve.
@@ -17547,7 +17546,6 @@ rdsinmarket.com.ve.
 rdsistemas.com.ve.
 reacciongps.com.ve.
 reacciun.net.ve.
-reacciun.ve.
 reacciun2.edu.ve.
 reactivos.com.ve.
 realbaseball.com.ve.
@@ -17595,6 +17593,7 @@ red.com.ve.
 red22sc.com.ve.
 redangostura.org.ve.
 redasesores.com.ve.
+redav.com.ve.
 redbancamiga.com.ve.
 redbull.co.ve.
 redbull.com.ve.
@@ -19995,7 +19994,6 @@ suitco.com.ve.
 sulca.com.ve.
 sultana.com.ve.
 sulzer.com.ve.
-suma.net.ve.
 sumandokilometros.com.ve.
 sumar.gob.ve.
 sumarcaca.com.ve.
@@ -20731,6 +20729,7 @@ tienda-virtual.com.ve.
 tienda.com.ve.
 tiendadaka.com.ve.
 tiendadigital.com.ve.
+tiendaelectronica.com.ve.
 tiendafacil.co.ve.
 tiendafacil.com.ve.
 tiendalego.com.ve.
@@ -21166,6 +21165,7 @@ tripactions.com.ve.
 tripadviser.co.ve.
 tripadviser.com.ve.
 tripadvisor.co.ve.
+tripadvisor.com.ve.
 tripadvisorrentals.co.ve.
 triplec.com.ve.
 triplecaliente.com.ve.
@@ -22025,8 +22025,6 @@ vassaguacara.com.ve.
 vatika.com.ve.
 vauxoo.co.ve.
 vav.com.ve.
-vaxevria.com.ve.
-vaxzevria.com.ve.
 vbd.com.ve.
 vc-legal.com.ve.
 vc.gov.ve.

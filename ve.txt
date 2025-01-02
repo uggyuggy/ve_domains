@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Jan2025 04:25 UTC
+# ve domain names extracted from nameservers on 02Jan2025 04:21 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -198,7 +198,6 @@ abelylula.com.ve.
 abercrombie.co.ve.
 abercrombiefitch.co.ve.
 abercrombiefitch.com.ve.
-abgcrespofrancisco.com.ve.
 abint.com.ve.
 abiralzaher.com.ve.
 ablca.com.ve.
@@ -5808,7 +5807,6 @@ ctsca.com.ve.
 ctshtt.com.ve.
 ctt.gov.ve.
 ctu.com.ve.
-cuadrangularlavictoria.com.ve.
 cuadrantesdepaz.gob.ve.
 cuam.edu.ve.
 cuam.tec.ve.
@@ -9489,7 +9487,6 @@ gochat.com.ve.
 gochopower.com.ve.
 godaddy.co.ve.
 godaddy.com.ve.
-godelivery.com.ve.
 godiva.com.ve.
 godobe.com.ve.
 goes.com.ve.
@@ -9571,7 +9568,6 @@ gopharma.com.ve.
 gordas.com.ve.
 gormiti.com.ve.
 gosbi.com.ve.
-goshop.com.ve.
 gospace.com.ve.
 gospaces.com.ve.
 gostore.com.ve.
@@ -11168,6 +11164,7 @@ ingeomin.gob.ve.
 ingeomin.gov.ve.
 ingeserv.com.ve.
 ingesoft.com.ve.
+ingetop.com.ve.
 ingevalca.com.ve.
 ingevica.com.ve.
 ingpro.com.ve.
@@ -12181,7 +12178,6 @@ kaizen.com.ve.
 kaizen.net.ve.
 kaizenholdings.com.ve.
 kalafood.com.ve.
-kaleidoscopio.com.ve.
 kalia.com.ve.
 kalixta.com.ve.
 kalley.com.ve.
@@ -19544,7 +19540,6 @@ soluciones-advisor.com.ve.
 solucionesacuaticas.com.ve.
 solucionesantco.com.ve.
 solucionesbinarias.com.ve.
-solucionescontables.com.ve.
 solucionescontables.net.ve.
 solucionesdlety.com.ve.
 solucionesempresariales.com.ve.
@@ -21604,7 +21599,6 @@ uepsimonrodriguez.com.ve.
 uepsimonrodriguez.edu.ve.
 uepsr.com.ve.
 ueptc.com.ve.
-uepverdadyvida.co.ve.
 ues.edu.ve.
 uesagradafamiliaac.com.ve.
 uesannicolas.com.ve.
