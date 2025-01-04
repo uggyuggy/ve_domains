@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 02Jan2025 04:21 UTC
+# ve domain names extracted from nameservers on 03Jan2025 04:20 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1765,6 +1765,7 @@ asociacioncivilpuertadelsol.org.ve.
 asociacionvenezolanademasajeinfantil.com.ve.
 asociacionvenezolanademujeres.com.ve.
 asociadosgerenciales.com.ve.
+asoft.com.ve.
 asoramal6.org.ve.
 asos.co.ve.
 asos.com.ve.
@@ -4197,6 +4198,7 @@ cienciaenrevolucion.com.ve.
 cienciamatriarevista.org.ve.
 cienciologia.org.ve.
 cienvar.com.ve.
+ciepe.gob.ve.
 ciepe.gov.ve.
 cifar.org.ve.
 cigir.org.ve.
@@ -5915,6 +5917,7 @@ cycproducciones.com.ve.
 cygstudio.com.ve.
 cylex.co.ve.
 cylex.com.ve.
+cymaven.com.ve.
 cysmos.com.ve.
 d.com.ve.
 da.com.ve.
@@ -6916,7 +6919,6 @@ eam.edu.ve.
 eansa.com.ve.
 eapjuanlovera.edu.ve.
 easupernova.com.ve.
-easy.com.ve.
 easyaccess.com.ve.
 easycancha.com.ve.
 easycar.co.ve.
@@ -11093,6 +11095,7 @@ infectologiahoy.com.ve.
 infica.com.ve.
 infierno.com.ve.
 infinet.com.ve.
+infinite.com.ve.
 infiniti-venezuela.co.ve.
 infiniti-venezuela.com.ve.
 infiniti.co.ve.
@@ -11357,6 +11360,7 @@ intarcesoft.com.ve.
 intec5000.com.ve.
 inteco.com.ve.
 intecsu.com.ve.
+intecviu.com.ve.
 integra.com.ve.
 integracionysistemasjp.com.ve.
 integradata.com.ve.
@@ -13095,6 +13099,7 @@ logiqos.com.ve.
 logis.com.ve.
 logisticadigital.com.ve.
 logisticaintgsen.co.ve.
+logisticazc.com.ve.
 logistika.com.ve.
 logitravel.com.ve.
 logosconsultores.com.ve.
@@ -13185,7 +13190,6 @@ lotto.com.ve.
 lottoclub.com.ve.
 lottoland.com.ve.
 lottollano.com.ve.
-lottomania.net.ve.
 lottorey.com.ve.
 lottt.gob.ve.
 lotven.com.ve.
@@ -13643,7 +13647,6 @@ mascotas.com.ve.
 mascus.com.ve.
 masdescanso.com.ve.
 maserati.co.ve.
-masheram.com.ve.
 masia.com.ve.
 masimo.com.ve.
 masiva.com.ve.
@@ -13854,6 +13857,7 @@ median.web.ve.
 medianet.com.ve.
 medianet.net.ve.
 mediaset.co.ve.
+mediatica.com.ve.
 mediaweb.com.ve.
 medica2025.com.ve.
 medicalux.com.ve.
@@ -15276,7 +15280,6 @@ nipro.co.ve.
 nipro.com.ve.
 nirgua-yaracuy.gov.ve.
 nirgua.com.ve.
-nishman.com.ve.
 nissan.co.ve.
 nissan.net.ve.
 nissanve.com.ve.
@@ -15601,7 +15604,6 @@ oilv.com.ve.
 ojdt.com.ve.
 ojocaribe.com.ve.
 okey1049fm.com.ve.
-okhatrimaza.com.ve.
 oki.co.ve.
 oki.com.ve.
 okidata.com.ve.
@@ -17230,6 +17232,7 @@ pubex.com.ve.
 publiarte.com.ve.
 publicholidays.com.ve.
 publicidadcenteno.com.ve.
+publicis.com.ve.
 publiinmuebles.com.ve.
 publik.com.ve.
 publinet.net.ve.
@@ -17429,7 +17432,6 @@ radiomundial.gob.ve.
 radionegroprimero.org.ve.
 radionudefo.com.ve.
 radioorinoco.com.ve.
-radiopalmarejo.com.ve.
 radioparaiso.com.ve.
 radioparticipativafm.com.ve.
 radioplay.com.ve.
@@ -17632,6 +17634,7 @@ redken.com.ve.
 redlion.com.ve.
 redmasiva.com.ve.
 redmlv.com.ve.
+redmovil.info.ve.
 redmuseosdevenezuela.gob.ve.
 redorgbaruta.com.ve.
 redpav-fpolar.info.ve.
@@ -18277,6 +18280,7 @@ saint-gobain-autover.com.ve.
 saint-gobain.co.ve.
 saint-gobain.com.ve.
 saint.com.ve.
+saint.net.ve.
 saintblanc.com.ve.
 saintgobain.co.ve.
 saintgobain.com.ve.
@@ -20096,6 +20100,7 @@ superslots.co.ve.
 superslots.com.ve.
 superstereo945.com.ve.
 supertech.com.ve.
+supertiendasmeta.com.ve.
 supervideomania.com.ve.
 supervision.com.ve.
 superwow.com.ve.
@@ -20324,7 +20329,6 @@ tdsac.com.ve.
 te.com.ve.
 teacherplease.com.ve.
 tealca.com.ve.
-teamdigital.com.ve.
 teamleader.com.ve.
 teamviajes.com.ve.
 teatrex.com.ve.
@@ -20348,7 +20352,6 @@ techinsider.com.ve.
 technet.com.ve.
 technioptic.com.ve.
 techno-tel.net.ve.
-technocrata.com.ve.
 technologie.com.ve.
 technopc.com.ve.
 technosmart.com.ve.
@@ -23147,6 +23150,7 @@ zemonagas.gob.ve.
 zenda.com.ve.
 zendesk.com.ve.
 zenithmedia.com.ve.
+zenithoptimedia.com.ve.
 zentiva.co.ve.
 zentiva.com.ve.
 zenu.com.ve.

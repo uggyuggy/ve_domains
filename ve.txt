@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03Jan2025 04:20 UTC
+# ve domain names extracted from nameservers on 04Jan2025 04:05 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2358,7 +2358,6 @@ bch.com.ve.
 bcreati.com.ve.
 bcv.gov.ve.
 bcv.org.ve.
-bcvasiaeurocaribe.org.ve.
 bcve.org.ve.
 bcvv.org.ve.
 bcw-global.com.ve.
@@ -6955,6 +6954,7 @@ ecobike.com.ve.
 ecobio.com.ve.
 ecocolor.com.ve.
 ecocosmetica.com.ve.
+ecoelite.com.ve.
 ecoem.com.ve.
 ecofil.com.ve.
 ecofrio.com.ve.
@@ -8157,6 +8157,7 @@ fertiven.com.ve.
 ferturca.com.ve.
 fervenca.com.ve.
 fesa-merpro.com.ve.
+fescive.com.ve.
 fesitpven.com.ve.
 fesnojiv.gob.ve.
 festejoselprado.com.ve.
@@ -8185,7 +8186,6 @@ fhoi.org.ve.
 fhpp.com.ve.
 fi-link.co.ve.
 fi-link.com.ve.
-fiadito.com.ve.
 fiamonte.com.ve.
 fiamotors.com.ve.
 fiat.com.ve.
@@ -8256,7 +8256,6 @@ finanzasdigitales.com.ve.
 finanzaspracticas.co.ve.
 finanzaspracticas.com.ve.
 finanzaspublicas.gov.ve.
-finanzasrongrat.com.ve.
 finanzassaludables.com.ve.
 finde.gob.ve.
 findet.org.ve.
@@ -12256,7 +12255,6 @@ kenwood.com.ve.
 kenworth.com.ve.
 kenworthvenezuela.com.ve.
 keopslavanderia.com.ve.
-kepen.com.ve.
 kepido.com.ve.
 kerastase.com.ve.
 kering.com.ve.
@@ -12658,6 +12656,7 @@ lasagrada.com.ve.
 lasallebarinas.edu.ve.
 lasallehermanojuan.com.ve.
 lasallehermanoluis.com.ve.
+lasallelacolina.org.ve.
 lasanahoria.com.ve.
 lasante.com.ve.
 lasenza.co.ve.
@@ -13662,7 +13661,6 @@ masshopping.com.ve.
 massimodutti.com.ve.
 master-builders-solutions.com.ve.
 master.com.ve.
-master2021.com.ve.
 masterbase.com.ve.
 masterbuilderssolutions.com.ve.
 mastercard.co.ve.
@@ -13790,7 +13788,6 @@ mcafee.com.ve.
 mcaironline.com.ve.
 mcarmenreyes.com.ve.
 mcba.gob.ve.
-mcbogamejam.com.ve.
 mcc.org.ve.
 mccain.com.ve.
 mcda.com.ve.
@@ -13950,6 +13947,7 @@ megatiendadigital.com.ve.
 megatravel.co.ve.
 megatravel.com.ve.
 megauto.com.ve.
+megavision.com.ve.
 megaweb.com.ve.
 megitechtecnologys.com.ve.
 meglob.com.ve.
@@ -15843,6 +15841,7 @@ orobet.com.ve.
 orocolor.com.ve.
 orpea.co.ve.
 orpea.com.ve.
+orquidea.com.ve.
 orthoped.com.ve.
 orthoprint.com.ve.
 orthoshock.com.ve.
@@ -18423,9 +18422,6 @@ sanofi.co.ve.
 sanofi.com.ve.
 sanonline.com.ve.
 sanos.com.ve.
-sanpablo.com.ve.
-sanpablo.net.ve.
-sanpablo.org.ve.
 sanpedrocolegio.com.ve.
 sanpedrodecoche.edu.ve.
 sanrafaeldepaguita.com.ve.
@@ -19544,6 +19540,7 @@ soluciones-advisor.com.ve.
 solucionesacuaticas.com.ve.
 solucionesantco.com.ve.
 solucionesbinarias.com.ve.
+solucionescontables.com.ve.
 solucionescontables.net.ve.
 solucionesdlety.com.ve.
 solucionesempresariales.com.ve.
@@ -20753,6 +20750,7 @@ tierra-armada.com.ve.
 tierraalta.com.ve.
 tierradegracia.com.ve.
 tierrafertil.org.ve.
+tierramia.com.ve.
 tiffany.co.ve.
 tiffany.com.ve.
 tiffanyhotel.com.ve.
@@ -21934,6 +21932,7 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
+uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
@@ -22099,7 +22098,6 @@ vendedordigital.com.ve.
 vendenostuauto.com.ve.
 venderylisto.com.ve.
 vendes.com.ve.
-vendetutti.com.ve.
 vendigital.com.ve.
 veneasesores.com.ve.
 veneasistencia.com.ve.
