@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 05Jan2025 04:16 UTC
+# ve domain names extracted from nameservers on 06Jan2025 04:26 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4898,7 +4898,6 @@ colgatesensitiveproalivio.com.ve.
 colgateslimsoft.com.ve.
 colgatetotal.co.ve.
 colgatetotal.com.ve.
-colicodebebe.com.ve.
 colina-falcon.gov.ve.
 colineal.com.ve.
 collectania.com.ve.
@@ -6462,7 +6461,6 @@ digitalrealty.com.ve.
 digitalsolution.com.ve.
 digitalstudio.com.ve.
 digitalwebdesign.com.ve.
-digitalwolf.com.ve.
 digitalx.net.ve.
 digitel.com.ve.
 digitel.net.ve.
@@ -7152,7 +7150,6 @@ electrosonic.com.ve.
 electrotechsolutions.com.ve.
 eleinca.com.ve.
 eleka.com.ve.
-elektra.com.ve.
 elektrocell.com.ve.
 elektror.com.ve.
 element.com.ve.
@@ -7366,7 +7363,6 @@ encafe.com.ve.
 encancha.com.ve.
 encantadacon.com.ve.
 encantadohumboldt.org.ve.
-encarguelo.com.ve.
 enco.com.ve.
 encoca2enti.info.ve.
 encuentralo.com.ve.
@@ -8039,6 +8035,7 @@ fastnet.com.ve.
 fastority.com.ve.
 fastpayment.com.ve.
 fastprint.com.ve.
+fatface.com.ve.
 fatsecret.co.ve.
 faunasilvestre.com.ve.
 fav.mil.ve.
@@ -9621,7 +9618,6 @@ grandvitaraactive.com.ve.
 granfamiliadelasalud.org.ve.
 granhotel.com.ve.
 granimportcaracas.co.ve.
-granimportcaracas.com.ve.
 granitec.com.ve.
 granitex.com.ve.
 granjahazael.com.ve.
@@ -12568,7 +12564,6 @@ lalinda.net.ve.
 lalis.com.ve.
 lalo.com.ve.
 lamarinacaracas.com.ve.
-lamarmotors.com.ve.
 lamborghini.co.ve.
 lamborghini.com.ve.
 lambretta.co.ve.
@@ -14200,7 +14195,6 @@ miaulaintegrada.com.ve.
 mibalancepersonal.com.ve.
 mibam.gob.ve.
 mibanco.com.ve.
-mibebesano.com.ve.
 mibiturven.com.ve.
 mibodega.com.ve.
 mic.gov.ve.
@@ -18347,6 +18341,7 @@ salvaenvios.com.ve.
 salvasion.com.ve.
 salvat.com.ve.
 salvatoreferragamo.co.ve.
+samat.com.ve.
 samat.gob.ve.
 samat.gov.ve.
 samatbarinas.gob.ve.
@@ -18380,6 +18375,7 @@ sancris.com.ve.
 sancristobal-tachira.gob.ve.
 sancristobalseguros.com.ve.
 sand-n-sun.com.ve.
+sandalo.com.ve.
 sandals.com.ve.
 sandiego-carabobo.gob.ve.
 sandiego-carabobo.gov.ve.
@@ -22232,6 +22228,7 @@ veramed.com.ve.
 verautos.com.ve.
 verawangbride.com.ve.
 verd.com.ve.
+verdeso.co.ve.
 verifone.com.ve.
 verisign.co.ve.
 verisign.com.ve.

@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 04Jan2025 04:05 UTC
+# ve domain names extracted from nameservers on 05Jan2025 04:16 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1781,7 +1781,6 @@ aspsolutions.com.ve.
 asri.com.ve.
 assa.com.ve.
 assaabloy.com.ve.
-assing.com.ve.
 assistotuviaje.com.ve.
 asteca.com.ve.
 astellaspharma.co.ve.
@@ -2030,6 +2029,7 @@ avidhotels.com.ve.
 aviec.net.ve.
 avigilon.co.ve.
 avilab.com.ve.
+avilachgi.com.ve.
 avilafresca.com.ve.
 avilan.com.ve.
 avilascake.com.ve.
@@ -5154,6 +5154,7 @@ conelmazodando.info.ve.
 conelmazodando.net.ve.
 conelmazodando.org.ve.
 conelmazodando.web.ve.
+conetsys.com.ve.
 conettech.com.ve.
 conexion.com.ve.
 conexiondental.com.ve.
@@ -7463,7 +7464,6 @@ envex.com.ve.
 envial.gob.ve.
 envilog.com.ve.
 envios.com.ve.
-enviosya.com.ve.
 environskin.com.ve.
 envirotec.com.ve.
 envista.com.ve.
@@ -8975,7 +8975,6 @@ fveu.org.ve.
 fvf.com.ve.
 fvfclubes.com.ve.
 fvi.com.ve.
-fvjb.com.ve.
 fvjjb.com.ve.
 fvkarting.com.ve.
 fvm.com.ve.
@@ -9273,6 +9272,7 @@ ggimage.co.ve.
 ggsa.com.ve.
 ghae.co.ve.
 ghae.com.ve.
+ghalmaca.com.ve.
 ghhoteles.com.ve.
 ghm.com.ve.
 ghmarcano.com.ve.
@@ -9280,7 +9280,6 @@ ghp.mil.ve.
 ghprbv.gob.ve.
 giacomello.com.ve.
 giacomello.net.ve.
-giadastore.com.ve.
 gidagus.com.ve.
 gidoma.com.ve.
 gift.com.ve.
@@ -11485,6 +11484,7 @@ intrac.gob.ve.
 intracacalor.com.ve.
 intranetmem.gov.ve.
 intravel.com.ve.
+intt.com.ve.
 intt.gob.ve.
 inttt.com.ve.
 inttt.gob.ve.
@@ -13093,7 +13093,6 @@ logiciel.com.ve.
 logigestion.com.ve.
 loginbr.com.ve.
 logintel.com.ve.
-logipower.com.ve.
 logiqos.com.ve.
 logis.com.ve.
 logisticadigital.com.ve.
@@ -14892,6 +14891,7 @@ municipiotrujillo.gov.ve.
 municipiovalera.gov.ve.
 munis.com.ve.
 munoz-apure.gob.ve.
+muonline.com.ve.
 muonlinela.com.ve.
 mupica.com.ve.
 muralesccs.gob.ve.
@@ -19482,7 +19482,6 @@ sol.co.ve.
 sol.com.ve.
 solad.com.ve.
 solana.co.ve.
-solana.com.ve.
 solaraze.com.ve.
 solarcanino.com.ve.
 solarcentury.com.ve.
@@ -19956,7 +19955,6 @@ sucre-trujillo.gob.ve.
 sucre-yaracuy.gob.ve.
 sucre-zulia.gob.ve.
 sucrecomercial.com.ve.
-sucrenet.com.ve.
 sucreturismo.gob.ve.
 suculentas.com.ve.
 sudeaseg.gob.ve.
@@ -21932,7 +21930,6 @@ utssancristobal.edu.ve.
 utssanfelipe.edu.ve.
 utssocopo.edu.ve.
 utsvalencia.edu.ve.
-uunet.ve.
 uunidad.co.ve.
 uunidad.com.ve.
 uv.com.ve.
