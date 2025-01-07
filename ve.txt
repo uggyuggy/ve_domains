@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Jan2025 04:26 UTC
+# ve domain names extracted from nameservers on 07Jan2025 04:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -598,7 +598,6 @@ agroquimicoszambrano.com.ve.
 agrosistemasjpj.com.ve.
 agrosur.com.ve.
 agrosur.gob.ve.
-agrototal.com.ve.
 agrotradingvenezuela.com.ve.
 agrotributos.com.ve.
 agroventasvenezuela.com.ve.
@@ -4660,6 +4659,7 @@ colaborador.com.ve.
 colarebo.com.ve.
 colegio.com.ve.
 colegio19deabril.com.ve.
+colegio24dejuniode1821.com.ve.
 colegioadventistaandresbelloguanare.com.ve.
 colegioalejandrohumboldt.com.ve.
 colegioaltamira.com.ve.
@@ -4701,6 +4701,8 @@ colegiodanielista.com.ve.
 colegiodebioanalistas.com.ve.
 colegiodecroly.edu.ve.
 colegiodeenfermeriamerida.com.ve.
+colegiodelsantisimo.com.ve.
+colegiodivinapastora.com.ve.
 colegiodivinapastorabolivar.com.ve.
 colegiodonbosco.edu.ve.
 colegiodonboscovalencia.com.ve.
@@ -7014,7 +7016,6 @@ edicionesmadriguera.com.ve.
 edicionimpresa.com.ve.
 edifico.com.ve.
 edil.com.ve.
-editorialintenso.com.ve.
 editorialjuridicavenezolana.com.ve.
 editorialplaneta.com.ve.
 ediz.com.ve.
@@ -7363,6 +7364,7 @@ encafe.com.ve.
 encancha.com.ve.
 encantadacon.com.ve.
 encantadohumboldt.org.ve.
+encarguelo.com.ve.
 enco.com.ve.
 encoca2enti.info.ve.
 encuentralo.com.ve.
@@ -7995,7 +7997,6 @@ farmacialaredoma.com.ve.
 farmaciaprada.com.ve.
 farmaciasavia.com.ve.
 farmaciasavia.net.ve.
-farmaciasmoviles.com.ve.
 farmaciassavia.com.ve.
 farmaciatierranegra.com.ve.
 farmaclick.com.ve.
@@ -9577,7 +9578,6 @@ goucov.com.ve.
 gourmetmarket.com.ve.
 gov.ve.
 gova.com.ve.
-goweb.com.ve.
 gowireline.com.ve.
 gp.com.ve.
 gpc.com.ve.
@@ -9778,7 +9778,6 @@ grupohts.com.ve.
 grupoiaras.com.ve.
 grupoiberinvest.com.ve.
 grupoingemeca.com.ve.
-grupointenso.com.ve.
 grupointeractivas.com.ve.
 grupoinvicta.com.ve.
 grupoisla.com.ve.
@@ -11324,6 +11323,7 @@ institutodiosesamor.com.ve.
 institutoeducacionalhenryclay.com.ve.
 institutoeducacionalnuevaesparta.com.ve.
 institutolap.com.ve.
+institutolasalle.com.ve.
 institutolazarus.com.ve.
 institutomadremaria.com.ve.
 institutometropolitanoadventista.com.ve.
@@ -11391,7 +11391,6 @@ inteltech.com.ve.
 intelventas.com.ve.
 intendis.com.ve.
 intensafm.com.ve.
-intensodigital.com.ve.
 intento.com.ve.
 inter-global.com.ve.
 inter.com.ve.
@@ -11751,6 +11750,7 @@ iuesapar.edu.ve.
 iuesapar.gob.ve.
 iufront.edu.ve.
 iugc.com.ve.
+iugt.com.ve.
 iui.com.ve.
 iui.edu.ve.
 iujel.tec.ve.
@@ -11927,8 +11927,6 @@ jeanca.com.ve.
 jeanneau.com.ve.
 jeantex.com.ve.
 jeb.com.ve.
-jeep.com.ve.
-jeeptienda.com.ve.
 jeffersonwells.co.ve.
 jeffersonwells.com.ve.
 jellybelly.co.ve.
@@ -13295,6 +13293,7 @@ m-a.com.ve.
 m-and-s.com.ve.
 m.com.ve.
 m2design.com.ve.
+m3n.net.ve.
 m3urbano.com.ve.
 m4.com.ve.
 maar.com.ve.
@@ -13411,6 +13410,7 @@ makepanels.com.ve.
 makerspace.com.ve.
 maketicket.com.ve.
 makevents.com.ve.
+makia.com.ve.
 makinas.com.ve.
 makingmorehealth.com.ve.
 makint.com.ve.
@@ -13560,6 +13560,7 @@ mariasantisima.edu.ve.
 marikeritas.com.ve.
 marimba.com.ve.
 marin.com.ve.
+marin.net.ve.
 marin.org.ve.
 marinagrande.com.ve.
 marinela-venezuela.co.ve.
@@ -14476,6 +14477,7 @@ miturno.net.ve.
 miurberadio.com.ve.
 mivca.com.ve.
 miviajecl.com.ve.
+miviajeseguro.com.ve.
 miweb.com.ve.
 mixels.com.ve.
 miza-fpolar.info.ve.
@@ -15171,6 +15173,7 @@ neuropediatriaaldia.org.ve.
 neuropsicologiahuc.com.ve.
 neurovision.com.ve.
 neutrogena.com.ve.
+neutron.com.ve.
 neuvoo.com.ve.
 nevada.com.ve.
 nevadaelectronicsca.com.ve.
@@ -15417,6 +15420,7 @@ nuevohotmail.com.ve.
 nuevomundo.com.ve.
 nuevosiglo.com.ve.
 nugen.co.ve.
+numismatica.com.ve.
 numismatica.info.ve.
 nunhems.com.ve.
 nuroa.com.ve.
@@ -18418,6 +18422,9 @@ sanofi.co.ve.
 sanofi.com.ve.
 sanonline.com.ve.
 sanos.com.ve.
+sanpablo.com.ve.
+sanpablo.net.ve.
+sanpablo.org.ve.
 sanpedrocolegio.com.ve.
 sanpedrodecoche.edu.ve.
 sanrafaeldepaguita.com.ve.
@@ -19477,7 +19484,6 @@ sojostar.com.ve.
 sol.co.ve.
 sol.com.ve.
 solad.com.ve.
-solana.co.ve.
 solaraze.com.ve.
 solarcanino.com.ve.
 solarcentury.com.ve.
@@ -19951,6 +19957,7 @@ sucre-trujillo.gob.ve.
 sucre-yaracuy.gob.ve.
 sucre-zulia.gob.ve.
 sucrecomercial.com.ve.
+sucrenet.com.ve.
 sucreturismo.gob.ve.
 suculentas.com.ve.
 sudeaseg.gob.ve.
@@ -19984,6 +19991,7 @@ suitco.com.ve.
 sulca.com.ve.
 sultana.com.ve.
 sulzer.com.ve.
+suma.net.ve.
 sumandokilometros.com.ve.
 sumar.gob.ve.
 sumarcaca.com.ve.
@@ -20986,6 +20994,7 @@ toyotadevenezuela.com.ve.
 toyotadevenezuela.org.ve.
 toyotadevenezuela.web.ve.
 toyotaindustrial.com.ve.
+toyotaservices.com.ve.
 toyotavenezuela.com.ve.
 toyotavenezuela.org.ve.
 toyotavenezuela.web.ve.
