@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 07Jan2025 04:19 UTC
+# ve domain names extracted from nameservers on 08Jan2025 03:27 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -266,6 +266,7 @@ acciontrabajo.com.ve.
 accorservices.com.ve.
 accsi.org.ve.
 acctecnologia.com.ve.
+accu-chek.com.ve.
 accubanker.com.ve.
 accusys.com.ve.
 accuweather.com.ve.
@@ -1516,6 +1517,7 @@ aquapark.com.ve.
 aquarela.com.ve.
 aquarena.com.ve.
 aquariumdevalencia.gob.ve.
+aquashop.com.ve.
 aquatech.com.ve.
 aquavista.com.ve.
 aquavisuites.com.ve.
@@ -2682,6 +2684,7 @@ bioparral.com.ve.
 biopharma.com.ve.
 bioplaga.com.ve.
 biopsicosalud.com.ve.
+biore.com.ve.
 biorenacer.com.ve.
 biotech.com.ve.
 biotecnologiasfbc.com.ve.
@@ -4241,7 +4244,6 @@ circuitbreaker.com.ve.
 circuitobrillante.com.ve.
 circuitoelectrikfm.com.ve.
 circuitoglobal.com.ve.
-circuitonoticias.com.ve.
 circuitorrb.gob.ve.
 circuitosuenavenezuela.com.ve.
 circulobqto.mil.ve.
@@ -5268,6 +5270,7 @@ consultarif.com.ve.
 consultatumedico.com.ve.
 consultek.com.ve.
 consultorass.com.ve.
+consultoresjfc.com.ve.
 consultoreslegales.com.ve.
 consultoresmct.com.ve.
 consultoriait.net.ve.
@@ -5446,6 +5449,7 @@ coranztur.gob.ve.
 corasa.gob.ve.
 coravin.com.ve.
 corazondeadonay.org.ve.
+corazondemaria.com.ve.
 corazondemaria.edu.ve.
 cordillera.com.ve.
 cordilleraproducts.com.ve.
@@ -8105,7 +8109,6 @@ fender.com.ve.
 fenegas.com.ve.
 fenixsalud.com.ve.
 fenixwebcaracas.com.ve.
-fepafem.org.ve.
 fepr.gob.ve.
 fercam.com.ve.
 feriadellibroccs.org.ve.
@@ -9423,6 +9426,7 @@ globalwebtek.com.ve.
 globalxetfs.com.ve.
 globex.com.ve.
 globexre.com.ve.
+globovision.com.ve.
 glodi.com.ve.
 gloryglobalsolutions.co.ve.
 glossier.com.ve.
@@ -12512,7 +12516,6 @@ laconstancia.com.ve.
 lacoste.com.ve.
 lacour.com.ve.
 lacsa.com.ve.
-lactacyd.com.ve.
 lactalis.com.ve.
 lactalisvzla.com.ve.
 lacteosdelalba.gob.ve.
@@ -12562,6 +12565,7 @@ lalinda.net.ve.
 lalis.com.ve.
 lalo.com.ve.
 lamarinacaracas.com.ve.
+lamarmotors.com.ve.
 lamborghini.co.ve.
 lamborghini.com.ve.
 lambretta.co.ve.
@@ -12668,6 +12672,7 @@ lasnoticiasdehoy.com.ve.
 lasnovedades.com.ve.
 lasociete.com.ve.
 lasolasresort.com.ve.
+lassantasunidas.com.ve.
 lastfm.co.ve.
 lastfm.com.ve.
 lastresbrujas.com.ve.
@@ -14339,6 +14344,7 @@ minet.com.ve.
 mineu.gob.ve.
 mingo.com.ve.
 minhav.gov.ve.
+minhidrocarburos.gob.ve.
 minhv.gob.ve.
 minhvi.gob.ve.
 mini.co.ve.
@@ -14651,6 +14657,7 @@ mostbet.com.ve.
 motasa.com.ve.
 motatan-trujillo.gob.ve.
 motelbambu.com.ve.
+motelsandiego.com.ve.
 mothercare.co.ve.
 motindustria.com.ve.
 motocool.com.ve.
@@ -15140,7 +15147,6 @@ netoolsca.com.ve.
 netpath.com.ve.
 netplus.com.ve.
 netport.com.ve.
-netprinter.com.ve.
 nets.ve.
 netsafe.com.ve.
 netsave.co.ve.
@@ -15634,6 +15640,7 @@ oliveira.com.ve.
 oliverblanco.com.ve.
 olodaterol.com.ve.
 oltpvoice.com.ve.
+olux-e.co.ve.
 olx.co.ve.
 olx.com.ve.
 olxautos.co.ve.
@@ -16340,6 +16347,7 @@ perforosven.com.ve.
 perfumadas.com.ve.
 perfumesclub.co.ve.
 perfumesclub.com.ve.
+perfumessence.com.ve.
 pergoveris.com.ve.
 pericon.com.ve.
 perinoladesign.com.ve.
@@ -16511,6 +16519,7 @@ pimco.com.ve.
 pimentelrauseo.com.ve.
 pimvca.com.ve.
 pina.com.ve.
+pinbet.com.ve.
 pine.co.ve.
 pineco.com.ve.
 pinedacardozo.com.ve.
@@ -17408,6 +17417,7 @@ radioestadio.com.ve.
 radioflyer.com.ve.
 radioguaco.com.ve.
 radiohcinternacional.com.ve.
+radioiberolatina.com.ve.
 radioideal.com.ve.
 radioius.com.ve.
 radiolavozdefedevysme.com.ve.
@@ -20351,6 +20361,7 @@ techinsider.com.ve.
 technet.com.ve.
 technioptic.com.ve.
 techno-tel.net.ve.
+technocrata.com.ve.
 technologie.com.ve.
 technopc.com.ve.
 technosmart.com.ve.
@@ -20712,7 +20723,6 @@ ticketalimentacion.com.ve.
 ticketbis.co.ve.
 ticketbis.com.ve.
 ticketmundo.com.ve.
-ticketnetwork.com.ve.
 ticketrestaurant.com.ve.
 tickets.com.ve.
 ticketutils.co.ve.
@@ -21259,6 +21269,7 @@ tucasita.com.ve.
 tucelulamadre.com.ve.
 tuchance.com.ve.
 tuchance.net.ve.
+tuchuchero.com.ve.
 tucisterna.com.ve.
 tucompraenamazon.com.ve.
 tucondominioenlared.com.ve.
