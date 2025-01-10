@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 08Jan2025 03:27 UTC
+# ve domain names extracted from nameservers on 09Jan2025 03:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1133,7 +1133,6 @@ altomi.com.ve.
 altoorinoco-amazonas.gov.ve.
 altoque.co.ve.
 altoque.com.ve.
-altosdelpenon.com.ve.
 altosfm.com.ve.
 altotorque.com.ve.
 altria.co.ve.
@@ -1574,6 +1573,7 @@ arcoxia.com.ve.
 arcven.com.ve.
 arcyart.com.ve.
 ardas.com.ve.
+area.com.ve.
 areadeportiva.com.ve.
 areaverde.com.ve.
 arelec.com.ve.
@@ -7155,6 +7155,7 @@ electrosonic.com.ve.
 electrotechsolutions.com.ve.
 eleinca.com.ve.
 eleka.com.ve.
+elektra.com.ve.
 elektrocell.com.ve.
 elektror.com.ve.
 element.com.ve.
@@ -9359,6 +9360,7 @@ glaube.com.ve.
 glc.com.ve.
 glcconsulting.com.ve.
 gleason.com.ve.
+gleco.com.ve.
 glencore.com.ve.
 glenfiddich.com.ve.
 glivec.com.ve.
@@ -9367,6 +9369,7 @@ glmt.com.ve.
 globainformatica.com.ve.
 global-axis.com.ve.
 global-leasing.com.ve.
+global-lex.com.ve.
 global-link.net.ve.
 global-mall.com.ve.
 global-pay.com.ve.
@@ -10675,6 +10678,7 @@ ias.co.ve.
 iasbtiene.gob.ve.
 iaspi.gob.ve.
 iaspmupal.gob.ve.
+iatiseguros.com.ve.
 iattc.gov.ve.
 iattcchacao.gob.ve.
 iatur.gob.ve.
@@ -11218,7 +11222,6 @@ inmueblesventayalquiler.com.ve.
 inmuebleya.com.ve.
 inmunooncologia.com.ve.
 inn.gob.ve.
-innaca.com.ve.
 innelec.com.ve.
 innoaestheticsvzla.com.ve.
 innoba.com.ve.
@@ -11702,6 +11705,7 @@ isuzu.co.ve.
 isvenca.com.ve.
 it.co.ve.
 it.com.ve.
+it.net.ve.
 italautos.com.ve.
 italven.net.ve.
 itanium.com.ve.
@@ -11966,7 +11970,6 @@ jgrautodist.com.ve.
 jgtecnologias.com.ve.
 jhs.com.ve.
 jhservice.com.ve.
-jhsistemas.com.ve.
 jialing.com.ve.
 jifi.edu.ve.
 jifi2000.edu.ve.
@@ -12403,7 +12406,6 @@ krone.com.ve.
 krones.co.ve.
 krones.com.ve.
 kronos.co.ve.
-kronotek.com.ve.
 krooncheese.com.ve.
 krsystems.com.ve.
 krusco.com.ve.
@@ -14632,7 +14634,6 @@ moralyluces-merida.gob.ve.
 moralyluces-miranda.gob.ve.
 moralyluces.gob.ve.
 moran-lara.gob.ve.
-morant.com.ve.
 morantes.com.ve.
 morbidelli.com.ve.
 morecast.com.ve.
@@ -15402,6 +15403,7 @@ nube.gob.ve.
 nubeazul.com.ve.
 nubeexpress.com.ve.
 nubetechno.com.ve.
+nubo.com.ve.
 nubox.com.ve.
 nucita.com.ve.
 nucitavenezolana.com.ve.
@@ -16191,7 +16193,6 @@ patrimoniometropolitano.gob.ve.
 patrullajeinteligente.gob.ve.
 patza.com.ve.
 paulgillman.com.ve.
-paulortegagonzalez.net.ve.
 pavco.com.ve.
 pave.com.ve.
 pave.org.ve.
@@ -17162,7 +17163,6 @@ protoindustrial.co.ve.
 protseg.com.ve.
 prounidas.com.ve.
 prout.org.ve.
-provemar.com.ve.
 provenezuela.gob.ve.
 provenra.com.ve.
 provincialbarinitas.edu.ve.
@@ -17300,6 +17300,7 @@ qasesorios.com.ve.
 qbarato.com.ve.
 qbos.com.ve.
 qca.com.ve.
+qcy.com.ve.
 qdevs.com.ve.
 qhay.com.ve.
 qiangliled.com.ve.
@@ -20246,7 +20247,6 @@ tachira.gov.ve.
 tachira.net.ve.
 tachira.org.ve.
 tachiraenlinea.gov.ve.
-tachitec.com.ve.
 tafetractors.co.ve.
 tafetractors.com.ve.
 tag-heuer.com.ve.
@@ -21614,6 +21614,7 @@ uepsimonrodriguez.com.ve.
 uepsimonrodriguez.edu.ve.
 uepsr.com.ve.
 ueptc.com.ve.
+uepverdadyvida.co.ve.
 ues.edu.ve.
 uesagradafamiliaac.com.ve.
 uesannicolas.com.ve.
@@ -21624,6 +21625,7 @@ ufinet.com.ve.
 uft.edu.ve.
 ugma.edu.ve.
 ugmavenezuela.edu.ve.
+uhomie.com.ve.
 uhrcenter.com.ve.
 uiam.com.ve.
 uic.org.ve.

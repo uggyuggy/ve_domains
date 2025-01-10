@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 09Jan2025 03:24 UTC
+# ve domain names extracted from nameservers on 10Jan2025 03:26 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1030,6 +1030,7 @@ alianzasalud.com.ve.
 alice.com.ve.
 alicorp.com.ve.
 alienstudio.com.ve.
+alienware.com.ve.
 aliexpress.com.ve.
 alimak.com.ve.
 alimakhek.com.ve.
@@ -1731,6 +1732,7 @@ asesoriainmobiliaria.com.ve.
 asesoriapostal.com.ve.
 asesorias.com.ve.
 asesoriaycapacitacion.com.ve.
+asesorit.com.ve.
 asg.com.ve.
 asgmultiplex.co.ve.
 ashe.com.ve.
@@ -2331,6 +2333,7 @@ bauxilum.com.ve.
 bav.com.ve.
 bav.gob.ve.
 bavenlinea.com.ve.
+bavuso.com.ve.
 baxter.com.ve.
 bayer.co.ve.
 bayer.com.ve.
@@ -4958,6 +4961,7 @@ comelpa.com.ve.
 comercialgil.com.ve.
 comercializadoracega.com.ve.
 comercializadoralago.com.ve.
+comercializadoranm.com.ve.
 comercializadoravarazze.com.ve.
 comercializadoravenesca2023.com.ve.
 comercialsalvador.com.ve.
@@ -7784,6 +7788,7 @@ evisagov.com.ve.
 evisex.com.ve.
 evisiongps.com.ve.
 evisos.com.ve.
+evoclin.co.ve.
 evoice.co.ve.
 evoice.com.ve.
 evolucionconsciente.org.ve.
@@ -7884,6 +7889,7 @@ expresaloquesientes.com.ve.
 express.com.ve.
 expressvpn.co.ve.
 expvenezuela.co.ve.
+extina.co.ve.
 extractoreseolicos.com.ve.
 extravirgen.com.ve.
 extreme-sports.com.ve.
@@ -8237,6 +8243,7 @@ fih.org.ve.
 fii.gob.ve.
 fila.co.ve.
 filicabh.com.ve.
+filig.com.ve.
 filink.com.ve.
 filmbooster.com.ve.
 filopack.com.ve.
@@ -10743,6 +10750,7 @@ icscorp.com.ve.
 icsecurity.com.ve.
 icsw.com.ve.
 icta.com.ve.
+icuvenezuela.org.ve.
 id.com.ve.
 idaca.com.ve.
 idadvisor.com.ve.
@@ -10884,6 +10892,7 @@ imago.com.ve.
 imalbeca.com.ve.
 imar.com.ve.
 imarca.com.ve.
+imaseo.org.ve.
 imation.com.ve.
 imau.gob.ve.
 imaubar.gob.ve.
@@ -12606,6 +12615,7 @@ lanonlineca.com.ve.
 lanprosystems.com.ve.
 lanprosystems.net.ve.
 lansarcaracas.com.ve.
+lansionbio.com.ve.
 lanta.com.ve.
 lanxess.com.ve.
 laoratorioselmor.web.ve.
@@ -13282,6 +13292,7 @@ luv.edu.ve.
 luve.com.ve.
 luvebras.com.ve.
 luxig.co.ve.
+luxiq.co.ve.
 luxor.com.ve.
 luxuryretreats.co.ve.
 luxuryretreats.com.ve.
@@ -13814,7 +13825,6 @@ mcmastercarr.co.ve.
 mcmedical.com.ve.
 mcp.com.ve.
 mcsconsulting.com.ve.
-mct.com.ve.
 mct.gob.ve.
 mct.gov.ve.
 mcti-nuevaesparta.gob.ve.
@@ -13977,7 +13987,6 @@ melissaanddoug.com.ve.
 melitta.co.ve.
 melitta.com.ve.
 mellado-guarico.gob.ve.
-melmaca.com.ve.
 melochemonnex.co.ve.
 melochemonnex.com.ve.
 melocomo.com.ve.
@@ -15643,6 +15652,7 @@ oliverblanco.com.ve.
 olodaterol.com.ve.
 oltpvoice.com.ve.
 olux-e.co.ve.
+olux.co.ve.
 olx.co.ve.
 olx.com.ve.
 olxautos.co.ve.
@@ -16116,7 +16126,6 @@ pararrayos.com.ve.
 parasino.com.ve.
 paravivirviendo.gob.ve.
 paravivirviviendo.gob.ve.
-parenteinformatico.com.ve.
 parentschoice.com.ve.
 pares2go.com.ve.
 parfois.com.ve.
@@ -17187,6 +17196,7 @@ proyectoresponsabilidad.com.ve.
 proyectos.com.ve.
 proyectos.nic.ve.
 proyectosbrain.com.ve.
+proyectosjym.com.ve.
 proyectosromaca.com.ve.
 proyectostecnicos.com.ve.
 proyectowebsistemas.com.ve.
@@ -18196,6 +18206,7 @@ rutamirandina.gob.ve.
 rutasbolivar.com.ve.
 rutasfm.net.ve.
 rutastachira.com.ve.
+rutax.com.ve.
 rutel.com.ve.
 ruvae.edu.ve.
 rv.com.ve.
@@ -19668,6 +19679,7 @@ southwestairlines.com.ve.
 souvenirtravel.com.ve.
 sovconsultores.com.ve.
 sovemepal.org.ve.
+sovemib.org.ve.
 sovemo.org.ve.
 sovenplast.com.ve.
 sovepcys.org.ve.
@@ -20940,7 +20952,6 @@ tornilleriaglobal.com.ve.
 toro.co.ve.
 torondoy.com.ve.
 torontour.com.ve.
-tororojo.com.ve.
 torrecolina.com.ve.
 torres-lara.gob.ve.
 torta.co.ve.
@@ -21243,6 +21254,7 @@ tst-comercioenlinea.com.ve.
 tstalent.com.ve.
 tti.com.ve.
 tticket.com.ve.
+ttnetwork.com.ve.
 ttpn.com.ve.
 ttup.com.ve.
 tu-certificacion-de-ingresos.com.ve.
