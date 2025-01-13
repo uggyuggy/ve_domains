@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 11Jan2025 03:31 UTC
+# ve domain names extracted from nameservers on 12Jan2025 03:39 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -59,7 +59,6 @@
 23andme.com.ve.
 247bet.com.ve.
 24x7security.com.ve.
-2aeventos.com.ve.
 2aguas.com.ve.
 2bingenieria.com.ve.
 2crea2ca.com.ve.
@@ -1873,7 +1872,6 @@ audionova.co.ve.
 auditoresman.com.ve.
 aula-educredito.org.ve.
 aulaglobal.net.ve.
-aulahugochavez.org.ve.
 aulainteractiva.com.ve.
 aulamedica.com.ve.
 aulaplaneta.co.ve.
@@ -3560,7 +3558,6 @@ casajosemarti.gov.ve.
 casalab.com.ve.
 casalista.com.ve.
 casaliving.com.ve.
-casallini.com.ve.
 casamall.com.ve.
 casamarmol.com.ve.
 casaolimpo.co.ve.
@@ -5267,6 +5264,7 @@ consulate-ny.gov.ve.
 consulbank.com.ve.
 consulta.com.ve.
 consultalegal.com.ve.
+consultamedica.com.ve.
 consultarif.com.ve.
 consultatumedico.com.ve.
 consultek.com.ve.
@@ -5276,7 +5274,6 @@ consultoreslegales.com.ve.
 consultoresmct.com.ve.
 consultoriait.net.ve.
 consultoriodontologicokarlopez.com.ve.
-contabilidadaldia.com.ve.
 contadoreslacg.com.ve.
 contadorpubliconline.com.ve.
 contasimple.com.ve.
@@ -8104,6 +8101,7 @@ felinaestereo.com.ve.
 felixojedaoropeza.com.ve.
 felixromanduque.edu.ve.
 felizviaje.com.ve.
+femelycosmetics.com.ve.
 femini.com.ve.
 femsur.edu.ve.
 femsur.gob.ve.
@@ -8766,6 +8764,7 @@ fujitsu.org.ve.
 fullattention.com.ve.
 fullcargo.com.ve.
 fullcarro.com.ve.
+fullciclismo.net.ve.
 fullcolor.com.ve.
 fulldata.com.ve.
 fullgestion.com.ve.
@@ -9808,7 +9807,6 @@ grupomaralac.com.ve.
 grupomartinez.com.ve.
 grupomaxi.com.ve.
 grupomaxima.com.ve.
-grupomazloum.com.ve.
 grupomcair.com.ve.
 grupomedicobpro.com.ve.
 grupomedigraf.com.ve.
@@ -12185,7 +12183,6 @@ kaiyi.com.ve.
 kaizen.com.ve.
 kaizen.net.ve.
 kaizenholdings.com.ve.
-kalafood.com.ve.
 kalia.com.ve.
 kalixta.com.ve.
 kalley.com.ve.
@@ -15432,6 +15429,7 @@ nuevohotmail.com.ve.
 nuevomundo.com.ve.
 nuevosiglo.com.ve.
 nugen.co.ve.
+numa.com.ve.
 numismatica.com.ve.
 numismatica.info.ve.
 nunhems.com.ve.
@@ -15769,6 +15767,8 @@ openvps.com.ve.
 openvps.net.ve.
 openworldconsult.com.ve.
 opera.co.ve.
+operacionsonrisa.net.ve.
+operacionsonrisa.org.ve.
 operadoraturisticadelcaribe.com.ve.
 operamini.co.ve.
 opinion.co.ve.
@@ -19363,7 +19363,6 @@ skyworth.com.ve.
 skyworthev.com.ve.
 skyworthev.info.ve.
 slackware.org.ve.
-slam.com.ve.
 slan.org.ve.
 sleepinn.com.ve.
 sleepnumber.co.ve.
@@ -19424,7 +19423,6 @@ smo.com.ve.
 smol.com.ve.
 smol.net.ve.
 smpharma.com.ve.
-smsdigital.com.ve.
 smsmessenger.com.ve.
 smsv.com.ve.
 smuckers.com.ve.
@@ -22461,7 +22459,6 @@ vinculando.com.ve.
 vinfast.com.ve.
 vinfastauto.com.ve.
 vinodol.com.ve.
-vinotintosmlb.com.ve.
 vinted.co.ve.
 vio.com.ve.
 viotto.com.ve.

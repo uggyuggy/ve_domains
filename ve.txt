@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 12Jan2025 03:39 UTC
+# ve domain names extracted from nameservers on 13Jan2025 03:36 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -63,7 +63,6 @@
 2bingenieria.com.ve.
 2crea2ca.com.ve.
 2design.com.ve.
-2m.com.ve.
 2mingenieria.com.ve.
 2ringenieria.com.ve.
 311bibolivar.mil.ve.
@@ -2651,7 +2650,6 @@ biodan.com.ve.
 biodanza.org.ve.
 biodata.com.ve.
 bioderma.com.ve.
-biodevenezuela.com.ve.
 bioexpresslab.com.ve.
 biofarco.com.ve.
 biofina.com.ve.
@@ -3624,7 +3622,6 @@ cat.com.ve.
 cat.org.ve.
 cata-lagoon.com.ve.
 catagourmets.com.ve.
-catalina.com.ve.
 catalogoaquarella.com.ve.
 catalogocnt.gob.ve.
 catalogofunves.gob.ve.
@@ -7309,7 +7306,6 @@ embutidoscovadonga.com.ve.
 emcofanb.com.ve.
 emcofanb.mil.ve.
 emdutruca.gob.ve.
-emeca.com.ve.
 emeis.co.ve.
 emeis.com.ve.
 emersonramirez.com.ve.
@@ -11433,7 +11429,6 @@ intergeo.com.ve.
 intergest.com.ve.
 interhome.com.ve.
 interimex.com.ve.
-interinn.com.ve.
 interlink.net.ve.
 interlogistic.co.ve.
 intermarine.com.ve.
@@ -16552,7 +16547,6 @@ pinup.com.ve.
 pioneer.co.ve.
 pioneros.com.ve.
 piotamayo131.org.ve.
-piovesan.com.ve.
 pioxiicoro.org.ve.
 pipienlacama.co.ve.
 pira.com.ve.
@@ -19600,7 +19594,6 @@ solunion.com.ve.
 solutech.com.ve.
 solutech3001.com.ve.
 solutelca.com.ve.
-solutordelta.com.ve.
 solvay-rhodia.co.ve.
 solvay-rhodia.com.ve.
 solvay.com.ve.
@@ -21106,7 +21099,6 @@ transcoal.com.ve.
 transelca.com.ve.
 transferpay.com.ve.
 transformaciondigital.com.ve.
-transformaciondigital.org.ve.
 transgomasfd.com.ve.
 transitoterrestre.gob.ve.
 translogistica.com.ve.
@@ -22174,7 +22166,6 @@ venemundo.net.ve.
 venepago.co.ve.
 veneprop.com.ve.
 venescca.com.ve.
-venescopio.org.ve.
 venesulca.com.ve.
 venet.com.ve.
 venetacucine.co.ve.
