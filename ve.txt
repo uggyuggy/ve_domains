@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 13Jan2025 03:36 UTC
+# ve domain names extracted from nameservers on 14Jan2025 03:39 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1082,6 +1082,7 @@ almacaroni.gob.ve.
 almacenadoracaracas.gob.ve.
 almanzarca.com.ve.
 almapura.com.ve.
+almayor.com.ve.
 almccs.gob.ve.
 almed.com.ve.
 almirantepadilla-zulia.gob.ve.
@@ -3463,6 +3464,7 @@ caribbeanatoms.com.ve.
 caribe.com.ve.
 caribesea.com.ve.
 caribia.gob.ve.
+carina.com.ve.
 caripe-monagas.gob.ve.
 carirubana-falcon.gob.ve.
 carirubana-falcon.gov.ve.
@@ -6373,7 +6375,6 @@ diagbox.com.ve.
 diageo.co.ve.
 diageo.com.ve.
 diageobaracademy.com.ve.
-diagnotest.com.ve.
 dialisis.com.ve.
 dialisis.net.ve.
 dializate.com.ve.
@@ -7154,8 +7155,6 @@ elektra.com.ve.
 elektrocell.com.ve.
 elektror.com.ve.
 element.com.ve.
-element14.co.ve.
-element14.com.ve.
 elemental.com.ve.
 eleoccidente.gob.ve.
 eleoccidente.gov.ve.
@@ -8656,7 +8655,6 @@ freehosting.com.ve.
 freelance.com.ve.
 freemarket.com.ve.
 freemeteo.com.ve.
-freepeople.com.ve.
 freetour.com.ve.
 freeway.com.ve.
 freewebhosting.com.ve.
@@ -9891,6 +9889,7 @@ gsmfinanzas.com.ve.
 gso.com.ve.
 gsp.com.ve.
 gssc.com.ve.
+gstechnology.com.ve.
 gsuite.co.ve.
 gsuite.com.ve.
 gsuites.com.ve.
@@ -9904,6 +9903,7 @@ guacara-carabobo.gov.ve.
 guacaubana.com.ve.
 guacharoactivo.com.ve.
 guachirongoendial.com.ve.
+guahoo.com.ve.
 guaicaipuro-miranda.gov.ve.
 guaicaipurodigital.info.ve.
 guanare-portuguesa.gob.ve.
@@ -11892,7 +11892,6 @@ janscar.com.ve.
 janssen-cilag.com.ve.
 janssen.com.ve.
 janumetxr.com.ve.
-janus.com.ve.
 jap.com.ve.
 japancorp.com.ve.
 japon.com.ve.
@@ -12716,7 +12715,6 @@ lavazzaespressopoint.co.ve.
 lavazzaespressopoint.com.ve.
 lavenca.com.ve.
 lavera.co.ve.
-lavictoriaaldia.com.ve.
 lavilladelrosario.com.ve.
 lavillaheroicafm.com.ve.
 lavitalicia.com.ve.
@@ -13093,7 +13091,6 @@ logintel.com.ve.
 logiqos.com.ve.
 logis.com.ve.
 logisticadigital.com.ve.
-logisticaintgsen.co.ve.
 logisticazc.com.ve.
 logistika.com.ve.
 logitravel.com.ve.
@@ -13716,6 +13713,7 @@ mauroa-falcon.gov.ve.
 mavala.com.ve.
 mavenclad.com.ve.
 mavica.com.ve.
+mavidcarabobo.org.ve.
 mavulca.com.ve.
 mawdy.com.ve.
 mawi.com.ve.
@@ -16412,11 +16410,9 @@ petrolera.com.ve.
 petroleum.com.ve.
 petroleumcontractor.com.ve.
 petronet.co.ve.
-petroquimicasima.com.ve.
 petroservices.com.ve.
 petroservicios.com.ve.
 petroservicios7.com.ve.
-petrosima.com.ve.
 petsplanet.com.ve.
 petya.org.ve.
 peugeot.com.ve.
@@ -17723,7 +17719,6 @@ regus.com.ve.
 rehau.com.ve.
 reicom.com.ve.
 reier.com.ve.
-reiki.com.ve.
 reiki.org.ve.
 reinco.com.ve.
 rela.com.ve.
@@ -18178,7 +18173,6 @@ rud.com.ve.
 rudylogistic.com.ve.
 ruedalibre.com.ve.
 ruedaslamundial.com.ve.
-rugstar.com.ve.
 ruizcano.com.ve.
 ruleta.co.ve.
 ruletactiva.com.ve.
@@ -18791,6 +18785,7 @@ sellatuparley.co.ve.
 selma.com.ve.
 selvaplus.com.ve.
 semana.com.ve.
+semanadelacocinaitaliana.com.ve.
 semanca.com.ve.
 semat-pc.gob.ve.
 sematiribarren.com.ve.
@@ -18841,7 +18836,6 @@ sercoinfal.com.ve.
 sercom.net.ve.
 serconplafumigaciones.com.ve.
 serdolect.com.ve.
-sereca.com.ve.
 serenidadmental.com.ve.
 sergama.com.ve.
 sergeca.com.ve.
@@ -19380,7 +19374,6 @@ smartcloudsolutions.com.ve.
 smartcloudsolutions.net.ve.
 smartcold.com.ve.
 smartcond.com.ve.
-smartconnect.com.ve.
 smartdev.com.ve.
 smarter.com.ve.
 smartersafe.com.ve.
@@ -20040,6 +20033,7 @@ suministroalimenticioslux.com.ve.
 suministrosdct.com.ve.
 suministrosmultitec.com.ve.
 sumintegral.com.ve.
+suminven.com.ve.
 sumipeca.com.ve.
 sumitomochemical.co.ve.
 sumitomochemical.com.ve.
@@ -21741,7 +21735,6 @@ unicar.com.ve.
 unicasa.com.ve.
 unicatalunya.co.ve.
 unichem.com.ve.
-unichip.com.ve.
 unicity.com.ve.
 unicitynetwork.com.ve.
 unicon.com.ve.
@@ -22881,7 +22874,6 @@ wildcasino.co.ve.
 wildcasino.com.ve.
 wildsolutions.com.ve.
 wilhelmsen.com.ve.
-wilkimedia.com.ve.
 williamhill.co.ve.
 williampearson.com.ve.
 willistowerswatson.co.ve.
