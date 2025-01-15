@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 14Jan2025 03:39 UTC
+# ve domain names extracted from nameservers on 15Jan2025 04:50 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -35,6 +35,7 @@
 1stchoice.com.ve.
 1win.co.ve.
 1win.com.ve.
+1win.net.ve.
 1x-bet.com.ve.
 1x10.com.ve.
 1x10delbuengobierno.gob.ve.
@@ -597,6 +598,7 @@ agroquimicoszambrano.com.ve.
 agrosistemasjpj.com.ve.
 agrosur.com.ve.
 agrosur.gob.ve.
+agrototal.com.ve.
 agrotradingvenezuela.com.ve.
 agrotributos.com.ve.
 agroventasvenezuela.com.ve.
@@ -11220,6 +11222,7 @@ inmueblesventayalquiler.com.ve.
 inmuebleya.com.ve.
 inmunooncologia.com.ve.
 inn.gob.ve.
+innaca.com.ve.
 innelec.com.ve.
 innoaestheticsvzla.com.ve.
 innoba.com.ve.
@@ -12401,6 +12404,7 @@ krone.com.ve.
 krones.co.ve.
 krones.com.ve.
 kronos.co.ve.
+kronotek.com.ve.
 krooncheese.com.ve.
 krsystems.com.ve.
 krusco.com.ve.
@@ -14147,6 +14151,7 @@ metrofarma.com.ve.
 metrologia.com.ve.
 metrologia.web.ve.
 metrolosteques.gob.ve.
+metromedia.com.ve.
 metromedica.com.ve.
 metroplas.com.ve.
 metropoliscars.com.ve.
@@ -17234,6 +17239,7 @@ publiarte.com.ve.
 publicholidays.com.ve.
 publicidadcenteno.com.ve.
 publicis.com.ve.
+publicisdialog.com.ve.
 publiinmuebles.com.ve.
 publik.com.ve.
 publinet.net.ve.
@@ -17407,6 +17413,7 @@ radioamiga909.com.ve.
 radioantenalibre.com.ve.
 radioanzoateguifm.com.ve.
 radiocanal.com.ve.
+radiochacao.com.ve.
 radiodinamica.com.ve.
 radiodisney.com.ve.
 radioestadio.com.ve.
@@ -18836,6 +18843,7 @@ sercoinfal.com.ve.
 sercom.net.ve.
 serconplafumigaciones.com.ve.
 serdolect.com.ve.
+sereca.com.ve.
 serenidadmental.com.ve.
 sergama.com.ve.
 sergeca.com.ve.
@@ -19546,6 +19554,7 @@ solitech.com.ve.
 solmelia.com.ve.
 soloalmayor.com.ve.
 solocruceros.com.ve.
+solodeporte.com.ve.
 solodeportes.com.ve.
 solohardware.com.ve.
 solostove.co.ve.
@@ -20219,6 +20228,7 @@ syc.com.ve.
 sycom.com.ve.
 syensqo.co.ve.
 syensqo.com.ve.
+syf.com.ve.
 syfy.co.ve.
 syfy.com.ve.
 syfyuniversal.com.ve.
@@ -21771,6 +21781,7 @@ unipap.edu.ve.
 unipaponline.com.ve.
 unipharma.com.ve.
 uniplast.com.ve.
+uniprint.com.ve.
 uniqlo.co.ve.
 uniqlo.com.ve.
 unique.com.ve.
