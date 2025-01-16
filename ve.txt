@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 15Jan2025 04:50 UTC
+# ve domain names extracted from nameservers on 16Jan2025 04:50 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4591,6 +4591,7 @@ coatingsdeoriente.com.ve.
 coatscrafts.com.ve.
 coatsepic.com.ve.
 cobb.com.ve.
+cober.com.ve.
 cobinca.com.ve.
 cobra.com.ve.
 coc.com.ve.
@@ -6478,6 +6479,7 @@ dilogic.com.ve.
 dilorenzo.com.ve.
 dim.mil.ve.
 dimca.com.ve.
+dime.com.ve.
 dimo.com.ve.
 dimo.gob.ve.
 dimperca.com.ve.
@@ -8657,6 +8659,7 @@ freehosting.com.ve.
 freelance.com.ve.
 freemarket.com.ve.
 freemeteo.com.ve.
+freepeople.com.ve.
 freetour.com.ve.
 freeway.com.ve.
 freewebhosting.com.ve.
@@ -13455,6 +13458,7 @@ mandginvestments.com.ve.
 mandiant.com.ve.
 mands.com.ve.
 maneiro-nuevaesparta.gob.ve.
+manejodefensivo.com.ve.
 manfica.com.ve.
 manganiello.com.ve.
 manglarte.org.ve.
@@ -13790,6 +13794,7 @@ mcafee.com.ve.
 mcaironline.com.ve.
 mcarmenreyes.com.ve.
 mcba.gob.ve.
+mcbogamejam.com.ve.
 mcc.org.ve.
 mccain.com.ve.
 mcda.com.ve.
@@ -13918,6 +13923,7 @@ mega6.co.ve.
 mega6.com.ve.
 mega6tntsports.co.ve.
 mega6tntsports.com.ve.
+megabusiness.com.ve.
 megacentro.com.ve.
 megaconfites.com.ve.
 megacontrol.com.ve.
@@ -14809,6 +14815,7 @@ mtt.gob.ve.
 mtv.co.ve.
 mtvmusic.com.ve.
 mtvmusica.com.ve.
+mtxautomotive.com.ve.
 mucaracas.com.ve.
 mucoangin.com.ve.
 mucultura.gob.ve.
@@ -15387,6 +15394,7 @@ novustart.com.ve.
 nowassistance.com.ve.
 nowfoods.com.ve.
 nowo.com.ve.
+npariaccpes.org.ve.
 npr.com.ve.
 npvagency.com.ve.
 ns2desarrollosweb.com.ve.
@@ -18762,6 +18770,7 @@ seguros-de-viaje.com.ve.
 segurosbanesco.com.ve.
 segurosbaratos.com.ve.
 seguroscapital.com.ve.
+segurosclev.com.ve.
 segurosconstitucion.com.ve.
 seguroshorizonte.gob.ve.
 segurosmapfre.com.ve.
@@ -19248,6 +19257,7 @@ sipacha.com.ve.
 sipheca.com.ve.
 sipoa.com.ve.
 sipp.com.ve.
+sippco.com.ve.
 siragon.com.ve.
 siratachira.gob.ve.
 sirconet.com.ve.
@@ -20414,6 +20424,7 @@ tecno-red.net.ve.
 tecno-soluciones.com.ve.
 tecnoamerica.com.ve.
 tecnobuy.com.ve.
+tecnochui.com.ve.
 tecnocobros.com.ve.
 tecnocoloravila2000.com.ve.
 tecnocomputer.com.ve.
@@ -22786,7 +22797,6 @@ we-buildgroup.com.ve.
 wearfigs.com.ve.
 weather.com.ve.
 weatherford.com.ve.
-web.co.ve.
 web.ve.
 webbeds.com.ve.
 webcams.com.ve.
