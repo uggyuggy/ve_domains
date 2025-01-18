@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 16Jan2025 04:50 UTC
+# ve domain names extracted from nameservers on 17Jan2025 04:50 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3688,7 +3688,6 @@ cbp.gob.ve.
 cbre.com.ve.
 cbrecr.com.ve.
 cbx.com.ve.
-ccakespops.com.ve.
 ccandina.com.ve.
 cccgastrointestinal.gob.ve.
 cccsantasofia.com.ve.
@@ -4426,6 +4425,7 @@ clinicare.com.ve.
 clinicasanlucas.com.ve.
 clinicauva.com.ve.
 clinicavenezuelaredvital.com.ve.
+clinicavirgendelcarmen.com.ve.
 clinicazulia.com.ve.
 clinique.co.ve.
 clinique.com.ve.
@@ -5890,6 +5890,7 @@ cvc.gob.ve.
 cvcg.com.ve.
 cvcsoluciones.com.ve.
 cvdvaccine.co.ve.
+cvg.com.ve.
 cvg.gob.ve.
 cvgcarbonorca.com.ve.
 cvgferrocasa.com.ve.
@@ -6017,6 +6018,7 @@ dapoxetina.com.ve.
 darfa.gob.ve.
 darfa.mil.ve.
 darkorbit2.com.ve.
+darlayca.com.ve.
 darodistribuciones.com.ve.
 darphin.com.ve.
 darsalud.com.ve.
@@ -6614,6 +6616,7 @@ distribucionesconectando.com.ve.
 distribuidora2022ry.com.ve.
 distribuidoraalfredojj.com.ve.
 distribuidoraaustral.com.ve.
+distribuidoraaveirense.com.ve.
 distribuidoradelacultura.gob.ve.
 distribuidoradellibro.gob.ve.
 distribuidoradisante.com.ve.
@@ -6635,6 +6638,7 @@ disumosa.com.ve.
 disvel.com.ve.
 dit.com.ve.
 divacun.com.ve.
+divainparfums.co.ve.
 diverfiesta.com.ve.
 diverplace.com.ve.
 diversey.co.ve.
@@ -8283,6 +8287,7 @@ firmadigital.com.ve.
 firmaelectronica.gov.ve.
 firmalo.com.ve.
 firmania.com.ve.
+firmedigital.com.ve.
 firmenich.co.ve.
 firstca.com.ve.
 firstdata.co.ve.
@@ -9390,6 +9395,7 @@ globaldenso.com.ve.
 globaldesillas.com.ve.
 globaldesk.com.ve.
 globalenvios.com.ve.
+globaleps.com.ve.
 globalfix.com.ve.
 globalgreen.com.ve.
 globalgrouphap.com.ve.
@@ -10043,6 +10049,7 @@ hansgrohe.co.ve.
 hapag-lloyd.com.ve.
 hapaglloyd.com.ve.
 haraslaorlyana.com.ve.
+harcad.com.ve.
 hardcorestore.com.ve.
 hardox.com.ve.
 hardrock.co.ve.
@@ -10453,6 +10460,7 @@ hotelcountry.com.ve.
 hotelcrillon.com.ve.
 hoteldallas.com.ve.
 hotelelpaseo.com.ve.
+hotelemperador.com.ve.
 hoteles.com.ve.
 hotelescuela.edu.ve.
 hotelescuela.org.ve.
@@ -13059,6 +13067,7 @@ lnb.com.ve.
 lnh.gob.ve.
 loadsmart.co.ve.
 loadsmart.com.ve.
+lobasvip.com.ve.
 lobatera-tachira.gob.ve.
 lobateraindetenible.com.ve.
 loblan.com.ve.
@@ -20726,6 +20735,7 @@ thescoreespanol.com.ve.
 thescoreesportes.com.ve.
 thescorefc.com.ve.
 thesettlersonline.com.ve.
+theshadestore.com.ve.
 theupsstore.com.ve.
 theview.com.ve.
 thevoiceofvenezuela.com.ve.
@@ -21183,6 +21193,7 @@ trendnet.com.ve.
 tresemme.com.ve.
 tresg.com.ve.
 tresimport.com.ve.
+trexa.net.ve.
 tribal-wars.com.ve.
 tribehr.co.ve.
 tribehr.com.ve.
@@ -22847,6 +22858,7 @@ welltech.com.ve.
 wemo.co.ve.
 wemo.com.ve.
 wenco.com.ve.
+wendys.com.ve.
 wendyskids.com.ve.
 wert.com.ve.
 wesco.com.ve.
@@ -22857,6 +22869,7 @@ wework.co.ve.
 wework.com.ve.
 weys.com.ve.
 wgdigital.com.ve.
+wh.com.ve.
 whaticket.com.ve.
 whatsapp.co.ve.
 whatsapp.com.ve.
@@ -22956,7 +22969,6 @@ wobenzym.com.ve.
 wolfang.info.ve.
 wolflubes.co.ve.
 wonmotors.com.ve.
-woo.com.ve.
 woodmizer.com.ve.
 woolrich.com.ve.
 wordpress.com.ve.
