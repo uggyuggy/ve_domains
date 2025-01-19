@@ -1,9 +1,10 @@
-# ve domain names extracted from nameservers on 17Jan2025 04:50 UTC
+# ve domain names extracted from nameservers on 18Jan2025 04:50 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
 1-and-1.com.ve.
 1-win.com.ve.
+1-win.org.ve.
 1-y-1.com.ve.
 1.com.ve.
 1000rifas.com.ve.
@@ -1075,6 +1076,7 @@ alliedtelesyn.com.ve.
 allieduniversal.com.ve.
 allisontransmission.com.ve.
 allnet.com.ve.
+allpluspc.com.ve.
 allsaints.com.ve.
 allstore.com.ve.
 ally.com.ve.
@@ -2663,7 +2665,6 @@ biogeminis.com.ve.
 biografia.com.ve.
 biohiggins.com.ve.
 bioidentidad.com.ve.
-bioinsumos.com.ve.
 biokern.com.ve.
 biolab360.com.ve.
 biolatin.com.ve.
@@ -3831,6 +3832,7 @@ cemalara.gob.ve.
 cembeethoven.edu.ve.
 cementeriodeleste.com.ve.
 cementeriopuertasalcielo.com.ve.
+cementeriosjudiosaiv.org.ve.
 cemeparca.com.ve.
 cemos.com.ve.
 cen.gov.ve.
@@ -5425,7 +5427,6 @@ coordinaciontrujillanadecultura.gob.ve.
 copa.com.ve.
 copaair.com.ve.
 copaairlines.com.ve.
-copacasino.com.ve.
 copacking.com.ve.
 copacoca-cola.com.ve.
 copal.com.ve.
@@ -8510,7 +8511,6 @@ formaciontecnologica.com.ve.
 formacionvirtual.com.ve.
 formacol.com.ve.
 formafitgym.com.ve.
-formaprof.com.ve.
 formarte.com.ve.
 formica.com.ve.
 formiconi.com.ve.
@@ -9810,7 +9810,6 @@ grupoluysi.com.ve.
 grupomanos.org.ve.
 grupomaralac.com.ve.
 grupomartinez.com.ve.
-grupomaxi.com.ve.
 grupomaxima.com.ve.
 grupomcair.com.ve.
 grupomedicobpro.com.ve.
@@ -9942,6 +9941,7 @@ guasimos-tachira.gob.ve.
 guasipati.com.ve.
 guatire.com.ve.
 guayanaesequiba.com.ve.
+guayanaesverdad.com.ve.
 guayanahost.com.ve.
 guayanautoca.com.ve.
 gucci.co.ve.
@@ -10770,7 +10770,6 @@ idea.gov.ve.
 idea.web.ve.
 ideacasa.com.ve.
 ideaf.org.ve.
-idealan180.com.ve.
 idealfit.co.ve.
 idealraw.co.ve.
 idealshape.co.ve.
@@ -10885,6 +10884,7 @@ im.com.ve.
 ima.edu.ve.
 ima.gob.ve.
 ima.gov.ve.
+imad.co.ve.
 imad.com.ve.
 imagecom.com.ve.
 imagenesxxx.com.ve.
@@ -11945,6 +11945,8 @@ jeanca.com.ve.
 jeanneau.com.ve.
 jeantex.com.ve.
 jeb.com.ve.
+jeep.com.ve.
+jeeptienda.com.ve.
 jeffersonwells.co.ve.
 jeffersonwells.com.ve.
 jellybelly.co.ve.
@@ -12730,6 +12732,7 @@ lavazzaespressopoint.co.ve.
 lavazzaespressopoint.com.ve.
 lavenca.com.ve.
 lavera.co.ve.
+lavictoriaaldia.com.ve.
 lavilladelrosario.com.ve.
 lavillaheroicafm.com.ve.
 lavitalicia.com.ve.
@@ -13104,6 +13107,7 @@ logiciel.com.ve.
 logigestion.com.ve.
 loginbr.com.ve.
 logintel.com.ve.
+logipower.com.ve.
 logiqos.com.ve.
 logis.com.ve.
 logisticadigital.com.ve.
@@ -14133,6 +14137,7 @@ metaleshk.com.ve.
 metalex.com.ve.
 metalger.com.ve.
 metalinks.com.ve.
+metalkor.com.ve.
 metallca.com.ve.
 metallethal.com.ve.
 metalmeinca.com.ve.
@@ -15126,7 +15131,6 @@ neosat.com.ve.
 neovia-group.com.ve.
 nephrocare.com.ve.
 nerfyba.com.ve.
-nerianna.com.ve.
 nescafe.com.ve.
 nescape.com.ve.
 neskytapia.com.ve.
@@ -15228,6 +15232,7 @@ newyorkandcompany.com.ve.
 newyorknewyork.com.ve.
 nexcare.co.ve.
 nexcare.com.ve.
+nexcom.com.ve.
 nexgard.com.ve.
 nexia.com.ve.
 nexlizet.com.ve.
@@ -16367,6 +16372,7 @@ perforosven.com.ve.
 perfumadas.com.ve.
 perfumesclub.co.ve.
 perfumesclub.com.ve.
+perfumesessential.com.ve.
 perfumessence.com.ve.
 pergoveris.com.ve.
 pericon.com.ve.
@@ -16432,9 +16438,11 @@ petrolera.com.ve.
 petroleum.com.ve.
 petroleumcontractor.com.ve.
 petronet.co.ve.
+petroquimicasima.com.ve.
 petroservices.com.ve.
 petroservicios.com.ve.
 petroservicios7.com.ve.
+petrosima.com.ve.
 petsplanet.com.ve.
 petya.org.ve.
 peugeot.com.ve.
@@ -17238,6 +17246,7 @@ psmporlamar.edu.ve.
 psmpuertoordaz.edu.ve.
 psmsancristobal.edu.ve.
 psmvalencia.edu.ve.
+psp.com.ve.
 pspsystem21.com.ve.
 pst.com.ve.
 psuv.org.ve.
@@ -18725,7 +18734,6 @@ securenet.com.ve.
 securitas.co.ve.
 securitasdirect.co.ve.
 securitasdirect.com.ve.
-securitydigital.com.ve.
 seda.com.ve.
 sedat.gob.ve.
 sedatebne.net.ve.
@@ -20764,6 +20772,7 @@ thundernet.net.ve.
 thundernet.web.ve.
 tiares.com.ve.
 tiburonesdelaguaira.com.ve.
+tickea.com.ve.
 ticket-alimentacion.com.ve.
 ticket-restaurant.com.ve.
 ticketalimentacion.com.ve.
@@ -21005,7 +21014,6 @@ totalcom.com.ve.
 totalcom.net.ve.
 totalenergies.com.ve.
 totalfoods.com.ve.
-totalpagos.com.ve.
 totalprint.net.ve.
 totalsalud.com.ve.
 totalsat.com.ve.
@@ -22390,6 +22398,7 @@ viba.com.ve.
 vibes.com.ve.
 vibracoustic.co.ve.
 vibraval.com.ve.
+vicariaddhhcaracas.org.ve.
 viceministerioparaafrica.gob.ve.
 viceministroparaafrica.gob.ve.
 vicentedeunda-portuguesa.gob.ve.
