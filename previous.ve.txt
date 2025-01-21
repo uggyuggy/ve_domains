@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19Jan2025 04:50 UTC
+# ve domain names extracted from nameservers on 20Jan2025 04:48 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2070,7 +2070,6 @@ avp.org.ve.
 avpharma.com.ve.
 avpp.net.ve.
 avtopro.com.ve.
-avys.com.ve.
 aw.com.ve.
 aw.edu.ve.
 awl-martsucks.com.ve.
@@ -3903,7 +3902,6 @@ centromedicopasoreal.com.ve.
 centromedicosanfrancisco.com.ve.
 centromedicosanjose.co.ve.
 centromedicosanjose.com.ve.
-centromedicosantabarbara.com.ve.
 centromedicosantamarta.com.ve.
 centromedkar.com.ve.
 centromueble.com.ve.
@@ -4329,7 +4327,6 @@ cladefalcon.com.ve.
 cladribine.com.ve.
 cladribinetablets.com.ve.
 cladribinetabletsinfo.com.ve.
-clair-organics.com.ve.
 clair.com.ve.
 clairol.com.ve.
 clap.gob.ve.
@@ -16169,7 +16166,6 @@ parquedunas.com.ve.
 parquehugochavez.gob.ve.
 parquejardinlapuerta.com.ve.
 parquemasciencia.gob.ve.
-parquepremieraventura.com.ve.
 parroquiachiquinquira.org.ve.
 parroquiasantarosadelima.info.ve.
 parrotbay.co.ve.
@@ -17612,6 +17608,7 @@ recargadeextintores.com.ve.
 recargasmiguel.com.ve.
 recargasvenezuela.com.ve.
 recargate.com.ve.
+recarxplus.com.ve.
 receta.com.ve.
 recetasnestle.com.ve.
 recetasvenezolanas.com.ve.
@@ -20238,7 +20235,6 @@ sweb.com.ve.
 swedbank.com.ve.
 sweetbees.com.ve.
 sweetest.com.ve.
-swingenergy.com.ve.
 swissclinic.com.ve.
 swissre.co.ve.
 swissre.com.ve.

@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Jan2025 04:48 UTC
+# ve domain names extracted from nameservers on 21Jan2025 04:53 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1130,6 +1130,7 @@ altamira.com.ve.
 altamiracars.com.ve.
 altavista.co.ve.
 altavista.com.ve.
+altercloudnet.com.ve.
 altoapure-apure.gob.ve.
 altoapure.gob.ve.
 altoconceptocc.com.ve.
@@ -1521,7 +1522,6 @@ aquarela.com.ve.
 aquarena.com.ve.
 aquariumdevalencia.gob.ve.
 aquashop.com.ve.
-aquatech.com.ve.
 aquavista.com.ve.
 aquavisuites.com.ve.
 aqui.com.ve.
@@ -2070,6 +2070,7 @@ avp.org.ve.
 avpharma.com.ve.
 avpp.net.ve.
 avtopro.com.ve.
+avys.com.ve.
 aw.com.ve.
 aw.edu.ve.
 awl-martsucks.com.ve.
@@ -3301,7 +3302,6 @@ camera.co.ve.
 camera.com.ve.
 cameva.com.ve.
 cami.com.ve.
-camimpeg.com.ve.
 camin.com.ve.
 camionheladero.com.ve.
 camisaskavak.com.ve.
@@ -3442,7 +3442,6 @@ cardenalito.com.ve.
 cardenalito.org.ve.
 cardenalquintero-merida.gov.ve.
 cardenas-tachira.gob.ve.
-cardenas.net.ve.
 cardiologicoinfantil.gob.ve.
 cardionet.com.ve.
 cardisport.com.ve.
@@ -9807,6 +9806,7 @@ grupoluysi.com.ve.
 grupomanos.org.ve.
 grupomaralac.com.ve.
 grupomartinez.com.ve.
+grupomaxi.com.ve.
 grupomaxima.com.ve.
 grupomcair.com.ve.
 grupomedicobpro.com.ve.
@@ -10380,6 +10380,7 @@ homeropalacios.com.ve.
 homesecurity.com.ve.
 homestar.com.ve.
 homestarvenezuela.com.ve.
+hometex.com.ve.
 homify.com.ve.
 honda.co.ve.
 honeywellaidc.com.ve.
@@ -12059,7 +12060,6 @@ jomoo.com.ve.
 jooble.com.ve.
 jorgecastillo.com.ve.
 jorgesantos.com.ve.
-jorgesoporteit.com.ve.
 jorqueratek.com.ve.
 joseangellamas-aragua.gob.ve.
 joseantoniolovera.com.ve.
@@ -14842,7 +14842,6 @@ mujer.com.ve.
 mujeres.com.ve.
 mukumbari.com.ve.
 mul-t-lock.com.ve.
-mulco.com.ve.
 mulcoven.com.ve.
 mullenlowe.com.ve.
 multi-canal.com.ve.
@@ -14890,7 +14889,6 @@ mundoccell.com.ve.
 mundoceres.com.ve.
 mundocomercial.com.ve.
 mundodecolores.com.ve.
-mundodigital.com.ve.
 mundoelectronico.com.ve.
 mundofox.co.ve.
 mundogps.com.ve.
@@ -16267,6 +16265,7 @@ pcramgroup.com.ve.
 pcserviceplus.net.ve.
 pcshop.com.ve.
 pcsoffice.com.ve.
+pcstore.com.ve.
 pctachira.gob.ve.
 pctechnology.com.ve.
 pcworld.com.ve.
@@ -18065,6 +18064,7 @@ rokuoriginal.com.ve.
 rokuoriginals.com.ve.
 rokutv.co.ve.
 rokutv.com.ve.
+rolandh.com.ve.
 rolda.com.ve.
 rolesium.co.ve.
 rolesium.com.ve.
@@ -18175,7 +18175,6 @@ rqa.com.ve.
 rrconstrucciones.com.ve.
 rrd.com.ve.
 rrdapps.com.ve.
-rrintec.com.ve.
 rroopstr.com.ve.
 rrpconsultores.com.ve.
 rs.net.ve.
@@ -20235,6 +20234,7 @@ sweb.com.ve.
 swedbank.com.ve.
 sweetbees.com.ve.
 sweetest.com.ve.
+swingenergy.com.ve.
 swissclinic.com.ve.
 swissre.co.ve.
 swissre.com.ve.
@@ -20863,6 +20863,7 @@ tirsom.edu.ve.
 tis.com.ve.
 tiservicios.com.ve.
 tisoluciones.com.ve.
+tisolucionesapp.com.ve.
 titan.co.ve.
 titanesgraficos.com.ve.
 titaniccenter.com.ve.
@@ -22877,6 +22878,7 @@ whatsapp.co.ve.
 whatsapp.com.ve.
 whatsapp.info.ve.
 whatsapp.net.ve.
+whatshome.com.ve.
 whatsstore.com.ve.
 wheelriders.com.ve.
 whice.com.ve.
@@ -23112,6 +23114,7 @@ yacht-master.net.ve.
 yacht-master.org.ve.
 yacht-master.web.ve.
 yachtcenter.com.ve.
+yago.com.ve.
 yaguamart.com.ve.
 yagumi.com.ve.
 yahoo.co.ve.
