@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Jan2025 04:53 UTC
+# ve domain names extracted from nameservers on 22Jan2025 04:51 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -37,6 +37,7 @@
 1win.co.ve.
 1win.com.ve.
 1win.net.ve.
+1winoficial.net.ve.
 1x-bet.com.ve.
 1x10.com.ve.
 1x10delbuengobierno.gob.ve.
@@ -431,7 +432,6 @@ adoptaunchamo.com.ve.
 adoptaunchico.com.ve.
 adoptaunjevo.com.ve.
 adoptauntipo.com.ve.
-adpply.com.ve.
 adriangarcia.com.ve.
 adrianjosevelasquezfigueroa.co.ve.
 adriansoft.com.ve.
@@ -6371,6 +6371,7 @@ diablitos.com.ve.
 diablosdanzantesdeyare.com.ve.
 diadedonar.co.ve.
 diadedonar.com.ve.
+diadia.com.ve.
 diadora.com.ve.
 diaef.gob.ve.
 diagbox.com.ve.
@@ -11363,7 +11364,6 @@ insumat.com.ve.
 insumedacarigua.com.ve.
 insupen.com.ve.
 insuperable891fm.com.ve.
-insuritas.com.ve.
 insutec.com.ve.
 insystech.com.ve.
 int.ve.
@@ -12060,6 +12060,7 @@ jomoo.com.ve.
 jooble.com.ve.
 jorgecastillo.com.ve.
 jorgesantos.com.ve.
+jorgesoporteit.com.ve.
 jorqueratek.com.ve.
 joseangellamas-aragua.gob.ve.
 joseantoniolovera.com.ve.
@@ -13574,6 +13575,7 @@ margaritarealty.com.ve.
 margaritarents.com.ve.
 margaritavillage.com.ve.
 margaritavillageclub.com.ve.
+mariachiadomicilio.com.ve.
 mariainmaculadacarora.com.ve.
 mariainmaculadacarora.edu.ve.
 marianurse.com.ve.
@@ -14842,6 +14844,7 @@ mujer.com.ve.
 mujeres.com.ve.
 mukumbari.com.ve.
 mul-t-lock.com.ve.
+mulco.com.ve.
 mulcoven.com.ve.
 mullenlowe.com.ve.
 multi-canal.com.ve.
@@ -15978,7 +15981,6 @@ paccar.com.ve.
 pachangosa.com.ve.
 pacific.com.ve.
 paciscor.com.ve.
-packsmegafire.com.ve.
 packup.com.ve.
 paddeo.com.ve.
 paddypower.co.ve.
@@ -19382,6 +19384,7 @@ skyworth.com.ve.
 skyworthev.com.ve.
 skyworthev.info.ve.
 slackware.org.ve.
+slam.com.ve.
 slan.org.ve.
 sleepinn.com.ve.
 sleepnumber.co.ve.
@@ -22345,7 +22348,6 @@ vether.com.ve.
 vettal.com.ve.
 vewebsite.com.ve.
 veximca.gob.ve.
-vfchemical.com.ve.
 vfotos21.com.ve.
 vfs.com.ve.
 vg.com.ve.

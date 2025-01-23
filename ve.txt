@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Jan2025 04:51 UTC
+# ve domain names extracted from nameservers on 23Jan2025 04:50 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1493,6 +1493,7 @@ apuestas-deportivas.com.ve.
 apuestasdeportivas.co.ve.
 apuestasdeportivas.com.ve.
 apuestasesports.com.ve.
+apuestasroyal.com.ve.
 apuestave.com.ve.
 apuestaya.com.ve.
 apuestele.co.ve.
@@ -1550,6 +1551,7 @@ arawaza.com.ve.
 arba.com.ve.
 arbol.edu.ve.
 arburg.com.ve.
+arca.com.ve.
 arcadat.com.ve.
 arcadiodiaz.com.ve.
 arcasport.com.ve.
@@ -7871,6 +7873,7 @@ expo2010.gob.ve.
 expoalimentos.com.ve.
 expobumeran.com.ve.
 expocenter.com.ve.
+expoceramica.com.ve.
 expodeportes.com.ve.
 expoempleos.com.ve.
 expofermarca.com.ve.
@@ -8227,7 +8230,6 @@ fidetel.gob.ve.
 fiesta.com.ve.
 fiesta1059.com.ve.
 fiesta106.com.ve.
-fiestamatch.com.ve.
 fiestas.com.ve.
 figaro.com.ve.
 figjam.co.ve.
@@ -13832,6 +13834,7 @@ mcmastercarr.co.ve.
 mcmedical.com.ve.
 mcp.com.ve.
 mcsconsulting.com.ve.
+mct.com.ve.
 mct.gob.ve.
 mct.gov.ve.
 mcti-nuevaesparta.gob.ve.
@@ -20350,6 +20353,7 @@ tarma.com.ve.
 tarot-gratis.com.ve.
 tarsus.com.ve.
 tasisto.com.ve.
+taskforce.com.ve.
 tassimo.com.ve.
 tatmak.com.ve.
 tatuaje.com.ve.
@@ -20572,6 +20576,7 @@ teletaxi.com.ve.
 teletech.com.ve.
 teletuya.com.ve.
 televen.com.ve.
+televentas.com.ve.
 televigilancia.gob.ve.
 television.com.ve.
 telguarder.com.ve.
@@ -21211,6 +21216,7 @@ tributosindependencia.com.ve.
 tributosjunin.com.ve.
 tributosmcgregor.com.ve.
 tributosribas.com.ve.
+tributosurdaneta.com.ve.
 tricae.co.ve.
 tricae.com.ve.
 tricai.co.ve.
