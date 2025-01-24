@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 23Jan2025 04:50 UTC
+# ve domain names extracted from nameservers on 24Jan2025 04:54 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3304,6 +3304,7 @@ camera.co.ve.
 camera.com.ve.
 cameva.com.ve.
 cami.com.ve.
+camimpeg.com.ve.
 camin.com.ve.
 camionheladero.com.ve.
 camisaskavak.com.ve.
@@ -9822,6 +9823,7 @@ grupomilos.com.ve.
 grupomistral.com.ve.
 grupomm.com.ve.
 grupompr.com.ve.
+grupomundi.com.ve.
 gruponitrox.com.ve.
 gruponovanet.com.ve.
 grupooliveira.com.ve.
@@ -13620,6 +13622,7 @@ marks-and-spencer.com.ve.
 marksandspencer.com.ve.
 marlboro.co.ve.
 marlborogold.com.ve.
+marmoca.com.ve.
 marn.gob.ve.
 marn.gov.ve.
 marna.com.ve.
@@ -16845,6 +16848,7 @@ porsche.com.ve.
 porschevenezuela.com.ve.
 portabanos.com.ve.
 portaldeaguinaldos.com.ve.
+portaldecanones.com.ve.
 portaleducativo.edu.ve.
 portalfemelycosmetics.com.ve.
 portalinmobiliario.co.ve.
@@ -16969,6 +16973,7 @@ pricewaterhousecoopers.web.ve.
 priligy.com.ve.
 prim.com.ve.
 primaban.com.ve.
+primaderm.com.ve.
 primaverasound.co.ve.
 primaverasound.com.ve.
 primebroadband.co.ve.
@@ -17402,7 +17407,6 @@ quimtia.co.ve.
 quimtia.com.ve.
 quintadeanauco.org.ve.
 quinteromarquez.com.ve.
-quirozingenieria.com.ve.
 quirurgica.com.ve.
 quitandoelvelo.com.ve.
 quizclothing.com.ve.
@@ -21368,6 +21372,7 @@ tugastro.com.ve.
 tugestor.com.ve.
 tugps.com.ve.
 tugraduacion.com.ve.
+tugranfortuna.com.ve.
 tuguia.com.ve.
 tuhigado.com.ve.
 tui.co.ve.
@@ -21926,6 +21931,7 @@ uptllanos.net.ve.
 uptm.edu.ve.
 uptmanuelasaenz.edu.ve.
 uptnmls.edu.ve.
+uptntmanuelasaenz-lafria.com.ve.
 uptos.edu.ve.
 uptp.edu.ve.
 uptparia.edu.ve.
