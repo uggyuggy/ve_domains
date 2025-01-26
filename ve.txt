@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 25Jan2025 04:57 UTC
+# ve domain names extracted from nameservers on 26Jan2025 05:09 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3369,6 +3369,7 @@ canny.com.ve.
 canon.co.ve.
 canon.com.ve.
 canon.net.ve.
+canonero.com.ve.
 canoseguros.com.ve.
 cantv.com.ve.
 canva.co.ve.
@@ -4110,6 +4111,7 @@ childrensplace.org.ve.
 chill-bet.com.ve.
 chillbet.com.ve.
 chillsner.com.ve.
+chilyn.com.ve.
 china.com.ve.
 chinohung.com.ve.
 chinotto.com.ve.
@@ -11867,6 +11869,7 @@ ivoclar-vivadent.com.ve.
 ivoclarvivadent.co.ve.
 ivocontreras.com.ve.
 ivpa.gob.ve.
+ivrcenter.com.ve.
 ivss.gob.ve.
 ivss.gov.ve.
 ivt.gob.ve.
@@ -17427,6 +17430,7 @@ radartech.com.ve.
 rader.com.ve.
 radiadores.com.ve.
 radiadoresfranco.com.ve.
+radiadoresstopcar.com.ve.
 radiadoreswjm.com.ve.
 radiante957fm.com.ve.
 radical.com.ve.
@@ -20526,7 +20530,6 @@ tef.com.ve.
 teflon.co.ve.
 teflon.com.ve.
 tei.com.ve.
-teicom.com.ve.
 teixeiraduarteconstruccion.com.ve.
 tek.com.ve.
 tekbond.com.ve.

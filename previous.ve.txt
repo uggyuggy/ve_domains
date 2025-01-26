@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 24Jan2025 04:54 UTC
+# ve domain names extracted from nameservers on 25Jan2025 04:57 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1134,7 +1134,6 @@ altercloudnet.com.ve.
 altoapure-apure.gob.ve.
 altoapure.gob.ve.
 altoconceptocc.com.ve.
-altomi.com.ve.
 altoorinoco-amazonas.gov.ve.
 altoque.co.ve.
 altoque.com.ve.
@@ -2664,7 +2663,6 @@ bioflex.com.ve.
 biofuturovenezuela.gob.ve.
 biogem.com.ve.
 biogeminis.com.ve.
-biografia.com.ve.
 biohiggins.com.ve.
 bioidentidad.com.ve.
 biokern.com.ve.
@@ -4030,6 +4028,7 @@ championvenezuela.com.ve.
 chanel.com.ve.
 changinglives.com.ve.
 channeladvisor.com.ve.
+channelpa.com.ve.
 chanyu.com.ve.
 charallave.gov.ve.
 charcuteriatovar.com.ve.
@@ -4980,6 +4979,7 @@ comicsporno.com.ve.
 comicsxxx.com.ve.
 comidakraft.com.ve.
 comidarapida.com.ve.
+comin.com.ve.
 comirnaty.co.ve.
 comirnaty.com.ve.
 comirnatyeducation.co.ve.
@@ -5509,6 +5509,7 @@ corpoplast.com.ve.
 corporacion-seysa.com.ve.
 corporacionaf.com.ve.
 corporacionag.com.ve.
+corporacionaven.com.ve.
 corporacionbancapublica.gob.ve.
 corporacionbcc.com.ve.
 corporacionbolivar.gob.ve.
@@ -8319,7 +8320,6 @@ fitven.gob.ve.
 fiume.com.ve.
 fiven.co.ve.
 fiven.com.ve.
-fixerfriend.com.ve.
 fixtop.com.ve.
 fjjf.com.ve.
 flag.com.ve.
@@ -9892,7 +9892,6 @@ gscomputer.com.ve.
 gset.gob.ve.
 gsg.com.ve.
 gsi.org.ve.
-gsica.com.ve.
 gsk.com.ve.
 gskpro.co.ve.
 gslca.com.ve.
@@ -13277,7 +13276,6 @@ lumen.com.ve.
 lumenfideifm.org.ve.
 lumentech.com.ve.
 lumicentro.com.ve.
-lumiere.net.ve.
 luminariasonline.com.ve.
 luminika.com.ve.
 luminous.co.ve.
@@ -14196,6 +14194,7 @@ mfpack.com.ve.
 mgct.com.ve.
 mgf.com.ve.
 mggv.com.ve.
+mgi-venezuela.com.ve.
 mglawyers.com.ve.
 mgmgrand.com.ve.
 mgmmirage.com.ve.
@@ -15136,6 +15135,7 @@ neosat.com.ve.
 neovia-group.com.ve.
 nephrocare.com.ve.
 nerfyba.com.ve.
+nervicom.com.ve.
 nescafe.com.ve.
 nescape.com.ve.
 neskytapia.com.ve.
@@ -16351,7 +16351,6 @@ pendonmania.com.ve.
 penguinclub.co.ve.
 penguinclub.com.ve.
 penmans.com.ve.
-pentagramita.com.ve.
 pentasa.co.ve.
 pentasa.com.ve.
 pentashoes.com.ve.
@@ -18407,6 +18406,7 @@ samath.gob.ve.
 samatvigia.com.ve.
 sambilonline.com.ve.
 samh.gob.ve.
+sampa.com.ve.
 sampro.com.ve.
 sams-club.co.ve.
 sams-club.com.ve.
@@ -20454,6 +20454,7 @@ tecnocomputer.com.ve.
 tecnoconcret.com.ve.
 tecnoconcretbarcelona.com.ve.
 tecnoconcretvalencia.com.ve.
+tecnocore.com.ve.
 tecnodistribuidor.com.ve.
 tecnoelectron.com.ve.
 tecnoelectronics.com.ve.
@@ -22565,6 +22566,7 @@ vitamix.com.ve.
 vitaozono.com.ve.
 vitara.com.ve.
 vitasal.com.ve.
+vitasei.com.ve.
 vitrimax.com.ve.
 vitrinavenezuela2.com.ve.
 viva.co.ve.
