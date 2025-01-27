@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Jan2025 05:09 UTC
+# ve domain names extracted from nameservers on 27Jan2025 05:01 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1714,6 +1714,7 @@ ascensores.com.ve.
 asd1844.org.ve.
 asda.com.ve.
 asdej.com.ve.
+asdetrebol.com.ve.
 aseabrownboveri.co.ve.
 aseabrownboveri.com.ve.
 aseca.com.ve.
@@ -1772,6 +1773,7 @@ asociacioncivilpuertadelsol.org.ve.
 asociacionvenezolanademasajeinfantil.com.ve.
 asociacionvenezolanademujeres.com.ve.
 asociadosgerenciales.com.ve.
+asodepa.org.ve.
 asoft.com.ve.
 asoramal6.org.ve.
 asos.co.ve.
@@ -11360,7 +11362,6 @@ institutosimonbolivar.com.ve.
 institutostiefel.com.ve.
 institutouniversitariodeseguros.co.ve.
 institutouniversitarioinsular.edu.ve.
-instrumentalia.com.ve.
 instrumentosallegro.com.ve.
 insubiol.com.ve.
 insulibro.gob.ve.
@@ -11436,6 +11437,7 @@ intercomputomc.com.ve.
 intercon.net.ve.
 interconcreto.com.ve.
 interconectadosvenezuela.com.ve.
+interconexa.net.ve.
 interexpress.com.ve.
 interfaceflor.co.ve.
 interfaceflor.com.ve.
@@ -16938,7 +16940,6 @@ premizez.com.ve.
 prendetv.com.ve.
 prensa.info.ve.
 prensaelectronica.gob.ve.
-prensaelguayanes.com.ve.
 prensaoriente.com.ve.
 prensapresidencialvenezuela.gob.ve.
 prepagos.com.ve.
@@ -17409,6 +17410,7 @@ quimtia.co.ve.
 quimtia.com.ve.
 quintadeanauco.org.ve.
 quinteromarquez.com.ve.
+quirozingenieria.com.ve.
 quirurgica.com.ve.
 quitandoelvelo.com.ve.
 quizclothing.com.ve.
@@ -20110,7 +20112,6 @@ sunnova.co.ve.
 sunnova.com.ve.
 sunoco.com.ve.
 sunovion.com.ve.
-sunstroo.com.ve.
 sunwide.com.ve.
 suo.com.ve.
 sup.com.ve.
@@ -20249,7 +20250,6 @@ swedbank.com.ve.
 sweetbees.com.ve.
 sweetest.com.ve.
 swingenergy.com.ve.
-swissclinic.com.ve.
 swissre.co.ve.
 swissre.com.ve.
 switchup.co.ve.
@@ -21976,7 +21976,6 @@ urologico.com.ve.
 urosalud.com.ve.
 ursa.com.ve.
 urumaco-falcon.gov.ve.
-usag.com.ve.
 usairways.co.ve.
 usb.ve.
 userway.com.ve.
@@ -22890,7 +22889,6 @@ wetalks.com.ve.
 wework.co.ve.
 wework.com.ve.
 weys.com.ve.
-wgdigital.com.ve.
 wh.com.ve.
 whaticket.com.ve.
 whatsapp.co.ve.
@@ -23044,7 +23042,6 @@ www.info.ve.
 www.net.ve.
 www.web.ve.
 wwwrentalcars.com.ve.
-wyethproveedores.com.ve.
 wynco.com.ve.
 wypall.com.ve.
 x-colors.com.ve.
