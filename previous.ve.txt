@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Jan2025 05:01 UTC
+# ve domain names extracted from nameservers on 28Jan2025 04:54 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -329,6 +329,7 @@ acronis.com.ve.
 acropolis.net.ve.
 acsysca.com.ve.
 act4greenhome.com.ve.
+actacientifica.org.ve.
 actacientificaestudiantil.com.ve.
 actalentservices.com.ve.
 actforgreenhome.com.ve.
@@ -693,6 +694,7 @@ airwatch.com.ve.
 airway.net.ve.
 aisca.com.ve.
 aislamientotermico.com.ve.
+aito.com.ve.
 aitoauto.com.ve.
 aiv.org.ve.
 aivepet.com.ve.
@@ -2601,7 +2603,6 @@ bigcommerce.co.ve.
 bigcommerce.com.ve.
 bigdata.com.ve.
 bigdata.net.ve.
-bigdatatelecom.com.ve.
 bigdutchman.com.ve.
 bigfold.co.ve.
 bigfoot.co.ve.
@@ -3381,6 +3382,7 @@ canva.org.ve.
 canva.web.ve.
 capa8.web.ve.
 capachense.com.ve.
+capacitame.com.ve.
 capaupel-ipmar.com.ve.
 capauptjaa.net.ve.
 capb.com.ve.
@@ -5895,6 +5897,7 @@ cvc.gob.ve.
 cvcg.com.ve.
 cvcsoluciones.com.ve.
 cvdvaccine.co.ve.
+cvef.org.ve.
 cvg.com.ve.
 cvg.gob.ve.
 cvgcarbonorca.com.ve.
@@ -11263,6 +11266,7 @@ innovasolucionesti.com.ve.
 innovat.com.ve.
 innovatech.com.ve.
 innovatechsupply.com.ve.
+innovatek.com.ve.
 innovationandyou.co.ve.
 innovationandyou.com.ve.
 innovavalledelapascua.com.ve.
@@ -11937,7 +11941,6 @@ jccm.com.ve.
 jcdecaux.com.ve.
 jcretenciones.com.ve.
 jcrew.com.ve.
-jcsupply.com.ve.
 jcsystemas.com.ve.
 jd.co.ve.
 jdate.com.ve.
@@ -13115,7 +13118,6 @@ logigestion.com.ve.
 loginbr.com.ve.
 logintel.com.ve.
 logipower.com.ve.
-logiqos.com.ve.
 logis.com.ve.
 logisticadigital.com.ve.
 logisticazc.com.ve.
@@ -17235,7 +17237,6 @@ psca.com.ve.
 pservices.com.ve.
 psi.com.ve.
 psicochamos.com.ve.
-psicologo.co.ve.
 psicologos.co.ve.
 psionteklogix.com.ve.
 psm-mun.edu.ve.
@@ -22565,7 +22566,6 @@ vitalim.com.ve.
 vitalsalud.com.ve.
 vitalsaludcd.com.ve.
 vitamix.com.ve.
-vitaozono.com.ve.
 vitara.com.ve.
 vitasal.com.ve.
 vitasei.com.ve.
@@ -22787,7 +22787,6 @@ warriorking.com.ve.
 wartsila.co.ve.
 wartsila.com.ve.
 washe.com.ve.
-washiru.com.ve.
 watchguard.com.ve.
 watchstation.com.ve.
 watchstation.ve.
@@ -23200,6 +23199,9 @@ yourvoyage.com.ve.
 youtube.co.ve.
 youtube.com.ve.
 yoyo.com.ve.
+yoyo.info.ve.
+yoyo.net.ve.
+yoyo.org.ve.
 yoyo.web.ve.
 ysearch.com.ve.
 yuada.com.ve.
