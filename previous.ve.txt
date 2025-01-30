@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Jan2025 04:54 UTC
+# ve domain names extracted from nameservers on 29Jan2025 04:54 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1524,6 +1524,7 @@ aquarela.com.ve.
 aquarena.com.ve.
 aquariumdevalencia.gob.ve.
 aquashop.com.ve.
+aquatech.com.ve.
 aquavista.com.ve.
 aquavisuites.com.ve.
 aqui.com.ve.
@@ -2542,6 +2543,7 @@ betsafe.com.ve.
 betsat.com.ve.
 betsson.com.ve.
 betssonvenezuela.com.ve.
+betstrike.co.ve.
 bettingexpert.co.ve.
 betty.com.ve.
 betun.com.ve.
@@ -2603,6 +2605,7 @@ bigcommerce.co.ve.
 bigcommerce.com.ve.
 bigdata.com.ve.
 bigdata.net.ve.
+bigdatatelecom.com.ve.
 bigdutchman.com.ve.
 bigfold.co.ve.
 bigfoot.co.ve.
@@ -4597,7 +4600,6 @@ coatingsdeoriente.com.ve.
 coatscrafts.com.ve.
 coatsepic.com.ve.
 cobb.com.ve.
-cober.com.ve.
 cobinca.com.ve.
 cobra.com.ve.
 coc.com.ve.
@@ -6768,6 +6770,7 @@ dpa.com.ve.
 dpana.com.ve.
 dpasesores.co.ve.
 dpcmerida.gob.ve.
+dpcr.com.ve.
 dpg.com.ve.
 dra.com.ve.
 draeger-safety.com.ve.
@@ -7296,6 +7299,7 @@ eltrendecolores.com.ve.
 eltresporciento.com.ve.
 eltriunfo.com.ve.
 elturpial.com.ve.
+elvictoriano.com.ve.
 ema.com.ve.
 emag.co.ve.
 emag.com.ve.
@@ -7769,6 +7773,7 @@ eventura.com.ve.
 everactive.com.ve.
 eveready.com.ve.
 everest.com.ve.
+everestservices.com.ve.
 everlast.com.ve.
 everplastic.com.ve.
 eversheds.co.ve.
@@ -9024,6 +9029,7 @@ g4s.co.ve.
 g5seguridadprivada.com.ve.
 g7digitalmedia.com.ve.
 gaaa.com.ve.
+gabc.com.ve.
 gabinetecultura-amazonas.gob.ve.
 gabinetepopulararagua.gob.ve.
 gabitec.com.ve.
@@ -11524,6 +11530,7 @@ invencion.com.ve.
 invensoftware.com.ve.
 inventart.com.ve.
 invequim.com.ve.
+invercaygus.com.ve.
 invercontrol.com.ve.
 invernova.com.ve.
 inverquim.com.ve.
@@ -12695,6 +12702,7 @@ lasmiditan.com.ve.
 lasnonnitas.com.ve.
 lasnoticiasdehoy.com.ve.
 lasnovedades.com.ve.
+lasoberana.com.ve.
 lasociete.com.ve.
 lasolasresort.com.ve.
 lassantasunidas.com.ve.
@@ -12802,6 +12810,7 @@ legalbeauty.co.ve.
 legalbeauty.com.ve.
 legales.net.ve.
 legales.org.ve.
+legalmenteapp.com.ve.
 legalys.com.ve.
 legami.com.ve.
 legendsoft.com.ve.
@@ -13022,7 +13031,6 @@ liptonteas.com.ve.
 liquidlibrary.com.ve.
 liquidnetfusion.com.ve.
 lisa18.com.ve.
-lisbethlozano.org.ve.
 listerine.com.ve.
 listo.net.ve.
 listopago.com.ve.
@@ -16942,6 +16950,7 @@ premizez.com.ve.
 prendetv.com.ve.
 prensa.info.ve.
 prensaelectronica.gob.ve.
+prensaelguayanes.com.ve.
 prensaoriente.com.ve.
 prensapresidencialvenezuela.gob.ve.
 prepagos.com.ve.
@@ -17182,7 +17191,6 @@ proteccioncivil.gob.ve.
 proteccioncivilmetropolitana.gob.ve.
 proteccioncivilportuguesa.gob.ve.
 protechlink.com.ve.
-protecnonetworks.com.ve.
 protectglobal.com.ve.
 protectoresdevoltaje.com.ve.
 protex.co.ve.
@@ -17913,6 +17921,7 @@ revestivensa.com.ve.
 revfacagronluz.org.ve.
 reviem.com.ve.
 reviewpro.co.ve.
+revisalo.com.ve.
 revistadominical.com.ve.
 revistanatgeo.com.ve.
 revistanegotium.org.ve.
@@ -18828,6 +18837,7 @@ selgrana.com.ve.
 selgrava.com.ve.
 sellatuparley.co.ve.
 selma.com.ve.
+selmer.com.ve.
 selvaplus.com.ve.
 semana.com.ve.
 semanadelacocinaitaliana.com.ve.
@@ -19739,6 +19749,7 @@ sp2011.com.ve.
 sp3.com.ve.
 sp3.gob.ve.
 spa.com.ve.
+spaceacademy.com.ve.
 spahouse.com.ve.
 spamujer.gob.ve.
 spanesi.com.ve.
@@ -19910,6 +19921,7 @@ stay-in-range.com.ve.
 stayfree.com.ve.
 stayinrange.com.ve.
 stbv.org.ve.
+stc.com.ve.
 ste.com.ve.
 steel.com.ve.
 stefano-ricci.co.ve.
@@ -21222,7 +21234,6 @@ tribunalconsignacionesccs.gov.ve.
 tributosacevedo.com.ve.
 tributosaragua.com.ve.
 tributosindependencia.com.ve.
-tributosjunin.com.ve.
 tributosmcgregor.com.ve.
 tributosribas.com.ve.
 tributosurdaneta.com.ve.
@@ -21977,6 +21988,7 @@ urologico.com.ve.
 urosalud.com.ve.
 ursa.com.ve.
 urumaco-falcon.gov.ve.
+usag.com.ve.
 usairways.co.ve.
 usb.ve.
 userway.com.ve.
@@ -22364,6 +22376,7 @@ vether.com.ve.
 vettal.com.ve.
 vewebsite.com.ve.
 veximca.gob.ve.
+vfchemical.com.ve.
 vfotos21.com.ve.
 vfs.com.ve.
 vg.com.ve.
@@ -23198,6 +23211,7 @@ younglaureatesprogramme.com.ve.
 yourvoyage.com.ve.
 youtube.co.ve.
 youtube.com.ve.
+yoyo.co.ve.
 yoyo.com.ve.
 yoyo.info.ve.
 yoyo.net.ve.
