@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Jan2025 04:54 UTC
+# ve domain names extracted from nameservers on 30Jan2025 05:01 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -8328,6 +8328,7 @@ fitca-rivets.com.ve.
 fitconnection.com.ve.
 fitelven.com.ve.
 fitflop.com.ve.
+fitsistema.com.ve.
 fitven.gob.ve.
 fiume.com.ve.
 fiven.co.ve.
@@ -9405,7 +9406,6 @@ globalcrossing.net.ve.
 globalcult.org.ve.
 globaldamca.com.ve.
 globaldenso.com.ve.
-globaldesillas.com.ve.
 globaldesk.com.ve.
 globalenvios.com.ve.
 globaleps.com.ve.
@@ -11119,7 +11119,6 @@ inetfibercom.com.ve.
 inexco.com.ve.
 infalcosta.org.ve.
 infectologiahoy.com.ve.
-infica.com.ve.
 infierno.com.ve.
 infinet.com.ve.
 infinite.com.ve.
@@ -11267,6 +11266,7 @@ innovaoriente.com.ve.
 innovar.com.ve.
 innovared.com.ve.
 innovasoft.co.ve.
+innovasoft.com.ve.
 innovasoluciones.com.ve.
 innovasolucionesti.com.ve.
 innovat.com.ve.
@@ -11886,6 +11886,7 @@ ivrcenter.com.ve.
 ivss.gob.ve.
 ivss.gov.ve.
 ivt.gob.ve.
+iws.com.ve.
 ix.com.ve.
 ixekizumab.com.ve.
 ixempra.com.ve.
@@ -13111,6 +13112,7 @@ locutorio.com.ve.
 loder.com.ve.
 loderbrands.com.ve.
 loea-eacuaticos.gov.ve.
+logeca.com.ve.
 logginet.co.ve.
 logginet.com.ve.
 logginet.info.ve.
@@ -15811,6 +15813,7 @@ operacionsonrisa.net.ve.
 operacionsonrisa.org.ve.
 operadoraturisticadelcaribe.com.ve.
 operamini.co.ve.
+ophtalcom.com.ve.
 opinion.co.ve.
 opiniones.co.ve.
 opmobility.com.ve.
@@ -17485,6 +17488,7 @@ radiomundial.com.ve.
 radiomundial.gob.ve.
 radionegroprimero.org.ve.
 radionudefo.com.ve.
+radiooncologia.com.ve.
 radioorinoco.com.ve.
 radioparaiso.com.ve.
 radioparticipativafm.com.ve.
@@ -18199,7 +18203,6 @@ rqa.com.ve.
 rrconstrucciones.com.ve.
 rrd.com.ve.
 rrdapps.com.ve.
-rroopstr.com.ve.
 rrpconsultores.com.ve.
 rs.net.ve.
 rscmv.org.ve.
@@ -19287,6 +19290,7 @@ singoteras.com.ve.
 singulair.com.ve.
 sinlimite.com.ve.
 sinocare.com.ve.
+sinoven.com.ve.
 sintesisonline.com.ve.
 sinthesis.com.ve.
 sio.com.ve.
@@ -20457,7 +20461,6 @@ tecninet.com.ve.
 tecnipiscinas.com.ve.
 tecnisuela.com.ve.
 tecnitel.com.ve.
-tecniwao.com.ve.
 tecno-fly.com.ve.
 tecno-red.com.ve.
 tecno-red.net.ve.
@@ -21914,7 +21917,6 @@ upharven.com.ve.
 upjohn.co.ve.
 upjohn.com.ve.
 uplinkdevenezuela.com.ve.
-upplc.com.ve.
 ups-scs.com.ve.
 ups.co.ve.
 ups.com.ve.
