@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 30Jan2025 05:01 UTC
+# ve domain names extracted from nameservers on 31Jan2025 04:58 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -62,6 +62,7 @@
 23andme.com.ve.
 247bet.com.ve.
 24x7security.com.ve.
+2aeventos.com.ve.
 2aguas.com.ve.
 2bingenieria.com.ve.
 2crea2ca.com.ve.
@@ -506,7 +507,6 @@ affiliate.com.ve.
 afi.com.ve.
 afiliadoshispanos.com.ve.
 afiliadoshispanosfox.com.ve.
-afilmywap.com.ve.
 aflora.com.ve.
 afroditaswimwear.com.ve.
 afrusur.com.ve.
@@ -1201,7 +1201,6 @@ amazonrightnowclimatefund.co.ve.
 amazonrightnowclimatefund.com.ve.
 amazonvideo.co.ve.
 amazonvideo.com.ve.
-ambar.com.ve.
 ambientechacao.gob.ve.
 ambientedesign.com.ve.
 ambientesmodernos.com.ve.
@@ -4600,6 +4599,7 @@ coatingsdeoriente.com.ve.
 coatscrafts.com.ve.
 coatsepic.com.ve.
 cobb.com.ve.
+cober.com.ve.
 cobinca.com.ve.
 cobra.com.ve.
 coc.com.ve.
@@ -7308,7 +7308,6 @@ emagister.com.ve.
 emagroup.com.ve.
 email.com.ve.
 email.org.ve.
-emakina.com.ve.
 emapalumab.com.ve.
 emartinez.com.ve.
 embajada-guineaecuatorial.com.ve.
@@ -8781,6 +8780,7 @@ fujitsu.org.ve.
 fullattention.com.ve.
 fullcargo.com.ve.
 fullcarro.com.ve.
+fullciclismo.com.ve.
 fullciclismo.net.ve.
 fullcolor.com.ve.
 fulldata.com.ve.
@@ -9038,6 +9038,7 @@ gabriel.com.ve.
 gabrielagamboa.com.ve.
 gabrielcastro.com.ve.
 gabrielsuarez.com.ve.
+gac-motor.com.ve.
 gacetahipica.com.ve.
 gacetalaboralluz.gob.ve.
 gacetaoficial.gob.ve.
@@ -9442,7 +9443,6 @@ globalsystemgps.com.ve.
 globalteam.com.ve.
 globaltech.com.ve.
 globaltrack.com.ve.
-globalven.com.ve.
 globalventas.com.ve.
 globalview.com.ve.
 globalwebtek.com.ve.
@@ -9830,7 +9830,6 @@ grupomedicobpro.com.ve.
 grupomedigraf.com.ve.
 grupomeglob.com.ve.
 grupomerco.com.ve.
-grupomigo.com.ve.
 grupomillenium.com.ve.
 grupomilos.com.ve.
 grupomistral.com.ve.
@@ -11119,6 +11118,7 @@ inetfibercom.com.ve.
 inexco.com.ve.
 infalcosta.org.ve.
 infectologiahoy.com.ve.
+infica.com.ve.
 infierno.com.ve.
 infinet.com.ve.
 infinite.com.ve.
@@ -11925,6 +11925,7 @@ janscar.com.ve.
 janssen-cilag.com.ve.
 janssen.com.ve.
 janumetxr.com.ve.
+janus.com.ve.
 jap.com.ve.
 japancorp.com.ve.
 japon.com.ve.
@@ -13066,6 +13067,7 @@ livespeaking.co.ve.
 livespeaking.com.ve.
 livestand.co.ve.
 livestand.com.ve.
+livetickets.com.ve.
 livetube.co.ve.
 livetube.com.ve.
 livial.com.ve.
@@ -13569,6 +13571,7 @@ marantz.com.ve.
 marapet.com.ve.
 marari.com.ve.
 marateca.com.ve.
+marathon.com.ve.
 maravillosarealidad.com.ve.
 marca.co.ve.
 marcano-nuevaesparta.gob.ve.
@@ -14219,6 +14222,7 @@ mgmresorts.com.ve.
 mgnc.com.ve.
 mgr.com.ve.
 mgrconsultores.com.ve.
+mgrpremium.com.ve.
 mgserviciosintegrales.com.ve.
 mgstore.com.ve.
 mgtours.com.ve.
@@ -15692,6 +15696,7 @@ olx.co.ve.
 olx.com.ve.
 olxautos.co.ve.
 olxautos.com.ve.
+olympic.com.ve.
 omarfpg.com.ve.
 omcorp.com.ve.
 omd.com.ve.
@@ -15743,7 +15748,6 @@ oneblade.com.ve.
 onedrive.co.ve.
 onedrive.com.ve.
 onergy.com.ve.
-onestar.com.ve.
 onestopplus.co.ve.
 onestopplus.com.ve.
 onestore.com.ve.
@@ -17249,7 +17253,6 @@ pservices.com.ve.
 psi.com.ve.
 psicochamos.com.ve.
 psicologos.co.ve.
-psionteklogix.com.ve.
 psm-mun.edu.ve.
 psm.edu.ve.
 psmaracaibo.edu.ve.
@@ -18005,6 +18008,7 @@ risksolutions.net.ve.
 ritmica1015fm.com.ve.
 rittal.com.ve.
 ritz.com.ve.
+ritzy.com.ve.
 riu.ve.
 riv-elhatillo.com.ve.
 riv-sureste.com.ve.
@@ -19064,6 +19068,7 @@ shanti.com.ve.
 sharkclean.co.ve.
 sharkninja.co.ve.
 sharpie.com.ve.
+sharplatam.com.ve.
 shay.com.ve.
 sheaffer.com.ve.
 sheep.com.ve.
@@ -19621,7 +19626,6 @@ solservica.com.ve.
 solteca.com.ve.
 soluciona.com.ve.
 soluciones-advisor.com.ve.
-solucionesacuaticas.com.ve.
 solucionesantco.com.ve.
 solucionesbinarias.com.ve.
 solucionescontables.com.ve.
@@ -19655,7 +19659,6 @@ solvay-rhodia.com.ve.
 solvay.com.ve.
 solvayrhodia.co.ve.
 solvayrhodia.com.ve.
-solvencia.com.ve.
 solventum.co.ve.
 solventum.com.ve.
 solvia.com.ve.
@@ -21116,7 +21119,6 @@ trabaje.com.ve.
 trabajo.com.ve.
 trabajos.com.ve.
 trabber.com.ve.
-trabsub.com.ve.
 tracker.com.ve.
 trackgps.com.ve.
 tracking.com.ve.
