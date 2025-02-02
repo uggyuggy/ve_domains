@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Feb2025 07:40 UTC
+# ve domain names extracted from nameservers on 02Feb2025 07:57 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2596,7 +2596,6 @@ biensimple.com.ve.
 bienvenidoatumundo.com.ve.
 bigben.com.ve.
 bigbrother.com.ve.
-bigcode.com.ve.
 bigcommerce.co.ve.
 bigcommerce.com.ve.
 bigdata.com.ve.
@@ -5657,6 +5656,7 @@ covidien.co.ve.
 covidien.com.ve.
 covinea.gob.ve.
 covri.com.ve.
+coyoacan.com.ve.
 cozaar.com.ve.
 cozies.com.ve.
 cp.com.ve.
@@ -6519,7 +6519,6 @@ direcciondeculturatachira.gob.ve.
 direcciondeeducaciontachira.gob.ve.
 direcciondeseguridadciudadanampiotovar.gob.ve.
 direco.com.ve.
-directoacasa.com.ve.
 directorio.com.ve.
 directoriocomvisur.com.ve.
 directoriodigital.com.ve.
@@ -6664,7 +6663,6 @@ dks.com.ve.
 dkwatch.com.ve.
 dlcv.net.ve.
 dll.com.ve.
-dlus.com.ve.
 dmarket.com.ve.
 dmmc.com.ve.
 dnaed.edu.ve.
@@ -8183,6 +8181,7 @@ festool.com.ve.
 fetiche.com.ve.
 fetratel.com.ve.
 feuv.org.ve.
+feved.org.ve.
 fevetiro.com.ve.
 fevp.gob.ve.
 feyalegria.edu.ve.
@@ -11271,7 +11270,6 @@ innovavalledelapascua.com.ve.
 innovavenezuela.com.ve.
 innovavillanueva.com.ve.
 innovent.com.ve.
-inntechtelecom.com.ve.
 inoa.com.ve.
 inoffice.com.ve.
 inoi.com.ve.
@@ -15101,7 +15099,6 @@ navasca.com.ve.
 navasoft.com.ve.
 navator.com.ve.
 navegante.co.ve.
-navegante.com.ve.
 naviarca.co.ve.
 naviarca.com.ve.
 navibus.com.ve.
@@ -15114,7 +15111,6 @@ nbingenieria.com.ve.
 ncc.org.ve.
 ncl.com.ve.
 nctv.com.ve.
-ndschemical.com.ve.
 neauvia.com.ve.
 neb.com.ve.
 nebido.com.ve.
@@ -18974,6 +18970,7 @@ servinorca.com.ve.
 servioil.com.ve.
 serviotovar.com.ve.
 servipagos.com.ve.
+servipagoscomunal.com.ve.
 servipartes.com.ve.
 serviparts.com.ve.
 serviplast.com.ve.
@@ -19715,7 +19712,6 @@ sortservices.com.ve.
 sos.com.ve.
 sos.net.ve.
 sosa-barinas.gob.ve.
-sosca.com.ve.
 sosit.com.ve.
 sotam.com.ve.
 sotarncarabobo.gob.ve.
@@ -20640,7 +20636,6 @@ terabytesoluciones.com.ve.
 teradata.com.ve.
 teragrip.com.ve.
 teraminer.com.ve.
-terapeuta.co.ve.
 teresianolacastellana.edu.ve.
 teresianolacastellanastj.edu.ve.
 termax.com.ve.
@@ -22944,7 +22939,6 @@ willyjhons.com.ve.
 wilmax.com.ve.
 wilo.com.ve.
 wilven.com.ve.
-wimzar.com.ve.
 win.net.ve.
 wincor-nixdorf.co.ve.
 wincor-world.co.ve.
