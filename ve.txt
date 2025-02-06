@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 05Feb2025 07:45 UTC
+# ve domain names extracted from nameservers on 06Feb2025 07:44 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -34,6 +34,7 @@
 1ahost.net.ve.
 1click.com.ve.
 1stchoice.com.ve.
+1win-venezuela.com.ve.
 1win.co.ve.
 1win.com.ve.
 1win.net.ve.
@@ -2231,6 +2232,7 @@ banconacionaldecredito.com.ve.
 bancoprovincial.com.ve.
 bancopueblo.gov.ve.
 bancrecer.com.ve.
+bancrecermovil.com.ve.
 banctrust.com.ve.
 bandarealize.com.ve.
 bandera.com.ve.
@@ -3500,7 +3502,6 @@ carnet.org.ve.
 carnetdelapatria.gob.ve.
 carnico.com.ve.
 carnival.co.ve.
-carodistm.com.ve.
 carolinaflores.com.ve.
 caroll.com.ve.
 caroni-bolivar.gob.ve.
@@ -3770,7 +3771,6 @@ cecofis.edu.ve.
 cecou.edu.ve.
 cecys.org.ve.
 cedca.org.ve.
-cedees.com.ve.
 cedeno-bolivar.gob.ve.
 cedeno-monagas.gov.ve.
 cedeno.com.ve.
@@ -3869,6 +3869,7 @@ ceniap.gov.ve.
 cenif.gob.ve.
 cenipa.gob.ve.
 cenipa.web.ve.
+cenit.com.ve.
 cenit.gob.ve.
 censo.com.ve.
 centaurosms.com.ve.
@@ -4909,7 +4910,6 @@ colgatetotal.com.ve.
 colina-falcon.gov.ve.
 colineal.com.ve.
 collectania.com.ve.
-colledge.com.ve.
 collistar.com.ve.
 colmed.com.ve.
 colnetwork.com.ve.
@@ -5520,6 +5520,7 @@ corporacionbancapublica.gob.ve.
 corporacionbcc.com.ve.
 corporacionbolivar.gob.ve.
 corporacioncasa.gob.ve.
+corporacioncdt.com.ve.
 corporacioncibus.com.ve.
 corporaciondaka.com.ve.
 corporaciondaka.net.ve.
@@ -7283,7 +7284,6 @@ elteide.com.ve.
 elterminalito.com.ve.
 eltiempo.com.ve.
 eltiempodecaricuao.com.ve.
-eltigre.com.ve.
 eltigre.gob.ve.
 eltrendecolores.com.ve.
 eltresporciento.com.ve.
@@ -8253,6 +8253,7 @@ filig.com.ve.
 filink.com.ve.
 filmbooster.com.ve.
 filopack.com.ve.
+filtragua.com.ve.
 filtrete.co.ve.
 filtrete.com.ve.
 filtros.com.ve.
@@ -8872,6 +8873,7 @@ fundacomunal.gob.ve.
 fundacomunidad.gob.ve.
 fundacredesa.gob.ve.
 fundadeporte.gob.ve.
+fundaeco.com.ve.
 fundaemprendej.com.ve.
 fundaescolar.gob.ve.
 fundaescucharte.com.ve.
@@ -11475,6 +11477,7 @@ internacionalvdcacademy.com.ve.
 international.com.ve.
 internationalaccounting.com.ve.
 internet2.edu.ve.
+internetccom.co.ve.
 internetexplorer.com.ve.
 internetexplorer8.com.ve.
 internetexplorer9.com.ve.
@@ -11887,6 +11890,7 @@ ivrcenter.com.ve.
 ivss.gob.ve.
 ivss.gov.ve.
 ivt.gob.ve.
+iwmark.com.ve.
 iws.com.ve.
 ix.com.ve.
 ixekizumab.com.ve.
@@ -17475,6 +17479,7 @@ radiocanal.com.ve.
 radiochacao.com.ve.
 radiodinamica.com.ve.
 radiodisney.com.ve.
+radioegidiomontesinos.com.ve.
 radioestadio.com.ve.
 radioflyer.com.ve.
 radioguaco.com.ve.
@@ -18067,6 +18072,7 @@ robotica.com.ve.
 roboticacefitec.emprende.ve.
 robotshop.co.ve.
 roca.com.ve.
+rocafuerterestauracion.com.ve.
 rocaldent.com.ve.
 rocatel.com.ve.
 rocelteca.com.ve.
@@ -18939,7 +18945,6 @@ sertic.com.ve.
 sertocon24.com.ve.
 serverout.com.ve.
 servianalisis.com.ve.
-serviar.com.ve.
 servibottle.com.ve.
 servibus.com.ve.
 servica.com.ve.
@@ -20322,6 +20327,7 @@ sysconsult.com.ve.
 sysdigital.com.ve.
 sysoon.com.ve.
 sysprim.com.ve.
+sysproducciones.com.ve.
 systemsgroup.com.ve.
 systimax.com.ve.
 t-fitness.com.ve.
@@ -21368,7 +21374,6 @@ tuchance.com.ve.
 tuchance.net.ve.
 tuchuchero.com.ve.
 tucisterna.com.ve.
-tucompraenamazon.com.ve.
 tucondominioenlared.com.ve.
 tucondominiofacil.com.ve.
 tucontabilidadenlinea.com.ve.
@@ -22106,6 +22111,7 @@ valtra.com.ve.
 valuactivosgarmapul.com.ve.
 valuenet.com.ve.
 valvoline.com.ve.
+vanelope.com.ve.
 vanessaballeza.com.ve.
 vaniqa.com.ve.
 vanish.com.ve.
@@ -22251,6 +22257,7 @@ venetur.gob.ve.
 venetur.gov.ve.
 venevision.com.ve.
 venevisioncontinental.com.ve.
+venexporta.com.ve.
 venezdem.com.ve.
 venezolanademodulares.com.ve.
 venezolanaderevestimiento.com.ve.
