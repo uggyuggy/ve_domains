@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Feb2025 07:44 UTC
+# ve domain names extracted from nameservers on 07Feb2025 07:47 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -34,10 +34,12 @@
 1ahost.net.ve.
 1click.com.ve.
 1stchoice.com.ve.
+1win-casino.com.ve.
 1win-venezuela.com.ve.
 1win.co.ve.
 1win.com.ve.
 1win.net.ve.
+1winoficial.com.ve.
 1winoficial.net.ve.
 1x-bet.com.ve.
 1x10.com.ve.
@@ -2614,7 +2616,6 @@ bigpoint.com.ve.
 biipnegocio.com.ve.
 bikas.com.ve.
 billabong.com.ve.
-billboard.com.ve.
 billeteramovil.gob.ve.
 billeteravirtual.gob.ve.
 billmelater.co.ve.
@@ -3153,7 +3154,6 @@ bustaguanes.gob.ve.
 bustamante.com.ve.
 bustrujillo.gob.ve.
 buttacimotors.com.ve.
-butterfly.com.ve.
 buyat-wal-mart.com.ve.
 buyrexroth.com.ve.
 buzonconstituyente.com.ve.
@@ -4534,7 +4534,6 @@ cmppp.gob.ve.
 cmpr.com.ve.
 cmr.gob.ve.
 cms.web.ve.
-cmsb.com.ve.
 cmsf.gob.ve.
 cmsfco.gob.ve.
 cmsmarino.gob.ve.
@@ -4669,6 +4668,7 @@ colegio19deabril.com.ve.
 colegio24dejuniode1821.com.ve.
 colegioadventistaandresbelloguanare.com.ve.
 colegioalejandrohumboldt.com.ve.
+colegioalejandrohumboldt.edu.ve.
 colegioaltamira.com.ve.
 colegioangeldelaguarda.com.ve.
 colegioantoniojosedesucre.com.ve.
@@ -7463,7 +7463,6 @@ entrepreneur.co.ve.
 entrepreneur.com.ve.
 entretemas.com.ve.
 entretenimiento.com.ve.
-entucorazonfm.com.ve.
 envases.com.ve.
 envasesvenezolanos.com.ve.
 envatec.com.ve.
@@ -11914,6 +11913,7 @@ jacsolca.com.ve.
 jacura-falcon.gov.ve.
 jacusa.com.ve.
 jade.net.ve.
+jadegrouprealty.com.ve.
 jadergolindano.com.ve.
 jadever.com.ve.
 jae.com.ve.
@@ -12896,7 +12896,6 @@ lgserviciosca.com.ve.
 lgv.com.ve.
 lhh.com.ve.
 lhtravel.com.ve.
-liah.com.ve.
 liahona.org.ve.
 lialda.com.ve.
 liatravel.com.ve.
@@ -13270,7 +13269,6 @@ ltbmima.com.ve.
 ltp.com.ve.
 ltproducciones.com.ve.
 lts.org.ve.
-ltx.com.ve.
 lubosistemas.com.ve.
 lubrax.com.ve.
 lubricanteslamundial.com.ve.
@@ -14940,6 +14938,7 @@ mundosatelital.co.ve.
 mundosatelital.com.ve.
 mundotrauma.com.ve.
 mundoturismo.com.ve.
+mundovinil.com.ve.
 municipio.co.ve.
 municipio.com.ve.
 municipioacevedo.gob.ve.
@@ -15018,7 +15017,6 @@ myprotein.co.ve.
 myrolex.co.ve.
 myrolex.com.ve.
 myrubi.co.ve.
-myskincheck.com.ve.
 mysolutionsdirect.com.ve.
 mysoportedenegocios.com.ve.
 myspacetv.com.ve.
@@ -15331,6 +15329,7 @@ ninjapark.com.ve.
 ninlaro.com.ve.
 nintedanib.com.ve.
 nintendo.com.ve.
+nio.com.ve.
 niod.co.ve.
 niod.com.ve.
 nioxin.co.ve.
@@ -15603,6 +15602,7 @@ octapharma.co.ve.
 octava-victoria-bolivariana.gov.ve.
 octavavictoriabolivariana.gov.ve.
 octi.gov.ve.
+oculaser.net.ve.
 oculusrift.co.ve.
 oculusrift.com.ve.
 oculusrift.net.ve.
@@ -18232,7 +18232,6 @@ rscmv.org.ve.
 rseducacionespecial.com.ve.
 rsm.co.ve.
 rsm.com.ve.
-rsoficial.com.ve.
 rsslatam.com.ve.
 rstory.com.ve.
 rstservicios.com.ve.
@@ -19585,7 +19584,6 @@ soi.com.ve.
 soiltech.com.ve.
 soitavecarabobo.com.ve.
 sojostar.com.ve.
-sol.co.ve.
 sol.com.ve.
 solad.com.ve.
 solaraze.com.ve.
@@ -20509,7 +20507,6 @@ tecnohospitalaria.com.ve.
 tecnohost.com.ve.
 tecnohost.net.ve.
 tecnointegral.com.ve.
-tecnointer.com.ve.
 tecnoip.com.ve.
 tecnolab.com.ve.
 tecnolam.co.ve.
@@ -21821,6 +21818,7 @@ unicar.com.ve.
 unicasa.com.ve.
 unicatalunya.co.ve.
 unichem.com.ve.
+unichip.com.ve.
 unicity.com.ve.
 unicitynetwork.com.ve.
 unicon.com.ve.
@@ -22245,6 +22243,7 @@ venemundo.net.ve.
 venepago.co.ve.
 veneprop.com.ve.
 venescca.com.ve.
+venescopio.org.ve.
 venesulca.com.ve.
 venet.com.ve.
 venetacucine.co.ve.
@@ -22258,6 +22257,7 @@ venetur.gov.ve.
 venevision.com.ve.
 venevisioncontinental.com.ve.
 venexporta.com.ve.
+venexporta.ve.
 venezdem.com.ve.
 venezolanademodulares.com.ve.
 venezolanaderevestimiento.com.ve.
@@ -22822,6 +22822,7 @@ warriorking.com.ve.
 wartsila.co.ve.
 wartsila.com.ve.
 washe.com.ve.
+washiru.com.ve.
 watchguard.com.ve.
 watchstation.com.ve.
 watchstation.ve.
@@ -23148,7 +23149,6 @@ xyleminc.co.ve.
 xylemwater.com.ve.
 xylemwatersolutions.co.ve.
 xylemwatersolutions.com.ve.
-xypex.co.ve.
 xypex.com.ve.
 y.com.ve.
 ya.co.ve.
@@ -23208,7 +23208,6 @@ yjw.com.ve.
 ymail.co.ve.
 ymail.com.ve.
 ymca.com.ve.
-ymcconsulting.com.ve.
 ymgsoluciones.com.ve.
 yocorroconmovistar.com.ve.
 yola.com.ve.
