@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 07Feb2025 07:47 UTC
+# ve domain names extracted from nameservers on 08Feb2025 08:01 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1428,7 +1428,6 @@ aolvideos.com.ve.
 aovivo.com.ve.
 ap.com.ve.
 apacuana.com.ve.
-aparkate.com.ve.
 apartamentos.com.ve.
 apartamentosvacacionalesmargarita.com.ve.
 apav.com.ve.
@@ -1739,7 +1738,6 @@ asesorias.com.ve.
 asesoriaycapacitacion.com.ve.
 asesorit.com.ve.
 asg.com.ve.
-asgmultiplex.co.ve.
 ashe.com.ve.
 ashley.com.ve.
 ashleymadison.com.ve.
@@ -2895,6 +2893,7 @@ bolttechpayment.com.ve.
 bolyter.com.ve.
 bomac.com.ve.
 bombardier.com.ve.
+bombasantco.com.ve.
 bombasdeagua.com.ve.
 bombasydragasmundo.com.ve.
 bombaysaphire.com.ve.
@@ -4023,7 +4022,6 @@ chacos.com.ve.
 chaguaramas-guarico.gov.ve.
 chakon.com.ve.
 chambajuvenil.gob.ve.
-chamobetvzla.com.ve.
 champion.com.ve.
 championbet.com.ve.
 championlubes.co.ve.
@@ -4534,6 +4532,7 @@ cmppp.gob.ve.
 cmpr.com.ve.
 cmr.gob.ve.
 cms.web.ve.
+cmsb.com.ve.
 cmsf.gob.ve.
 cmsfco.gob.ve.
 cmsmarino.gob.ve.
@@ -6502,7 +6501,6 @@ dinersclub.com.ve.
 dineweb.com.ve.
 dingemide.mil.ve.
 dinomotorsaragua.com.ve.
-dinox.com.ve.
 dinsomar.com.ve.
 diocesanonuevaesparta.com.ve.
 diocesisdeciudadguayana.org.ve.
@@ -6616,6 +6614,7 @@ distasi-honda.com.ve.
 distcagua.com.ve.
 distinmuebles.com.ve.
 distmah.com.ve.
+distramar.com.ve.
 distribucionesconectando.com.ve.
 distribuidora2022ry.com.ve.
 distribuidoraalfredojj.com.ve.
@@ -7284,6 +7283,7 @@ elteide.com.ve.
 elterminalito.com.ve.
 eltiempo.com.ve.
 eltiempodecaricuao.com.ve.
+eltigre.com.ve.
 eltigre.gob.ve.
 eltrendecolores.com.ve.
 eltresporciento.com.ve.
@@ -9781,7 +9781,6 @@ grupoemi.com.ve.
 grupoenfoque.net.ve.
 grupoergases.com.ve.
 grupoes.com.ve.
-grupoexpress.com.ve.
 grupofaria.com.ve.
 grupofarma.com.ve.
 grupofas.com.ve.
@@ -9808,7 +9807,6 @@ grupointeractivas.com.ve.
 grupoinvicta.com.ve.
 grupoisla.com.ve.
 grupoitalven.com.ve.
-grupoitc.com.ve.
 grupojldevenezuela.com.ve.
 grupojr.com.ve.
 grupokaizen.com.ve.
@@ -9884,7 +9882,6 @@ grupounico.com.ve.
 grupov.com.ve.
 grupova.com.ve.
 grupovelezvelez.com.ve.
-grupovictoria.com.ve.
 grupovida24x7.com.ve.
 grupovilore.com.ve.
 grupovitasana.com.ve.
@@ -10119,7 +10116,6 @@ headandshoulders.com.ve.
 healight.com.ve.
 healthbird.co.ve.
 healthbird.com.ve.
-healthcaremedcare.com.ve.
 healthcaremedcare.web.ve.
 healthineer.com.ve.
 healthineers.com.ve.
@@ -12000,7 +11996,6 @@ jetix.com.ve.
 jetourvenezuela.com.ve.
 jf2soluciones.com.ve.
 jfl.com.ve.
-jflvenezuela.com.ve.
 jfpz.com.ve.
 jfsports.com.ve.
 jgrautodist.com.ve.
@@ -16529,7 +16524,6 @@ philips.com.ve.
 phillips66.com.ve.
 phillips66co.com.ve.
 phillips66company.com.ve.
-phl.com.ve.
 phoenixcontact.co.ve.
 phoenixcontact.com.ve.
 phonestrip.com.ve.
@@ -18467,7 +18461,6 @@ sanarox.com.ve.
 sanatrix.com.ve.
 sancarlos-cojedes.gov.ve.
 sancasimiro-aragua.gob.ve.
-sanchez.com.ve.
 sanchezcia.com.ve.
 sanchezpolo.com.ve.
 sancorseguros.com.ve.
@@ -19375,6 +19368,7 @@ sitaramagazine.com.ve.
 sitca-mcbo.com.ve.
 siteapp.com.ve.
 sitelca.com.ve.
+sitenotitarde.emprende.ve.
 sitesolution.com.ve.
 sitic.com.ve.
 sitioadministrativo.com.ve.
@@ -19617,6 +19611,7 @@ solideo.org.ve.
 solidworks.com.ve.
 solili.com.ve.
 solimet.com.ve.
+solin.com.ve.
 solinca.com.ve.
 solinf.com.ve.
 solinpeca.com.ve.
@@ -20032,7 +20027,6 @@ studyin-uk.com.ve.
 stv.com.ve.
 styc.com.ve.
 style.com.ve.
-styleboutique072.com.ve.
 suaf.com.ve.
 suago.com.ve.
 suarezoramas.com.ve.
@@ -22352,7 +22346,6 @@ vepuy.com.ve.
 verabradley.com.ve.
 veraflox.co.ve.
 veralto.com.ve.
-veramed.com.ve.
 verautos.com.ve.
 verawangbride.com.ve.
 verd.com.ve.
