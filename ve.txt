@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 08Feb2025 08:01 UTC
+# ve domain names extracted from nameservers on 09Feb2025 07:57 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1104,7 +1104,6 @@ alorental.com.ve.
 alova.com.ve.
 aloyoga.com.ve.
 alpa.org.ve.
-alpesexpress.com.ve.
 alphacolor.com.ve.
 alphacreativa.com.ve.
 alphasense.com.ve.
@@ -1369,6 +1368,7 @@ anm.org.ve.
 annieservice.com.ve.
 anntaylor.com.ve.
 anpage.com.ve.
+ansa.org.ve.
 ansloar.com.ve.
 antares.com.ve.
 antaresvision.com.ve.
@@ -1514,7 +1514,6 @@ aqtitud.co.ve.
 aqtitud.com.ve.
 aquaazul.com.ve.
 aquamarina.com.ve.
-aquamundo.com.ve.
 aquapark.com.ve.
 aquarela.com.ve.
 aquarena.com.ve.
@@ -1632,7 +1631,6 @@ arquidiocesisdemerida.org.ve.
 arquistore.com.ve.
 arquitec.com.ve.
 arquitecnica.com.ve.
-arquitecturacreativa.com.ve.
 arrb.com.ve.
 arrecife-express.com.ve.
 arriesgo.com.ve.
@@ -1887,6 +1885,7 @@ aulavirtualcgq.com.ve.
 aulaxpress.com.ve.
 aulin.com.ve.
 aumca.com.ve.
+aura.com.ve.
 aureoespiral.com.ve.
 aus-g4s.com.ve.
 aus.com.ve.
@@ -3544,7 +3543,6 @@ casa-olimpo.com.ve.
 casa.gob.ve.
 casa.gov.ve.
 casaalejozuloaga.com.ve.
-casabe.com.ve.
 casabello.gob.ve.
 casablanca24.com.ve.
 casacoima-deltaamacuro.gob.ve.
@@ -6226,7 +6224,6 @@ deltasalud.com.ve.
 deltatech.com.ve.
 delti.com.ve.
 delticom.com.ve.
-deluxevacation.com.ve.
 delvalle.com.ve.
 delzam.com.ve.
 dem.gob.ve.
@@ -6642,7 +6639,6 @@ disvel.com.ve.
 dit.com.ve.
 divacun.com.ve.
 divainparfums.co.ve.
-diverfiesta.com.ve.
 diverplace.com.ve.
 diversey.co.ve.
 diversey.com.ve.
@@ -7463,6 +7459,7 @@ entrepreneur.co.ve.
 entrepreneur.com.ve.
 entretemas.com.ve.
 entretenimiento.com.ve.
+entucorazonfm.com.ve.
 envases.com.ve.
 envasesvenezolanos.com.ve.
 envatec.com.ve.
@@ -9390,7 +9387,6 @@ global-axis.com.ve.
 global-leasing.com.ve.
 global-lex.com.ve.
 global-link.net.ve.
-global-mall.com.ve.
 global-pay.com.ve.
 global2020.com.ve.
 globalbimbo.com.ve.
@@ -11540,7 +11536,6 @@ inversionesalmarza.com.ve.
 inversionesangelini.com.ve.
 inversionesanu.com.ve.
 inversionesatlantida.com.ve.
-inversionesbym.com.ve.
 inversionesduri.com.ve.
 inversionese2012.com.ve.
 inversioneseden.com.ve.
@@ -12307,7 +12302,6 @@ kibref.com.ve.
 kickers.com.ve.
 kidconnection.com.ve.
 kidsandcolors.com.ve.
-kidsgymconpatricia.com.ve.
 kidsplanet.com.ve.
 kidsrepublic.com.ve.
 kidsrus.com.ve.
@@ -13745,7 +13739,6 @@ matos.com.ve.
 matpet.com.ve.
 matriz.com.ve.
 matsa.com.ve.
-mattey.com.ve.
 matthaeus.com.ve.
 maturin-monagas.gob.ve.
 matza.com.ve.
@@ -13757,7 +13750,6 @@ mavica.com.ve.
 mavidcarabobo.org.ve.
 mavulca.com.ve.
 mawdy.com.ve.
-mawi.com.ve.
 max.co.ve.
 max.com.ve.
 maxca.com.ve.
@@ -14161,6 +14153,7 @@ metales.com.ve.
 metaleshk.com.ve.
 metalex.com.ve.
 metalger.com.ve.
+metalica.com.ve.
 metalinks.com.ve.
 metalkor.com.ve.
 metallca.com.ve.
@@ -16959,6 +16952,7 @@ premiospepsimusic.com.ve.
 premiumbrands.co.ve.
 premiumbrands.com.ve.
 premiumfarma.com.ve.
+premiummotors.com.ve.
 premiumoutlets.com.ve.
 premizez.com.ve.
 prendetv.com.ve.
@@ -17319,6 +17313,7 @@ pulsar.com.ve.
 pulso.com.ve.
 pulzo.com.ve.
 puma.com.ve.
+pumpervac.com.ve.
 pumpstoponline.com.ve.
 punceres-monagas.gob.ve.
 puntacuchillo.com.ve.
@@ -17457,7 +17452,6 @@ radiadoresfranco.com.ve.
 radiadoresstopcar.com.ve.
 radiadoreswjm.com.ve.
 radiante957fm.com.ve.
-radical.com.ve.
 radimax.com.ve.
 radimax.net.ve.
 radio.co.ve.
@@ -19171,6 +19165,7 @@ siddhayoga.org.ve.
 sidelca.com.ve.
 sidemaca.com.ve.
 sideralfm.com.ve.
+sidercom.com.ve.
 sidicom.gob.ve.
 sidigas.gob.ve.
 sidley.co.ve.
@@ -19845,6 +19840,7 @@ spotify.net.ve.
 spraymatic.com.ve.
 springbet.co.ve.
 springfield.com.ve.
+springgroup.com.ve.
 sprintworldwide.com.ve.
 sprite.co.ve.
 sprite.com.ve.
@@ -21127,6 +21123,7 @@ trabaje.com.ve.
 trabajo.com.ve.
 trabajos.com.ve.
 trabber.com.ve.
+trabsub.com.ve.
 tracker.com.ve.
 trackgps.com.ve.
 tracking.com.ve.
