@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 09Feb2025 07:57 UTC
+# ve domain names extracted from nameservers on 10Feb2025 07:46 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1931,7 +1931,6 @@ automarketinternacional.com.ve.
 automatroni.com.ve.
 automotioncomponents.co.ve.
 automotoresguatire.com.ve.
-automotrizlosaltos.com.ve.
 automotriztempanoice.com.ve.
 automoviles.com.ve.
 automundial.com.ve.
@@ -2241,7 +2240,6 @@ banderas.com.ve.
 bandes.gob.ve.
 bandes.gov.ve.
 bandh.com.ve.
-bandmasterca.com.ve.
 bandres.com.ve.
 banesco.com.ve.
 banescoabanca.com.ve.
@@ -3172,6 +3170,7 @@ bykilian.com.ve.
 bymsport.com.ve.
 byt.com.ve.
 byteshop.net.ve.
+bytetech.com.ve.
 c-3500.com.ve.
 c-date.co.ve.
 c-dating.co.ve.
@@ -4272,6 +4271,7 @@ ciscosystems.com.ve.
 ciscosystems.info.ve.
 ciscosystems.org.ve.
 ciscosystems.web.ve.
+cisonrisas.com.ve.
 cissocial.org.ve.
 cit.com.ve.
 citadinos.com.ve.
@@ -8954,7 +8954,6 @@ funvi.gob.ve.
 funvidmc.gob.ve.
 funvisis.gob.ve.
 funvisis.gov.ve.
-furiafm.com.ve.
 fursys.com.ve.
 fus.gov.ve.
 fusari.com.ve.
@@ -11159,6 +11158,7 @@ inforproin.com.ve.
 infosoft.com.ve.
 infosoft.net.ve.
 infosolutionsnetworking.com.ve.
+infosurguayana.com.ve.
 infotel1209.com.ve.
 infotronics.com.ve.
 infoworld.com.ve.
@@ -11554,7 +11554,6 @@ inversioneslr.com.ve.
 inversionesmundo2020.com.ve.
 inversionespb.com.ve.
 inversionespistonesjw.com.ve.
-inversionesrh.com.ve.
 inversionesskybeta.com.ve.
 inversionessurteen.com.ve.
 inversionesveterinarias.com.ve.
@@ -13201,7 +13200,6 @@ lot.gob.ve.
 loteriadeanzoategui.com.ve.
 loteriadecaracas.gob.ve.
 loteriadecojedes.com.ve.
-loteriadeguayana.com.ve.
 loteriadelara.com.ve.
 loteriadeltachira.com.ve.
 loteriadelzulia.com.ve.
@@ -18220,6 +18218,7 @@ rscmv.org.ve.
 rseducacionespecial.com.ve.
 rsm.co.ve.
 rsm.com.ve.
+rsoficial.com.ve.
 rsslatam.com.ve.
 rstory.com.ve.
 rstservicios.com.ve.
@@ -20622,7 +20621,6 @@ teloaseguro.com.ve.
 telodije.com.ve.
 telopublico.com.ve.
 telotengo.com.ve.
-telredsis.com.ve.
 telserdevenezuela.com.ve.
 telsystems.com.ve.
 teltronics.com.ve.
@@ -20958,7 +20956,6 @@ todoimpresos.com.ve.
 todomedico.com.ve.
 todomotores.com.ve.
 todoparati.com.ve.
-todos.com.ve.
 todosaludcr.com.ve.
 todosconocenaalguien.com.ve.
 todostore.com.ve.
@@ -22188,7 +22185,6 @@ vemitienda.com.ve.
 ven911.gob.ve.
 venalcasa.gob.ve.
 venalum.com.ve.
-venamerica.com.ve.
 venamerican.com.ve.
 venamonline.com.ve.
 venavega.com.ve.
@@ -23256,7 +23252,6 @@ zapzap.co.ve.
 zapzap.com.ve.
 zara.com.ve.
 zarate.net.ve.
-zas.com.ve.
 zazzle.co.ve.
 zazzle.com.ve.
 zea-merida.gov.ve.
