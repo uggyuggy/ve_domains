@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 11Feb2025 07:46 UTC
+# ve domain names extracted from nameservers on 12Feb2025 08:40 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1108,7 +1108,6 @@ alpa.org.ve.
 alphacolor.com.ve.
 alphacreativa.com.ve.
 alphasense.com.ve.
-alphasigma.com.ve.
 alphasoft.com.ve.
 alphasoluciones.com.ve.
 alpina.com.ve.
@@ -3499,6 +3498,7 @@ carnet.org.ve.
 carnetdelapatria.gob.ve.
 carnico.com.ve.
 carnival.co.ve.
+carodistm.com.ve.
 carolinaflores.com.ve.
 caroll.com.ve.
 caroni-bolivar.gob.ve.
@@ -3902,6 +3902,7 @@ centromedicopasoreal.com.ve.
 centromedicosanfrancisco.com.ve.
 centromedicosanjose.co.ve.
 centromedicosanjose.com.ve.
+centromedicosantabarbara.com.ve.
 centromedicosantamarta.com.ve.
 centromedkar.com.ve.
 centromueble.com.ve.
@@ -3919,6 +3920,7 @@ centrotraki.com.ve.
 centrouniversitas.com.ve.
 century21.com.ve.
 century21aba.com.ve.
+cenvih.gob.ve.
 cenvih.org.ve.
 ceo.mil.ve.
 ceobqto.com.ve.
@@ -6989,6 +6991,7 @@ ecophon.co.ve.
 ecoprint.com.ve.
 ecorecicla.org.ve.
 ecosalud.com.ve.
+ecosdeasis.com.ve.
 ecosistemas.com.ve.
 ecotechne.com.ve.
 ecovalor.com.ve.
@@ -9804,6 +9807,7 @@ grupointeractivas.com.ve.
 grupoinvicta.com.ve.
 grupoisla.com.ve.
 grupoitalven.com.ve.
+grupoitc.com.ve.
 grupojldevenezuela.com.ve.
 grupojr.com.ve.
 grupokaizen.com.ve.
@@ -11265,6 +11269,7 @@ innovasoft.com.ve.
 innovasoluciones.com.ve.
 innovasolucionesti.com.ve.
 innovat.com.ve.
+innovatec.com.ve.
 innovatech.com.ve.
 innovatechsupply.com.ve.
 innovatek.com.ve.
@@ -12281,7 +12286,6 @@ kenvue.com.ve.
 kenvuevenezuela.com.ve.
 kenwood.com.ve.
 kenworth.com.ve.
-kenworthvenezuela.com.ve.
 keopslavanderia.com.ve.
 kepido.com.ve.
 kerastase.com.ve.
@@ -12951,7 +12955,7 @@ lifealertgps.com.ve.
 lifefitness.com.ve.
 lifeinrange.com.ve.
 lifeisgood.com.ve.
-lifescan.com.ve.
+lifephone.com.ve.
 lifesdha.com.ve.
 lifesev.com.ve.
 lifeshirt.co.ve.
@@ -13966,7 +13970,6 @@ megaoffice.com.ve.
 megaparts.com.ve.
 megaparty.com.ve.
 megaparty.net.ve.
-megapc.com.ve.
 megapet.com.ve.
 megapixel.com.ve.
 megaplay.com.ve.
@@ -15370,6 +15373,7 @@ norkaluque.co.ve.
 norkut.com.ve.
 normansalas.com.ve.
 norte.com.ve.
+norteconecta.com.ve.
 norteconecta.net.ve.
 northernlakerealestate.com.ve.
 northface.com.ve.
@@ -15749,7 +15753,6 @@ onergy.com.ve.
 onestopplus.co.ve.
 onestopplus.com.ve.
 onestore.com.ve.
-onetouch.com.ve.
 onetraffic.co.ve.
 onetraffic.com.ve.
 oney.com.ve.
@@ -15947,6 +15950,7 @@ otc.com.ve.
 otec.com.ve.
 otepi.com.ve.
 otticanet.com.ve.
+ottika.com.ve.
 otto.com.ve.
 ourgeneration.com.ve.
 outback.co.ve.
@@ -16191,6 +16195,7 @@ parquedunas.com.ve.
 parquehugochavez.gob.ve.
 parquejardinlapuerta.com.ve.
 parquemasciencia.gob.ve.
+parquepremieraventura.com.ve.
 parroquiachiquinquira.org.ve.
 parroquiasantarosadelima.info.ve.
 parrotbay.co.ve.
@@ -16387,6 +16392,7 @@ perez.com.ve.
 perfectos.co.ve.
 perfectos.com.ve.
 perfectouch.co.ve.
+perfildisc.com.ve.
 perfoca.com.ve.
 performance.com.ve.
 performancegym.com.ve.
@@ -17654,6 +17660,7 @@ recordsports.com.ve.
 recoveryair.com.ve.
 recrea.com.ve.
 recreacionalminimundo.com.ve.
+recuerdame.com.ve.
 recuperacionesbanesco.com.ve.
 recuperardatos.com.ve.
 red-bull.com.ve.
@@ -20486,7 +20493,6 @@ tecnoamerica.com.ve.
 tecnobuy.com.ve.
 tecnochui.com.ve.
 tecnocobros.com.ve.
-tecnocoloravila2000.com.ve.
 tecnocomputer.com.ve.
 tecnoconcret.com.ve.
 tecnoconcretbarcelona.com.ve.
@@ -21288,6 +21294,7 @@ triviajes.com.ve.
 trivial-pursuit.com.ve.
 trivialpursuit.com.ve.
 trl.com.ve.
+trl.ve.
 trmc.com.ve.
 trodat.com.ve.
 trolmerida.gob.ve.
@@ -21977,7 +21984,6 @@ uracoa-monagas.gob.ve.
 urania.com.ve.
 urbalink.com.ve.
 urbaneja-anzoategui.gov.ve.
-urbanizacionlosnaranjos.com.ve.
 urbanmarket.com.ve.
 urbanoutfitters.com.ve.
 urbantale.com.ve.
@@ -22966,6 +22972,7 @@ willyjhons.com.ve.
 wilmax.com.ve.
 wilo.com.ve.
 wilven.com.ve.
+wimzar.com.ve.
 win.net.ve.
 wincor-nixdorf.co.ve.
 wincor-world.co.ve.
