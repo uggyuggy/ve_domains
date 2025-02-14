@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 13Feb2025 05:25 UTC
+# ve domain names extracted from nameservers on 14Feb2025 05:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -80,6 +80,7 @@
 333krv7olw2ynfgw1n.web.ve.
 34brigmonagas.mil.ve.
 351euromarket.com.ve.
+360margaritaca.com.ve.
 360net.com.ve.
 3clics.com.ve.
 3cti.com.ve.
@@ -151,7 +152,6 @@
 95expressccs.com.ve.
 99designs.com.ve.
 9round.com.ve.
-9xmovies.com.ve.
 _443._tcp.estadisticas.nic.ve.
 _443._tcp.nic.ve.
 _443._tcp.rdap.nic.ve.
@@ -599,6 +599,7 @@ agropecuariavr.com.ve.
 agropica.com.ve.
 agroquimicoszambrano.com.ve.
 agrosistemasjpj.com.ve.
+agrosol.com.ve.
 agrosur.com.ve.
 agrosur.gob.ve.
 agrototal.com.ve.
@@ -4116,6 +4117,7 @@ chillbet.com.ve.
 chillsner.com.ve.
 chilyn.com.ve.
 china.com.ve.
+chinamotors.com.ve.
 chineseandgrill.com.ve.
 chinohung.com.ve.
 chinotto.com.ve.
@@ -4250,6 +4252,7 @@ circuitobrillante.com.ve.
 circuitoelectrikfm.com.ve.
 circuitoglobal.com.ve.
 circuitorrb.gob.ve.
+circuitoscomunales.gob.ve.
 circuitosuenavenezuela.com.ve.
 circulobqto.mil.ve.
 circulomilitar.gob.ve.
@@ -4317,7 +4320,6 @@ ciudadgotica.net.ve.
 ciudadmarquesa.net.ve.
 ciudadmcy.info.ve.
 ciudadvalencia.com.ve.
-civ.net.ve.
 civenpa.com.ve.
 civg.com.ve.
 civitatis.com.ve.
@@ -4666,6 +4668,7 @@ cojedes.gob.ve.
 coke.com.ve.
 colaborador.com.ve.
 colarebo.com.ve.
+cole.com.ve.
 colegio.com.ve.
 colegio19deabril.com.ve.
 colegio24dejuniode1821.com.ve.
@@ -5171,7 +5174,6 @@ conetsys.com.ve.
 conettech.com.ve.
 conexion.com.ve.
 conexiondental.com.ve.
-conexionescbg.com.ve.
 conexiontodoxjesus.com.ve.
 conext.com.ve.
 conext.net.ve.
@@ -8328,6 +8330,7 @@ fitflop.com.ve.
 fitsistema.com.ve.
 fitven.gob.ve.
 fiume.com.ve.
+fiv.com.ve.
 fiven.co.ve.
 fiven.com.ve.
 fixtop.com.ve.
@@ -9493,7 +9496,6 @@ go13.com.ve.
 goatech.com.ve.
 gob.ve.
 gobarinas.gob.ve.
-gobernacion.web.ve.
 gobernaciondelzulia.gob.ve.
 gobernaciondemerida.gov.ve.
 gobiernobolivarianodetrujillo.gov.ve.
@@ -10192,6 +10194,7 @@ hermes.com.ve.
 hermoso.com.ve.
 hernandez.com.ve.
 hernanrojas.org.ve.
+hernansalcedo.com.ve.
 heroal.com.ve.
 heroinaleonordelaguerra.com.ve.
 herorising.com.ve.
@@ -10535,7 +10538,6 @@ hotwire.com.ve.
 houmi.com.ve.
 housedecor.com.ve.
 houseofmarley.com.ve.
-houseofrock.com.ve.
 housingagent.co.ve.
 hovertours.com.ve.
 howard.com.ve.
@@ -14027,7 +14029,6 @@ membersmark.com.ve.
 meme.co.ve.
 meme.com.ve.
 memora.com.ve.
-memorialescarupano.com.ve.
 men.com.ve.
 menpet.gob.ve.
 mensaje.net.ve.
@@ -18625,6 +18626,7 @@ saxo.co.ve.
 saxobank.com.ve.
 saxolutions.com.ve.
 saxomarkets.com.ve.
+sayaclothing.com.ve.
 sayegh.com.ve.
 saypro.com.ve.
 sazongourmet.com.ve.
@@ -19350,6 +19352,7 @@ siserin.com.ve.
 sisgeccom.org.ve.
 sisley.com.ve.
 sisleyparis.com.ve.
+sispsa.com.ve.
 siss.gob.ve.
 sistelcorp.com.ve.
 sistelnet.com.ve.
@@ -19480,6 +19483,7 @@ smartgraphic.com.ve.
 smarthome.com.ve.
 smartlink.net.ve.
 smartoil.com.ve.
+smartoneca.com.ve.
 smartours.com.ve.
 smartsecurity-systems.com.ve.
 smartsite.com.ve.
@@ -19650,7 +19654,6 @@ solquiven.com.ve.
 solradiante.com.ve.
 solservica.com.ve.
 solteca.com.ve.
-soluciona.com.ve.
 soluciones-advisor.com.ve.
 solucionesantco.com.ve.
 solucionesbinarias.com.ve.
@@ -22099,6 +22102,7 @@ valery.com.ve.
 valerysoftware.com.ve.
 valetparkingv.com.ve.
 valfor.com.ve.
+validarapostilla-mppreegob.com.ve.
 validus-specialty.com.ve.
 validus.com.ve.
 validusgroup.com.ve.

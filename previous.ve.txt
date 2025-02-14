@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 12Feb2025 08:40 UTC
+# ve domain names extracted from nameservers on 13Feb2025 05:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3174,6 +3174,7 @@ c-3500.com.ve.
 c-date.co.ve.
 c-dating.co.ve.
 c.com.ve.
+c27a2640._domainkey.nic.ve.
 c4l1d4d.nic.ve.
 ca-cib.co.ve.
 ca-cib.com.ve.
@@ -3743,6 +3744,7 @@ cdrmerida.net.ve.
 cds.edu.ve.
 cdt.com.ve.
 cdw.com.ve.
+cdzone.com.ve.
 cea.com.ve.
 cea.edu.ve.
 ceab.edu.ve.
@@ -7039,7 +7041,6 @@ edsca.com.ve.
 edt.com.ve.
 edu.com.ve.
 edu.ve.
-eduardoramirez.com.ve.
 eduardorohl.edu.ve.
 educacion.web.ve.
 educacionlara.gob.ve.
@@ -9211,7 +9212,6 @@ genpar.com.ve.
 genteaci.com.ve.
 genteca.com.ve.
 genteca.info.ve.
-gentederadio.com.ve.
 genteprevisiva.com.ve.
 gentequeinspira.com.ve.
 gentesagrada.com.ve.
@@ -9828,6 +9828,7 @@ grupomedicobpro.com.ve.
 grupomedigraf.com.ve.
 grupomeglob.com.ve.
 grupomerco.com.ve.
+grupomigo.com.ve.
 grupomillenium.com.ve.
 grupomilos.com.ve.
 grupomistral.com.ve.
@@ -10151,6 +10152,7 @@ helios.com.ve.
 heliumalfa.com.ve.
 hellawell.com.ve.
 hello.com.ve.
+hellomoto.com.ve.
 helukabel.com.ve.
 hemofiliahoy.com.ve.
 hemophiliasolution.co.ve.
@@ -12331,7 +12333,6 @@ kingscores.com.ve.
 kingston.co.ve.
 kinoko.com.ve.
 kinto-mobility.com.ve.
-kinyart.com.ve.
 kioti.com.ve.
 kiotis-paris.com.ve.
 kiotisparis.com.ve.
@@ -12542,6 +12543,7 @@ laceiba-trujillo.gob.ve.
 lachinita.com.ve.
 lacimaonline.com.ve.
 lacohg.com.ve.
+lacoloniatovar.com.ve.
 lacompro.com.ve.
 laconchitadelaarepa.com.ve.
 laconstancia.com.ve.
@@ -14324,6 +14326,7 @@ mikebloomberg.com.ve.
 mikia.com.ve.
 mikroven.com.ve.
 mil.ve.
+milano.com.ve.
 mileroticos.co.ve.
 mileroticos.com.ve.
 milgauss.co.ve.
@@ -14833,6 +14836,7 @@ msdvacunas.com.ve.
 msfactoring.com.ve.
 msg.com.ve.
 msh.com.ve.
+msi.com.ve.
 msl.com.ve.
 msn.arts.ve.
 msn.co.ve.
@@ -14926,6 +14930,7 @@ mundomac.com.ve.
 mundomar.com.ve.
 mundomax.com.ve.
 mundonorma.com.ve.
+mundosalud.com.ve.
 mundosatelital.co.ve.
 mundosatelital.com.ve.
 mundotrauma.com.ve.
@@ -15120,6 +15125,7 @@ nbingenieria.com.ve.
 ncc.org.ve.
 ncl.com.ve.
 nctv.com.ve.
+ndschemical.com.ve.
 neauvia.com.ve.
 neb.com.ve.
 nebido.com.ve.
@@ -16672,6 +16678,7 @@ plastifar.com.ve.
 plastifarma.com.ve.
 plastiven.com.ve.
 plata.com.ve.
+platabet.com.ve.
 plataformadearte.net.ve.
 plataformaprepago.com.ve.
 platco.com.ve.
@@ -17261,6 +17268,7 @@ pservices.com.ve.
 psi.com.ve.
 psicochamos.com.ve.
 psicologos.co.ve.
+psicon.com.ve.
 psm-mun.edu.ve.
 psm.edu.ve.
 psmaracaibo.edu.ve.
@@ -17422,7 +17430,6 @@ quiksilver.com.ve.
 quiltednorthern.co.ve.
 quilvest-private-equity.com.ve.
 quilvestprivateequity.com.ve.
-quimbiotec.gob.ve.
 quimicaetilox.com.ve.
 quimicasorocolor.com.ve.
 quimicolor.com.ve.
@@ -17688,6 +17695,7 @@ reddit.co.ve.
 redea.com.ve.
 redeconocimientolegislativo.gob.ve.
 redeconomia.org.ve.
+redeselias.com.ve.
 redesip.com.ve.
 redestado.gov.ve.
 redex.com.ve.
@@ -19677,6 +19685,7 @@ solvay-rhodia.com.ve.
 solvay.com.ve.
 solvayrhodia.co.ve.
 solvayrhodia.com.ve.
+solvencia.com.ve.
 solventum.co.ve.
 solventum.com.ve.
 solvia.com.ve.
@@ -22353,6 +22362,7 @@ vepuy.com.ve.
 verabradley.com.ve.
 veraflox.co.ve.
 veralto.com.ve.
+veramed.com.ve.
 verautos.com.ve.
 verawangbride.com.ve.
 verd.com.ve.
@@ -22774,7 +22784,6 @@ vwcamionesybuses.com.ve.
 vwebsite.com.ve.
 vyc.com.ve.
 vycsucre.gob.ve.
-vyf.com.ve.
 vysucre.gob.ve.
 vytorin.com.ve.
 vyvanse.com.ve.
