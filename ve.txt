@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 15Feb2025 05:19 UTC
+# ve domain names extracted from nameservers on 16Feb2025 05:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1773,7 +1773,6 @@ asos.co.ve.
 asos.com.ve.
 asotel.com.ve.
 asovecindustria.com.ve.
-asovep.org.ve.
 asowest.com.ve.
 asp.com.ve.
 aspa.com.ve.
@@ -7410,6 +7409,7 @@ enfamil.com.ve.
 enfinitas.com.ve.
 enfocandome.com.ve.
 enfoqueocupacional.com.ve.
+enfoques.com.ve.
 engidea.com.ve.
 engie.com.ve.
 english4u.com.ve.
@@ -10416,7 +10416,6 @@ hortivinyl.com.ve.
 horwathvenezuela.com.ve.
 hospedaje.com.ve.
 hospes.net.ve.
-hospitaladventistadevenezuela.com.ve.
 hospitalaguablanca.gob.ve.
 hospitalar.com.ve.
 hospitalcentralsc.gob.ve.
@@ -12966,7 +12965,6 @@ liftoff.co.ve.
 liftoff.com.ve.
 lifull.com.ve.
 ligabeisbolmenorsucre.com.ve.
-ligacarlosalbertosanteliz.com.ve.
 ligalastorres.org.ve.
 ligar.com.ve.
 ligeresa.com.ve.
@@ -13610,8 +13608,6 @@ marineworld.com.ve.
 marinex.com.ve.
 marino-sucre.gov.ve.
 mariobricenoiragorry-aragua.gov.ve.
-mariohernandez.co.ve.
-mariohernandez.com.ve.
 marisabel.gov.ve.
 maristaschiquinquira.edu.ve.
 maritimeconsultant.com.ve.
@@ -15213,6 +15209,7 @@ network.com.ve.
 network1i.com.ve.
 networkappliance.com.ve.
 networkconsultores.com.ve.
+networksolutions.com.ve.
 networkspeed.com.ve.
 networkworld.com.ve.
 networx.com.ve.
@@ -15271,7 +15268,6 @@ next.co.ve.
 next.com.ve.
 nextdirect.co.ve.
 nextdirect.com.ve.
-nextech.com.ve.
 nextgenerationadhd.com.ve.
 nextlevel.com.ve.
 nextone.com.ve.
@@ -17910,7 +17906,6 @@ reservas.com.ve.
 resguarda.com.ve.
 residenciapalmita.com.ve.
 resiladuanas.com.ve.
-resisveca.com.ve.
 resivenca.com.ve.
 resmed.com.ve.
 resomer.com.ve.
@@ -18041,6 +18036,7 @@ rivasdavila-merida.gov.ve.
 riverisland.co.ve.
 riviera.com.ve.
 rizoma.com.ve.
+rjmotosimport.com.ve.
 rkfm.com.ve.
 rkmedia.com.ve.
 rlatina.com.ve.
@@ -18687,7 +18683,6 @@ scitechinvestments.com.ve.
 scl.com.ve.
 sclinicahogar24.com.ve.
 sco.com.ve.
-scon.net.ve.
 scooba.co.ve.
 scooba.com.ve.
 scooby-doo.co.ve.
@@ -18799,7 +18794,6 @@ sedematlagunillas.gob.ve.
 sedematyaritagua.com.ve.
 sedes.gob.ve.
 sedgwick.co.ve.
-seditronica.com.ve.
 sediver.co.ve.
 see-barinas.gob.ve.
 seeligeryconde.com.ve.
@@ -19573,7 +19567,6 @@ softmaker.co.ve.
 softmaker.com.ve.
 softmetrics.com.ve.
 softneat.com.ve.
-softsec.com.ve.
 softseven.com.ve.
 softsuper.com.ve.
 softtek.com.ve.
