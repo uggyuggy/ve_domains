@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 17Feb2025 05:19 UTC
+# ve domain names extracted from nameservers on 18Feb2025 05:16 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -419,6 +419,7 @@ administradoranuevohogar.com.ve.
 administradoraparaiso.com.ve.
 administradorapasoreal.com.ve.
 adminit.com.ve.
+adminpro.com.ve.
 adminunidos.com.ve.
 admisoft.com.ve.
 admlaideal.com.ve.
@@ -2485,6 +2486,7 @@ bessersolutions.org.ve.
 bessersolutions.web.ve.
 bestday.com.ve.
 bestexpress.com.ve.
+bestlabels.com.ve.
 bestpay.com.ve.
 bestwaymart.com.ve.
 bestwestern.com.ve.
@@ -5507,7 +5509,6 @@ corpoelecindustrial.net.ve.
 corpoelecindustrial.org.ve.
 corpoelecindustrial.web.ve.
 corpoez.gob.ve.
-corpojuventud.com.ve.
 corpolara.gob.ve.
 corpomiranda.com.ve.
 corpomundo.com.ve.
@@ -5525,7 +5526,6 @@ corporacioncibus.com.ve.
 corporaciondaka.com.ve.
 corporaciondaka.net.ve.
 corporaciondonjuan.com.ve.
-corporacioneesystem.com.ve.
 corporacionfinancieraatlantida.com.ve.
 corporaciongonzca.com.ve.
 corporacionjc.com.ve.
@@ -5899,6 +5899,7 @@ cvdvaccine.co.ve.
 cvef.org.ve.
 cvg.com.ve.
 cvg.gob.ve.
+cvgalucasa.com.ve.
 cvgcarbonorca.com.ve.
 cvgferrocasa.com.ve.
 cvgin.gob.ve.
@@ -9751,7 +9752,6 @@ grupociuu.com.ve.
 grupocontech.com.ve.
 grupocontinental.com.ve.
 grupocore.com.ve.
-grupocorpos.com.ve.
 grupocostel.com.ve.
 grupocretto.com.ve.
 grupodagianni.com.ve.
@@ -9927,6 +9927,7 @@ guanarito-portuguesa.gob.ve.
 guanipa-anzoategui.gob.ve.
 guanta-anzoategui.gob.ve.
 guanta-anzoategui.gov.ve.
+guapa.com.ve.
 guaramo.com.ve.
 guarani.com.ve.
 guaranilara.com.ve.
@@ -11453,7 +11454,6 @@ interhome.com.ve.
 interimex.com.ve.
 interlink.net.ve.
 interlogistic.co.ve.
-intermarine.com.ve.
 intermax.com.ve.
 intermedi.com.ve.
 intermedica.com.ve.
@@ -11903,6 +11903,7 @@ jacusa.com.ve.
 jade.net.ve.
 jadegrouprealty.com.ve.
 jadergolindano.com.ve.
+jadetechno.web.ve.
 jadever.com.ve.
 jae.com.ve.
 jaeger-lecoultre.com.ve.
@@ -12681,7 +12682,6 @@ lasallebarinas.edu.ve.
 lasallehermanojuan.com.ve.
 lasallehermanoluis.com.ve.
 lasallelacolina.org.ve.
-lasanahoria.com.ve.
 lasante.com.ve.
 lasenza.co.ve.
 lasenza.com.ve.
@@ -12960,6 +12960,7 @@ liftoff.co.ve.
 liftoff.com.ve.
 lifull.com.ve.
 ligabeisbolmenorsucre.com.ve.
+ligacarlosalbertosanteliz.com.ve.
 ligalastorres.org.ve.
 ligar.com.ve.
 ligeresa.com.ve.
@@ -13070,6 +13071,7 @@ ljasesores.com.ve.
 ll-c.com.ve.
 llanerobodegon.com.ve.
 llanos2007.gob.ve.
+llanura1067.net.ve.
 llavenmano.com.ve.
 llc.com.ve.
 llcp.com.ve.
@@ -13240,7 +13242,6 @@ lr.com.ve.
 lrds.com.ve.
 lronhubbard.org.ve.
 lsbi.edu.ve.
-lsc.com.ve.
 lsg.edu.ve.
 lshj.edu.ve.
 lshl.edu.ve.
@@ -14420,7 +14421,6 @@ minue.com.ve.
 minutoaminuto.com.ve.
 minvih.gob.ve.
 minya.com.ve.
-mio.co.ve.
 mipaginaprincipal.com.ve.
 miparley.com.ve.
 mipleo.com.ve.
@@ -14688,6 +14688,7 @@ mormon.org.ve.
 morningstar.co.ve.
 morningstar.com.ve.
 morusalba.co.ve.
+mosaicoscardone.com.ve.
 mosait.net.ve.
 mostbet.com.ve.
 motasa.com.ve.
@@ -15641,7 +15642,6 @@ ogilvy.com.ve.
 ogyar.com.ve.
 oherzio.com.ve.
 oherzyo.com.ve.
-ohlesport.com.ve.
 ohlins.com.ve.
 ohmyhost.com.ve.
 oi.com.ve.
@@ -16033,7 +16033,6 @@ paginasdeapuestas.co.ve.
 paginasdeapuestas.com.ve.
 paginasweb.com.ve.
 paginaweb.com.ve.
-pago.com.ve.
 pagoaqui.com.ve.
 pagochinchin.com.ve.
 pagodeimpuestos.com.ve.
@@ -16909,6 +16908,7 @@ powerbar.com.ve.
 powercrossfit.com.ve.
 powerlink.com.ve.
 powersafe.com.ve.
+powersat.com.ve.
 powerstar.com.ve.
 ppc.com.ve.
 ppcgroup.com.ve.
@@ -18340,7 +18340,6 @@ sagradafamilia.org.ve.
 sagradamadre.com.ve.
 sagradocorazondejesus.com.ve.
 sagradocorazondejesuspuertocabello.com.ve.
-sagues.com.ve.
 sahum.gob.ve.
 saic.co.ve.
 saic.com.ve.
@@ -18455,6 +18454,7 @@ sanarox.com.ve.
 sanatrix.com.ve.
 sancarlos-cojedes.gov.ve.
 sancasimiro-aragua.gob.ve.
+sanchez.com.ve.
 sanchezcia.com.ve.
 sanchezpolo.com.ve.
 sancorseguros.com.ve.
@@ -18583,6 +18583,7 @@ satelitales.com.ve.
 satem.gob.ve.
 satet.gob.ve.
 satguaica.com.ve.
+sathyasai.org.ve.
 satmanaco.com.ve.
 satmir.gob.ve.
 satori.com.ve.
@@ -18897,7 +18898,6 @@ sepyaracuy.gob.ve.
 sequoia.com.ve.
 sercanto.com.ve.
 sercatel.com.ve.
-sercoinfal.com.ve.
 sercom.net.ve.
 serconplafumigaciones.com.ve.
 serdolect.com.ve.
@@ -19098,7 +19098,6 @@ shiseido.com.ve.
 shn.mil.ve.
 shomi.com.ve.
 shop.co.ve.
-shop.com.ve.
 shopclub.co.ve.
 shopclub.com.ve.
 shopify.co.ve.
@@ -22903,7 +22902,6 @@ wellaprovital.com.ve.
 wellasoftcolor.com.ve.
 wellaton.com.ve.
 wellbox.co.ve.
-welltech.com.ve.
 wemo.co.ve.
 wemo.com.ve.
 wenco.com.ve.
