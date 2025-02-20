@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 18Feb2025 05:16 UTC
+# ve domain names extracted from nameservers on 19Feb2025 05:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4881,7 +4881,6 @@ colegiotirsodemolina.com.ve.
 colegiouniversitariodeenfermeria.edu.ve.
 colegiovallealto.com.ve.
 colegiovallealto.edu.ve.
-colegiovascodagama.com.ve.
 colegiovenezolanobritanico.com.ve.
 colegioverdadylibertad.com.ve.
 colegiovirgendelamontana.com.ve.
@@ -6039,6 +6038,7 @@ dasiclean.com.ve.
 dasilrod.com.ve.
 dasimerca.com.ve.
 dat-com.com.ve.
+data.com.ve.
 data.net.ve.
 datacenter.com.ve.
 datacomm.com.ve.
@@ -6787,6 +6787,7 @@ dreambingo.com.ve.
 drgabrielgimenezmoreno.com.ve.
 drhouse.com.ve.
 dridco.com.ve.
+drivelt.net.ve.
 drivetech.com.ve.
 drmartens.co.ve.
 drmartens.com.ve.
@@ -7016,6 +7017,7 @@ ederlinfracachan.com.ve.
 edestinos.com.ve.
 edf.org.ve.
 edgar.com.ve.
+edgardoweb.com.ve.
 edgarmartinez.com.ve.
 edgarquintero.com.ve.
 edicionesmadriguera.com.ve.
@@ -9512,6 +9514,7 @@ goeuro.co.ve.
 gofundme.co.ve.
 gogetter.com.ve.
 gogl.com.ve.
+gogle.co.ve.
 gogol.com.ve.
 goherbalife.co.ve.
 gola.com.ve.
@@ -9639,6 +9642,7 @@ grandvitaraactive.com.ve.
 granfamiliadelasalud.org.ve.
 granhotel.com.ve.
 granimportcaracas.co.ve.
+granimportcaracas.com.ve.
 granitec.com.ve.
 granitex.com.ve.
 granjahazael.com.ve.
@@ -11016,6 +11020,7 @@ ince.edu.ve.
 ince.gob.ve.
 ince.gov.ve.
 inceca.com.ve.
+incentiva.com.ve.
 inces.edu.ve.
 inces.gob.ve.
 inces.info.ve.
@@ -11407,7 +11412,6 @@ inteligencianaval.gob.ve.
 inteligenciavibracional.com.ve.
 intelinet.com.ve.
 intelipay.com.ve.
-intelipos.com.ve.
 intellicad.com.ve.
 intellicyber.com.ve.
 intelligentsolution.com.ve.
@@ -12561,6 +12565,7 @@ ladysoft.com.ve.
 ladyspeedstick.co.ve.
 ladyspeedstick.com.ve.
 laedc.com.ve.
+laestancia.com.ve.
 lafargeholcimgroup.co.ve.
 lafelicitta.com.ve.
 laferreteria.com.ve.
@@ -12603,6 +12608,7 @@ lamer.com.ve.
 lamet.com.ve.
 lamigal.com.ve.
 lamilagrosa.com.ve.
+lamin.com.ve.
 laminadosalterdeco.com.ve.
 laminaire.com.ve.
 laminova.com.ve.
@@ -13613,7 +13619,6 @@ markem.com.ve.
 marken.com.ve.
 market.com.ve.
 marketbook.co.ve.
-marketeam.com.ve.
 marketingfino.com.ve.
 marketingnow.com.ve.
 marketingstudio.com.ve.
@@ -13669,7 +13674,6 @@ mas-sport.com.ve.
 masa.com.ve.
 masautoselvinedo.com.ve.
 masaya.org.ve.
-mascota.com.ve.
 mascotas.co.ve.
 mascotas.com.ve.
 mascus.com.ve.
@@ -14495,7 +14499,6 @@ misionvenezuela.gov.ve.
 misionvivienda.gob.ve.
 misionviviendavenezuela.gob.ve.
 misistemaenlinea.net.ve.
-misitiosimple.com.ve.
 misreclamos.com.ve.
 missvenezuela.com.ve.
 mister-auto.co.ve.
@@ -15278,7 +15281,9 @@ nexus.com.ve.
 nexusradical.com.ve.
 nexusshop.com.ve.
 nfcomunicaciones.com.ve.
+ngautogroup.com.ve.
 nggm.com.ve.
+ngtomasi.com.ve.
 nh-hoteles.com.ve.
 nh-hotels.com.ve.
 nh.com.ve.
@@ -15490,6 +15495,7 @@ nutribullet.com.ve.
 nutribyfood.com.ve.
 nutricia.com.ve.
 nutriciongold.co.ve.
+nutriex.com.ve.
 nutrilite.co.ve.
 nutrilite.com.ve.
 nutrimed.com.ve.
@@ -15626,6 +15632,7 @@ ofimarket.com.ve.
 ofimarkt.com.ve.
 ofimaster.com.ve.
 ofimayor.com.ve.
+ofimedicare.com.ve.
 ofinueva.com.ve.
 ofisalud.com.ve.
 ofisit.com.ve.
@@ -16428,7 +16435,6 @@ perzen.com.ve.
 pes.com.ve.
 pescalba.gob.ve.
 pescaloapulmon.com.ve.
-pet.com.ve.
 petardashd.com.ve.
 petcurean.co.ve.
 peterbilt.com.ve.
@@ -17408,6 +17414,7 @@ quickpress.com.ve.
 quicksolutions.com.ve.
 quickssl.co.ve.
 quickssl.com.ve.
+quierogalleta.com.ve.
 quierotraerlo.com.ve.
 quikcheckffn.com.ve.
 quiksilver.com.ve.
@@ -18212,6 +18219,7 @@ rqa.com.ve.
 rrconstrucciones.com.ve.
 rrd.com.ve.
 rrdapps.com.ve.
+rrintec.com.ve.
 rroopstr.com.ve.
 rrpconsultores.com.ve.
 rs.net.ve.
@@ -18944,7 +18952,6 @@ servicios-telavip.com.ve.
 servicios.com.ve.
 servicioscomac.com.ve.
 serviciosdesalud.com.ve.
-serviciosdigitales3000.com.ve.
 serviciosfeyalegria.org.ve.
 servicioshosting.com.ve.
 servicioshosting.net.ve.
@@ -22436,6 +22443,7 @@ viaweb.com.ve.
 viba.com.ve.
 vibes.com.ve.
 vibracoustic.co.ve.
+vibrafm.com.ve.
 vibraval.com.ve.
 vicariaddhhcaracas.org.ve.
 viceministerioparaafrica.gob.ve.
@@ -22598,7 +22606,6 @@ vitara.com.ve.
 vitasal.com.ve.
 vitasei.com.ve.
 vitrimax.com.ve.
-vitrinavenezuela2.com.ve.
 viva.co.ve.
 viva.com.ve.
 viva933.com.ve.
@@ -22835,6 +22842,7 @@ wb.com.ve.
 wbc.com.ve.
 wbdiscovery.com.ve.
 wbdsports.com.ve.
+wcaribe.com.ve.
 wcasino.com.ve.
 wcreator.com.ve.
 wct.com.ve.
