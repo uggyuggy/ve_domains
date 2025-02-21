@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19Feb2025 05:25 UTC
+# ve domain names extracted from nameservers on 20Feb2025 05:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -106,6 +106,7 @@
 3sm.com.ve.
 412.com.ve.
 42brigadaparacaidista.mil.ve.
+4blessingscuracao.com.ve.
 4cloud.com.ve.
 4grp.com.ve.
 4gums.com.ve.
@@ -114,7 +115,6 @@
 4net.com.ve.
 4on.com.ve.
 501jeans.com.ve.
-58.co.ve.
 5aldia.org.ve.
 5continentes.com.ve.
 5cti.com.ve.
@@ -3315,7 +3315,6 @@ camozzi.co.ve.
 camozzi.com.ve.
 camozziautomation.co.ve.
 campaignforrealbeauty.com.ve.
-campamentoaventura.net.ve.
 campamentopan.com.ve.
 campana-nacional-maisanta.gov.ve.
 campananacionalmaisanta.gov.ve.
@@ -3729,7 +3728,6 @@ ccvs.com.ve.
 cczulia.org.ve.
 cdate.co.ve.
 cdating.co.ve.
-cdc.com.ve.
 cdca.com.ve.
 cddvd.com.ve.
 cdeeslara.gob.ve.
@@ -4153,6 +4151,7 @@ chryslerdevenezuela.com.ve.
 chryslergroupllc.com.ve.
 chryslerllc.com.ve.
 chryslervenezuela.com.ve.
+chryso.com.ve.
 chrystal.com.ve.
 chubbies.com.ve.
 chubbiesshorts.com.ve.
@@ -4201,6 +4200,7 @@ cielodemascotas.com.ve.
 cienciaconciencia.org.ve.
 cienciaenrevolucion.com.ve.
 cienciamatriarevista.org.ve.
+cienciassocialesyeconomicasvipi.com.ve.
 cienciologia.org.ve.
 cienvar.com.ve.
 ciepe.gob.ve.
@@ -6787,6 +6787,7 @@ dreambingo.com.ve.
 drgabrielgimenezmoreno.com.ve.
 drhouse.com.ve.
 dridco.com.ve.
+drivelt.com.ve.
 drivelt.net.ve.
 drivetech.com.ve.
 drmartens.co.ve.
@@ -9765,7 +9766,6 @@ grupodavila.com.ve.
 grupodavinci.com.ve.
 grupodelsur.com.ve.
 grupodemar.com.ve.
-grupodf.com.ve.
 grupodiarca.com.ve.
 grupodismavica.com.ve.
 grupodrosur.com.ve.
@@ -9987,6 +9987,7 @@ gustavobethermyt.com.ve.
 gustavolopez.com.ve.
 gutierol.com.ve.
 guver.com.ve.
+gvalve.com.ve.
 gvasconcelos.com.ve.
 gvm.com.ve.
 gwave.co.ve.
@@ -10963,6 +10964,7 @@ imprapure.gov.ve.
 imprecaroni.com.ve.
 imprecultura.gob.ve.
 impremil.mil.ve.
+imprentadigital.com.ve.
 imprentadigital421.com.ve.
 imprentadigitalenlinea.com.ve.
 imprentadigitalonline.com.ve.
@@ -11161,6 +11163,7 @@ inforeplicaplus.com.ve.
 informationplanet.com.ve.
 informedico.com.ve.
 inforproin.com.ve.
+infoservices.com.ve.
 infosoft.com.ve.
 infosoft.net.ve.
 infosolutionsnetworking.com.ve.
@@ -12102,6 +12105,7 @@ jovenesnestle.com.ve.
 joyeriainternacional.com.ve.
 jozynter.com.ve.
 jps.com.ve.
+jpseguridad.com.ve.
 jravenezuela.com.ve.
 jrnservice.com.ve.
 jsafra.co.ve.
@@ -13448,7 +13452,6 @@ makelifebetter.com.ve.
 makepanels.com.ve.
 makerspace.com.ve.
 maketicket.com.ve.
-makevents.com.ve.
 makia.com.ve.
 makinas.com.ve.
 makingmorehealth.com.ve.
@@ -13889,6 +13892,7 @@ mediaset.co.ve.
 mediatica.com.ve.
 mediaweb.com.ve.
 medica2025.com.ve.
+medicalpro.com.ve.
 medicalux.com.ve.
 medicamentos.com.ve.
 medicapanamericana.com.ve.
@@ -15806,7 +15810,6 @@ openit.com.ve.
 openpay.com.ve.
 opensiap.com.ve.
 opensoft.com.ve.
-opensolutions.com.ve.
 openthefuture.com.ve.
 openvps.com.ve.
 openvps.net.ve.
@@ -17297,7 +17300,6 @@ publicis.com.ve.
 publicisdialog.com.ve.
 publiinmuebles.com.ve.
 publik.com.ve.
-publinet.net.ve.
 publinsite.com.ve.
 publiweb.com.ve.
 puchesistemas.com.ve.
@@ -17545,7 +17547,6 @@ rafnielstore.com.ve.
 rag-bone.com.ve.
 ragarca.com.ve.
 ragu.com.ve.
-rahalcenterca.com.ve.
 raileurope.com.ve.
 raisman.com.ve.
 rakuten.co.ve.
@@ -22406,7 +22407,6 @@ vh1.co.ve.
 vh1.com.ve.
 vh1la.com.ve.
 vhexpress.com.ve.
-vhouse.com.ve.
 vhpc.com.ve.
 viaappia.com.ve.
 viacomcbs.co.ve.
@@ -23374,7 +23374,6 @@ zuora.com.ve.
 zuperarte.org.ve.
 zupla.com.ve.
 zurat.com.ve.
-zuricars.com.ve.
 zurich.co.ve.
 zurich.com.ve.
 zurich.ve.
