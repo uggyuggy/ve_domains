@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Feb2025 05:19 UTC
+# ve domain names extracted from nameservers on 21Feb2025 05:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -625,6 +625,7 @@ agustingarcia.com.ve.
 agustinianodivinapastora.com.ve.
 agustinianosanjudastadeo.com.ve.
 agv.net.ve.
+agvenezuela.com.ve.
 ahcs.com.ve.
 ahiton.com.ve.
 ahmundo.com.ve.
@@ -1308,6 +1309,7 @@ andiamo.com.ve.
 andimed.com.ve.
 andina.com.ve.
 andinopneus.com.ve.
+andradegutierrez.com.ve.
 andreagomez.com.ve.
 andresbello-merida.gov.ve.
 andresbello-miranda.gob.ve.
@@ -1774,6 +1776,7 @@ asos.co.ve.
 asos.com.ve.
 asotel.com.ve.
 asovecindustria.com.ve.
+asovep.org.ve.
 asowest.com.ve.
 asp.com.ve.
 aspa.com.ve.
@@ -4317,6 +4320,7 @@ ciudadgotica.net.ve.
 ciudadmarquesa.net.ve.
 ciudadmcy.info.ve.
 ciudadvalencia.com.ve.
+civ.net.ve.
 civenpa.com.ve.
 civg.com.ve.
 civitatis.com.ve.
@@ -5622,6 +5626,7 @@ cosmopolitantv.com.ve.
 cosmoprinter.com.ve.
 cosmos.com.ve.
 cosmosresins.com.ve.
+cosmosys.com.ve.
 cosmotv.com.ve.
 cosmoviajes.com.ve.
 cosopt.com.ve.
@@ -9603,7 +9608,6 @@ goucov.com.ve.
 gourmetmarket.com.ve.
 gov.ve.
 gova.com.ve.
-gowireline.com.ve.
 gp.com.ve.
 gpc.com.ve.
 gplus.com.ve.
@@ -9766,6 +9770,7 @@ grupodavila.com.ve.
 grupodavinci.com.ve.
 grupodelsur.com.ve.
 grupodemar.com.ve.
+grupodf.com.ve.
 grupodiarca.com.ve.
 grupodismavica.com.ve.
 grupodrosur.com.ve.
@@ -9919,6 +9924,7 @@ gtacloud.com.ve.
 gtalarm.com.ve.
 gtk.com.ve.
 gtme.com.ve.
+gtrusa.com.ve.
 guacara-carabobo.gov.ve.
 guacaubana.com.ve.
 guacharoactivo.com.ve.
@@ -10898,7 +10904,6 @@ ima.edu.ve.
 ima.gob.ve.
 ima.gov.ve.
 imad.co.ve.
-imad.com.ve.
 imagecom.com.ve.
 imagenesxxx.com.ve.
 imagenologialaurbina.com.ve.
@@ -11415,6 +11420,7 @@ inteligencianaval.gob.ve.
 inteligenciavibracional.com.ve.
 intelinet.com.ve.
 intelipay.com.ve.
+intelipos.com.ve.
 intellicad.com.ve.
 intellicyber.com.ve.
 intelligentsolution.com.ve.
@@ -12081,6 +12087,7 @@ jomi.com.ve.
 jomoo.com.ve.
 jooble.com.ve.
 jorgecastillo.com.ve.
+jorgegutierrez.com.ve.
 jorgesantos.com.ve.
 jorgesoporteit.com.ve.
 jorqueratek.com.ve.
@@ -13037,6 +13044,7 @@ liptonteas.com.ve.
 liquidlibrary.com.ve.
 liquidnetfusion.com.ve.
 lisa18.com.ve.
+lisbethlozano.org.ve.
 listerine.com.ve.
 listo.net.ve.
 listopago.com.ve.
@@ -13252,6 +13260,7 @@ lr.com.ve.
 lrds.com.ve.
 lronhubbard.org.ve.
 lsbi.edu.ve.
+lsc.com.ve.
 lsg.edu.ve.
 lshj.edu.ve.
 lshl.edu.ve.
@@ -13452,6 +13461,7 @@ makelifebetter.com.ve.
 makepanels.com.ve.
 makerspace.com.ve.
 maketicket.com.ve.
+makevents.com.ve.
 makia.com.ve.
 makinas.com.ve.
 makingmorehealth.com.ve.
@@ -14222,8 +14232,6 @@ mgserviciosintegrales.com.ve.
 mgstore.com.ve.
 mgtours.com.ve.
 mh.gov.ve.
-mhfi.co.ve.
-mhfi.com.ve.
 mhi.com.ve.
 mhov.com.ve.
 mhv.gob.ve.
@@ -14429,6 +14437,7 @@ minue.com.ve.
 minutoaminuto.com.ve.
 minvih.gob.ve.
 minya.com.ve.
+mio.co.ve.
 mipaginaprincipal.com.ve.
 miparley.com.ve.
 mipleo.com.ve.
@@ -16919,6 +16928,7 @@ powerlink.com.ve.
 powersafe.com.ve.
 powersat.com.ve.
 powerstar.com.ve.
+powertrack.com.ve.
 ppc.com.ve.
 ppcgroup.com.ve.
 ppgdevenezuela.com.ve.
@@ -18277,7 +18287,6 @@ rutastachira.com.ve.
 rutax.com.ve.
 rutel.com.ve.
 ruvae.edu.ve.
-rv.com.ve.
 rvca.com.ve.
 rvlj.com.ve.
 rvm.com.ve.
@@ -18863,7 +18872,6 @@ semanadelacocinaitaliana.com.ve.
 semanca.com.ve.
 semat-pc.gob.ve.
 sematiribarren.com.ve.
-sementenova.com.ve.
 semi.com.ve.
 semica.com.ve.
 seminariocentrocristiano.com.ve.
@@ -19251,7 +19259,6 @@ silvestripharma.com.ve.
 sim.com.ve.
 sim.org.ve.
 sim.web.ve.
-simaca.com.ve.
 simark.com.ve.
 simax.com.ve.
 simbi.com.ve.
@@ -19432,6 +19439,7 @@ skyscanner.ve.
 skyworth.com.ve.
 skyworthev.com.ve.
 skyworthev.info.ve.
+sl.com.ve.
 slackware.org.ve.
 slam.com.ve.
 slan.org.ve.
@@ -21509,7 +21517,6 @@ tuvitis.com.ve.
 tuvoucher.com.ve.
 tuvoz.com.ve.
 tuwebmaster.com.ve.
-tuyo.com.ve.
 tv-cable.com.ve.
 tvcablenetsystems.com.ve.
 tvd-venezuela.co.ve.
@@ -22316,7 +22323,6 @@ vensalud.com.ve.
 vensalud.gob.ve.
 vensemar.com.ve.
 vensuserca.com.ve.
-venta-de.com.ve.
 venta.com.ve.
 ventagarage.com.ve.
 ventaredonda.com.ve.
@@ -22425,7 +22431,6 @@ viaje.com.ve.
 viajeliterario.com.ve.
 viajemos.com.ve.
 viajes.com.ve.
-viajesaguamarina.com.ve.
 viajesbaratos.com.ve.
 viajescabitours.com.ve.
 viajesplanb.com.ve.

@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Feb2025 05:25 UTC
+# ve domain names extracted from nameservers on 22Feb2025 05:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3628,7 +3628,6 @@ castrol.com.ve.
 cat.com.ve.
 cat.org.ve.
 cata-lagoon.com.ve.
-catagourmets.com.ve.
 catalogoaquarella.com.ve.
 catalogocnt.gob.ve.
 catalogofunves.gob.ve.
@@ -4029,6 +4028,7 @@ champions.com.ve.
 championvenezuela.com.ve.
 chanel.com.ve.
 changinglives.com.ve.
+changsha88.com.ve.
 channeladvisor.com.ve.
 channelpa.com.ve.
 chanyu.com.ve.
@@ -4373,6 +4373,7 @@ cleanz.gob.ve.
 clear.com.ve.
 clearblue.com.ve.
 clearize.co.ve.
+clearlight.com.ve.
 cleartype.store.ve.
 cleb.gob.ve.
 clebarinas.gob.ve.
@@ -4447,6 +4448,7 @@ clorox.com.ve.
 close-upinternational.com.ve.
 clositas.co.ve.
 cloud.com.ve.
+cloudia.com.ve.
 clouding.co.ve.
 clouding.com.ve.
 cloudmized.co.ve.
@@ -4633,6 +4635,7 @@ codelmar.com.ve.
 codena.gob.ve.
 coderhouse.com.ve.
 coderhub.com.ve.
+codes.com.ve.
 codetaragua.gob.ve.
 codica.com.ve.
 codigoabierto.com.ve.
@@ -5512,6 +5515,7 @@ corpoelecindustrial.net.ve.
 corpoelecindustrial.org.ve.
 corpoelecindustrial.web.ve.
 corpoez.gob.ve.
+corpojuventud.com.ve.
 corpolara.gob.ve.
 corpomiranda.com.ve.
 corpomundo.com.ve.
@@ -8162,6 +8166,7 @@ ferreutil.com.ve.
 ferrex.com.ve.
 ferro.com.ve.
 ferroca.com.ve.
+ferrofasil.com.ve.
 ferroglobe.co.ve.
 ferroglobe.com.ve.
 ferrominera.gob.ve.
@@ -8416,6 +8421,7 @@ fmmotorparts.co.ve.
 fmn.gob.ve.
 fmnj.gob.ve.
 fmparrandera.com.ve.
+fmshop.com.ve.
 fmsolutions.com.ve.
 fnac.com.ve.
 fnc.com.ve.
@@ -8746,7 +8752,6 @@ fruttiexpress.com.ve.
 fruugo.co.ve.
 fruugo.com.ve.
 fs-ven.com.ve.
-fs.net.ve.
 fsalinas34.com.ve.
 fsaludparatodossandiego.gob.ve.
 fsbolivar.gob.ve.
@@ -9635,7 +9640,6 @@ grainger.com.ve.
 gramoca.com.ve.
 granapadano.com.ve.
 granbrasa.com.ve.
-grancacique.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
 grandealer.com.ve.
@@ -11802,7 +11806,6 @@ iumcoelfa.mil.ve.
 iunav.edu.ve.
 iune.edu.ve.
 iunep.edu.ve.
-iunete.org.ve.
 iunics.edu.ve.
 iunix.com.ve.
 iunp.edu.ve.
@@ -12506,6 +12509,7 @@ labomedica.com.ve.
 labora.com.ve.
 laboratorioagrohermes.com.ve.
 laboratorioalfa.com.ve.
+laboratoriocam.com.ve.
 laboratorioclinicogaleno.com.ve.
 laboratoriogaleno.net.ve.
 laboratoriolansa.com.ve.
@@ -13901,7 +13905,6 @@ medianet.net.ve.
 mediaset.co.ve.
 mediatica.com.ve.
 mediaweb.com.ve.
-medica2025.com.ve.
 medicalpro.com.ve.
 medicalux.com.ve.
 medicamentos.com.ve.
@@ -14712,7 +14715,6 @@ motatan-trujillo.gob.ve.
 motelbambu.com.ve.
 motelsandiego.com.ve.
 mothercare.co.ve.
-motindustria.com.ve.
 motocool.com.ve.
 motofloy.com.ve.
 motomar2000.com.ve.
@@ -15018,7 +15020,6 @@ mypath.com.ve.
 myprotein.co.ve.
 myrolex.co.ve.
 myrolex.com.ve.
-myrubi.co.ve.
 mysolutionsdirect.com.ve.
 mysoportedenegocios.com.ve.
 myspacetv.com.ve.
@@ -16941,6 +16942,7 @@ pradaxa.com.ve.
 pradovision.com.ve.
 praga.com.ve.
 pragmatelecom.com.ve.
+pragmatic-play-gratis.com.ve.
 pralca.com.ve.
 prats.com.ve.
 praxair.co.ve.
@@ -17870,6 +17872,7 @@ rentaradio.com.ve.
 rentasb.net.ve.
 rentbyowner.co.ve.
 rentokil.com.ve.
+reparaya.com.ve.
 repartoadomicilio.com.ve.
 repartosya.com.ve.
 repaveca.com.ve.
@@ -18997,6 +19000,7 @@ servinave.com.ve.
 servindustrial.com.ve.
 servinet.com.ve.
 servinet.info.ve.
+serving.com.ve.
 servinorca.com.ve.
 servioil.com.ve.
 serviotovar.com.ve.
@@ -19747,6 +19751,7 @@ sortservices.com.ve.
 sos.com.ve.
 sos.net.ve.
 sosa-barinas.gob.ve.
+sosca.com.ve.
 sosit.com.ve.
 sotam.com.ve.
 sotarncarabobo.gob.ve.
@@ -20533,7 +20538,6 @@ tecnoly.com.ve.
 tecnomar.com.ve.
 tecnomarket.com.ve.
 tecnomat.com.ve.
-tecnomax.com.ve.
 tecnonet.com.ve.
 tecnoparaguana.org.ve.
 tecnoparque.gob.ve.
@@ -20946,6 +20950,7 @@ tntsportsla.com.ve.
 tntsportsmega6.co.ve.
 tntsportsmega6.com.ve.
 toba.com.ve.
+tochadas.com.ve.
 tocopero-falcon.gov.ve.
 toctino.co.ve.
 toctino.com.ve.
@@ -22928,6 +22933,7 @@ wetalks.com.ve.
 wework.co.ve.
 wework.com.ve.
 weys.com.ve.
+wgdigital.com.ve.
 wh.com.ve.
 whaticket.com.ve.
 whatsapp.co.ve.
