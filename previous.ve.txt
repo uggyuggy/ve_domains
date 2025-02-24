@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Feb2025 05:19 UTC
+# ve domain names extracted from nameservers on 23Feb2025 05:21 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2211,7 +2211,6 @@ banap.gov.ve.
 banavih.gob.ve.
 banbari.com.ve.
 banbary.com.ve.
-bancaamiga.com.ve.
 bancamiga.com.ve.
 bancaribe.com.ve.
 bancatlan.com.ve.
@@ -3846,7 +3845,6 @@ cenaoz.com.ve.
 cenaoz.gob.ve.
 cenaph.gob.ve.
 cenapri.gob.ve.
-cencacaribe.com.ve.
 cencoex.gob.ve.
 cencora.com.ve.
 cenda.org.ve.
@@ -4019,7 +4017,6 @@ chacao.gov.ve.
 chacon.com.ve.
 chacos.com.ve.
 chaguaramas-guarico.gov.ve.
-chakon.com.ve.
 chambajuvenil.gob.ve.
 champion.com.ve.
 championbet.com.ve.
@@ -4972,7 +4969,6 @@ comercialgil.com.ve.
 comercializadoracega.com.ve.
 comercializadoralago.com.ve.
 comercializadoranm.com.ve.
-comercializadoravarazze.com.ve.
 comercializadoravenesca2023.com.ve.
 comercialsalvador.com.ve.
 comercialsantiago.com.ve.
@@ -7183,7 +7179,6 @@ elevapartes.com.ve.
 elevise.com.ve.
 elevize.com.ve.
 elexial.com.ve.
-elfamoso.com.ve.
 elfbar.com.ve.
 elfica.com.ve.
 elfliq.com.ve.
@@ -8116,7 +8111,6 @@ fefarven.org.ve.
 feibo.com.ve.
 fejp.gob.ve.
 fejp.gov.ve.
-felcatinternational.com.ve.
 feldentertainment.com.ve.
 felinaestereo.com.ve.
 felixojedaoropeza.com.ve.
@@ -8742,7 +8736,6 @@ frost.com.ve.
 frucon.com.ve.
 fructus.com.ve.
 frugal.com.ve.
-frusnack.com.ve.
 frutalia.com.ve.
 frutascmc.com.ve.
 fruticola.co.ve.
@@ -9550,7 +9543,6 @@ goliiive.com.ve.
 gomail.gob.ve.
 gomalave.com.ve.
 gomarkets.com.ve.
-gomaxxa.com.ve.
 gomega.com.ve.
 gomez-nuevaesparta.gob.ve.
 gonarca.com.ve.
@@ -11100,7 +11092,6 @@ industriascosmopartes.com.ve.
 industriasdelmaiz.com.ve.
 industriasdiana.gob.ve.
 industriasesteller.com.ve.
-industriashugg82.com.ve.
 industriasjatu.com.ve.
 industriasondaflex.com.ve.
 industriasorbe.com.ve.
@@ -11229,7 +11220,6 @@ inia.gov.ve.
 inidi.gob.ve.
 ininca.com.ve.
 inj.gob.ve.
-inkeysol.com.ve.
 inkpack.com.ve.
 inktec.com.ve.
 inlacar.com.ve.
@@ -11459,7 +11449,6 @@ intercon.net.ve.
 interconcreto.com.ve.
 interconectadosvenezuela.com.ve.
 interconexa.net.ve.
-interexpress.com.ve.
 interfaceflor.co.ve.
 interfaceflor.com.ve.
 interfibra.com.ve.
@@ -11558,7 +11547,6 @@ inversioneseden.com.ve.
 inversionesemi.com.ve.
 inversionesformar.com.ve.
 inversionesgarycal.com.ve.
-inversionesgerigon.com.ve.
 inversionesgerplap.com.ve.
 inversioneshj2012.com.ve.
 inversionesht.com.ve.
@@ -13797,7 +13785,6 @@ maxwell.com.ve.
 maxwellleadership.com.ve.
 maxwhite.com.ve.
 maxwipe.com.ve.
-maxxa.com.ve.
 maxysweet.com.ve.
 maya.com.ve.
 maybelline.com.ve.
@@ -13826,7 +13813,6 @@ mazzbell.com.ve.
 mbalegal.com.ve.
 mbcamiones.com.ve.
 mbezulia.com.ve.
-mboscarlopezriveraddhh.org.ve.
 mbvalores.com.ve.
 mc-pharmax.com.ve.
 mc2009.com.ve.
@@ -14938,8 +14924,6 @@ mundomar.com.ve.
 mundomax.com.ve.
 mundonorma.com.ve.
 mundosalud.com.ve.
-mundosatelital.co.ve.
-mundosatelital.com.ve.
 mundotrauma.com.ve.
 mundoturismo.com.ve.
 mundovinil.com.ve.
@@ -15641,7 +15625,6 @@ officemaster.co.ve.
 officemaster.com.ve.
 officenet.net.ve.
 officialdavidosio.co.ve.
-oficina24.com.ve.
 ofimarket.com.ve.
 ofimarkt.com.ve.
 ofimaster.com.ve.
@@ -16098,7 +16081,6 @@ pampersbabyshower.com.ve.
 pampersjuegos.com.ve.
 pampersvillage.com.ve.
 pan.gob.ve.
-pana.com.ve.
 pana.net.ve.
 panaderiasbeiru.com.ve.
 panadium.com.ve.
@@ -16108,8 +16090,6 @@ panamericana.com.ve.
 panamericano-tachira.gob.ve.
 panamericano.com.ve.
 panapay.com.ve.
-panas.com.ve.
-panasdevenezuela.com.ve.
 panasonic.co.ve.
 panasonic.com.ve.
 panatravel.com.ve.
@@ -17344,7 +17324,6 @@ puntoyapos.com.ve.
 pupa.com.ve.
 puppis.com.ve.
 puppisclub.com.ve.
-purafruta2017.com.ve.
 puratos.com.ve.
 puregon.com.ve.
 puressentiel.com.ve.
@@ -18867,6 +18846,7 @@ selflex.com.ve.
 selgrana.com.ve.
 selgrava.com.ve.
 sellatuparley.co.ve.
+selloscaracas.com.ve.
 selma.com.ve.
 selmer.com.ve.
 selvaplus.com.ve.
@@ -18908,6 +18888,7 @@ sentiloriginal.com.ve.
 sentioriginal.com.ve.
 sentirsalud.com.ve.
 senzanigroup.com.ve.
+seo.com.ve.
 sepac.com.ve.
 sepesa.com.ve.
 sephora.com.ve.
@@ -19364,7 +19345,6 @@ sistemadeventas.com.ve.
 sistemadevidayeshuapro.com.ve.
 sistemapia.com.ve.
 sistemas-empresariales.com.ve.
-sistemas.emprende.ve.
 sistemasalamedida.com.ve.
 sistemasderiego.com.ve.
 sistemasdeseguridad.com.ve.
@@ -20236,7 +20216,6 @@ supradigital.com.ve.
 supraragua.gob.ve.
 suprema102.com.ve.
 supriad.com.ve.
-supricom.com.ve.
 suptrimza.gob.ve.
 suqca.com.ve.
 suquir.com.ve.
@@ -20886,8 +20865,6 @@ tigrant.co.ve.
 tigrant.com.ve.
 tigres.com.ve.
 tigritos.com.ve.
-tim.com.ve.
-tim.net.ve.
 timaca.com.ve.
 timberland.co.ve.
 timberland.com.ve.
@@ -22171,7 +22148,6 @@ ve-ix.com.ve.
 ve-ix.net.ve.
 ve-ix.org.ve.
 ve-laboratorioscofasa.com.ve.
-ve.com.ve.
 vecafo.com.ve.
 vecata.com.ve.
 vechi.com.ve.
@@ -23036,6 +23012,7 @@ wobenzym.com.ve.
 wolfang.info.ve.
 wolflubes.co.ve.
 wonmotors.com.ve.
+woo.com.ve.
 woodmizer.com.ve.
 woolrich.com.ve.
 wordpress.com.ve.
