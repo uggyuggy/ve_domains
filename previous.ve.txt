@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 23Feb2025 05:21 UTC
+# ve domain names extracted from nameservers on 24Feb2025 05:19 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3473,7 +3473,6 @@ caripe-monagas.gob.ve.
 carirubana-falcon.gob.ve.
 carirubana-falcon.gov.ve.
 carismatica.org.ve.
-caritovenezuela.com.ve.
 carlos.com.ve.
 carlosarvelo-carabobo.gob.ve.
 carlosarvelo-carabobo.gov.ve.
@@ -4261,7 +4260,6 @@ ciriontechnologies.com.ve.
 ciro.com.ve.
 cirosanchez.com.ve.
 cirrus.co.ve.
-cirtechnology.com.ve.
 cirujanoplasticofrancy.com.ve.
 cisbro.com.ve.
 cisco.co.ve.
@@ -7191,6 +7189,7 @@ elgigantedelradiador.com.ve.
 elglobo.com.ve.
 elgrandatero.com.ve.
 elgrandatero.net.ve.
+elguardianinforma.com.ve.
 elhatillo-miranda.gob.ve.
 elhatillo.gov.ve.
 elhatillo.net.ve.
@@ -7379,7 +7378,6 @@ encoca2enti.info.ve.
 encuentra.com.ve.
 encuentralo.com.ve.
 encuentroinmueble.com.ve.
-encuentronacionalvespa.org.ve.
 encuentrotodo.com.ve.
 encuesta.nic.ve.
 encuestaelectrolux.com.ve.
@@ -9105,7 +9103,6 @@ garaysystems.com.ve.
 garcia-nuevaesparta.gob.ve.
 garciadehevia-tachira.gob.ve.
 garlin.com.ve.
-garmarca.com.ve.
 garner.com.ve.
 garnerhotel.com.ve.
 garnerhotels.com.ve.
@@ -9472,7 +9469,6 @@ gmbt.gob.ve.
 gmcupaz.gob.ve.
 gmfinancial.co.ve.
 gmfinancial.com.ve.
-gmoravi.com.ve.
 gmsaberytrabajo.gob.ve.
 gmt-master.co.ve.
 gmt-master.com.ve.
@@ -9545,7 +9541,6 @@ gomalave.com.ve.
 gomarkets.com.ve.
 gomega.com.ve.
 gomez-nuevaesparta.gob.ve.
-gonarca.com.ve.
 gonavi.com.ve.
 gonfel.com.ve.
 gonzalezfuentesyasociados.com.ve.
@@ -9822,7 +9817,6 @@ grupomanos.org.ve.
 grupomaralac.com.ve.
 grupomartinez.com.ve.
 grupomaxi.com.ve.
-grupomaxima.com.ve.
 grupomcair.com.ve.
 grupomedicobpro.com.ve.
 grupomedigraf.com.ve.
@@ -10288,7 +10282,6 @@ hijosdeldivinoquerer.com.ve.
 hikeboard.com.ve.
 hikvision.co.ve.
 hilar.com.ve.
-hildanet.com.ve.
 hilfiger-denim.com.ve.
 hilfiger.com.ve.
 hilfigerdenim.com.ve.
@@ -12312,7 +12305,6 @@ kidsrus.org.ve.
 kidstore.com.ve.
 kikiseguridad.com.ve.
 kikocosmetics.co.ve.
-kilates.com.ve.
 kimberly-clark.com.ve.
 kimbino.co.ve.
 kimiceg.com.ve.
@@ -13042,7 +13034,6 @@ listo.net.ve.
 listopago.com.ve.
 lithodex.com.ve.
 litin.edu.ve.
-litotrans.com.ve.
 littlecaesar.com.ve.
 littlecaesars.com.ve.
 littleeinstein.com.ve.
@@ -13927,7 +13918,6 @@ medipiel.co.ve.
 medipiel.com.ve.
 mediplan.com.ve.
 mediplus.com.ve.
-mediq.com.ve.
 mediqclinicas.com.ve.
 medisalud.com.ve.
 mediscape.co.ve.
@@ -18422,7 +18412,6 @@ saludzulia.gob.ve.
 salusmilitae.mil.ve.
 salusmilitiae.mil.ve.
 salutta.com.ve.
-salvador.com.ve.
 salvaenvios.com.ve.
 salvasion.com.ve.
 salvat.com.ve.
@@ -19008,7 +18997,6 @@ serviweb.com.ve.
 servolab.com.ve.
 servosistemas.com.ve.
 ses.com.ve.
-sesasgo.com.ve.
 sesca.web.ve.
 sesderma.co.ve.
 seta.gob.ve.
@@ -21011,7 +20999,6 @@ topigsnorsvin.com.ve.
 topografos.com.ve.
 toposoftit.com.ve.
 toppers.com.ve.
-topriego.com.ve.
 topspin.com.ve.
 toptronic.com.ve.
 topused.co.ve.
@@ -23231,6 +23218,7 @@ yummydelivery.com.ve.
 yutong.com.ve.
 yv5adm.net.ve.
 z.com.ve.
+zaidcodes.com.ve.
 zains.com.ve.
 zakia.com.ve.
 zalando-lounge.co.ve.
