@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 25Feb2025 05:25 UTC
+# ve domain names extracted from nameservers on 26Feb2025 05:22 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1886,7 +1886,6 @@ aulaxpress.com.ve.
 aulin.com.ve.
 aumca.com.ve.
 aura.com.ve.
-aureoespiral.com.ve.
 aus-g4s.com.ve.
 aus.com.ve.
 ausecurity.com.ve.
@@ -1974,7 +1973,6 @@ auxguardacostaslg.org.ve.
 avad.com.ve.
 avafert.com.ve.
 avai.com.ve.
-avalonseeds.com.ve.
 avant.com.ve.
 avantec.com.ve.
 avantel.com.ve.
@@ -3245,6 +3243,7 @@ caimpraven.com.ve.
 cainvega.com.ve.
 caip.com.ve.
 caisalud.com.ve.
+caisolutions.com.ve.
 cajasfuertessb.com.ve.
 cajavenezolana.com.ve.
 cajigal-sucre.gov.ve.
@@ -3731,6 +3730,7 @@ ccvs.com.ve.
 cczulia.org.ve.
 cdate.co.ve.
 cdating.co.ve.
+cdc.com.ve.
 cdca.com.ve.
 cddvd.com.ve.
 cdeeslara.gob.ve.
@@ -5134,7 +5134,6 @@ concisa.net.ve.
 conconstituyente2017.gob.ve.
 concord.com.ve.
 concostituyente2017.gob.ve.
-concretoestampado.com.ve.
 concur.com.ve.
 condair.co.ve.
 condair.com.ve.
@@ -5173,6 +5172,7 @@ conetsys.com.ve.
 conettech.com.ve.
 conexion.com.ve.
 conexiondental.com.ve.
+conexionescbg.com.ve.
 conexiontodoxjesus.com.ve.
 conext.com.ve.
 conext.net.ve.
@@ -6054,7 +6054,6 @@ datalink.com.ve.
 datally.co.ve.
 datambrosioplaza.gob.ve.
 datanalisis.com.ve.
-datanalitica.com.ve.
 datanets.com.ve.
 datapersona.com.ve.
 datapremium.com.ve.
@@ -7141,7 +7140,6 @@ electricoscaracas.com.ve.
 electrimec.com.ve.
 electriser.com.ve.
 electro.com.ve.
-electroaire.com.ve.
 electrocam.com.ve.
 electrocoop.com.ve.
 electrodomotica.com.ve.
@@ -7159,7 +7157,6 @@ electronicdigital2020.com.ve.
 electronicpro.com.ve.
 electrosistemaslc.com.ve.
 electrosonic.com.ve.
-electrotechsolutions.com.ve.
 eleinca.com.ve.
 eleka.com.ve.
 elektra.com.ve.
@@ -7599,6 +7596,7 @@ esignal.com.ve.
 esika.com.ve.
 eska.com.ve.
 eskina.com.ve.
+eslaconcepcion.com.ve.
 eslamo.com.ve.
 eslared.org.ve.
 eslovaquia.com.ve.
@@ -9629,6 +9627,7 @@ grainger.com.ve.
 gramoca.com.ve.
 granapadano.com.ve.
 granbrasa.com.ve.
+grancacique.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
 grandealer.com.ve.
@@ -11109,7 +11108,6 @@ inepol.gov.ve.
 inertel.com.ve.
 inesem.com.ve.
 inet.com.ve.
-inetfibercom.com.ve.
 inexco.com.ve.
 infalcosta.org.ve.
 infectologiahoy.com.ve.
@@ -12506,6 +12504,7 @@ laboratorioselmor.net.ve.
 laboratorioselmor.org.ve.
 laboratorioselmor.web.ve.
 laboratoriosgeminis.com.ve.
+laboratoriosigma.com.ve.
 laboratoriosmiranda.gob.ve.
 laboratorioswipe.com.ve.
 laboratoriototal.com.ve.
@@ -12786,6 +12785,7 @@ lec.com.ve.
 lecabel-inspiracion.com.ve.
 lecheria.gob.ve.
 lecheria.gov.ve.
+lecheriaradio.com.ve.
 lechugasverdes.com.ve.
 lechugaverde.co.ve.
 lectorcomplice.com.ve.
@@ -14637,6 +14637,7 @@ monstruoespaguetivolador.org.ve.
 montalar.com.ve.
 montalban-carabobo.gob.ve.
 montalban.com.ve.
+montana1027fm.com.ve.
 monte-carlo-yachts.com.ve.
 monte-carlo.com.ve.
 monteavila.gob.ve.
@@ -15101,6 +15102,7 @@ navica.co.ve.
 navicu.com.ve.
 navier.com.ve.
 nawepa.com.ve.
+naxcom.com.ve.
 nbg.com.ve.
 nbingenieria.com.ve.
 ncc.org.ve.
@@ -16533,7 +16535,6 @@ pideartesanal.com.ve.
 pideloya.com.ve.
 pideloyaguarenas.com.ve.
 pidetuhora.com.ve.
-pidetuservicio.com.ve.
 piedepagina.com.ve.
 piel.com.ve.
 pieleseuropa.com.ve.
@@ -18814,7 +18815,6 @@ seguroshorizonte.gob.ve.
 segurosmapfre.com.ve.
 segurosmiranda.com.ve.
 segurosparaviajes.com.ve.
-segurosrcvvenezuela.com.ve.
 segurosviajesinternacionales.com.ve.
 seguroviaje.com.ve.
 segurviajes.com.ve.
@@ -18943,7 +18943,6 @@ serviciosintegralconsult.com.ve.
 serviciosintegrales.com.ve.
 serviciosintegralesapis.com.ve.
 serviciosmecanicostrarca.com.ve.
-serviciosmedicos.com.ve.
 serviciosuberamigo.com.ve.
 servicoffeenj.com.ve.
 servicom.com.ve.
@@ -20204,6 +20203,7 @@ supradigital.com.ve.
 supraragua.gob.ve.
 suprema102.com.ve.
 supriad.com.ve.
+supricom.com.ve.
 suptrimza.gob.ve.
 suqca.com.ve.
 suquir.com.ve.
@@ -20684,6 +20684,7 @@ tex.com.ve.
 texaco.com.ve.
 texaco.ve.
 textiland.com.ve.
+textilesgamboa.com.ve.
 textileshai.com.ve.
 textilesmadutex.com.ve.
 textilesmilenium.com.ve.
@@ -20847,8 +20848,6 @@ tifm.gob.ve.
 tig.com.ve.
 tiger.com.ve.
 tigo.com.ve.
-tigrant.co.ve.
-tigrant.com.ve.
 tigres.com.ve.
 tigritos.com.ve.
 timaca.com.ve.
@@ -21053,6 +21052,7 @@ tovar-aragua.gov.ve.
 tovar-merida.gov.ve.
 tovarsat.com.ve.
 toveco.com.ve.
+tower-rush.com.ve.
 towertech.com.ve.
 toyoaltamira.com.ve.
 toyoandina.com.ve.
