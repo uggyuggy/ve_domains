@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Feb2025 05:22 UTC
+# ve domain names extracted from nameservers on 28Feb2025 05:27 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -193,7 +193,6 @@ abcmouseaprendeingles.com.ve.
 abcmouseenglish.com.ve.
 abcprodein.org.ve.
 abd.com.ve.
-abdcontrol.com.ve.
 abdo77.com.ve.
 abeinsistemas.com.ve.
 abelandlula.co.ve.
@@ -575,6 +574,7 @@ agritrader.net.ve.
 agro-austin.com.ve.
 agro.com.ve.
 agro.net.ve.
+agrocasa.com.ve.
 agrocentro.com.ve.
 agrociencia.com.ve.
 agrofloracorpogaba.org.ve.
@@ -1171,6 +1171,7 @@ amagi.com.ve.
 amairca.com.ve.
 amana.com.ve.
 amanecer.com.ve.
+amantea.com.ve.
 amarb.edu.ve.
 amariesgos.com.ve.
 amasalud.com.ve.
@@ -1247,7 +1248,6 @@ amexselects.com.ve.
 amezquimart.com.ve.
 amgca.com.ve.
 amhosting.com.ve.
-ami.info.ve.
 amigo.com.ve.
 amigoclaro.com.ve.
 amirhotelboutique.com.ve.
@@ -5066,6 +5066,7 @@ comunajoven.com.ve.
 comunajoven.org.ve.
 comunalizarelpoder.com.ve.
 comunas.gob.ve.
+comunasocialistapuntaiguanaenrevolucion.org.ve.
 comunastereofm.com.ve.
 comunavpsocial.org.ve.
 comunica-t.com.ve.
@@ -6188,6 +6189,7 @@ dejabook.com.ve.
 deka.com.ve.
 dekabank.com.ve.
 dekasa.com.ve.
+delasalle.org.ve.
 delaval.com.ve.
 delcanalitonatural.com.ve.
 delcorall.com.ve.
@@ -6460,7 +6462,6 @@ digibytes.com.ve.
 digihaul.com.ve.
 digikey.com.ve.
 digimex.com.ve.
-digioca.com.ve.
 digipay.com.ve.
 digipizza.com.ve.
 digisalud.co.ve.
@@ -7063,7 +7064,6 @@ edux.com.ve.
 eepa.mil.ve.
 eepaer.mil.ve.
 eero.co.ve.
-eezzy.com.ve.
 ef.co.ve.
 efacademy.com.ve.
 efagency.com.ve.
@@ -8786,6 +8786,7 @@ fujitsu.net.ve.
 fujitsu.org.ve.
 fullapuestas.com.ve.
 fullattention.com.ve.
+fullbrake.com.ve.
 fullcargo.com.ve.
 fullcarro.com.ve.
 fullciclismo.com.ve.
@@ -10519,6 +10520,7 @@ hotelsierralinda.com.ve.
 hotelsunflower.com.ve.
 hoteltamanaco.com.ve.
 hotelthewindsofmargarita.com.ve.
+hoteltransmontano.com.ve.
 hotelviceroy.com.ve.
 hotelvilladeste.com.ve.
 hotelwaldorf.com.ve.
@@ -11448,7 +11450,6 @@ intercaps.com.ve.
 intercar.com.ve.
 intercargo.com.ve.
 intercom.net.ve.
-intercomputomc.com.ve.
 intercon.net.ve.
 interconcreto.com.ve.
 interconectadosvenezuela.com.ve.
@@ -11561,6 +11562,7 @@ inversioneskevlar.com.ve.
 inversioneslafuente.com.ve.
 inversioneslr.com.ve.
 inversionesmundo2020.com.ve.
+inversionespb.com.ve.
 inversionespistonesjw.com.ve.
 inversionesrh.com.ve.
 inversionesskybeta.com.ve.
@@ -12042,6 +12044,7 @@ jml.com.ve.
 jmsolutec.com.ve.
 jmtst.com.ve.
 jmu.com.ve.
+jmw.com.ve.
 jnjvenezuela.com.ve.
 joalibeing.co.ve.
 joalibeing.com.ve.
@@ -12310,6 +12313,7 @@ kibref.com.ve.
 kickers.com.ve.
 kidconnection.com.ve.
 kidsandcolors.com.ve.
+kidsgymconpatricia.com.ve.
 kidsplanet.com.ve.
 kidsrepublic.com.ve.
 kidsrus.com.ve.
@@ -12324,6 +12328,7 @@ kimoanh.com.ve.
 kinematic.com.ve.
 kingbike.com.ve.
 kingdomnetwork.com.ve.
+kingkongtools.com.ve.
 kingpack.com.ve.
 kingrental.com.ve.
 kingroon.com.ve.
@@ -12460,7 +12465,6 @@ kuehne-nagel.com.ve.
 kueski.com.ve.
 kuhl.com.ve.
 kuka.com.ve.
-kuksool.com.ve.
 kul.com.ve.
 kulturakreativa.com.ve.
 kumon.com.ve.
@@ -19299,6 +19303,7 @@ sinelmeca.com.ve.
 sinergia.org.ve.
 sinergiaccp.com.ve.
 sinergios.com.ve.
+sinergium.com.ve.
 sinest.gob.ve.
 singel.com.ve.
 singoteras.com.ve.
@@ -20362,6 +20367,7 @@ talentotricolor.com.ve.
 talentskey.com.ve.
 talentus.com.ve.
 tallerdinomotors.com.ve.
+tallereseuropa.com.ve.
 talleresrootes.com.ve.
 talpes.com.ve.
 taltz.com.ve.
@@ -20491,6 +20497,7 @@ tecnoconcret.com.ve.
 tecnoconcretbarcelona.com.ve.
 tecnoconcretvalencia.com.ve.
 tecnocore.com.ve.
+tecnocredito.com.ve.
 tecnodistribuidor.com.ve.
 tecnoelectron.com.ve.
 tecnoelectronics.com.ve.
@@ -21600,7 +21607,6 @@ udo.edu.ve.
 udonuevaesparta.edu.ve.
 udopostgradomonagas.com.ve.
 uds.edu.ve.
-uduz.com.ve.
 uead.gob.ve.
 ueaguaviva.com.ve.
 ueaguavivanuevaesparta.com.ve.

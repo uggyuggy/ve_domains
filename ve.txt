@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Feb2025 05:27 UTC
+# ve domain names extracted from nameservers on 01Mar2025 05:22 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1109,6 +1109,7 @@ alpa.org.ve.
 alphacolor.com.ve.
 alphacreativa.com.ve.
 alphasense.com.ve.
+alphasigma.com.ve.
 alphasoft.com.ve.
 alphasoluciones.com.ve.
 alpina.com.ve.
@@ -1820,6 +1821,7 @@ atento.net.ve.
 athleta.com.ve.
 athlos.com.ve.
 athlosfit.com.ve.
+athos-erp.com.ve.
 athos.com.ve.
 atimeca.com.ve.
 atkids.com.ve.
@@ -2093,6 +2095,7 @@ axnplus.com.ve.
 ayacucho-tachira.gob.ve.
 ayas.com.ve.
 aycon.com.ve.
+ayf.com.ve.
 aymcetla.com.ve.
 ays.com.ve.
 ayscomunicacionesvzla.com.ve.
@@ -4182,6 +4185,7 @@ cibus.com.ve.
 cic.edu.ve.
 ciccaracas.com.ve.
 cicciobello.com.ve.
+cicmeta.gob.ve.
 cicpc.gob.ve.
 cicsi.co.ve.
 cicsi.com.ve.
@@ -5284,6 +5288,7 @@ consulta.com.ve.
 consultalegal.com.ve.
 consultamedica.com.ve.
 consultarif.com.ve.
+consultasaldomovilnet.com.ve.
 consultatumedico.com.ve.
 consultek.com.ve.
 consultorass.com.ve.
@@ -5747,6 +5752,7 @@ crespo-lara.gov.ve.
 cretto.com.ve.
 crforestal.com.ve.
 criaderohohenberg.com.ve.
+criolla.com.ve.
 criolla1007.net.ve.
 cripto.gob.ve.
 criptolago.com.ve.
@@ -6626,7 +6632,6 @@ distmah.com.ve.
 distramar.com.ve.
 distribucionesconectando.com.ve.
 distribuidora2022ry.com.ve.
-distribuidoraalfredojj.com.ve.
 distribuidoraaustral.com.ve.
 distribuidoraaveirense.com.ve.
 distribuidoradelacultura.gob.ve.
@@ -7414,6 +7419,7 @@ enfamil.co.ve.
 enfamil.com.ve.
 enfinitas.com.ve.
 enfocandome.com.ve.
+enfoque.com.ve.
 enfoqueocupacional.com.ve.
 enfoques.com.ve.
 engidea.com.ve.
@@ -8184,7 +8190,6 @@ fesa-merpro.com.ve.
 fescive.com.ve.
 fesitpven.com.ve.
 fesnojiv.gob.ve.
-festejoselprado.com.ve.
 festicarpa.com.ve.
 festivaldelfuegovivo.com.ve.
 festivaldeteatrodecaracas.org.ve.
@@ -10496,7 +10501,6 @@ hoteljardin.com.ve.
 hoteljolie.com.ve.
 hotellaslomas.com.ve.
 hotellosbordones.com.ve.
-hotellosbordonescomve.com.ve.
 hotelmadrigal.com.ve.
 hotelmediterraneo.com.ve.
 hotelmontserrat.com.ve.
@@ -11350,6 +11354,7 @@ instalnet.com.ve.
 instantgoogle.co.ve.
 instareels.co.ve.
 instareels.com.ve.
+institutoagustinianomadremaria.com.ve.
 institutocasadediseno.com.ve.
 institutocastelao.co.ve.
 institutocastelao.com.ve.
@@ -11362,6 +11367,7 @@ institutodelamujer-maturin.gob.ve.
 institutodeldeportetachirense.gob.ve.
 institutodiocesano.com.ve.
 institutodiosesamor.com.ve.
+institutoeclesiasticodp.com.ve.
 institutoeducacionalhenryclay.com.ve.
 institutoeducacionalnuevaesparta.com.ve.
 institutolap.com.ve.
@@ -11846,6 +11852,7 @@ iutetbocono.edu.ve.
 iutetvirtual.org.ve.
 iutfrp.edu.ve.
 iutfsopcej.mil.ve.
+iuti-mcy.edu.ve.
 iuti.com.ve.
 iutjaa.edu.ve.
 iutjlch.edu.ve.
@@ -12107,6 +12114,7 @@ josvarsistemas.com.ve.
 jota.com.ve.
 jotun.co.ve.
 jotun.com.ve.
+joveneduca.org.ve.
 jovenesdelbarrio.gob.ve.
 jovenesnestle.com.ve.
 joyeriainternacional.com.ve.
@@ -12645,6 +12653,7 @@ lanewcuisine.com.ve.
 languageinternational.co.ve.
 lanitas.com.ve.
 lanix.com.ve.
+lanonline.com.ve.
 lanonlineca.com.ve.
 lanprosystems.com.ve.
 lanprosystems.net.ve.
@@ -14204,7 +14213,6 @@ metroplas.com.ve.
 metropoliscars.com.ve.
 metropolitan.com.ve.
 metroscuadrados.com.ve.
-metrotech.com.ve.
 metrovalencia.gob.ve.
 mevensof.com.ve.
 meyer.com.ve.
@@ -14436,6 +14444,7 @@ minutoaminuto.com.ve.
 minvih.gob.ve.
 minya.com.ve.
 mio.co.ve.
+miobra.com.ve.
 mipaginaprincipal.com.ve.
 miparley.com.ve.
 mipleo.com.ve.
@@ -14755,7 +14764,6 @@ movilnet-e.com.ve.
 movilnet.com.ve.
 movilnet.net.ve.
 movimientocartoon.com.ve.
-movimientolibertario.com.ve.
 movimientopedagogico.com.ve.
 movimientorobertserravenezuela.org.ve.
 movinglife.com.ve.
@@ -14886,6 +14894,7 @@ multi.com.ve.
 multicargas.com.ve.
 multiconsumos.com.ve.
 multiecservicios.com.ve.
+multienfoques360.com.ve.
 multieventsvenezuela.com.ve.
 multifruit.com.ve.
 multigrapas.com.ve.
@@ -15228,6 +15237,7 @@ neumatica.com.ve.
 neumaticavalencia.com.ve.
 neumaticos-online.com.ve.
 neupro.com.ve.
+neuro.com.ve.
 neurobion.com.ve.
 neurociencias.org.ve.
 neurofarmagen.com.ve.
@@ -15944,6 +15954,7 @@ ospino-portuguesa.gob.ve.
 osrilvi.com.ve.
 osseodensification.co.ve.
 osseodensificationacademy.co.ve.
+ossmmasoft.com.ve.
 ossur.com.ve.
 osteohealthy.com.ve.
 oster.com.ve.
@@ -16709,6 +16720,7 @@ pleasurechest.com.ve.
 pleat.com.ve.
 plenitud.com.ve.
 plg.com.ve.
+plinko-casino.com.ve.
 plinko-game.com.ve.
 plinko-game.net.ve.
 plinko.com.ve.
@@ -19077,6 +19089,7 @@ shacman.co.ve.
 shacman.com.ve.
 shaddaifm.com.ve.
 shadevenezuela.com.ve.
+shafuttech.com.ve.
 shalom.com.ve.
 shanti.com.ve.
 sharkclean.co.ve.
@@ -19252,6 +19265,7 @@ silvestripharma.com.ve.
 sim.com.ve.
 sim.org.ve.
 sim.web.ve.
+simaca.com.ve.
 simark.com.ve.
 simax.com.ve.
 simbi.com.ve.
@@ -19605,6 +19619,7 @@ solcimeca.com.ve.
 solcomsa.com.ve.
 soldejaneiro.co.ve.
 soldejaneiro.com.ve.
+soldejaneiro.ve.
 soldejaniero.co.ve.
 solera.com.ve.
 solesociety.com.ve.
@@ -21430,6 +21445,7 @@ tumayorferretero.net.ve.
 tumedico.com.ve.
 tumedicoculturista.com.ve.
 tumedicointernistaenchacao.com.ve.
+tumenu.com.ve.
 tumoto.com.ve.
 tumundointer.com.ve.
 tuorohoy.com.ve.
@@ -21632,6 +21648,7 @@ uecmg.com.ve.
 uecnazaretfya.com.ve.
 uecnsa.com.ve.
 uecolegioandresbello.com.ve.
+uecolegioandresbellotocuyo.com.ve.
 uecolegioaplicacion.com.ve.
 uecolegioaraguaneyparaguana.com.ve.
 uecolegiocastelao.com.ve.
@@ -21717,6 +21734,7 @@ uepverdadyvida.co.ve.
 ues.edu.ve.
 uesagradafamiliaac.com.ve.
 uesannicolas.com.ve.
+uesanonofre.com.ve.
 uesfs.com.ve.
 uesmp.com.ve.
 ufinet.co.ve.
