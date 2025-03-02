@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Mar2025 05:22 UTC
+# ve domain names extracted from nameservers on 02Mar2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -127,6 +127,7 @@
 65ymas.com.ve.
 6a98892a-ac11-11ee-b590-f099d94a046c._domainkey.nic.ve.
 745.com.ve.
+74jjnews.com.ve.
 770.com.ve.
 77post.com.ve.
 7forallmankind.com.ve.
@@ -1672,7 +1673,6 @@ artetorta.com.ve.
 artevia.com.ve.
 arthrolink.com.ve.
 arthurdlittle.com.ve.
-articold.com.ve.
 artiflex.com.ve.
 artilleriadelpensamiento.gob.ve.
 artilleriaestadistica.gob.ve.
@@ -3962,6 +3962,7 @@ certainet.com.ve.
 certicar.com.ve.
 certisign.co.ve.
 certisur.com.ve.
+cervantes.com.ve.
 cervecentro.com.ve.
 cervecerialaesquina.com.ve.
 cervezaduff.co.ve.
@@ -4473,7 +4474,6 @@ clubmapfre.com.ve.
 clubmelia.com.ve.
 clubmiranda.com.ve.
 clubmonteclaro.com.ve.
-cluboricao.com.ve.
 clubpenguin.co.ve.
 clubpenguin.com.ve.
 clubpenguinlatino.com.ve.
@@ -6700,6 +6700,7 @@ docvadis.com.ve.
 docyousign.co.ve.
 docyousign.com.ve.
 dodge.com.ve.
+dog.com.ve.
 dogourmet.com.ve.
 dojohermanoscontreras.com.ve.
 dojokokyuhovzla.org.ve.
@@ -7356,7 +7357,6 @@ emporiodelastelas.com.ve.
 emprende.edu.ve.
 emprende.ve.
 emprenderjuntos.gob.ve.
-emprendimientoymarketing.com.ve.
 empresa.com.ve.
 empresas-polar.com.ve.
 empresas.com.ve.
@@ -8643,6 +8643,7 @@ foznol.com.ve.
 fp2000.gob.ve.
 fph.com.ve.
 fpnp.gob.ve.
+fps.org.ve.
 fpv.org.ve.
 fpzvzla.org.ve.
 fr8star.co.ve.
@@ -8792,7 +8793,6 @@ fujitsu.org.ve.
 fullapuestas.com.ve.
 fullattention.com.ve.
 fullbrake.com.ve.
-fullcargo.com.ve.
 fullcarro.com.ve.
 fullciclismo.com.ve.
 fullciclismo.net.ve.
@@ -14357,7 +14357,6 @@ miluzdesigns.com.ve.
 milv.com.ve.
 mimagnum.com.ve.
 mimasa.com.ve.
-mimercado.com.ve.
 mimet.com.ve.
 mimovistar-online.com.ve.
 mimovistar-online.net.ve.
@@ -15844,7 +15843,6 @@ opodo.com.ve.
 opppe.gob.ve.
 opskins.com.ve.
 opsu.gob.ve.
-opticaindependencia.com.ve.
 opticajohnen.com.ve.
 opticasanchez.com.ve.
 opticasolovision.com.ve.
@@ -16106,7 +16104,6 @@ pampersbabyshower.com.ve.
 pampersjuegos.com.ve.
 pampersvillage.com.ve.
 pan.gob.ve.
-pana.net.ve.
 panaderiasbeiru.com.ve.
 panadium.com.ve.
 panalpina.co.ve.
@@ -18033,6 +18030,7 @@ rioclarocafe.com.ve.
 rionegro-amazonas.gob.ve.
 risksolutions.net.ve.
 ritmica1015fm.com.ve.
+ritmodigital.com.ve.
 rittal.com.ve.
 ritz.com.ve.
 ritzy.com.ve.
@@ -18877,6 +18875,7 @@ semanadelacocinaitaliana.com.ve.
 semanca.com.ve.
 semat-pc.gob.ve.
 sematiribarren.com.ve.
+sementenova.com.ve.
 semi.com.ve.
 semica.com.ve.
 seminariocentrocristiano.com.ve.
@@ -22709,7 +22708,6 @@ volvoce.com.ve.
 volvogroup.ve.
 volvotrucks.com.ve.
 vom.com.ve.
-von.com.ve.
 vopak.com.ve.
 vornado.co.ve.
 vortioson.co.ve.
