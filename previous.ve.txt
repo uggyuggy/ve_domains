@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 02Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 03Mar2025 05:22 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3072,7 +3072,6 @@ bscorp.com.ve.
 bsmr.com.ve.
 bsnmedical.com.ve.
 bsr.gob.ve.
-bssolutions.com.ve.
 bst.co.ve.
 bt.com.ve.
 bt.gob.ve.
@@ -3869,7 +3868,6 @@ cenhisto.gob.ve.
 ceniap.gov.ve.
 cenif.gob.ve.
 cenipa.gob.ve.
-cenipa.web.ve.
 cenit.com.ve.
 cenit.gob.ve.
 censo.com.ve.
@@ -5652,7 +5650,6 @@ cotatur.gov.ve.
 coteserca.com.ve.
 cotidian.com.ve.
 cotiseguros.com.ve.
-cotizaenlinea.com.ve.
 cotoperi.com.ve.
 cotralorianaguanagua.gov.ve.
 cottoncotu.com.ve.
@@ -6167,6 +6164,7 @@ deciem.co.ve.
 deciem.com.ve.
 decocar.com.ve.
 decocristal.com.ve.
+decoelited.com.ve.
 decoglass.com.ve.
 decohouse.com.ve.
 decoraciones.com.ve.
@@ -8096,7 +8094,6 @@ fdnvargas.gob.ve.
 fdvl.gob.ve.
 febreze.com.ve.
 fecobiove.com.ve.
-feconobras.org.ve.
 fede.gob.ve.
 fedecamaras.com.ve.
 fedecamaras.net.ve.
@@ -13863,7 +13860,6 @@ mcm.com.ve.
 mcmaster-carr.co.ve.
 mcmaster.co.ve.
 mcmastercarr.co.ve.
-mcmedical.com.ve.
 mcp.com.ve.
 mcsconsulting.com.ve.
 mct.com.ve.
@@ -15318,7 +15314,6 @@ nibru.com.ve.
 nic.ve.
 niccon.com.ve.
 nicelocal.com.ve.
-nicetrading.com.ve.
 nido.com.ve.
 nieblazul.com.ve.
 nielsen.com.ve.
@@ -16836,7 +16831,6 @@ polifilm.com.ve.
 poliflex.com.ve.
 polifonicorafaelsuarez.org.ve.
 poligirardot.gov.ve.
-poliglue.com.ve.
 poliiribarren.gob.ve.
 polilara.gov.ve.
 polimara.gob.ve.
@@ -18487,7 +18481,6 @@ sandals.com.ve.
 sandiego-carabobo.gob.ve.
 sandiego-carabobo.gov.ve.
 sandiego.edu.ve.
-sandiego.emprende.ve.
 sandiegoparalosninos.gob.ve.
 sandisk.co.ve.
 sandisk.com.ve.
@@ -18935,7 +18928,6 @@ serigrafica.com.ve.
 serinco.com.ve.
 serinprot.com.ve.
 serlect.co.ve.
-sermac.com.ve.
 sermaf.com.ve.
 sermalite.com.ve.
 sermalogistcfc.com.ve.
@@ -21452,7 +21444,6 @@ tuoutlet.com.ve.
 tupanaderiaartesanal.com.ve.
 tupelota.com.ve.
 tupiso.com.ve.
-tuplata.com.ve.
 tupperware.com.ve.
 tupperwarebrands.com.ve.
 tupunto.com.ve.
@@ -22430,6 +22421,7 @@ viagens.co.ve.
 viagens.com.ve.
 viagra.co.ve.
 viagra.com.ve.
+viaja.com.ve.
 viajala.co.ve.
 viajala.com.ve.
 viajanet.co.ve.
@@ -22547,7 +22539,6 @@ vinfastauto.com.ve.
 vinodol.com.ve.
 vinotintosmlb.com.ve.
 vinted.co.ve.
-vio.com.ve.
 viotto.com.ve.
 viotto.net.ve.
 vip.com.ve.
