@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03Mar2025 05:22 UTC
+# ve domain names extracted from nameservers on 04Mar2025 05:21 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2202,7 +2202,6 @@ baloo.com.ve.
 balsam.com.ve.
 baltico.com.ve.
 balvenie.com.ve.
-baly.com.ve.
 bam.com.ve.
 bambari.com.ve.
 bambary.com.ve.
@@ -3462,7 +3461,6 @@ carfilzomib.com.ve.
 cargarefrigerada.com.ve.
 cargill.com.ve.
 cargillnutricionanimal.com.ve.
-cargocorp.com.ve.
 cargroup.co.ve.
 cari.co.ve.
 caribanahotel.com.ve.
@@ -4466,7 +4464,6 @@ clubbarbie.com.ve.
 clubcanario.com.ve.
 clubcubano.com.ve.
 clubfordfiesta.com.ve.
-clubizcaragua.com.ve.
 clublike.com.ve.
 clubmapfre.com.ve.
 clubmelia.com.ve.
@@ -7325,6 +7322,7 @@ emcofanb.mil.ve.
 emdutruca.gob.ve.
 emeis.co.ve.
 emeis.com.ve.
+emersonramirez.com.ve.
 emesa.com.ve.
 emica.com.ve.
 emigrante.com.ve.
@@ -8410,6 +8408,7 @@ flygt.com.ve.
 flyingblue.com.ve.
 flysouthwest.co.ve.
 flysouthwest.com.ve.
+fm.com.ve.
 fm200.com.ve.
 fmba.gob.ve.
 fmc.com.ve.
@@ -9782,7 +9781,6 @@ grupoecc.com.ve.
 grupoedv.com.ve.
 grupoeif.com.ve.
 grupoelfaro.com.ve.
-grupoelloro.com.ve.
 grupoelteide.com.ve.
 grupoemi.com.ve.
 grupoenfoque.net.ve.
@@ -10547,7 +10545,6 @@ houseofmarley.com.ve.
 housingagent.co.ve.
 hovertours.com.ve.
 howard.com.ve.
-howdy.com.ve.
 howmet.co.ve.
 howmet.com.ve.
 howmet.net.ve.
@@ -13104,7 +13101,6 @@ llcp.com.ve.
 lltours.com.ve.
 llumar.com.ve.
 lm.com.ve.
-lmbi.com.ve.
 lmc.com.ve.
 lmcovaserviciossc.com.ve.
 lmv.com.ve.
@@ -13579,7 +13575,6 @@ maracaibo.com.ve.
 maracaibo.gob.ve.
 maracaibo.gov.ve.
 maracaibo.net.ve.
-maracaiboit.com.ve.
 maracay.com.ve.
 maradeoro.com.ve.
 marak.com.ve.
@@ -15204,7 +15199,6 @@ netmonitormovistar.com.ve.
 netnames.com.ve.
 netoolsca.com.ve.
 netpath.com.ve.
-netplus.com.ve.
 netport.com.ve.
 nets.ve.
 netsafe.com.ve.
@@ -16892,7 +16886,6 @@ portallegal.com.ve.
 portilloseguros.com.ve.
 portugas.com.ve.
 portuguesa.gob.ve.
-portuguesafc.com.ve.
 pos.com.ve.
 posada-san-francisco.com.ve.
 posadacasasol.com.ve.
@@ -17527,7 +17520,6 @@ radiosintonia1420.com.ve.
 radiosultana.com.ve.
 radioterapia.com.ve.
 radioturpialmusic.com.ve.
-radiovenezuela.com.ve.
 radiovidafm.net.ve.
 radioweb.com.ve.
 radiox.com.ve.
@@ -23184,6 +23176,7 @@ yahoomeme.com.ve.
 yaipan.com.ve.
 yajoca.com.ve.
 yajocafe.com.ve.
+yale.com.ve.
 yalwa.co.ve.
 yalwa.com.ve.
 yamaha.co.ve.

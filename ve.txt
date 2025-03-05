@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 04Mar2025 05:21 UTC
+# ve domain names extracted from nameservers on 05Mar2025 05:18 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -48,6 +48,7 @@
 1x10delbuengobierno.gob.ve.
 1x10nm.com.ve.
 1xbet-sport.com.ve.
+1xbet-venezuela.com.ve.
 1xbet.co.ve.
 1xbet.com.ve.
 1xbet.org.ve.
@@ -1288,6 +1289,7 @@ anadarko.com.ve.
 anairam.com.ve.
 anaj.org.ve.
 analesdenutricion.org.ve.
+analitycsdigital.com.ve.
 analizar.com.ve.
 anamarialajusticia.co.ve.
 anamarialajusticia.com.ve.
@@ -2076,7 +2078,6 @@ awmdm.co.ve.
 awmdm.com.ve.
 awser.com.ve.
 awsnova.co.ve.
-awsolutions.com.ve.
 axa.com.ve.
 axalta-coating-systems.com.ve.
 axalta-cs.com.ve.
@@ -2956,6 +2957,7 @@ bose.co.ve.
 bose.com.ve.
 bostonconsulting.com.ve.
 bostonscientific.com.ve.
+botasaga.com.ve.
 botasven.com.ve.
 boticacasera.com.ve.
 boticario.co.ve.
@@ -3514,7 +3516,6 @@ carrizal-miranda.gob.ve.
 carrizal.net.ve.
 carroceriaschama.com.ve.
 carroceriasortiz.com.ve.
-carrolibre.com.ve.
 carros.co.ve.
 cars.com.ve.
 cartadeviajes.com.ve.
@@ -5263,7 +5264,6 @@ construccionesrg2014.com.ve.
 construcenter.com.ve.
 construfer.com.ve.
 construlion.com.ve.
-construmadera.com.ve.
 construpatria.gob.ve.
 construya.com.ve.
 construyavivienda.com.ve.
@@ -5483,6 +5483,7 @@ corfin.com.ve.
 corghi.com.ve.
 corian.co.ve.
 corian.com.ve.
+corinto.com.ve.
 corisa.com.ve.
 corkart.com.ve.
 corkcicle.com.ve.
@@ -8802,7 +8803,6 @@ fulltilt.com.ve.
 fulltiltpoker.co.ve.
 fulltiltpoker.com.ve.
 fumcosandi.gob.ve.
-fumigacionesarj.com.ve.
 fumigacionesyerc.com.ve.
 fumigacionuniversal.com.ve.
 funamigos.org.ve.
@@ -9629,7 +9629,6 @@ gq.com.ve.
 graco.com.ve.
 gracobaby.com.ve.
 graficarte.com.ve.
-grafisoft.com.ve.
 grafitime.com.ve.
 grainca.com.ve.
 grainger.co.ve.
@@ -9859,7 +9858,6 @@ grupormp.com.ve.
 gruporomer.com.ve.
 gruposanfrancisco.com.ve.
 gruposanjose.com.ve.
-gruposantarosa.com.ve.
 gruposds.com.ve.
 gruposeguridadvip.com.ve.
 gruposelco.com.ve.
@@ -11100,7 +11098,6 @@ industriasjatu.com.ve.
 industriasondaflex.com.ve.
 industriasorbe.com.ve.
 industriastauro.com.ve.
-industriasterfibras.com.ve.
 industriatermica.com.ve.
 industry.co.ve.
 industry.com.ve.
@@ -13733,7 +13730,6 @@ masterwebsoluciones.com.ve.
 mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
-masvacaciones.com.ve.
 masvalor.com.ve.
 mat.gob.ve.
 mat.gov.ve.
@@ -14604,7 +14600,6 @@ mogollon.com.ve.
 mokacaribe.com.ve.
 molex.co.ve.
 molex.com.ve.
-moliendafina.com.ve.
 moliendaspapelon.com.ve.
 molina.com.ve.
 molinaviajes.com.ve.
@@ -14669,7 +14664,6 @@ mood.com.ve.
 moodys.com.ve.
 moodysrating.com.ve.
 moonki.com.ve.
-moons.com.ve.
 moore-venezuela.com.ve.
 moore.com.ve.
 mooreapps.com.ve.
@@ -15199,6 +15193,7 @@ netmonitormovistar.com.ve.
 netnames.com.ve.
 netoolsca.com.ve.
 netpath.com.ve.
+netplus.com.ve.
 netport.com.ve.
 nets.ve.
 netsafe.com.ve.
@@ -15920,7 +15915,6 @@ oruga.net.ve.
 orval.com.ve.
 osaic.com.ve.
 oscal.com.ve.
-oscar.com.ve.
 oscillo.co.ve.
 oscillo.com.ve.
 oscillococcinum.co.ve.
@@ -15981,8 +15975,6 @@ owletcare.com.ve.
 oxfordeducation.edu.ve.
 oxigas.com.ve.
 oxigenonetwork.com.ve.
-oxtools.com.ve.
-oxtools.net.ve.
 oxychlor.com.ve.
 oxygenics.co.ve.
 oyeven.com.ve.
@@ -17077,7 +17069,6 @@ procondominios.com.ve.
 procria.com.ve.
 procubolivar.gob.ve.
 procumonagas.gob.ve.
-procuracenter.com.ve.
 procuraduriabolivar.gob.ve.
 procuraduriacarabobo.gob.ve.
 procuraduriacarabobo.gov.ve.
@@ -17245,6 +17236,7 @@ proyectoleander.gob.ve.
 proyectoresponsabilidad.com.ve.
 proyectos.com.ve.
 proyectos.nic.ve.
+proyectosbrain.com.ve.
 proyectosjym.com.ve.
 proyectosromaca.com.ve.
 proyectostecnicos.com.ve.
@@ -19937,6 +19929,7 @@ starwhite.com.ve.
 statera.com.ve.
 statoil.com.ve.
 stats.com.ve.
+status.com.ve.
 statusinmobiliario.com.ve.
 stauff.com.ve.
 staufferhotel.com.ve.
@@ -20625,7 +20618,6 @@ televigilancia.gob.ve.
 television.com.ve.
 telguarder.com.ve.
 telisto.com.ve.
-telmaca.com.ve.
 telmarc.com.ve.
 telmax.com.ve.
 teloaseguro.com.ve.
@@ -22562,7 +22554,6 @@ visionagropecuaria.com.ve.
 visiongerencial.com.ve.
 visioninmobiliaria.com.ve.
 visionit.com.ve.
-visionmujer.org.ve.
 visionorganizacional.com.ve.
 visionstream.com.ve.
 visipol.gob.ve.
