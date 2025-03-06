@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 05Mar2025 05:18 UTC
+# ve domain names extracted from nameservers on 06Mar2025 05:20 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -314,6 +314,7 @@ aco.co.ve.
 aco.com.ve.
 acom.com.ve.
 aconingua.com.ve.
+aconsultores.com.ve.
 acooperativasolidez.net.ve.
 acord.com.ve.
 acoservices.com.ve.
@@ -3245,7 +3246,6 @@ cagi.com.ve.
 caimpraven.com.ve.
 cainvega.com.ve.
 caip.com.ve.
-caisalud.com.ve.
 caisolutions.com.ve.
 cajasfuertessb.com.ve.
 cajavenezolana.com.ve.
@@ -6056,6 +6056,7 @@ data.com.ve.
 data.net.ve.
 datacenter.com.ve.
 datacomm.com.ve.
+dataconsultinversiones.com.ve.
 datacopia.com.ve.
 datacredito.com.ve.
 datalink.com.ve.
@@ -10290,6 +10291,7 @@ hijosdeldivinoquerer.com.ve.
 hikeboard.com.ve.
 hikvision.co.ve.
 hilar.com.ve.
+hildanet.com.ve.
 hilfiger-denim.com.ve.
 hilfiger.com.ve.
 hilfigerdenim.com.ve.
@@ -10360,7 +10362,6 @@ hogarena.com.ve.
 hogaresdelapatria.gob.ve.
 hola.com.ve.
 holagranola.com.ve.
-holanet.com.ve.
 holcim.co.ve.
 holcim.com.ve.
 holcim.org.ve.
@@ -11283,6 +11284,7 @@ innovavalledelapascua.com.ve.
 innovavenezuela.com.ve.
 innovavillanueva.com.ve.
 innovent.com.ve.
+innusualgifts.com.ve.
 inoa.com.ve.
 inoi.com.ve.
 inoncology.co.ve.
@@ -11457,7 +11459,6 @@ interfaceflor.com.ve.
 interfibra.com.ve.
 interfibra.net.ve.
 interflash.com.ve.
-intergeo.com.ve.
 intergest.com.ve.
 interhome.com.ve.
 interimex.com.ve.
@@ -13112,6 +13113,7 @@ loblan.com.ve.
 localbitcoin.com.ve.
 localbitcoins.com.ve.
 localizagpsmovil.com.ve.
+localmarche.com.ve.
 locanto.co.ve.
 locanto.com.ve.
 locatel.com.ve.
@@ -13456,6 +13458,7 @@ mainstays.co.ve.
 maisanta.gov.ve.
 maisanta.mil.ve.
 maisonblanche.com.ve.
+maizbistro.com.ve.
 maizina.com.ve.
 maizorilandia.com.ve.
 maizoritos.com.ve.
@@ -15975,6 +15978,8 @@ owletcare.com.ve.
 oxfordeducation.edu.ve.
 oxigas.com.ve.
 oxigenonetwork.com.ve.
+oxtools.com.ve.
+oxtools.net.ve.
 oxychlor.com.ve.
 oxygenics.co.ve.
 oyeven.com.ve.
@@ -16713,7 +16718,6 @@ plumrose.com.ve.
 plumrosedeli.com.ve.
 plumrosexpress.com.ve.
 plus500.co.ve.
-plusformacion.com.ve.
 plusgene.com.ve.
 plusmax.com.ve.
 plussoluciones.com.ve.
@@ -20034,6 +20038,7 @@ suavitel.com.ve.
 subasta.com.ve.
 subete.com.ve.
 sublimacionamericana.com.ve.
+sublimandoideas.com.ve.
 sublime.com.ve.
 submariner.co.ve.
 submariner.com.ve.
