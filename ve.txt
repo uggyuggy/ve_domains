@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06Mar2025 05:20 UTC
+# ve domain names extracted from nameservers on 07Mar2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3199,6 +3199,7 @@ cabisoar.com.ve.
 cabisoavia.com.ve.
 cabisoguarnac.com.ve.
 cablebrasil.com.ve.
+cabledelta.com.ve.
 cablehogar.net.ve.
 cablepar.com.ve.
 cablesindustriales.com.ve.
@@ -6712,7 +6713,6 @@ dollarhotel.com.ve.
 domain.co.ve.
 domain.com.ve.
 domains.com.ve.
-domanco.com.ve.
 domesa.com.ve.
 dometic.com.ve.
 domicilios.com.ve.
@@ -7594,7 +7594,6 @@ esequibonews.com.ve.
 esertel.com.ve.
 eset.com.ve.
 esfer.com.ve.
-esfingegrafica.com.ve.
 esga.mil.ve.
 esgc.mil.ve.
 esglobal.com.ve.
@@ -8791,6 +8790,7 @@ fujitsu.org.ve.
 fullapuestas.com.ve.
 fullattention.com.ve.
 fullbrake.com.ve.
+fullcargo.com.ve.
 fullcarro.com.ve.
 fullciclismo.com.ve.
 fullciclismo.net.ve.
@@ -9781,6 +9781,7 @@ grupoecc.com.ve.
 grupoedv.com.ve.
 grupoeif.com.ve.
 grupoelfaro.com.ve.
+grupoelloro.com.ve.
 grupoelteide.com.ve.
 grupoemi.com.ve.
 grupoenfoque.net.ve.
@@ -10362,6 +10363,7 @@ hogarena.com.ve.
 hogaresdelapatria.gob.ve.
 hola.com.ve.
 holagranola.com.ve.
+holanet.com.ve.
 holcim.co.ve.
 holcim.com.ve.
 holcim.org.ve.
@@ -12330,7 +12332,6 @@ kingbike.com.ve.
 kingdomnetwork.com.ve.
 kingkongtools.com.ve.
 kingpack.com.ve.
-kingrental.com.ve.
 kingroon.com.ve.
 kingsage.com.ve.
 kingscore.com.ve.
@@ -13755,6 +13756,7 @@ matos.com.ve.
 matpet.com.ve.
 matriz.com.ve.
 matsa.com.ve.
+mattey.com.ve.
 matthaeus.com.ve.
 maturin-monagas.gob.ve.
 matza.com.ve.
@@ -14684,6 +14686,7 @@ morantes.com.ve.
 morbidelli.com.ve.
 morecast.com.ve.
 moreconsulting.com.ve.
+moreexperience.com.ve.
 moremusic.com.ve.
 morepartners.com.ve.
 morettiforni.com.ve.
@@ -16552,6 +16555,7 @@ pideloyaguarenas.com.ve.
 pidetuhora.com.ve.
 piedepagina.com.ve.
 piel.com.ve.
+pielcanela.com.ve.
 pieleseuropa.com.ve.
 piemonte.com.ve.
 piensasolutions.com.ve.
@@ -17073,6 +17077,7 @@ procondominios.com.ve.
 procria.com.ve.
 procubolivar.gob.ve.
 procumonagas.gob.ve.
+procuracenter.com.ve.
 procuraduriabolivar.gob.ve.
 procuraduriacarabobo.gob.ve.
 procuraduriacarabobo.gov.ve.
@@ -17335,6 +17340,7 @@ puressentiel.com.ve.
 purevideo.com.ve.
 purina.com.ve.
 puro.com.ve.
+puroh2o.com.ve.
 pvc.com.ve.
 pvlconsultores.com.ve.
 pwc.co.ve.
@@ -20610,6 +20616,7 @@ telenovelas.com.ve.
 teleplastic.com.ve.
 telequip.com.ve.
 telerace.net.ve.
+telesalud.com.ve.
 telesat.com.ve.
 telescopios.com.ve.
 telesol.com.ve.
@@ -21073,6 +21080,7 @@ tovar-merida.gov.ve.
 tovarsat.com.ve.
 toveco.com.ve.
 tower-rush.com.ve.
+towerrush.com.ve.
 towertech.com.ve.
 toyoaltamira.com.ve.
 toyoandina.com.ve.
@@ -21753,6 +21761,7 @@ uma.edu.ve.
 umbrella.com.ve.
 umbrellaconsultores.com.ve.
 umbv.edu.ve.
+umbvinvest.com.ve.
 umc.edu.ve.
 una.edu.ve.
 unalaraweb.com.ve.
