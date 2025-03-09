@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 08Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 09Mar2025 05:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -53,7 +53,6 @@
 1xbet.com.ve.
 1xbet.org.ve.
 1xbets.com.ve.
-1xbetvenezuela.com.ve.
 1xcasino.com.ve.
 1y1.com.ve.
 2001.com.ve.
@@ -6374,6 +6373,7 @@ dewalt.co.ve.
 dewars.com.ve.
 dewei.com.ve.
 dextra.com.ve.
+dfsk.com.ve.
 dgcim.mil.ve.
 dgcodigos.com.ve.
 dgicarabobo.gob.ve.
@@ -7439,7 +7439,6 @@ enlaceafro.gob.ve.
 enlacedigital1.com.ve.
 enlacegerencial.com.ve.
 enlaceindigenas.gob.ve.
-enlaceregional.com.ve.
 enlacerv.co.ve.
 enlaceucv.org.ve.
 enlanube.co.ve.
@@ -11461,7 +11460,6 @@ interfaceflor.com.ve.
 interfibra.com.ve.
 interfibra.net.ve.
 interflash.com.ve.
-intergest.com.ve.
 interhome.com.ve.
 interimex.com.ve.
 interlink.net.ve.
@@ -12403,6 +12401,7 @@ kontent.co.ve.
 kontent.com.ve.
 kontrol.com.ve.
 koodek.com.ve.
+kopcenter.com.ve.
 kores.com.ve.
 kormacol.com.ve.
 kornetti.com.ve.
@@ -19585,7 +19584,6 @@ sogarsa.gov.ve.
 sogatur.gob.ve.
 sogvzla.org.ve.
 soi.com.ve.
-soiltech.com.ve.
 soitavecarabobo.com.ve.
 sojostar.com.ve.
 sol.com.ve.
@@ -20610,7 +20608,6 @@ telefonica.com.ve.
 telefonicamoviles.com.ve.
 telefonicatech.com.ve.
 telefunken.com.ve.
-telegon.com.ve.
 teleinformatica.gob.ve.
 teleiva.com.ve.
 telemecanique.co.ve.
@@ -22927,7 +22924,6 @@ wenco.com.ve.
 wendys.com.ve.
 wendyskids.com.ve.
 wert.com.ve.
-wesco.com.ve.
 westernchemicals.com.ve.
 westernunion.co.ve.
 wetalks.com.ve.

@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 07Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 08Mar2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3991,7 +3991,6 @@ cevalfes.com.ve.
 cevca.com.ve.
 cexteriorcarabobo.gob.ve.
 ceydschacao-miranda.gob.ve.
-cf2209sistemas.com.ve.
 cfamilia.com.ve.
 cfconsultores.com.ve.
 cfg.gob.ve.
@@ -4269,6 +4268,7 @@ ciriontechnologies.com.ve.
 ciro.com.ve.
 cirosanchez.com.ve.
 cirrus.co.ve.
+cirtechnology.com.ve.
 cirujanoplasticofrancy.com.ve.
 cisbro.com.ve.
 cisco.co.ve.
@@ -6830,6 +6830,7 @@ drotaca.com.ve.
 drotafarma.com.ve.
 drovencentro.com.ve.
 drovica.co.ve.
+drovica.com.ve.
 drsg.gob.ve.
 drvranjes.com.ve.
 dry-ager.com.ve.
@@ -7160,7 +7161,6 @@ electroluxpensandoenti.com.ve.
 electroluxthinkingofyou.com.ve.
 electronica-asiatech.com.ve.
 electronica.com.ve.
-electronicaip.com.ve.
 electronicarts.com.ve.
 electronicdigital2020.com.ve.
 electronicpro.com.ve.
@@ -9821,6 +9821,7 @@ grupokr.com.ve.
 grupolamundial.com.ve.
 grupolanda.com.ve.
 grupolapanamericana.com.ve.
+grupolatrinidad.com.ve.
 grupolockey.com.ve.
 grupoloder.com.ve.
 grupoluysi.com.ve.
@@ -10646,7 +10647,6 @@ hypereaduptm.com.ve.
 hypermedia.com.ve.
 hypersystems.com.ve.
 hyser.com.ve.
-hytek.com.ve.
 hytera.com.ve.
 hytorc.co.ve.
 hytorc.com.ve.
@@ -11956,6 +11956,7 @@ jcb.co.ve.
 jcb.com.ve.
 jccm.com.ve.
 jcdecaux.com.ve.
+jcelectronicos.com.ve.
 jcretenciones.com.ve.
 jcrew.com.ve.
 jcsupply.com.ve.
@@ -13692,6 +13693,7 @@ mas-sport.com.ve.
 masa.com.ve.
 masautoselvinedo.com.ve.
 masaya.org.ve.
+mascota.com.ve.
 mascotas.co.ve.
 mascotas.com.ve.
 mascus.com.ve.
@@ -15201,6 +15203,7 @@ netoolsca.com.ve.
 netpath.com.ve.
 netplus.com.ve.
 netport.com.ve.
+netprinter.com.ve.
 nets.ve.
 netsafe.com.ve.
 netsave.co.ve.
@@ -16048,6 +16051,7 @@ paginasdeapuestas.co.ve.
 paginasdeapuestas.com.ve.
 paginasweb.com.ve.
 paginaweb.com.ve.
+pago.com.ve.
 pagoaqui.com.ve.
 pagochinchin.com.ve.
 pagodeimpuestos.com.ve.
@@ -16440,6 +16444,7 @@ perzen.com.ve.
 pes.com.ve.
 pescalba.gob.ve.
 pescaloapulmon.com.ve.
+pet.com.ve.
 petardashd.com.ve.
 petcurean.co.ve.
 peterbilt.com.ve.
@@ -16902,7 +16907,6 @@ posadayemaya.com.ve.
 posan.com.ve.
 post-it.co.ve.
 post-it.com.ve.
-postcreativove.com.ve.
 postegram.com.ve.
 postesdelcentro.com.ve.
 postini.com.ve.
@@ -19105,6 +19109,7 @@ shiseido.com.ve.
 shn.mil.ve.
 shomi.com.ve.
 shop.co.ve.
+shop.com.ve.
 shopclub.co.ve.
 shopclub.com.ve.
 shopify.co.ve.
@@ -20630,6 +20635,7 @@ televigilancia.gob.ve.
 television.com.ve.
 telguarder.com.ve.
 telisto.com.ve.
+telmaca.com.ve.
 telmarc.com.ve.
 telmax.com.ve.
 teloaseguro.com.ve.
@@ -21856,6 +21862,7 @@ unimet.edu.ve.
 uniojeda.edu.ve.
 union-falcon.gov.ve.
 unionafirmativa.org.ve.
+uniondeautores.co.ve.
 unionradio.com.ve.
 unipap.edu.ve.
 unipaponline.com.ve.
@@ -22868,6 +22875,7 @@ we-buildgroup.com.ve.
 wearfigs.com.ve.
 weather.com.ve.
 weatherford.com.ve.
+weathertech.com.ve.
 web.ve.
 webbeds.com.ve.
 webcams.com.ve.
