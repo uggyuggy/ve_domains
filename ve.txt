@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 10Mar2025 05:24 UTC
+# ve domain names extracted from nameservers on 11Mar2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -313,7 +313,6 @@ acnielsen.com.ve.
 aco.co.ve.
 aco.com.ve.
 acom.com.ve.
-aconingua.com.ve.
 aconsultores.com.ve.
 acooperativasolidez.net.ve.
 acord.com.ve.
@@ -721,6 +720,7 @@ akrapovic.co.ve.
 aktiva.com.ve.
 aktivate.com.ve.
 aktivate.net.ve.
+aktivo.com.ve.
 akun.co.ve.
 akun.com.ve.
 akun.net.ve.
@@ -1497,7 +1497,6 @@ apuestasdeportivas.co.ve.
 apuestasdeportivas.com.ve.
 apuestasesports.com.ve.
 apuestasroyal.com.ve.
-apuestave.com.ve.
 apuestaya.com.ve.
 apuestele.co.ve.
 apuestele.com.ve.
@@ -4332,7 +4331,6 @@ cix.net.ve.
 cj.gov.ve.
 cja.com.ve.
 cjmv1987.com.ve.
-ckimport.com.ve.
 ckx.net.ve.
 cla.com.ve.
 clacdec.gov.ve.
@@ -5738,6 +5736,7 @@ creditsuisse.com.ve.
 creditswiss.co.ve.
 creditswiss.com.ve.
 creditwit.com.ve.
+crediven.com.ve.
 creer.com.ve.
 cremadearrozprimor.com.ve.
 cremaparaiso.com.ve.
@@ -6522,6 +6521,7 @@ dipacalara.com.ve.
 diplaca.com.ve.
 diploelca.com.ve.
 diplomacia.gob.ve.
+diplomados360.emprende.ve.
 diplux.com.ve.
 dipreplan.gob.ve.
 dipromed.com.ve.
@@ -6630,6 +6630,7 @@ distmah.com.ve.
 distramar.com.ve.
 distribucionesconectando.com.ve.
 distribuidora2022ry.com.ve.
+distribuidoraalfredojj.com.ve.
 distribuidoraaustral.com.ve.
 distribuidoraaveirense.com.ve.
 distribuidoradelacultura.gob.ve.
@@ -6956,6 +6957,8 @@ eav-rmonasterios.gob.ve.
 ebags.com.ve.
 ebay.co.ve.
 ebay.com.ve.
+ebaylive.co.ve.
+ebaylive.com.ve.
 ebboesoterico.com.ve.
 ebcbrakesdirect.com.ve.
 ebconsultoria.com.ve.
@@ -9478,6 +9481,7 @@ gmbt.gob.ve.
 gmcupaz.gob.ve.
 gmfinancial.co.ve.
 gmfinancial.com.ve.
+gmoravi.com.ve.
 gmsaberytrabajo.gob.ve.
 gmt-master.co.ve.
 gmt-master.com.ve.
@@ -9623,6 +9627,7 @@ gpslat.com.ve.
 gpsmedia.com.ve.
 gpsmundial.com.ve.
 gpstracker.net.ve.
+gpswebsites.com.ve.
 gpv.com.ve.
 gq.co.ve.
 gq.com.ve.
@@ -10107,6 +10112,7 @@ haygroup.co.ve.
 haygroup.com.ve.
 hays.co.ve.
 hays.com.ve.
+haz.com.ve.
 hbe.com.ve.
 hbfuller.com.ve.
 hbo.co.ve.
@@ -11239,6 +11245,7 @@ inmobisa.com.ve.
 inmoblezama20.com.ve.
 inmoglobalve.com.ve.
 inmovaly.com.ve.
+inmovital.com.ve.
 inmuebleoferta.com.ve.
 inmuebles.com.ve.
 inmuebles31.com.ve.
@@ -11799,6 +11806,7 @@ iumcoelfa.mil.ve.
 iunav.edu.ve.
 iune.edu.ve.
 iunep.edu.ve.
+iunete.org.ve.
 iunics.edu.ve.
 iunix.com.ve.
 iunp.edu.ve.
@@ -12215,6 +12223,7 @@ kadigroup.com.ve.
 kadri.com.ve.
 kainos.com.ve.
 kairos.org.ve.
+kaishimotors.com.ve.
 kaiyi.com.ve.
 kaizen.com.ve.
 kaizen.net.ve.
@@ -12652,6 +12661,7 @@ lansarcaracas.com.ve.
 lansionbio.com.ve.
 lanta.com.ve.
 lanxess.com.ve.
+lanzanibal.com.ve.
 laoratorioselmor.web.ve.
 lapagina.com.ve.
 lapaginaweb.com.ve.
@@ -13609,6 +13619,7 @@ margaritarealty.com.ve.
 margaritarents.com.ve.
 margaritavillage.com.ve.
 margaritavillageclub.com.ve.
+margaritawings.com.ve.
 mariachiadomicilio.com.ve.
 mariainmaculadacarora.com.ve.
 mariainmaculadacarora.edu.ve.
@@ -13688,6 +13699,7 @@ maryruthorganics.co.ve.
 maryruthorganics.com.ve.
 mas-sport.com.ve.
 masa.com.ve.
+masacasport.com.ve.
 masautoselvinedo.com.ve.
 masaya.org.ve.
 mascota.com.ve.
@@ -14819,7 +14831,6 @@ mrd.gob.ve.
 mre.gob.ve.
 mre.gov.ve.
 mrm.com.ve.
-mryasociados.com.ve.
 ms.gob.ve.
 mscconsultores.net.ve.
 mscnoticias.com.ve.
@@ -14871,6 +14882,7 @@ mueblesfranceska.com.ve.
 mufg.co.ve.
 mufg.com.ve.
 mujer.com.ve.
+mujeractivate.com.ve.
 mujeres.com.ve.
 mukumbari.com.ve.
 mul-t-lock.com.ve.
@@ -15015,7 +15027,6 @@ myprotein.co.ve.
 myrolex.co.ve.
 myrolex.com.ve.
 mysolutionsdirect.com.ve.
-mysoportedenegocios.com.ve.
 myspacetv.com.ve.
 mytoys.com.ve.
 mywallmart.com.ve.
@@ -15474,7 +15485,6 @@ nuevaera.com.ve.
 nuevaerainmobiliaria.com.ve.
 nuevaesparta.gob.ve.
 nuevaetapa.gob.ve.
-nuevajerusalencentral.com.ve.
 nuevaprensa.com.ve.
 nuevaprensa.web.ve.
 nuevasoc.org.ve.
@@ -16151,7 +16161,6 @@ papyrus.net.ve.
 paq.com.ve.
 paradacreativa.com.ve.
 paradise.co.ve.
-paradisetravelvzla.com.ve.
 paradisus.com.ve.
 paradoxmuseum.com.ve.
 paragon.com.ve.
@@ -16252,6 +16261,7 @@ pave.com.ve.
 paveca.com.ve.
 pavisur.com.ve.
 paw.com.ve.
+pawnnection.com.ve.
 pay.com.ve.
 payall.com.ve.
 payco.com.ve.
@@ -17643,6 +17653,7 @@ recaptcha.co.ve.
 recare.com.ve.
 recarga.net.ve.
 recargadeextintores.com.ve.
+recargalo.com.ve.
 recargasmiguel.com.ve.
 recargasvenezuela.com.ve.
 recargate.com.ve.
@@ -19915,7 +19926,6 @@ stargas.com.ve.
 starkey.com.ve.
 starkids.com.ve.
 starkindustrias.com.ve.
-starlink.com.ve.
 starliteshop.com.ve.
 starnet.com.ve.
 staroffice.com.ve.
@@ -19926,7 +19936,6 @@ starplus.com.ve.
 starr.com.ve.
 starrett.com.ve.
 starsmotors.com.ve.
-starsolutionsti.com.ve.
 starter.com.ve.
 startnet.com.ve.
 startravel.com.ve.
@@ -20591,6 +20600,7 @@ telecenter.com.ve.
 teleclinica.com.ve.
 teleco.com.ve.
 telecoe.com.ve.
+telecom.com.ve.
 telecom.gob.ve.
 telecomrhj.com.ve.
 telecomunicacionesmultinet.com.ve.
@@ -20905,7 +20915,6 @@ tinyletter.co.ve.
 tioammi.com.ve.
 tiorico.com.ve.
 tipalti.com.ve.
-tipea.com.ve.
 tips.com.ve.
 tipsdetecnologia.com.ve.
 tirima.com.ve.

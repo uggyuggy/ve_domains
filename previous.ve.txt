@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 09Mar2025 05:24 UTC
+# ve domain names extracted from nameservers on 10Mar2025 05:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -266,6 +266,7 @@ accetts.com.ve.
 accioncatolica.com.ve.
 acciondemocratica.org.ve.
 accionesdefuturo.com.ve.
+accionmarketing.com.ve.
 acciontrabajo.com.ve.
 accorservices.com.ve.
 accsi.org.ve.
@@ -2606,7 +2607,6 @@ bigdutchman.com.ve.
 bigfold.co.ve.
 bigfoot.co.ve.
 biglidue.com.ve.
-bigmarket.com.ve.
 bigott.com.ve.
 bigpoint.com.ve.
 biipnegocio.com.ve.
@@ -9871,7 +9871,6 @@ gruposupply.com.ve.
 gruposuramerica.com.ve.
 grupotamanu.com.ve.
 grupotaras.com.ve.
-grupotecnologico.com.ve.
 grupotepui.com.ve.
 grupotepuy911.com.ve.
 grupoterra.com.ve.
@@ -10829,7 +10828,6 @@ iene.com.ve.
 ies-divinapastora.edu.ve.
 iesa.edu.ve.
 iesb-apucito.edu.ve.
-iesca.com.ve.
 iesip.edu.ve.
 iesv.com.ve.
 ietac.net.ve.
@@ -15307,7 +15305,6 @@ nhhotelgroup.com.ve.
 nhhotels.com.ve.
 nhow-hotels.com.ve.
 nhow.com.ve.
-nibru.com.ve.
 nic.ve.
 niccon.com.ve.
 nicelocal.com.ve.
