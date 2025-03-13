@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 12Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 13Mar2025 05:21 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1069,6 +1069,7 @@ alladdin.com.ve.
 allanuncios.com.ve.
 allaven.com.ve.
 allbe.com.ve.
+alldesigns.com.ve.
 allengers.com.ve.
 allengerscompanie.com.ve.
 allerganacademy.com.ve.
@@ -5682,6 +5683,7 @@ cpcconsultores.com.ve.
 cpedc.com.ve.
 cpl.net.ve.
 cpmholding.com.ve.
+cpnbdaet.org.ve.
 cpo.co.ve.
 cpo.com.ve.
 cpp.gov.ve.
@@ -7281,6 +7283,7 @@ elregional.net.ve.
 elrepuestero.com.ve.
 elretono.com.ve.
 elretorno.com.ve.
+elreydelmaniqui.com.ve.
 elruco.com.ve.
 elseguro.com.ve.
 elsiglo.com.ve.
@@ -8072,7 +8075,6 @@ fastpayment.com.ve.
 fastprint.com.ve.
 fatface.com.ve.
 fatsecret.co.ve.
-faunasilvestre.com.ve.
 fav.mil.ve.
 favenca.com.ve.
 fay.com.ve.
@@ -8230,7 +8232,6 @@ fiber.com.ve.
 fibernet.com.ve.
 fibernetwork.com.ve.
 fibersolutions.com.ve.
-fibersystems.com.ve.
 fibrahogar.com.ve.
 fibraselsiglo.com.ve.
 fic.gob.ve.
@@ -11188,6 +11189,7 @@ infoworld.com.ve.
 infram.gob.ve.
 inframir.gob.ve.
 infrapool.net.ve.
+infrared.com.ve.
 ingcret.com.ve.
 ingeagro.com.ve.
 ingebomba.com.ve.
@@ -15416,7 +15418,6 @@ norwex.co.ve.
 nosotrasnovias.com.ve.
 nosotrasonline.com.ve.
 nostale.com.ve.
-notecosmetics.com.ve.
 notiandes24.com.ve.
 notiapure.com.ve.
 noticia.com.ve.
@@ -16137,6 +16138,7 @@ pandora.co.ve.
 pandorafms.com.ve.
 pandoral.com.ve.
 pandsistcom.com.ve.
+panelpa.com.ve.
 panelsystem.com.ve.
 pangea.com.ve.
 pangeatech.com.ve.
@@ -16951,6 +16953,7 @@ pps.com.ve.
 practico.com.ve.
 pradaxa.com.ve.
 pradovision.com.ve.
+praga.com.ve.
 pragmatelecom.com.ve.
 pragmatic-play-gratis.com.ve.
 pralca.com.ve.
@@ -18845,7 +18848,6 @@ seguroparaviaje.com.ve.
 seguros-de-viaje.com.ve.
 segurosbanesco.com.ve.
 segurosbaratos.com.ve.
-seguroscapital.com.ve.
 segurosclev.com.ve.
 segurosconstitucion.com.ve.
 seguroshorizonte.gob.ve.
@@ -19016,7 +19018,6 @@ servipagos.com.ve.
 servipagoscomunal.com.ve.
 servipartes.com.ve.
 serviparts.com.ve.
-serviplast.com.ve.
 serviport.com.ve.
 serviprof.com.ve.
 serviradio.com.ve.
@@ -21025,7 +21026,6 @@ tooncast.com.ve.
 tooncast.net.ve.
 toondisney.com.ve.
 toonix.com.ve.
-top-ten.com.ve.
 topbeauty.com.ve.
 topcom.com.ve.
 topcommunications.com.ve.
@@ -22099,6 +22099,7 @@ vadas.com.ve.
 vadellhnoseditores.com.ve.
 vademecumavisa.org.ve.
 vaderstad.co.ve.
+vagos.com.ve.
 valbia.com.ve.
 valcomelton.com.ve.
 valcro.com.ve.
@@ -22277,6 +22278,7 @@ venesulca.com.ve.
 venet.com.ve.
 venetacucine.co.ve.
 venetix.com.ve.
+venetoeyewears.com.ve.
 venetranstours.com.ve.
 venetravel.com.ve.
 venetravel.net.ve.

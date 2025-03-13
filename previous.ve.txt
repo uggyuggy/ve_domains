@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 11Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 12Mar2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -5646,6 +5646,7 @@ cotatur.gov.ve.
 coteserca.com.ve.
 cotidian.com.ve.
 cotiseguros.com.ve.
+cotizaenlinea.com.ve.
 cotoperi.com.ve.
 cotralorianaguanagua.gov.ve.
 cottoncotu.com.ve.
@@ -5743,6 +5744,7 @@ cremaparaiso.com.ve.
 crepesywaffles.com.ve.
 cresotec.com.ve.
 crespo-lara.gov.ve.
+crestoil.com.ve.
 cretto.com.ve.
 crforestal.com.ve.
 criaderohohenberg.com.ve.
@@ -6407,6 +6409,7 @@ dialogando.com.ve.
 dialogonacional.gov.ve.
 dialogoroche.com.ve.
 diamondconsultants.com.ve.
+diamondgroup.com.ve.
 dianaachkar.com.ve.
 dianca.gob.ve.
 dianco.com.ve.
@@ -6984,6 +6987,7 @@ ecoelite.com.ve.
 ecoem.com.ve.
 ecofil.com.ve.
 ecofrio.com.ve.
+ecografianobmann.com.ve.
 ecogreen.com.ve.
 ecolab.co.ve.
 ecolab.com.ve.
@@ -9767,6 +9771,7 @@ grupociuu.com.ve.
 grupocontech.com.ve.
 grupocontinental.com.ve.
 grupocore.com.ve.
+grupocorpos.com.ve.
 grupocostel.com.ve.
 grupocretto.com.ve.
 grupodagianni.com.ve.
@@ -10051,6 +10056,8 @@ halls.com.ve.
 hallsoft.com.ve.
 halseca.com.ve.
 hamilton.com.ve.
+hammer-nutrition.com.ve.
+hammer.com.ve.
 hammernutrition.com.ve.
 hampton.co.ve.
 hampton.com.ve.
@@ -10651,6 +10658,7 @@ hypereaduptm.com.ve.
 hypermedia.com.ve.
 hypersystems.com.ve.
 hyser.com.ve.
+hytek.com.ve.
 hytera.com.ve.
 hytorc.co.ve.
 hytorc.com.ve.
@@ -13702,6 +13710,7 @@ masa.com.ve.
 masacasport.com.ve.
 masautoselvinedo.com.ve.
 masaya.org.ve.
+masciencia.gob.ve.
 mascota.com.ve.
 mascotas.co.ve.
 mascotas.com.ve.
@@ -13739,7 +13748,6 @@ masterelectric.com.ve.
 mastergrupo.com.ve.
 masterlock.com.ve.
 mastermutual.com.ve.
-masterticket.com.ve.
 mastertruck.com.ve.
 masterwebsoluciones.com.ve.
 mastubos.com.ve.
@@ -13800,6 +13808,7 @@ maximus.com.ve.
 maxinet.com.ve.
 maxipet.com.ve.
 maxipisos.com.ve.
+maxirental.com.ve.
 maxirubber.com.ve.
 maxolution.com.ve.
 maxpanel.com.ve.
@@ -13876,6 +13885,7 @@ mcti-nuevaesparta.gob.ve.
 mcti.gob.ve.
 mcvision.net.ve.
 mdbiolab.com.ve.
+mdconference.com.ve.
 mddlaconnect.com.ve.
 mdlz.com.ve.
 mdm.com.ve.
@@ -14216,6 +14226,7 @@ metroplas.com.ve.
 metropoliscars.com.ve.
 metropolitan.com.ve.
 metroscuadrados.com.ve.
+metrotech.com.ve.
 metrovalencia.gob.ve.
 mevensof.com.ve.
 meyer.com.ve.
@@ -16126,7 +16137,6 @@ pandora.co.ve.
 pandorafms.com.ve.
 pandoral.com.ve.
 pandsistcom.com.ve.
-panelpa.com.ve.
 panelsystem.com.ve.
 pangea.com.ve.
 pangeatech.com.ve.
@@ -19145,6 +19155,7 @@ showmax.com.ve.
 showmb.com.ve.
 shownautico.com.ve.
 shpvc.com.ve.
+shuky.com.ve.
 shulemena.com.ve.
 siaca.net.ve.
 siaca1.com.ve.
@@ -21447,6 +21458,7 @@ tumoto.com.ve.
 tumundointer.com.ve.
 tuorohoy.com.ve.
 tuoutlet.com.ve.
+tupamarovenezuela.org.ve.
 tupanaderiaartesanal.com.ve.
 tupelota.com.ve.
 tupiso.com.ve.
