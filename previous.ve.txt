@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 13Mar2025 05:21 UTC
+# ve domain names extracted from nameservers on 14Mar2025 05:22 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1723,7 +1723,6 @@ asedebart.com.ve.
 asegumargp.com.ve.
 aseguraronline.com.ve.
 aseguratehoy.com.ve.
-aseguratucaballo.com.ve.
 aseguratuviaje.com.ve.
 asein.com.ve.
 asemedi.com.ve.
@@ -4332,6 +4331,7 @@ cix.net.ve.
 cj.gov.ve.
 cja.com.ve.
 cjmv1987.com.ve.
+ckimport.com.ve.
 ckx.net.ve.
 cla.com.ve.
 clacdec.gov.ve.
@@ -5677,7 +5677,6 @@ cozaar.com.ve.
 cozies.com.ve.
 cp.com.ve.
 cpanel.com.ve.
-cpc.com.ve.
 cpc.net.ve.
 cpcconsultores.com.ve.
 cpedc.com.ve.
@@ -6518,6 +6517,7 @@ dinersclub.com.ve.
 dineweb.com.ve.
 dingemide.mil.ve.
 dinomotorsaragua.com.ve.
+dinox.com.ve.
 dinsomar.com.ve.
 diocesanonuevaesparta.com.ve.
 diocesisdeciudadguayana.org.ve.
@@ -6756,7 +6756,6 @@ dorh.com.ve.
 dorta.net.ve.
 dortaappccs.net.ve.
 dosave.com.ve.
-dosco.com.ve.
 dosdoce.com.ve.
 dose.gob.ve.
 dosel.com.ve.
@@ -7332,6 +7331,7 @@ embutidoscovadonga.com.ve.
 emcofanb.com.ve.
 emcofanb.mil.ve.
 emdutruca.gob.ve.
+emeca.com.ve.
 emeis.co.ve.
 emeis.com.ve.
 emersonramirez.com.ve.
@@ -8232,6 +8232,7 @@ fiber.com.ve.
 fibernet.com.ve.
 fibernetwork.com.ve.
 fibersolutions.com.ve.
+fibersystems.com.ve.
 fibrahogar.com.ve.
 fibraselsiglo.com.ve.
 fic.gob.ve.
@@ -8701,6 +8702,7 @@ freewebhosting.com.ve.
 fremanezumab.com.ve.
 frenosvictoria.com.ve.
 frensanz.gob.ve.
+frentefranciscodemiranda.org.ve.
 fresaypimienta.com.ve.
 frescarini.com.ve.
 frescolita.com.ve.
@@ -8853,6 +8855,7 @@ fundacionlasalle.org.ve.
 fundacionlotoazul.com.ve.
 fundacionmapfre.com.ve.
 fundacionmisionpiar.gob.ve.
+fundacionnuestratierra.com.ve.
 fundacionpueblosoberano.gob.ve.
 fundacionscholacantorum.org.ve.
 fundacionsimonlaguaira.com.ve.
@@ -9389,7 +9392,6 @@ glampinglacepa.com.ve.
 glasgow.com.ve.
 glassdoor.co.ve.
 glassdrive.com.ve.
-glassmar.com.ve.
 glaube.com.ve.
 glc.com.ve.
 glcconsulting.com.ve.
@@ -10406,7 +10408,6 @@ homecenter.com.ve.
 homecentersodimac.com.ve.
 homedepot.co.ve.
 homedepot.com.ve.
-homega.com.ve.
 homegames.co.ve.
 homegames.com.ve.
 homelpavi.mil.ve.
@@ -11179,6 +11180,7 @@ informationplanet.com.ve.
 informedico.com.ve.
 inforproin.com.ve.
 infoservices.com.ve.
+infosistemas.com.ve.
 infosoft.com.ve.
 infosoft.net.ve.
 infosolutionsnetworking.com.ve.
@@ -11298,7 +11300,6 @@ innovationandyou.co.ve.
 innovationandyou.com.ve.
 innovavalledelapascua.com.ve.
 innovavenezuela.com.ve.
-innovavillanueva.com.ve.
 innovent.com.ve.
 innusualgifts.com.ve.
 inoa.com.ve.
@@ -11323,6 +11324,7 @@ inpro.com.ve.
 inprofuego.com.ve.
 inpsasel.gob.ve.
 inpsasel.gov.ve.
+inpsaseletica.gob.ve.
 inquiport.com.ve.
 inramarca.com.ve.
 insai.gob.ve.
@@ -12153,6 +12155,7 @@ jubiladosbcv.com.ve.
 jubiladosbcv.org.ve.
 judenamil.mil.ve.
 juegaenlinea.co.ve.
+juegodelaranita.com.ve.
 juegos.co.ve.
 juegos.com.ve.
 juegosjuegos.co.ve.
@@ -16186,6 +16189,7 @@ paramount.com.ve.
 paramountchannel.com.ve.
 paramountnetwork.com.ve.
 paramountplus.co.ve.
+paramountskydance.co.ve.
 paraquesirve.com.ve.
 pararrayos-at3w.com.ve.
 pararrayos.com.ve.
@@ -16644,7 +16648,6 @@ pitsautoparts.com.ve.
 pitviper.com.ve.
 piumobili.com.ve.
 pixelplay.com.ve.
-pizza.com.ve.
 pizzamia.com.ve.
 pizzolante.com.ve.
 pjlibrary.org.ve.
@@ -16985,7 +16988,6 @@ premiumbrands.com.ve.
 premiumfarma.com.ve.
 premiummotors.com.ve.
 premiumoutlets.com.ve.
-premizez.com.ve.
 prendetv.com.ve.
 prensa.info.ve.
 prensaelectronica.gob.ve.
@@ -17160,7 +17162,6 @@ prointelecto.com.ve.
 prointer.com.ve.
 proinversion.com.ve.
 proitcsolution.com.ve.
-prokpipl.com.ve.
 proled.com.ve.
 prolicor.com.ve.
 proline.com.ve.
@@ -17193,6 +17194,7 @@ pronasa.com.ve.
 pronature.com.ve.
 pronet.com.ve.
 pronet21.com.ve.
+pronetla.net.ve.
 proneurax-er.com.ve.
 pronovias.com.ve.
 pronovision.com.ve.
@@ -18499,6 +18501,7 @@ sandals.com.ve.
 sandiego-carabobo.gob.ve.
 sandiego-carabobo.gov.ve.
 sandiego.edu.ve.
+sandiego.emprende.ve.
 sandiegoparalosninos.gob.ve.
 sandisk.co.ve.
 sandisk.com.ve.
@@ -18757,7 +18760,6 @@ sea-dweller.info.ve.
 sea-dweller.net.ve.
 sea-dweller.org.ve.
 sea-dweller.web.ve.
-seabridge.com.ve.
 seafight.com.ve.
 sealedair.com.ve.
 sealej.mil.ve.
@@ -19386,7 +19388,6 @@ sistemasrs.com.ve.
 sistemastimetrac.com.ve.
 sistemastylus.com.ve.
 sistemauno.com.ve.
-sistemazamoralibre.org.ve.
 sistequipos.com.ve.
 sistersc.com.ve.
 sistine.gob.ve.
@@ -19492,7 +19493,6 @@ smartglass.co.ve.
 smartglass.com.ve.
 smartgraphic.com.ve.
 smarthome.com.ve.
-smartlink.net.ve.
 smartoil.com.ve.
 smartoneca.com.ve.
 smartours.com.ve.
@@ -19739,7 +19739,6 @@ sonidoypantallas.com.ve.
 sonika.com.ve.
 sonimtech.com.ve.
 sonoco.com.ve.
-sonoffvenezuela.com.ve.
 sonomedica.com.ve.
 sonoscapemedical.co.ve.
 sonrisitas.com.ve.
@@ -20303,6 +20302,7 @@ svsoluciones.com.ve.
 sw-publico.edu.ve.
 sw.com.ve.
 swag.com.ve.
+swampland.com.ve.
 swatch-club.co.ve.
 swatch.co.ve.
 swatchclub.co.ve.
@@ -20894,7 +20894,6 @@ tiffany.co.ve.
 tiffany.com.ve.
 tiffanyhotel.com.ve.
 tifm.gob.ve.
-tig.com.ve.
 tiger.com.ve.
 tigo.com.ve.
 tigres.com.ve.
@@ -22248,6 +22247,7 @@ vendedordigital.com.ve.
 vendenostuauto.com.ve.
 venderylisto.com.ve.
 vendes.com.ve.
+vendetutti.com.ve.
 vendigital.com.ve.
 veneasesores.com.ve.
 veneasistencia.com.ve.
