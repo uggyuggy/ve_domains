@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 14Mar2025 05:22 UTC
+# ve domain names extracted from nameservers on 15Mar2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2178,7 +2178,6 @@ baileysmomentosparacompartir.com.ve.
 bailyesmomentosparacompartir.com.ve.
 bairesdev.co.ve.
 bairesdev.com.ve.
-bajocosto.com.ve.
 bakemark.com.ve.
 bakermckenzie.com.ve.
 bakerssecret.com.ve.
@@ -2391,6 +2390,7 @@ beautyrest.co.ve.
 beautyrest.com.ve.
 beautystocks.com.ve.
 bebe.com.ve.
+bebesitos.com.ve.
 beccacosmetic.co.ve.
 beccacosmetic.com.ve.
 becel.com.ve.
@@ -4979,6 +4979,7 @@ comercio.gob.ve.
 comercioexterior.gob.ve.
 comerciointegral.com.ve.
 comersso.gob.ve.
+comex.gob.ve.
 comeya.co.ve.
 comeya.com.ve.
 comforpedic.co.ve.
@@ -7786,6 +7787,7 @@ everest.com.ve.
 everestservices.com.ve.
 everlast.com.ve.
 everplastic.com.ve.
+everprint.com.ve.
 eversheds.co.ve.
 everstart.co.ve.
 everstart.com.ve.
@@ -9764,7 +9766,6 @@ grupobe5.com.ve.
 grupobumeran.com.ve.
 grupocanarias.co.ve.
 grupocaoba.com.ve.
-grupocarper.com.ve.
 grupocastanhola.com.ve.
 grupocayco.com.ve.
 grupocea.com.ve.
@@ -10778,6 +10779,7 @@ iconika.com.ve.
 iconos.com.ve.
 iconpro.com.ve.
 iconsolutions.com.ve.
+iconsolutionsdev.com.ve.
 icopetro.gob.ve.
 icreativa.com.ve.
 icrnetworkca.com.ve.
@@ -12358,6 +12360,7 @@ kingscores.com.ve.
 kingston.co.ve.
 kinoko.com.ve.
 kinto-mobility.com.ve.
+kioski.com.ve.
 kioti.com.ve.
 kiotis-paris.com.ve.
 kiotisparis.com.ve.
@@ -13597,6 +13600,7 @@ maracaibo.com.ve.
 maracaibo.gob.ve.
 maracaibo.gov.ve.
 maracaibo.net.ve.
+maracaiboit.com.ve.
 maracay.com.ve.
 maradeoro.com.ve.
 marak.com.ve.
@@ -14847,6 +14851,7 @@ mrd.gob.ve.
 mre.gob.ve.
 mre.gov.ve.
 mrm.com.ve.
+mryasociados.com.ve.
 ms.gob.ve.
 mscconsultores.net.ve.
 mscnoticias.com.ve.
@@ -16075,6 +16080,7 @@ paginaweb.com.ve.
 pago.com.ve.
 pagoaqui.com.ve.
 pagochinchin.com.ve.
+pagoclick.com.ve.
 pagodeimpuestos.com.ve.
 pagodirecto.com.ve.
 pagoenlinea.com.ve.
@@ -17388,6 +17394,7 @@ qbos.com.ve.
 qca.com.ve.
 qcy.com.ve.
 qdevs.com.ve.
+qganga.com.ve.
 qhay.com.ve.
 qiangliled.com.ve.
 qigroup.com.ve.
@@ -17941,6 +17948,7 @@ respirayvive.com.ve.
 respironics.co.ve.
 resquimc.gob.ve.
 restaurante.com.ve.
+restoven.com.ve.
 restylane.co.ve.
 restylane.com.ve.
 resultados-referendum.gov.ve.
@@ -19020,6 +19028,7 @@ servipagos.com.ve.
 servipagoscomunal.com.ve.
 servipartes.com.ve.
 serviparts.com.ve.
+serviplast.com.ve.
 serviport.com.ve.
 serviprof.com.ve.
 serviradio.com.ve.
@@ -19879,7 +19888,6 @@ sprintworldwide.com.ve.
 sprite.co.ve.
 sprite.com.ve.
 spruceit.com.ve.
-spw.com.ve.
 sq.com.ve.
 sqcrp.com.ve.
 sqlfigo.com.ve.
