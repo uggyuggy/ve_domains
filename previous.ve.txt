@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 15Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 16Mar2025 05:20 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -6835,7 +6835,6 @@ drosalud.com.ve.
 drotaca.com.ve.
 drotafarma.com.ve.
 drovencentro.com.ve.
-drovica.co.ve.
 drovica.com.ve.
 drsg.gob.ve.
 drvranjes.com.ve.
@@ -10465,6 +10464,7 @@ hostens.com.ve.
 hosting.com.ve.
 hosting3jsystem.com.ve.
 hostingenlaweb.com.ve.
+hostinger.com.ve.
 hostingned.com.ve.
 hostingnedreseller.com.ve.
 hostingvenezuela.com.ve.
@@ -14300,7 +14300,6 @@ micheandino.com.ve.
 michelena-tachira.gob.ve.
 michelin.com.ve.
 michigansp.com.ve.
-micielo.org.ve.
 micondominio.com.ve.
 miconocimiento.gov.ve.
 micorreo.com.ve.
@@ -14549,6 +14548,7 @@ mistolin.com.ve.
 misueldo.co.ve.
 misueldo.com.ve.
 mitandevenezuela.com.ve.
+miticket.com.ve.
 mitienda.com.ve.
 mitiendanube.com.ve.
 mitodohogar.com.ve.
@@ -15815,6 +15815,7 @@ onofreca.com.ve.
 onretrieval.com.ve.
 onsa.org.ve.
 onservice.com.ve.
+onshift.com.ve.
 onstagegroup.com.ve.
 onstar.co.ve.
 onstar.com.ve.
