@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 16Mar2025 05:20 UTC
+# ve domain names extracted from nameservers on 17Mar2025 05:20 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1106,7 +1106,6 @@ alojamiento.web.ve.
 alonso.com.ve.
 alopresidente.com.ve.
 alopresidente.gob.ve.
-alorental.com.ve.
 alova.com.ve.
 aloyoga.com.ve.
 alpa.org.ve.
@@ -3272,7 +3271,6 @@ callcentersolutions.com.ve.
 callefm.co.ve.
 callitspring.co.ve.
 callitspring.com.ve.
-callsouth.com.ve.
 calpeda.co.ve.
 calpeda.com.ve.
 caltuca.com.ve.
@@ -3836,7 +3834,6 @@ cementeriodeleste.com.ve.
 cementeriopuertasalcielo.com.ve.
 cementeriosjudiosaiv.org.ve.
 cemeparca.com.ve.
-cemos.com.ve.
 cen.gov.ve.
 cenaf.gob.ve.
 cenaf.org.ve.
@@ -9720,8 +9717,6 @@ gromher.com.ve.
 gromitsistemas.net.ve.
 grosscargo.com.ve.
 groupdmc.com.ve.
-groupe-psa.com.ve.
-groupepsa.com.ve.
 groupm.com.ve.
 groupon.com.ve.
 groupon.net.ve.
@@ -17076,6 +17071,7 @@ privilege-assistance.com.ve.
 privilegeservices.com.ve.
 prm.com.ve.
 pro-unidas.com.ve.
+pro.com.ve.
 proacce.com.ve.
 proactiv.co.ve.
 proactiv.com.ve.
@@ -17514,7 +17510,6 @@ radiodisney.com.ve.
 radioegidiomontesinos.com.ve.
 radioestadio.com.ve.
 radioflyer.com.ve.
-radioguaco.com.ve.
 radiohcinternacional.com.ve.
 radioiberolatina.com.ve.
 radioideal.com.ve.
@@ -19726,7 +19721,6 @@ somoscmf.com.ve.
 somoscomunidad.org.ve.
 somosconsultores.com.ve.
 somosfeclave.org.ve.
-somosjpsuv.org.ve.
 somoslimpieza.com.ve.
 somosmerida.com.ve.
 somosnoticias.com.ve.
@@ -20021,6 +20015,7 @@ stockshops.com.ve.
 stonetech.com.ve.
 storca.com.ve.
 storck.com.ve.
+store.com.ve.
 store.ve.
 storelens.com.ve.
 storemed.com.ve.
@@ -20128,7 +20123,6 @@ sugarjade.com.ve.
 sugos.com.ve.
 suiche7b.com.ve.
 suimprenta.com.ve.
-suitco.com.ve.
 sulca.com.ve.
 sultana.com.ve.
 sulzer.com.ve.
