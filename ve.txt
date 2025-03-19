@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 18Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 19Mar2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -301,6 +301,7 @@ achaguas-apure.gob.ve.
 acica.com.ve.
 acicp.edu.ve.
 acide.org.ve.
+acienpol-cij.org.ve.
 acienpol.org.ve.
 acimsa.edu.ve.
 acirema.com.ve.
@@ -612,7 +613,6 @@ agrovivar.com.ve.
 aguablanca-portuguesa.gob.ve.
 aguaelsaman.com.ve.
 aguagas.com.ve.
-aguaginseng.com.ve.
 aguamarina.com.ve.
 aguamerca.com.ve.
 aguasantabouquets.com.ve.
@@ -810,7 +810,6 @@ alcaldiadecumana.gob.ve.
 alcaldiadediaz-nuevaesparta.gob.ve.
 alcaldiadeelorza.gob.ve.
 alcaldiadefreites.gov.ve.
-alcaldiadeguacara.gob.ve.
 alcaldiadeguaicaipuro.gob.ve.
 alcaldiadeguanarito-portuguesa.gob.ve.
 alcaldiadeguanarito.org.ve.
@@ -1106,6 +1105,7 @@ alojamiento.web.ve.
 alonso.com.ve.
 alopresidente.com.ve.
 alopresidente.gob.ve.
+alorental.com.ve.
 alova.com.ve.
 aloyoga.com.ve.
 alpa.org.ve.
@@ -1975,6 +1975,7 @@ auxguardacostaslg.org.ve.
 avad.com.ve.
 avafert.com.ve.
 avai.com.ve.
+avaluosvzla.com.ve.
 avant.com.ve.
 avantec.com.ve.
 avantel.com.ve.
@@ -5677,6 +5678,7 @@ cozaar.com.ve.
 cozies.com.ve.
 cp.com.ve.
 cpanel.com.ve.
+cpc.com.ve.
 cpc.net.ve.
 cpcconsultores.com.ve.
 cpedc.com.ve.
@@ -5848,7 +5850,6 @@ cuc.edu.ve.
 cucinasimpatica.com.ve.
 cudy.com.ve.
 cuecmc.edu.ve.
-cuentaverificada.com.ve.
 cuento.com.ve.
 cuentos.com.ve.
 cuerpodeinspectores.com.ve.
@@ -7949,6 +7950,7 @@ f5networks.co.ve.
 f5networks.com.ve.
 faaf.com.ve.
 fab.co.ve.
+fabricarlos.com.ve.
 fabrimex.com.ve.
 fabriplas.com.ve.
 fabuloso.co.ve.
@@ -8811,6 +8813,7 @@ fulltilt.com.ve.
 fulltiltpoker.co.ve.
 fulltiltpoker.com.ve.
 fumcosandi.gob.ve.
+fumigacionesarj.com.ve.
 fumigacionesyerc.com.ve.
 fumigacionuniversal.com.ve.
 funamigos.org.ve.
@@ -8944,6 +8947,7 @@ fundecagdc.org.ve.
 fundeeh.gob.ve.
 fundef.gob.ve.
 fundefir.org.ve.
+fundei.org.ve.
 fundela.gob.ve.
 fundelec.gob.ve.
 fundem.gov.ve.
@@ -10773,7 +10777,6 @@ iconika.com.ve.
 iconos.com.ve.
 iconpro.com.ve.
 iconsolutions.com.ve.
-iconsolutionsdev.com.ve.
 icopetro.gob.ve.
 icreativa.com.ve.
 icrnetworkca.com.ve.
@@ -11473,6 +11476,7 @@ interfaceflor.com.ve.
 interfibra.com.ve.
 interfibra.net.ve.
 interflash.com.ve.
+intergest.com.ve.
 interhome.com.ve.
 interimex.com.ve.
 interlink.net.ve.
@@ -13753,6 +13757,7 @@ masterelectric.com.ve.
 mastergrupo.com.ve.
 masterlock.com.ve.
 mastermutual.com.ve.
+masterticket.com.ve.
 mastertruck.com.ve.
 masterwebsoluciones.com.ve.
 mastubos.com.ve.
@@ -14632,6 +14637,7 @@ mogollon.com.ve.
 mokacaribe.com.ve.
 molex.co.ve.
 molex.com.ve.
+moli.com.ve.
 moliendaspapelon.com.ve.
 molina.com.ve.
 molinaviajes.com.ve.
@@ -15333,6 +15339,7 @@ nhhotelgroup.com.ve.
 nhhotels.com.ve.
 nhow-hotels.com.ve.
 nhow.com.ve.
+nibru.com.ve.
 nic.ve.
 niccon.com.ve.
 nicelocal.com.ve.
@@ -15365,6 +15372,7 @@ nipro.co.ve.
 nipro.com.ve.
 nirgua-yaracuy.gov.ve.
 nirgua.com.ve.
+nishman.com.ve.
 nissan.co.ve.
 nissan.net.ve.
 nissanve.com.ve.
@@ -16296,6 +16304,7 @@ paypal-passport.com.ve.
 paypal.co.ve.
 paypal.com.ve.
 paypalpassport.com.ve.
+paypalworld.com.ve.
 payplcalculadora.com.ve.
 payu.com.ve.
 payulatam.com.ve.
@@ -16735,6 +16744,7 @@ plduniformes.com.ve.
 pleasurechest.com.ve.
 pleat.com.ve.
 plenitud.com.ve.
+pley.com.ve.
 plg.com.ve.
 plinko-casino.com.ve.
 plinko-game.com.ve.
@@ -16889,7 +16899,6 @@ polytechvenezuela.com.ve.
 pomarconsulting.co.ve.
 pomelo.com.ve.
 ponds.com.ve.
-pontificiaucsar.com.ve.
 pontificiaucsar.edu.ve.
 popsockets.com.ve.
 popular106fm.com.ve.
@@ -16921,7 +16930,6 @@ posadacasasol.com.ve.
 posadacostabrava.com.ve.
 posadadealicia.com.ve.
 posadagalapagos.com.ve.
-posadagloria.com.ve.
 posadamediterraneo.com.ve.
 posadas.com.ve.
 posadasdevenezuela.com.ve.
@@ -16956,6 +16964,7 @@ ppgvenezuela.com.ve.
 ppjcontrol.emprende.ve.
 pppgroup.com.ve.
 pps.com.ve.
+ppworld.com.ve.
 practico.com.ve.
 pradaxa.com.ve.
 pradovision.com.ve.
@@ -18379,7 +18388,6 @@ sagradocorazondejesus.com.ve.
 sagradocorazondejesuspuertocabello.com.ve.
 sahum.gob.ve.
 saic.co.ve.
-saic.com.ve.
 saic.org.ve.
 saica.com.ve.
 saidi.com.ve.
@@ -18762,6 +18770,7 @@ sea-dweller.info.ve.
 sea-dweller.net.ve.
 sea-dweller.org.ve.
 sea-dweller.web.ve.
+seabridge.com.ve.
 seafight.com.ve.
 sealedair.com.ve.
 sealej.mil.ve.
@@ -21421,6 +21430,7 @@ tudorwatch.org.ve.
 tudorwatch.web.ve.
 tuecology.com.ve.
 tuedicto.com.ve.
+tuequipolegal.com.ve.
 tues.gob.ve.
 tuespaciodigital.com.ve.
 tuespaciolibre.com.ve.
@@ -21702,8 +21712,6 @@ ueiesimonbolivar.com.ve.
 ueindependencia.com.ve.
 ueinstitutocoromoto.com.ve.
 ueinuevasegovia.com.ve.
-ueipab.e12.ve.
-ueipab.edu.ve.
 ueiprocerandresbello.com.ve.
 ueisanlazaroii.edu.ve.
 ueisimonrodriguez.edu.ve.
@@ -21755,7 +21763,6 @@ ugmavenezuela.edu.ve.
 uhomie.com.ve.
 uhrcenter.com.ve.
 uiam.com.ve.
-uic.org.ve.
 uideporte.edu.ve.
 uilc.com.ve.
 uj.com.ve.
@@ -22093,6 +22100,7 @@ uvoc.com.ve.
 uvservicios.com.ve.
 v.com.ve.
 v2.web.ve.
+v3.com.ve.
 vaac.com.ve.
 vacaciones.com.ve.
 vacacionesbarcelo.com.ve.
@@ -22274,6 +22282,7 @@ veneminsk.web.ve.
 venemotos.com.ve.
 venemundo.net.ve.
 venepago.co.ve.
+veneplats.com.ve.
 veneprop.com.ve.
 venescca.com.ve.
 venescopio.org.ve.
@@ -22948,6 +22957,7 @@ wenco.com.ve.
 wendys.com.ve.
 wendyskids.com.ve.
 wert.com.ve.
+wesco.com.ve.
 westernchemicals.com.ve.
 westernunion.co.ve.
 wetalks.com.ve.
@@ -23154,7 +23164,6 @@ xn--diseoweb-g3a.com.ve.
 xn--e-cedeo-9za.gob.ve.
 xn--elcupireo-s6a.com.ve.
 xn--fuerzaguaiquer-emb.com.ve.
-xn--guios-qta.com.ve.
 xn--hogarea-9za.com.ve.
 xn--hotelelmaraon-skb.com.ve.
 xn--maraon-zwa.com.ve.
