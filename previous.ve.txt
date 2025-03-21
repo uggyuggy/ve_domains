@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19Mar2025 05:23 UTC
+# ve domain names extracted from nameservers on 20Mar2025 05:24 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -810,6 +810,7 @@ alcaldiadecumana.gob.ve.
 alcaldiadediaz-nuevaesparta.gob.ve.
 alcaldiadeelorza.gob.ve.
 alcaldiadefreites.gov.ve.
+alcaldiadeguacara.gob.ve.
 alcaldiadeguaicaipuro.gob.ve.
 alcaldiadeguanarito-portuguesa.gob.ve.
 alcaldiadeguanarito.org.ve.
@@ -1255,7 +1256,6 @@ amhosting.com.ve.
 amigo.com.ve.
 amigoclaro.com.ve.
 amirhotelboutique.com.ve.
-amisalud.com.ve.
 amlenetug.com.ve.
 amlife.com.ve.
 amlodipin.com.ve.
@@ -3988,6 +3988,7 @@ cevalfes.com.ve.
 cevca.com.ve.
 cexteriorcarabobo.gob.ve.
 ceydschacao-miranda.gob.ve.
+cf2209sistemas.com.ve.
 cfamilia.com.ve.
 cfconsultores.com.ve.
 cfg.gob.ve.
@@ -5292,6 +5293,7 @@ consultoreslegales.com.ve.
 consultoresmct.com.ve.
 consultoriait.net.ve.
 consultoriodontologicokarlopez.com.ve.
+contactociudadano.com.ve.
 contadoreslacg.com.ve.
 contadorpubliconline.com.ve.
 contasimple.com.ve.
@@ -6983,6 +6985,7 @@ ecobike.com.ve.
 ecobio.com.ve.
 ecocolor.com.ve.
 ecocosmetica.com.ve.
+ecodelivery.com.ve.
 ecoelite.com.ve.
 ecoem.com.ve.
 ecofil.com.ve.
@@ -7602,6 +7605,7 @@ esequibonews.com.ve.
 esertel.com.ve.
 eset.com.ve.
 esfer.com.ve.
+esfingegrafica.com.ve.
 esga.mil.ve.
 esgc.mil.ve.
 esglobal.com.ve.
@@ -7846,6 +7850,7 @@ executivesuites.com.ve.
 exelmedica.com.ve.
 exilim.com.ve.
 exitopoleas.com.ve.
+exitos103.com.ve.
 exllanca.com.ve.
 exness.co.ve.
 exodo.org.ve.
@@ -9361,6 +9366,7 @@ ginsana.co.ve.
 ginsana.com.ve.
 ginseng.com.ve.
 gintel.com.ve.
+gio.com.ve.
 giocars.com.ve.
 giochipreziosi.com.ve.
 giofran.com.ve.
@@ -10140,6 +10146,7 @@ headandshoulders.com.ve.
 healight.com.ve.
 healthbird.co.ve.
 healthbird.com.ve.
+healthcare.com.ve.
 healthcaremedcare.web.ve.
 healthineer.com.ve.
 healthineers.com.ve.
@@ -10932,6 +10939,7 @@ imbatiblefm.com.ve.
 imcas.gov.ve.
 imcoatings.com.ve.
 imcp.gob.ve.
+imcpbdc.com.ve.
 imcpbdc.gob.ve.
 imdecaroni.gob.ve.
 imdeprec.gob.ve.
@@ -12088,6 +12096,7 @@ jobuniverse.com.ve.
 jockey.co.ve.
 joco.com.ve.
 joelzerpa.emprende.ve.
+johan.com.ve.
 johancruyffinstitute.com.ve.
 johnflores.com.ve.
 johnniewalker.com.ve.
@@ -12586,7 +12595,6 @@ lactalisvzla.com.ve.
 lacteosdelalba.gob.ve.
 lacteoslosandes.gob.ve.
 lacteosoptimus.com.ve.
-lacteosrd.com.ve.
 lactibonbybiolube.com.ve.
 lactic.gov.ve.
 lactic2000.gov.ve.
@@ -12603,6 +12611,7 @@ ladyspeedstick.co.ve.
 ladyspeedstick.com.ve.
 laedc.com.ve.
 laestancia.com.ve.
+laestrelladeoro.com.ve.
 lafargeholcimgroup.co.ve.
 lafelicitta.com.ve.
 laferreteria.com.ve.
@@ -12639,6 +12648,7 @@ lamborghini.com.ve.
 lambretta.co.ve.
 lambretta.com.ve.
 lamda.com.ve.
+lamega102.com.ve.
 lamejor.com.ve.
 lamejorfm.com.ve.
 lamer.com.ve.
@@ -13303,6 +13313,7 @@ ltbmima.com.ve.
 ltp.com.ve.
 ltproducciones.com.ve.
 lts.org.ve.
+ltx.com.ve.
 lubosistemas.com.ve.
 lubrax.com.ve.
 lubricanteslamundial.com.ve.
@@ -13763,6 +13774,7 @@ masterwebsoluciones.com.ve.
 mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
+masvacaciones.com.ve.
 masvalor.com.ve.
 mat.gob.ve.
 mat.gov.ve.
@@ -15812,6 +15824,7 @@ onlinecasinoreports.com.ve.
 onlineshop.co.ve.
 onlineshop.com.ve.
 onlinetravel.com.ve.
+onlycomputers.com.ve.
 onlytogo.com.ve.
 onmovy.com.ve.
 onnestech.com.ve.
@@ -18301,6 +18314,7 @@ rundo.com.ve.
 ruperfast.com.ve.
 rupymec.gob.ve.
 rushcasino.com.ve.
+rusoil.com.ve.
 russellbedford.com.ve.
 russo.com.ve.
 rusticosdeapure.com.ve.
@@ -18823,6 +18837,7 @@ sedegas.org.ve.
 sedemat.gob.ve.
 sedematlagunillas.gob.ve.
 sedematyaritagua.com.ve.
+sedematzamorafalcon.com.ve.
 sedes.gob.ve.
 sedgwick.co.ve.
 sediver.co.ve.
@@ -21467,6 +21482,7 @@ tumedicoculturista.com.ve.
 tumedicointernistaenchacao.com.ve.
 tumenu.com.ve.
 tumoto.com.ve.
+tumudanza.com.ve.
 tumundointer.com.ve.
 tuorohoy.com.ve.
 tuoutlet.com.ve.
@@ -21712,6 +21728,8 @@ ueiesimonbolivar.com.ve.
 ueindependencia.com.ve.
 ueinstitutocoromoto.com.ve.
 ueinuevasegovia.com.ve.
+ueipab.e12.ve.
+ueipab.edu.ve.
 ueiprocerandresbello.com.ve.
 ueisanlazaroii.edu.ve.
 ueisimonrodriguez.edu.ve.
@@ -21777,6 +21795,7 @@ uladdhh.org.ve.
 ulpiano.org.ve.
 ultima.co.ve.
 ultimasnoticias.com.ve.
+ultimasnoticias.ve.
 ultimatic.co.ve.
 ultra.com.ve.
 ultrabikex.com.ve.
@@ -22885,6 +22904,7 @@ wbdsports.com.ve.
 wcaribe.com.ve.
 wcasino.com.ve.
 wcreator.com.ve.
+wcselectric.com.ve.
 wct.com.ve.
 wdalegal.co.ve.
 wdalegal.com.ve.
@@ -23315,6 +23335,7 @@ zapzap.co.ve.
 zapzap.com.ve.
 zara.com.ve.
 zarate.net.ve.
+zaraza.com.ve.
 zazzle.co.ve.
 zazzle.com.ve.
 zea-merida.gov.ve.

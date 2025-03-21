@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Mar2025 05:24 UTC
+# ve domain names extracted from nameservers on 21Mar2025 05:28 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1128,7 +1128,6 @@ alsacecroisieres.com.ve.
 alsgs.com.ve.
 alsobocaroni.gob.ve.
 alstom.com.ve.
-altacocina.com.ve.
 altacucine.com.ve.
 altagastronomia.com.ve.
 altair.com.ve.
@@ -2789,6 +2788,7 @@ bluebbva.com.ve.
 bluebiz.com.ve.
 bluedevil.com.ve.
 bluefm.com.ve.
+bluegenetics.com.ve.
 bluenile.com.ve.
 bluenote.co.ve.
 bluenote.net.ve.
@@ -5219,8 +5219,6 @@ consalud.gob.ve.
 consciouscapital.co.ve.
 consciouscapital.com.ve.
 consciouscapital.net.ve.
-consciousinvesting.com.ve.
-consciouswealth.com.ve.
 consehca.com.ve.
 consein.com.ve.
 consejocomunalasomangos.gob.ve.
@@ -6890,7 +6888,6 @@ dviaje.com.ve.
 dviveres.com.ve.
 dvl.com.ve.
 dvsystems.com.ve.
-dw.co.ve.
 dycingenio.com.ve.
 dymel.com.ve.
 dyna.com.ve.
@@ -6960,6 +6957,7 @@ easyprint.com.ve.
 easyway.com.ve.
 eav-rmonasterios.gob.ve.
 ebags.com.ve.
+ebainteriors.com.ve.
 ebay.co.ve.
 ebay.com.ve.
 ebaylive.co.ve.
@@ -7283,7 +7281,6 @@ elregional.info.ve.
 elregional.net.ve.
 elrepuestero.com.ve.
 elretono.com.ve.
-elretorno.com.ve.
 elreydelmaniqui.com.ve.
 elruco.com.ve.
 elseguro.com.ve.
@@ -7669,7 +7666,6 @@ estamosenlinea.org.ve.
 estampados.com.ve.
 estancialastapias.com.ve.
 estanteriaselsol.com.ve.
-estasenlecheria.com.ve.
 estee.com.ve.
 esteelauder.com.ve.
 estelashipping.com.ve.
@@ -8261,7 +8257,6 @@ fides.gov.ve.
 fidestecnologias.com.ve.
 fidetel.gob.ve.
 fiesta.com.ve.
-fiesta1059.com.ve.
 fiesta106.com.ve.
 fiestas.com.ve.
 figaro.com.ve.
@@ -9660,7 +9655,6 @@ grancacique.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
 grandealer.com.ve.
-grandhotel.com.ve.
 grandt.co.ve.
 grandt.com.ve.
 grandvitara.com.ve.
@@ -10230,6 +10224,7 @@ herramientaslince.com.ve.
 herramientasskil.com.ve.
 herreplast.com.ve.
 hersheys.com.ve.
+hertech.com.ve.
 hertz.com.ve.
 hesperia-hotels.com.ve.
 hesperia-resorts.com.ve.
@@ -10558,7 +10553,6 @@ hotmail.rec.ve.
 hotmail.web.ve.
 hotornot.co.ve.
 hotornot.com.ve.
-hotradiofm.com.ve.
 hotwire.co.ve.
 hotwire.com.ve.
 houmi.com.ve.
@@ -10704,6 +10698,7 @@ iamct-barinas.gob.ve.
 iamdeinsocial.org.ve.
 iamdesandi.gob.ve.
 iamdr.gob.ve.
+iamec.com.ve.
 iamib.gob.ve.
 iamingenieria.com.ve.
 iamot.gov.ve.
@@ -12168,6 +12163,7 @@ juegaenlinea.co.ve.
 juegodelaranita.com.ve.
 juegos.co.ve.
 juegos.com.ve.
+juegosgratis.co.ve.
 juegosjuegos.co.ve.
 juegosnacionales.gob.ve.
 jueves.com.ve.
@@ -12190,7 +12186,6 @@ junin-tachira.gob.ve.
 junior.com.ve.
 juntostodoesposible.com.ve.
 jupe.mil.ve.
-jure.org.ve.
 juris-line.com.ve.
 juristas.com.ve.
 jus10.com.ve.
@@ -15223,6 +15218,7 @@ nestle.com.ve.
 nestleprofessional.com.ve.
 nestpick.com.ve.
 net.ve.
+netandsoft.com.ve.
 netarea.com.ve.
 netart.com.ve.
 netartcloud.com.ve.
@@ -16609,7 +16605,6 @@ pidetuhora.com.ve.
 piedepagina.com.ve.
 piel.com.ve.
 pielcanela.com.ve.
-pieleseuropa.com.ve.
 piemonte.com.ve.
 piensasolutions.com.ve.
 pieology.com.ve.
@@ -16875,7 +16870,6 @@ policonsult.com.ve.
 poliedrodecaracas.gob.ve.
 polifilm.com.ve.
 poliflex.com.ve.
-polifonicorafaelsuarez.org.ve.
 poligirardot.gov.ve.
 poliiribarren.gob.ve.
 polilara.gov.ve.
@@ -17121,7 +17115,6 @@ procesa.com.ve.
 procesadora.com.ve.
 processautomation.com.ve.
 processcontrol.com.ve.
-procodima.com.ve.
 procompetencia.gob.ve.
 procompetencia.gov.ve.
 procondominios.com.ve.
@@ -18227,6 +18220,7 @@ roodos.com.ve.
 roomba.co.ve.
 roomba.com.ve.
 roomgo.com.ve.
+rooms.com.ve.
 roraima.com.ve.
 roraimamotors.com.ve.
 rosariodeperija-zulia.gob.ve.
@@ -19742,7 +19736,6 @@ somosciudadanos.org.ve.
 somoscladc.org.ve.
 somoscmf.com.ve.
 somoscomunidad.org.ve.
-somosconsultores.com.ve.
 somosdeltuy.com.ve.
 somosfeclave.org.ve.
 somoslimpieza.com.ve.
@@ -20714,6 +20707,7 @@ tepui.gob.ve.
 tepuy.com.ve.
 tepuyserver.net.ve.
 tequenet.com.ve.
+tera-net.com.ve.
 terabytesoluciones.com.ve.
 teradata.com.ve.
 teragrip.com.ve.
