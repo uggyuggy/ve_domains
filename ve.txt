@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Mar2025 05:28 UTC
+# ve domain names extracted from nameservers on 22Mar2025 05:28 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -911,6 +911,7 @@ alcaldiamirandacalabozo.gob.ve.
 alcaldiamirandazulia.gob.ve.
 alcaldiamunicipiobolivar.gob.ve.
 alcaldiamunicipioescuque.gob.ve.
+alcaldiamunicipiofernandopenalver.com.ve.
 alcaldiamunicipioiribarren-lar.gob.ve.
 alcaldiamunicipiolibertador-mer.gob.ve.
 alcaldiamunicipiosanfrancisco-zul.gob.ve.
@@ -1728,6 +1729,7 @@ aseonaguanagua.gob.ve.
 aseourbanolafria.com.ve.
 asepco.com.ve.
 asereme.org.ve.
+asesaludlaboral.com.ve.
 asesoresachc.com.ve.
 asesoresvip.com.ve.
 asesoriadeseguros.com.ve.
@@ -2351,7 +2353,6 @@ baytraining.com.ve.
 bazaarvoice.com.ve.
 bazar.com.ve.
 bbc.com.ve.
-bbmotors.com.ve.
 bbraun.com.ve.
 bbva.com.ve.
 bca.com.ve.
@@ -3447,6 +3448,7 @@ cardenalito.com.ve.
 cardenalito.org.ve.
 cardenalquintero-merida.gov.ve.
 cardenas-tachira.gob.ve.
+cardenas.net.ve.
 cardiologicoinfantil.gob.ve.
 cardionet.com.ve.
 cardisport.com.ve.
@@ -3684,7 +3686,6 @@ cbet.info.ve.
 cbet.net.ve.
 cbet.org.ve.
 cbet.web.ve.
-cbiacacias.org.ve.
 cbitzaraza.com.ve.
 cbolivariana.org.ve.
 cbp.gob.ve.
@@ -4174,7 +4175,6 @@ ciberespacio.com.ve.
 ciberingles.edu.ve.
 ciberobinson.edu.ve.
 ciberrobinson.edu.ve.
-cibersegti.net.ve.
 ciberviajes.com.ve.
 cibus.co.ve.
 cibus.com.ve.
@@ -9110,6 +9110,7 @@ gan.gob.ve.
 gan.gov.ve.
 ganaco.com.ve.
 ganaconsplenda.com.ve.
+ganaderia.com.ve.
 ganbaro.com.ve.
 gandi.com.ve.
 ganovzla.com.ve.
@@ -13187,7 +13188,6 @@ logwin-logistics.co.ve.
 logwin.co.ve.
 lojasrenner.co.ve.
 lokytoys.com.ve.
-lola.com.ve.
 lolsurprise.com.ve.
 lomaximo.com.ve.
 lomejordelcoleo.com.ve.
@@ -13909,7 +13909,6 @@ mdp.com.ve.
 mdqualityoffice.com.ve.
 mdrive.co.ve.
 mdrive.com.ve.
-mds.com.ve.
 mds21.com.ve.
 mdservice.com.ve.
 mdstelecom.com.ve.
@@ -14050,6 +14049,7 @@ meliahotelsinternational.com.ve.
 melibank.co.ve.
 melibank.com.ve.
 meliclasificados.com.ve.
+melicoin.com.ve.
 melidolar.co.ve.
 melidolar.com.ve.
 meliipbooster.co.ve.
@@ -14751,6 +14751,7 @@ motatan-trujillo.gob.ve.
 motelbambu.com.ve.
 motelsandiego.com.ve.
 mothercare.co.ve.
+motindustria.com.ve.
 motocool.com.ve.
 motofloy.com.ve.
 motomar2000.com.ve.
@@ -15218,7 +15219,6 @@ nestle.com.ve.
 nestleprofessional.com.ve.
 nestpick.com.ve.
 net.ve.
-netandsoft.com.ve.
 netarea.com.ve.
 netart.com.ve.
 netartcloud.com.ve.
@@ -15332,7 +15332,6 @@ nextuniversity.com.ve.
 nexus.co.ve.
 nexus.com.ve.
 nexusradical.com.ve.
-nexusshop.com.ve.
 nfcomunicaciones.com.ve.
 ngautogroup.com.ve.
 nggm.com.ve.
@@ -15929,7 +15928,6 @@ organizacioncarrascosa.com.ve.
 organon.co.ve.
 organon.com.ve.
 organosuperiorosc.gob.ve.
-orienco.com.ve.
 orientacionencolores.com.ve.
 oriente20.com.ve.
 orientimport.com.ve.
@@ -16100,7 +16098,6 @@ pagoenlinea.com.ve.
 pagoflash.com.ve.
 pagolisto.com.ve.
 pagolistoweb.com.ve.
-pagosbtc.com.ve.
 pagosweb.com.ve.
 pagoya.com.ve.
 paiacademy.com.ve.
@@ -19051,6 +19048,7 @@ servisistemas.com.ve.
 servitebca.com.ve.
 servitecgroup.com.ve.
 servitecve.com.ve.
+servitel.com.ve.
 servitel.net.ve.
 servitepuy.com.ve.
 servitrackgps.com.ve.
@@ -22361,6 +22359,7 @@ venmet.com.ve.
 venmir.com.ve.
 venmo.co.ve.
 venpackers.com.ve.
+venpacol.com.ve.
 venprecar.com.ve.
 venpres.gov.ve.
 venred.com.ve.
