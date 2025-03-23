@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Mar2025 05:28 UTC
+# ve domain names extracted from nameservers on 23Mar2025 05:29 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4253,6 +4253,7 @@ circuitbreaker.com.ve.
 circuitobrillante.com.ve.
 circuitoelectrikfm.com.ve.
 circuitoglobal.com.ve.
+circuitonoticias.com.ve.
 circuitorrb.gob.ve.
 circuitoscomunales.gob.ve.
 circuitosuenavenezuela.com.ve.
@@ -8045,7 +8046,6 @@ farmago.com.ve.
 farmagro.com.ve.
 farmahorro.com.ve.
 farmaindustria.com.ve.
-farmanselmo.com.ve.
 farmaonline.com.ve.
 farmapatria.com.ve.
 farmaplus.com.ve.
@@ -9536,7 +9536,6 @@ godobe.com.ve.
 goes.com.ve.
 goeuro.co.ve.
 gofundme.co.ve.
-gogetter.com.ve.
 gogl.com.ve.
 gogle.co.ve.
 gogol.com.ve.
@@ -9699,7 +9698,6 @@ greenmachines.com.ve.
 greenpower.com.ve.
 greensmoke.com.ve.
 greentech.com.ve.
-greenviajes.com.ve.
 greenwayglobal.com.ve.
 greenworks.com.ve.
 gregorgonzalez.com.ve.
@@ -9878,6 +9876,7 @@ gruposeguridadvip.com.ve.
 gruposelco.com.ve.
 gruposend.com.ve.
 gruposiglo.com.ve.
+gruposm.com.ve.
 gruposolve.com.ve.
 grupossa.com.ve.
 gruposupply.com.ve.
@@ -9969,7 +9968,6 @@ guarovision.com.ve.
 guasimos-tachira.gob.ve.
 guasipati.com.ve.
 guatire.com.ve.
-guayanaesequiba.com.ve.
 guayanaesverdad.com.ve.
 guayanahost.com.ve.
 guayanautoca.com.ve.
@@ -10000,7 +9998,6 @@ gulima.com.ve.
 gulmer.org.ve.
 gumilla.org.ve.
 guruseva.com.ve.
-gusl.org.ve.
 gustavobethermyt.com.ve.
 gustavolopez.com.ve.
 gutierol.com.ve.
@@ -10765,6 +10762,7 @@ icebreaker.com.ve.
 icec.gob.ve.
 icec.gov.ve.
 icem.org.ve.
+icetechnology.com.ve.
 icf.com.ve.
 icg.com.ve.
 icglobal.com.ve.
@@ -12185,7 +12183,6 @@ jumpsportfitness.com.ve.
 jungheinrich.com.ve.
 junin-tachira.gob.ve.
 junior.com.ve.
-juntostodoesposible.com.ve.
 jupe.mil.ve.
 juris-line.com.ve.
 juristas.com.ve.
@@ -13406,7 +13403,6 @@ macotell.com.ve.
 macovenca.com.ve.
 macquarie.co.ve.
 macquarie.com.ve.
-macrisca.com.ve.
 macrolane.co.ve.
 macrolane.com.ve.
 macuare.com.ve.
@@ -13766,7 +13762,6 @@ mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
 masterwebsoluciones.com.ve.
-mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
 masvacaciones.com.ve.
@@ -14049,6 +14044,7 @@ meliahotelsinternational.com.ve.
 melibank.co.ve.
 melibank.com.ve.
 meliclasificados.com.ve.
+melicoin.co.ve.
 melicoin.com.ve.
 melidolar.co.ve.
 melidolar.com.ve.
@@ -14080,7 +14076,6 @@ mentaverde.com.ve.
 menu.com.ve.
 menuqr.com.ve.
 mep.gob.ve.
-mepeca.com.ve.
 mequipan.com.ve.
 meraki.com.ve.
 merant.co.ve.
@@ -14476,6 +14471,7 @@ mio.co.ve.
 miobra.com.ve.
 mipaginaprincipal.com.ve.
 miparley.com.ve.
+mipasaje.com.ve.
 mipleo.com.ve.
 mippci.gob.ve.
 mippcoexin.gob.ve.
@@ -14965,7 +14961,6 @@ mundoblanco.com.ve.
 mundoccell.com.ve.
 mundoceres.com.ve.
 mundocomercial.com.ve.
-mundodecolores.com.ve.
 mundoelectronica.com.ve.
 mundoelectronico.com.ve.
 mundofox.co.ve.
@@ -15219,6 +15214,7 @@ nestle.com.ve.
 nestleprofessional.com.ve.
 nestpick.com.ve.
 net.ve.
+netandsoft.com.ve.
 netarea.com.ve.
 netart.com.ve.
 netartcloud.com.ve.
@@ -15354,6 +15350,7 @@ nido.com.ve.
 nieblazul.com.ve.
 nielsen.com.ve.
 nielsenglobal.com.ve.
+niimbot.co.ve.
 nike.co.ve.
 niketown.com.ve.
 nikon.co.ve.
@@ -17105,6 +17102,7 @@ probelsa.com.ve.
 proc2.com.ve.
 procare.com.ve.
 procarni.com.ve.
+procarton.com.ve.
 proceca.com.ve.
 procer.com.ve.
 procert.net.ve.
@@ -17341,6 +17339,7 @@ publicis.com.ve.
 publicisdialog.com.ve.
 publiinmuebles.com.ve.
 publik.com.ve.
+publinet.net.ve.
 publinsite.com.ve.
 publiweb.com.ve.
 puchesistemas.com.ve.
@@ -17524,6 +17523,7 @@ radioflyer.com.ve.
 radiohcinternacional.com.ve.
 radioiberolatina.com.ve.
 radioideal.com.ve.
+radiointeractiva.com.ve.
 radioius.com.ve.
 radiolavozdefedevysme.com.ve.
 radiolavozdenirgua.com.ve.
