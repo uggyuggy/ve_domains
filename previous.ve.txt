@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 23Mar2025 05:29 UTC
+# ve domain names extracted from nameservers on 24Mar2025 06:37 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -3982,7 +3982,6 @@ cetelvcarabobo.gov.ve.
 ceti.edu.ve.
 cetic.edu.ve.
 cetiedu.com.ve.
-cetunexpo.com.ve.
 ceupe.com.ve.
 cev.org.ve.
 cevalfes.com.ve.
@@ -5276,7 +5275,6 @@ consulado.gob.ve.
 consuladobarcelona.gob.ve.
 consuladodepanama.com.ve.
 consulados.gob.ve.
-consuladosenvenezuela.com.ve.
 consulate-ny.gov.ve.
 consulbank.com.ve.
 consulta.com.ve.
@@ -9853,7 +9851,6 @@ grupompr.com.ve.
 grupomundi.com.ve.
 gruponitrox.com.ve.
 gruponovanet.com.ve.
-grupooliveira.com.ve.
 grupoonza.com.ve.
 grupoorigami.com.ve.
 grupop.com.ve.
@@ -13524,7 +13521,6 @@ manapro.com.ve.
 manave.com.ve.
 mancent.com.ve.
 manchas.com.ve.
-mancorasuites.com.ve.
 mandalaremesa.com.ve.
 mandalaybay.com.ve.
 mandg-investments.com.ve.
@@ -13559,7 +13555,6 @@ manserca.com.ve.
 mansion.com.ve.
 manta.com.ve.
 mantenimientoelectricocostel.com.ve.
-mantenimientosemahinst.com.ve.
 mantenimientotrading.com.ve.
 mantis.com.ve.
 mantruckandbus.co.ve.
@@ -14503,7 +14498,6 @@ miredsocial.com.ve.
 miremoto.com.ve.
 mirepuesto.com.ve.
 mirka.co.ve.
-mirotecnicas.com.ve.
 mirringo.com.ve.
 misalud.com.ve.
 misconsultores.com.ve.
@@ -19489,7 +19483,6 @@ slinternational.co.ve.
 slipngrip.com.ve.
 sljtelecom.com.ve.
 sljtelecom.org.ve.
-slmnca.com.ve.
 slo.com.ve.
 slylogistics.com.ve.
 slyng.com.ve.
