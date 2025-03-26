@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 24Mar2025 06:37 UTC
+# ve domain names extracted from nameservers on 25Mar2025 05:57 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2378,7 +2378,6 @@ beaches.com.ve.
 bean.com.ve.
 beanz.co.ve.
 beanz.com.ve.
-bearcom.com.ve.
 bearingpoint.co.ve.
 bearingpoint.com.ve.
 bearingsexplorer.com.ve.
@@ -3837,6 +3836,7 @@ cementeriodeleste.com.ve.
 cementeriopuertasalcielo.com.ve.
 cementeriosjudiosaiv.org.ve.
 cemeparca.com.ve.
+cemos.com.ve.
 cen.gov.ve.
 cenaf.gob.ve.
 cenaf.org.ve.
@@ -7977,7 +7977,6 @@ fairmonthotels.com.ve.
 fairway.com.ve.
 fajasmyd.com.ve.
 fajastendencia.com.ve.
-fajate.com.ve.
 falck.com.ve.
 falcon-cojedes.gov.ve.
 falcon-falcon.gob.ve.
@@ -9436,7 +9435,6 @@ globalhost.com.ve.
 globalhost.net.ve.
 globalhosting.com.ve.
 globalimagen.com.ve.
-globalinvestment.com.ve.
 globalm.com.ve.
 globalmarcas.com.ve.
 globalmarket.com.ve.
@@ -12444,6 +12442,7 @@ kovaltry.co.ve.
 kovaltry.com.ve.
 kovimerna.co.ve.
 kovimerna.com.ve.
+kozen.com.ve.
 kpisigma.com.ve.
 kpk.com.ve.
 kpmg.co.ve.
@@ -12567,7 +12566,6 @@ lacasadelhidrojet.com.ve.
 lacasadelpapel.com.ve.
 lacasadelsincronicoaragua.com.ve.
 lacasadelviento.com.ve.
-lacasaverde.com.ve.
 lacastalia.com.ve.
 laceiba-trujillo.gob.ve.
 lachinita.com.ve.
@@ -13426,7 +13424,6 @@ madresaintjacques.edu.ve.
 madresdelbarrio.gob.ve.
 madriguera.com.ve.
 maeco.com.ve.
-maelectric.com.ve.
 maelinca.com.ve.
 maem.com.ve.
 maersk-line.co.ve.
@@ -16590,6 +16587,7 @@ pideartesanal.com.ve.
 pideloya.com.ve.
 pideloyaguarenas.com.ve.
 pidetuhora.com.ve.
+pidetuservicio.com.ve.
 piedepagina.com.ve.
 piel.com.ve.
 pielcanela.com.ve.
@@ -16657,6 +16655,7 @@ pitsautoparts.com.ve.
 pitviper.com.ve.
 piumobili.com.ve.
 pixelplay.com.ve.
+pizza.com.ve.
 pizzamia.com.ve.
 pizzolante.com.ve.
 pjlibrary.org.ve.
@@ -21598,7 +21597,6 @@ uav.com.ve.
 uav.edu.ve.
 uba.edu.ve.
 ubaldi.org.ve.
-ubc.org.ve.
 uber-one.com.ve.
 uberfreight.com.ve.
 ubicame.com.ve.
@@ -22224,6 +22222,7 @@ velaselfraile.com.ve.
 velaslanoche.com.ve.
 velasperegrino.com.ve.
 velassanagustin.com.ve.
+velchei.com.ve.
 velcosa.com.ve.
 velcro.co.ve.
 velcro.com.ve.
@@ -23401,6 +23400,7 @@ zonaplay.com.ve.
 zonaproductiva.com.ve.
 zonaprop.com.ve.
 zonarastafamily.org.ve.
+zonaviajera.com.ve.
 zonavipinternet.com.ve.
 zonfipca.gob.ve.
 zoni.com.ve.
@@ -23413,6 +23413,7 @@ zucaritas.com.ve.
 zucchero.com.ve.
 zucom.net.ve.
 zukbox.com.ve.
+zuled.com.ve.
 zulia.gob.ve.
 zuliaagropecuaria.gob.ve.
 zuliafc.com.ve.
