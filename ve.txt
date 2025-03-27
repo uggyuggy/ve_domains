@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Mar2025 05:33 UTC
+# ve domain names extracted from nameservers on 27Mar2025 05:30 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -466,6 +466,7 @@ adwords.com.ve.
 adzuna.co.ve.
 aeco.com.ve.
 aecucedir.org.ve.
+aecusalud.org.ve.
 aegbt.co.ve.
 aelee.com.ve.
 aeo.com.ve.
@@ -4084,7 +4085,6 @@ cherimoya.com.ve.
 cheriway.com.ve.
 cherrybanana.com.ve.
 cherrybeauty.com.ve.
-chessable.com.ve.
 chesterfield.com.ve.
 chesterwood.com.ve.
 chevere.com.ve.
@@ -5041,6 +5041,7 @@ comprar.com.ve.
 compras.com.ve.
 compras.gov.ve.
 comprasdelestado.gov.ve.
+compraturepuesto.com.ve.
 compraventa.co.ve.
 compraventa.com.ve.
 compreahora.com.ve.
@@ -5931,7 +5932,6 @@ cwt.com.ve.
 cwv.com.ve.
 cxo.com.ve.
 cyber-robinson.edu.ve.
-cybercorporate.com.ve.
 cyberlux.com.ve.
 cyberobinson.edu.ve.
 cyberpuerta.com.ve.
@@ -7153,6 +7153,7 @@ elecsanorte.com.ve.
 electricaeinoder.com.ve.
 electricforce.com.ve.
 electricforcesolutions.com.ve.
+electricoscaracas.com.ve.
 electrimec.com.ve.
 electriser.com.ve.
 electro.com.ve.
@@ -7280,7 +7281,6 @@ elregional.info.ve.
 elregional.net.ve.
 elrepuestero.com.ve.
 elretono.com.ve.
-elretorno.com.ve.
 elreydelmaniqui.com.ve.
 elruco.com.ve.
 elseguro.com.ve.
@@ -7627,6 +7627,7 @@ espaciobit.com.ve.
 espaciolegal.com.ve.
 espana.gob.ve.
 especialistas.com.ve.
+espectroant.com.ve.
 espiralcreativo.com.ve.
 espn.com.ve.
 espndeportes.com.ve.
@@ -9821,6 +9822,7 @@ grupohts.com.ve.
 grupoiaras.com.ve.
 grupoiberinvest.com.ve.
 grupoingemeca.com.ve.
+grupoinnovafacturacion.com.ve.
 grupointeractivas.com.ve.
 grupoinvicta.com.ve.
 grupoisla.com.ve.
@@ -11695,7 +11697,6 @@ irs.com.ve.
 irtab.gob.ve.
 irwin.co.ve.
 isabelgigli.com.ve.
-isabelgonzalezorfebre.com.ve.
 isac.com.ve.
 isalud.com.ve.
 isamica.com.ve.
@@ -12250,7 +12251,6 @@ kalixta.com.ve.
 kalley.com.ve.
 kaloo.com.ve.
 kalstein.co.ve.
-kalstein.com.ve.
 kamikaze.com.ve.
 kamikazebike.com.ve.
 kamion.co.ve.
@@ -13762,7 +13762,6 @@ mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
 masterwebsoluciones.com.ve.
-mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
 masvacaciones.com.ve.
@@ -14962,6 +14961,7 @@ mundoblanco.com.ve.
 mundoccell.com.ve.
 mundoceres.com.ve.
 mundocomercial.com.ve.
+mundodecolores.com.ve.
 mundoelectronica.com.ve.
 mundoelectronico.com.ve.
 mundofox.co.ve.
@@ -16149,7 +16149,6 @@ panavisiontours.com.ve.
 panda.com.ve.
 pandaexpress.com.ve.
 pandasecurity.com.ve.
-pandasoft.com.ve.
 pandocksrv.net.ve.
 pandora.co.ve.
 pandorafms.com.ve.
@@ -16317,7 +16316,6 @@ pazcastillo-miranda.gob.ve.
 pazcastillo.gob.ve.
 pbmir.gob.ve.
 pbserum.com.ve.
-pbsystem.com.ve.
 pbx.net.ve.
 pc-adcarabobo.gob.ve.
 pc-pistons.com.ve.
@@ -16513,7 +16511,6 @@ petroleumcontractor.com.ve.
 petronet.co.ve.
 petroquimicasima.com.ve.
 petroservices.com.ve.
-petroservicios.com.ve.
 petroservicios7.com.ve.
 petrosima.com.ve.
 petsplanet.com.ve.
@@ -21330,7 +21327,6 @@ triplecherry.web.ve.
 tripleplay.com.ve.
 triples.com.ve.
 tripod.com.ve.
-triskel.com.ve.
 triton.com.ve.
 triumphmotorcycles.co.ve.
 trivago.co.ve.
@@ -22153,6 +22149,7 @@ vallealto.com.ve.
 vallearriba.com.ve.
 vallemomboy.edu.ve.
 vallesoriente.com.ve.
+valleverde.net.ve.
 valmorca.com.ve.
 valmorerodriguez-zulia.gob.ve.
 valor-bet.com.ve.
@@ -22672,7 +22669,6 @@ vivasistem.com.ve.
 vivastreet.com.ve.
 vivastret.com.ve.
 vivax.com.ve.
-vivca.com.ve.
 vive.gob.ve.
 vivecampus.com.ve.
 viveii.com.ve.
