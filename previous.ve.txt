@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Mar2025 05:30 UTC
+# ve domain names extracted from nameservers on 28Mar2025 05:30 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -5991,6 +5991,7 @@ daimler.co.ve.
 daimler.com.ve.
 daimlertruck.com.ve.
 daimotors.com.ve.
+daingenieria.com.ve.
 dakaoferta.com.ve.
 dakaofertas.com.ve.
 dakapromociones.com.ve.
@@ -7153,7 +7154,6 @@ elecsanorte.com.ve.
 electricaeinoder.com.ve.
 electricforce.com.ve.
 electricforcesolutions.com.ve.
-electricoscaracas.com.ve.
 electrimec.com.ve.
 electriser.com.ve.
 electro.com.ve.
@@ -7627,7 +7627,6 @@ espaciobit.com.ve.
 espaciolegal.com.ve.
 espana.gob.ve.
 especialistas.com.ve.
-espectroant.com.ve.
 espiralcreativo.com.ve.
 espn.com.ve.
 espndeportes.com.ve.
@@ -9822,7 +9821,6 @@ grupohts.com.ve.
 grupoiaras.com.ve.
 grupoiberinvest.com.ve.
 grupoingemeca.com.ve.
-grupoinnovafacturacion.com.ve.
 grupointeractivas.com.ve.
 grupoinvicta.com.ve.
 grupoisla.com.ve.
@@ -10786,6 +10784,7 @@ icreativa.com.ve.
 icrnetworkca.com.ve.
 icscorp.com.ve.
 icsecurity.com.ve.
+icss.com.ve.
 icta.com.ve.
 icuvenezuela.org.ve.
 id.com.ve.
@@ -14566,6 +14565,7 @@ mitsubishiufj.com.ve.
 mitsuki.com.ve.
 mitula.com.ve.
 miturno.net.ve.
+miturnocorpoelec.com.ve.
 miurberadio.com.ve.
 mivca.com.ve.
 miviajecl.com.ve.
@@ -15926,6 +15926,7 @@ organizacioncarrascosa.com.ve.
 organon.co.ve.
 organon.com.ve.
 organosuperiorosc.gob.ve.
+orienco.com.ve.
 orientacionencolores.com.ve.
 oriente20.com.ve.
 orientimport.com.ve.
@@ -20964,7 +20965,9 @@ tiunaelfuerte.com.ve.
 tivenca.web.ve.
 tk-maritime-systems.com.ve.
 tk-ms.com.ve.
+tkms-group.com.ve.
 tkms.com.ve.
+tkmsgroup.com.ve.
 tla.gob.ve.
 tlvadis.com.ve.
 tmc.com.ve.
