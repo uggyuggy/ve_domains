@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Mar2025 05:30 UTC
+# ve domain names extracted from nameservers on 29Mar2025 05:33 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -46,7 +46,6 @@
 1x-bet.com.ve.
 1x10.com.ve.
 1x10delbuengobierno.gob.ve.
-1x10nm.com.ve.
 1xbet-sport.com.ve.
 1xbet-venezuela.com.ve.
 1xbet.co.ve.
@@ -1257,6 +1256,7 @@ amhosting.com.ve.
 amigo.com.ve.
 amigoclaro.com.ve.
 amirhotelboutique.com.ve.
+amisalud.com.ve.
 amlenetug.com.ve.
 amlife.com.ve.
 amlodipin.com.ve.
@@ -1880,7 +1880,6 @@ auditoresman.com.ve.
 aula-educredito.org.ve.
 aulaglobal.net.ve.
 aulainteractiva.com.ve.
-aulamedica.com.ve.
 aulaplaneta.co.ve.
 aulaplaneta.com.ve.
 aulascursosya.com.ve.
@@ -1961,6 +1960,7 @@ autoservicios.com.ve.
 autoshop.com.ve.
 autosolar.com.ve.
 autosoluciones.com.ve.
+autosonidoinfinity.com.ve.
 autosya.com.ve.
 autotapiceriaeuropa.com.ve.
 autotek.com.ve.
@@ -2352,7 +2352,6 @@ bayonacountry.com.ve.
 bayram.com.ve.
 baytraining.com.ve.
 bazaarvoice.com.ve.
-bazar.com.ve.
 bbc.com.ve.
 bbraun.com.ve.
 bbva.com.ve.
@@ -3385,7 +3384,6 @@ canva.web.ve.
 capa8.web.ve.
 capachense.com.ve.
 capacitame.com.ve.
-capaupel-ipmar.com.ve.
 capauptjaa.net.ve.
 capb.com.ve.
 capca.com.ve.
@@ -5418,7 +5416,6 @@ controller.co.ve.
 controlprevio.gob.ve.
 controlsecurity.com.ve.
 controlsocialmayor.gob.ve.
-contruvalca.com.ve.
 convaca.com.ve.
 convatec.co.ve.
 convatec.com.ve.
@@ -6190,7 +6187,6 @@ defile.com.ve.
 degrazia.com.ve.
 degusta.com.ve.
 deichmann.com.ve.
-deingenio.com.ve.
 deisyramirez.com.ve.
 dejabook.com.ve.
 deka.com.ve.
@@ -7154,6 +7150,7 @@ elecsanorte.com.ve.
 electricaeinoder.com.ve.
 electricforce.com.ve.
 electricforcesolutions.com.ve.
+electricoscaracas.com.ve.
 electrimec.com.ve.
 electriser.com.ve.
 electro.com.ve.
@@ -7281,6 +7278,7 @@ elregional.info.ve.
 elregional.net.ve.
 elrepuestero.com.ve.
 elretono.com.ve.
+elretorno.com.ve.
 elreydelmaniqui.com.ve.
 elruco.com.ve.
 elseguro.com.ve.
@@ -7627,6 +7625,7 @@ espaciobit.com.ve.
 espaciolegal.com.ve.
 espana.gob.ve.
 especialistas.com.ve.
+espectroant.com.ve.
 espiralcreativo.com.ve.
 espn.com.ve.
 espndeportes.com.ve.
@@ -8345,6 +8344,7 @@ fitca-rivets.com.ve.
 fitconnection.com.ve.
 fitelven.com.ve.
 fitflop.com.ve.
+fitosana.com.ve.
 fitsistema.com.ve.
 fitven.gob.ve.
 fiume.com.ve.
@@ -9119,6 +9119,7 @@ ganovzla.com.ve.
 gap.co.ve.
 gapkids.co.ve.
 garabatos.com.ve.
+garage302.net.ve.
 garantiastiendasdaka.com.ve.
 garantiplus.co.ve.
 garantiplus.com.ve.
@@ -9566,6 +9567,7 @@ gomalave.com.ve.
 gomarkets.com.ve.
 gomega.com.ve.
 gomez-nuevaesparta.gob.ve.
+gonarca.com.ve.
 gonavi.com.ve.
 gonfel.com.ve.
 gonzalezfuentesyasociados.com.ve.
@@ -9821,6 +9823,7 @@ grupohts.com.ve.
 grupoiaras.com.ve.
 grupoiberinvest.com.ve.
 grupoingemeca.com.ve.
+grupoinnovafacturacion.com.ve.
 grupointeractivas.com.ve.
 grupoinvicta.com.ve.
 grupoisla.com.ve.
@@ -12743,7 +12746,6 @@ lasiniestra.org.ve.
 laslineasdechavez.gob.ve.
 lasmiditan.com.ve.
 lasnonnitas.com.ve.
-lasnoticiasdehoy.com.ve.
 lasnovedades.com.ve.
 lasoberana.com.ve.
 lasociete.com.ve.
@@ -13059,7 +13061,6 @@ lineasdelosandes.com.ve.
 linesalud.com.ve.
 linetwo.com.ve.
 linio.com.ve.
-link.co.ve.
 link.com.ve.
 link2web.net.ve.
 linkec.com.ve.
@@ -13760,7 +13761,7 @@ masterlock.com.ve.
 mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
-masterwebsoluciones.com.ve.
+mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
 masvacaciones.com.ve.
@@ -14076,6 +14077,7 @@ mentaverde.com.ve.
 menu.com.ve.
 menuqr.com.ve.
 mep.gob.ve.
+mepeca.com.ve.
 mequipan.com.ve.
 meraki.com.ve.
 merant.co.ve.
@@ -15940,7 +15942,6 @@ orioil.com.ve.
 oriol.com.ve.
 orion.net.ve.
 orionsdevenezuela.com.ve.
-orionsoft.com.ve.
 orituco.gov.ve.
 oro.com.ve.
 orobet.com.ve.
@@ -16807,6 +16808,7 @@ poema.com.ve.
 pof.co.ve.
 pof.com.ve.
 poggenpohl.co.ve.
+poizon.co.ve.
 pokemon.com.ve.
 poker.co.ve.
 poker.com.ve.
@@ -17916,7 +17918,6 @@ reporterosdemerida.com.ve.
 repossi.com.ve.
 representacionespl.com.ve.
 reproinca.com.ve.
-repropaper.com.ve.
 repuestofacil.com.ve.
 repuestos.com.ve.
 repuestosalfaval.com.ve.
@@ -18475,6 +18476,7 @@ salusmilitae.mil.ve.
 salusmilitiae.mil.ve.
 salutta.com.ve.
 salvador.com.ve.
+salvadormascotas.com.ve.
 salvaenvios.com.ve.
 salvasion.com.ve.
 salvat.com.ve.
@@ -19692,6 +19694,7 @@ solucionescontables.com.ve.
 solucionescontables.net.ve.
 solucionesdlety.com.ve.
 solucionesempresariales.com.ve.
+solucionesespectral.com.ve.
 solucionesfabnet.com.ve.
 solucionesfx.com.ve.
 solucionesgt360.com.ve.
@@ -19957,6 +19960,7 @@ stargas.com.ve.
 starkey.com.ve.
 starkids.com.ve.
 starkindustrias.com.ve.
+starlink.co.ve.
 starliteshop.com.ve.
 starnet.com.ve.
 staroffice.com.ve.
@@ -20559,7 +20563,6 @@ tecnolam.co.ve.
 tecnolam.com.ve.
 tecnoled.com.ve.
 tecnologia.com.ve.
-tecnologiaalvarado.com.ve.
 tecnologiagb.com.ve.
 tecnologiapos.com.ve.
 tecnologiasparalasalud.com.ve.
@@ -20964,6 +20967,7 @@ titantool.com.ve.
 tiunaelfuerte.com.ve.
 tivenca.web.ve.
 tk-maritime-systems.com.ve.
+tk-ms-group.com.ve.
 tk-ms.com.ve.
 tkms-group.com.ve.
 tkms.com.ve.
@@ -22542,6 +22546,8 @@ victronenergy.co.ve.
 vidalibros.co.ve.
 vidalibros.com.ve.
 vidanet.com.ve.
+vidapets.com.ve.
+vidapetsoficial.com.ve.
 vidaprofesional.com.ve.
 vidasexualsaludable.com.ve.
 vidasilustradas.edu.ve.
@@ -22834,7 +22840,6 @@ vycsucre.gob.ve.
 vysucre.gob.ve.
 vytorin.com.ve.
 vyvanse.com.ve.
-vz.net.ve.
 vzlaproductiva.gob.ve.
 vzlaviaja.com.ve.
 wainet.com.ve.
@@ -22900,7 +22905,6 @@ wbdiscovery.com.ve.
 wbdsports.com.ve.
 wcaribe.com.ve.
 wcasino.com.ve.
-wcreator.com.ve.
 wcselectric.com.ve.
 wct.com.ve.
 wdalegal.co.ve.
@@ -22989,7 +22993,6 @@ whatsapp.com.ve.
 whatsapp.info.ve.
 whatsapp.net.ve.
 whatshome.com.ve.
-whatsstore.com.ve.
 wheelriders.com.ve.
 whice.com.ve.
 whieda.co.ve.
@@ -23197,6 +23200,7 @@ xpertgroup.com.ve.
 xplorer.com.ve.
 xpormayor.com.ve.
 xstore.com.ve.
+xstream.com.ve.
 xtraplazos.com.ve.
 xtremetech.com.ve.
 xvcenso.gob.ve.

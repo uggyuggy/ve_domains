@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Mar2025 05:33 UTC
+# ve domain names extracted from nameservers on 30Mar2025 05:04 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1551,7 +1551,6 @@ arauak.com.ve.
 araure-portuguesa.gob.ve.
 araure.net.ve.
 arawaza.com.ve.
-arba.com.ve.
 arbol.edu.ve.
 arburg.com.ve.
 arca.com.ve.
@@ -7122,7 +7121,6 @@ elbombillo92-1.com.ve.
 elca.com.ve.
 elcallao-bolivar.gob.ve.
 elcambur.com.ve.
-elcartel.com.ve.
 elcarupanerodigital.com.ve.
 elcastillo.com.ve.
 elclarin.net.ve.
@@ -11726,7 +11724,6 @@ isladejuegos.co.ve.
 islademargarita.gob.ve.
 islademargarita.gov.ve.
 islaguia.com.ve.
-islalatortuga.com.ve.
 islamargarita.gob.ve.
 islamargarita.gov.ve.
 islamic-relief.org.ve.
@@ -13761,6 +13758,7 @@ masterlock.com.ve.
 mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
+masterwebsoluciones.com.ve.
 mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
@@ -15264,6 +15262,7 @@ networkspeed.com.ve.
 networkworld.com.ve.
 networx.com.ve.
 netwrix.com.ve.
+neumalba.com.ve.
 neumatica.com.ve.
 neumaticavalencia.com.ve.
 neumaticos-online.com.ve.
@@ -16928,6 +16927,7 @@ portallegal.com.ve.
 portilloseguros.com.ve.
 portugas.com.ve.
 portuguesa.gob.ve.
+portuguesafc.com.ve.
 pos.com.ve.
 posada-san-francisco.com.ve.
 posadacasasol.com.ve.
@@ -18129,7 +18129,6 @@ rockport.com.ve.
 rocksbetting.com.ve.
 rockwallet.com.ve.
 rockwellautomation.com.ve.
-rockzone.com.ve.
 rocoautosales.com.ve.
 rod.com.ve.
 roda.com.ve.
@@ -18481,6 +18480,7 @@ salvaenvios.com.ve.
 salvasion.com.ve.
 salvat.com.ve.
 salvatoreferragamo.co.ve.
+sam.com.ve.
 samat.com.ve.
 samat.gob.ve.
 samat.gov.ve.
@@ -19414,7 +19414,6 @@ sistemastimetrac.com.ve.
 sistemastylus.com.ve.
 sistemauno.com.ve.
 sistequipos.com.ve.
-sistersc.com.ve.
 sistine.gob.ve.
 sistine.gov.ve.
 sisvenca.com.ve.
@@ -19470,7 +19469,6 @@ skycapital.com.ve.
 skydropx.com.ve.
 skyglobe.com.ve.
 skygroup.com.ve.
-skygroupinvictus.com.ve.
 skyhome.com.ve.
 skymedical.com.ve.
 skymuebles.com.ve.
@@ -20563,6 +20561,7 @@ tecnolam.co.ve.
 tecnolam.com.ve.
 tecnoled.com.ve.
 tecnologia.com.ve.
+tecnologiaalvarado.com.ve.
 tecnologiagb.com.ve.
 tecnologiapos.com.ve.
 tecnologiasparalasalud.com.ve.
@@ -22567,6 +22566,7 @@ vienefmcabimas.com.ve.
 vierge.com.ve.
 viewsonic.com.ve.
 vigilanciacosteragn.mil.ve.
+vigilanciayprevencion24.com.ve.
 vigilo.co.ve.
 vigilo.com.ve.
 viginet.com.ve.
@@ -22677,6 +22677,7 @@ vivancepets.com.ve.
 vivasistem.com.ve.
 vivastreet.com.ve.
 vivastret.com.ve.
+vivatalento.com.ve.
 vivax.com.ve.
 vive.gob.ve.
 vivecampus.com.ve.
@@ -22773,7 +22774,6 @@ vpeconomia.gob.ve.
 vpitermoindustrial.com.ve.
 vpl.net.ve.
 vpm.org.ve.
-vpnet.com.ve.
 vpriv.com.ve.
 vps.co.ve.
 vpse.gob.ve.
@@ -23421,7 +23421,6 @@ zonavipinternet.com.ve.
 zonfipca.gob.ve.
 zoni.com.ve.
 zoosk.com.ve.
-zoppi.com.ve.
 zoskinhealth.com.ve.
 zscaler.com.ve.
 zubr.com.ve.
