@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 30Mar2025 05:04 UTC
+# ve domain names extracted from nameservers on 31Mar2025 04:27 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4787,7 +4787,6 @@ colegiomadremazzarelloamazonas.com.ve.
 colegiomadretrinidad.com.ve.
 colegiomaestrodegalilea.edu.ve.
 colegiomafa.com.ve.
-colegiomarcelroche.com.ve.
 colegiomariaauxiliadora.com.ve.
 colegiomariaauxiliadoraaltamira.com.ve.
 colegiomariaauxiliadoralosteques.com.ve.
@@ -6186,6 +6185,7 @@ defile.com.ve.
 degrazia.com.ve.
 degusta.com.ve.
 deichmann.com.ve.
+deingenio.com.ve.
 deisyramirez.com.ve.
 dejabook.com.ve.
 deka.com.ve.
@@ -9086,7 +9086,6 @@ galleteracaraboboglobal.com.ve.
 gallofx.com.ve.
 galloverde.com.ve.
 galup.com.ve.
-galvalume.com.ve.
 gama-decor.com.ve.
 gama.com.ve.
 gamadecor.com.ve.
@@ -9311,7 +9310,6 @@ gf-atlantida.com.ve.
 gfatlantida.com.ve.
 gfi.com.ve.
 gfore.co.ve.
-ggch.com.ve.
 ggimage.co.ve.
 ggsa.com.ve.
 ghae.co.ve.
@@ -11507,7 +11505,6 @@ internetexplorer9.com.ve.
 internetx.com.ve.
 internetxlac.com.ve.
 internexus.com.ve.
-internovo.com.ve.
 interoperabilidad.gob.ve.
 interpego.com.ve.
 interpol.com.ve.
@@ -12271,7 +12268,6 @@ kardex.com.ve.
 karnicos.com.ve.
 karseell.com.ve.
 karuaiviajes.com.ve.
-karvo.com.ve.
 kaseya.co.ve.
 kaseya.com.ve.
 kasipolin.edu.ve.
@@ -13758,7 +13754,6 @@ masterlock.com.ve.
 mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
-masterwebsoluciones.com.ve.
 mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
@@ -14503,6 +14498,7 @@ miredsocial.com.ve.
 miremoto.com.ve.
 mirepuesto.com.ve.
 mirka.co.ve.
+mirotecnicas.com.ve.
 mirringo.com.ve.
 misalud.com.ve.
 misconsultores.com.ve.
@@ -15416,7 +15412,6 @@ nordea.com.ve.
 nordic.com.ve.
 nordicnaturals.co.ve.
 nordik.com.ve.
-norep.com.ve.
 noreste.com.ve.
 norkaluque.co.ve.
 norkut.com.ve.
@@ -19591,7 +19586,6 @@ sofinet.com.ve.
 sofipago.com.ve.
 soflan.co.ve.
 sofos.com.ve.
-soft-tech.com.ve.
 softcap.com.ve.
 softcolor.com.ve.
 softest.com.ve.
@@ -22561,7 +22555,6 @@ videojuego.com.ve.
 videomapping.com.ve.
 videoycomputacion.com.ve.
 vidinter.com.ve.
-vidriosmonagas.com.ve.
 vienefmcabimas.com.ve.
 vierge.com.ve.
 viewsonic.com.ve.
