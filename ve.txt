@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 31Mar2025 04:27 UTC
+# ve domain names extracted from nameservers on 01Apr2025 04:26 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1049,7 +1049,6 @@ alimentos-frides.com.ve.
 alimentos-polar.com.ve.
 alimentoscovadonga.com.ve.
 alimentosdifresca.com.ve.
-alimentoshorizonte.com.ve.
 alimentoskellogg.com.ve.
 alimentoskraft.com.ve.
 alimentosmeru.com.ve.
@@ -7999,7 +7998,6 @@ familiadisney.com.ve.
 familiavick.com.ve.
 familysearch.org.ve.
 famori.com.ve.
-famudane.com.ve.
 fan-sale.com.ve.
 fanaticalsupport.com.ve.
 fanaticos.com.ve.
@@ -8655,6 +8653,7 @@ fr8star.co.ve.
 fraco.com.ve.
 fraco.net.ve.
 fraga.com.ve.
+fraganza.com.ve.
 fragapittaluga.com.ve.
 fragata.com.ve.
 fragomen.com.ve.
@@ -9159,7 +9158,6 @@ gbit.com.ve.
 gbst.gob.ve.
 gbuzz.co.ve.
 gbv.com.ve.
-gc.com.ve.
 gcautopartes.com.ve.
 gcc.com.ve.
 gccnevada.com.ve.
@@ -12570,7 +12568,6 @@ lacasadelviento.com.ve.
 lacastalia.com.ve.
 laceiba-trujillo.gob.ve.
 lachinita.com.ve.
-lacimaonline.com.ve.
 lacohg.com.ve.
 lacoloniatovar.com.ve.
 lacompro.com.ve.
@@ -12810,7 +12807,6 @@ layher.com.ve.
 lazarus.com.ve.
 lbfar.com.ve.
 lca.com.ve.
-lcc.com.ve.
 lch.com.ve.
 lcm.com.ve.
 lcpackaging.com.ve.
@@ -13754,6 +13750,7 @@ masterlock.com.ve.
 mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
+masterwebsoluciones.com.ve.
 mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
@@ -14498,7 +14495,6 @@ miredsocial.com.ve.
 miremoto.com.ve.
 mirepuesto.com.ve.
 mirka.co.ve.
-mirotecnicas.com.ve.
 mirringo.com.ve.
 misalud.com.ve.
 misconsultores.com.ve.
@@ -16531,6 +16527,7 @@ pgeyaracuy.gob.ve.
 pgingenieria.com.ve.
 pgmerida.gob.ve.
 pgmir.gob.ve.
+pgos.com.ve.
 pgp.com.ve.
 pgp24.com.ve.
 pgpcca.com.ve.
@@ -19464,6 +19461,7 @@ skycapital.com.ve.
 skydropx.com.ve.
 skyglobe.com.ve.
 skygroup.com.ve.
+skygroupinvictus.com.ve.
 skyhome.com.ve.
 skymedical.com.ve.
 skymuebles.com.ve.
@@ -19968,7 +19966,6 @@ startnet.com.ve.
 startravel.com.ve.
 startup.co.ve.
 startup.com.ve.
-starve.com.ve.
 starwars.co.ve.
 starwars.com.ve.
 starwhite.com.ve.
@@ -20555,7 +20552,6 @@ tecnolam.co.ve.
 tecnolam.com.ve.
 tecnoled.com.ve.
 tecnologia.com.ve.
-tecnologiaalvarado.com.ve.
 tecnologiagb.com.ve.
 tecnologiapos.com.ve.
 tecnologiasparalasalud.com.ve.
@@ -22303,6 +22299,7 @@ venescopio.org.ve.
 venesulca.com.ve.
 venet.com.ve.
 venetacucine.co.ve.
+venetech.com.ve.
 venetix.com.ve.
 venetoeyewears.com.ve.
 venetranstours.com.ve.
@@ -23198,7 +23195,6 @@ xtraplazos.com.ve.
 xtremetech.com.ve.
 xvcenso.gob.ve.
 xven.com.ve.
-xvision.com.ve.
 xxiforever.com.ve.
 xy-hommes.com.ve.
 xyhommes.com.ve.
