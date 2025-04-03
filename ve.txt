@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 02Apr2025 04:26 UTC
+# ve domain names extracted from nameservers on 03Apr2025 04:26 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1140,6 +1140,7 @@ altercloudnet.com.ve.
 altoapure-apure.gob.ve.
 altoapure.gob.ve.
 altoconceptocc.com.ve.
+altomi.com.ve.
 altoorinoco-amazonas.gov.ve.
 altoque.co.ve.
 altoque.com.ve.
@@ -1551,6 +1552,7 @@ arauak.com.ve.
 araure-portuguesa.gob.ve.
 araure.net.ve.
 arawaza.com.ve.
+arba.com.ve.
 arbol.edu.ve.
 arburg.com.ve.
 arca.com.ve.
@@ -2079,6 +2081,7 @@ awmdm.co.ve.
 awmdm.com.ve.
 awser.com.ve.
 awsnova.co.ve.
+awsolutions.com.ve.
 axa.com.ve.
 axalta-coating-systems.com.ve.
 axalta-cs.com.ve.
@@ -3450,6 +3453,7 @@ cardenas-tachira.gob.ve.
 cardenas.net.ve.
 cardiologicoinfantil.gob.ve.
 cardionet.com.ve.
+cardiovitalcarabobo.com.ve.
 cardisport.com.ve.
 cardon4.net.ve.
 cardtech.com.ve.
@@ -4409,6 +4413,7 @@ cleversafe.com.ve.
 cleyaracuy.gob.ve.
 clez.gob.ve.
 clezulia.gov.ve.
+clg.com.ve.
 cli.com.ve.
 clic.com.ve.
 clickbazar.com.ve.
@@ -4919,7 +4924,6 @@ colina-falcon.gov.ve.
 colineal.com.ve.
 collectania.com.ve.
 collistar.com.ve.
-colmed.com.ve.
 colnetwork.com.ve.
 cologgnv.mil.ve.
 colombeia.edu.ve.
@@ -5416,6 +5420,7 @@ controller.co.ve.
 controlprevio.gob.ve.
 controlsecurity.com.ve.
 controlsocialmayor.gob.ve.
+contruvalca.com.ve.
 convaca.com.ve.
 convatec.co.ve.
 convatec.com.ve.
@@ -5521,7 +5526,6 @@ corpolara.gob.ve.
 corpomiranda.com.ve.
 corpomundo.com.ve.
 corpoplast.com.ve.
-corporacion-seysa.com.ve.
 corporacionaf.com.ve.
 corporacionag.com.ve.
 corporacionaven.com.ve.
@@ -5829,7 +5833,6 @@ ctamericas.com.ve.
 ctca.com.ve.
 cti.com.ve.
 ctr.com.ve.
-ctra.com.ve.
 cts.com.ve.
 ctsca.com.ve.
 ctshtt.com.ve.
@@ -5850,7 +5853,6 @@ cudy.com.ve.
 cuecmc.edu.ve.
 cuento.com.ve.
 cuentos.com.ve.
-cuerpodeinspectores.com.ve.
 cufan.mil.ve.
 cuft.com.ve.
 cuidandote.com.ve.
@@ -8043,6 +8045,7 @@ farmago.com.ve.
 farmagro.com.ve.
 farmahorro.com.ve.
 farmaindustria.com.ve.
+farmanselmo.com.ve.
 farmaonline.com.ve.
 farmapatria.com.ve.
 farmaplus.com.ve.
@@ -9733,6 +9736,7 @@ grunenthal.com.ve.
 grunenthal.info.ve.
 grupo-amanecer.com.ve.
 grupo-atlantida.com.ve.
+grupo-chavacal.com.ve.
 grupo10.com.ve.
 grupo3d.com.ve.
 grupo77.com.ve.
@@ -10158,7 +10162,6 @@ heimcore.com.ve.
 heimdall.com.ve.
 heinz.com.ve.
 helado.com.ve.
-helados.com.ve.
 heladoscali.com.ve.
 heladosefe.com.ve.
 heladostiorico.com.ve.
@@ -12001,6 +12004,7 @@ jengimiel.com.ve.
 jeniusbank.com.ve.
 jens.com.ve.
 jentadueto.com.ve.
+jerico.com.ve.
 jeronimo-alayon.com.ve.
 jesistemas.com.ve.
 jesproducciones.com.ve.
@@ -13751,6 +13755,7 @@ masterlock.com.ve.
 mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
+masterwebsoluciones.com.ve.
 mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
@@ -14030,6 +14035,7 @@ mejoresapuestas.com.ve.
 mejorescasinosonline.com.ve.
 mel.com.ve.
 melbet.com.ve.
+melbetregistration.com.ve.
 melia.com.ve.
 meliahotelsinternational.com.ve.
 melibank.co.ve.
@@ -14608,7 +14614,6 @@ mobil1.com.ve.
 mobile1.co.ve.
 mobile1.com.ve.
 mobilecasinorank.com.ve.
-mobilesentrix.com.ve.
 mobilesse.com.ve.
 mobilie.com.ve.
 mobinostics.com.ve.
@@ -14643,7 +14648,6 @@ molo.com.ve.
 molvenca.com.ve.
 mombeu.org.ve.
 mombi.com.ve.
-momentive.com.ve.
 momentos.com.ve.
 momondo.co.ve.
 momondo.com.ve.
@@ -15184,6 +15188,7 @@ nektar.com.ve.
 neoanalisis.net.ve.
 neodent.co.ve.
 neodent.com.ve.
+neoelectronics.com.ve.
 neogenesisbs.com.ve.
 neogig.com.ve.
 neolith.com.ve.
@@ -15859,6 +15864,7 @@ operacionsonrisa.net.ve.
 operacionsonrisa.org.ve.
 operadoraturisticadelcaribe.com.ve.
 operamini.co.ve.
+ophtal.com.ve.
 ophtalcom.com.ve.
 opinion.co.ve.
 opiniones.co.ve.
@@ -16419,7 +16425,6 @@ pentasoft.net.ve.
 pentel.com.ve.
 penthouse.co.ve.
 penthouse.com.ve.
-pentol.com.ve.
 peopleandarts.com.ve.
 peperoni.com.ve.
 pepsico.co.ve.
@@ -16529,6 +16534,7 @@ pgeyaracuy.gob.ve.
 pgingenieria.com.ve.
 pgmerida.gob.ve.
 pgmir.gob.ve.
+pgos.com.ve.
 pgp.com.ve.
 pgp24.com.ve.
 pgpcca.com.ve.
@@ -17727,6 +17733,7 @@ redesip.com.ve.
 redestado.gov.ve.
 redex.com.ve.
 redexcom.com.ve.
+redextendida.com.ve.
 redfiladelfia.com.ve.
 redgfu.org.ve.
 redhat.co.ve.
@@ -18830,6 +18837,7 @@ sedematyaritagua.com.ve.
 sedematzamorafalcon.com.ve.
 sedes.gob.ve.
 sedgwick.co.ve.
+seditronica.com.ve.
 sediver.co.ve.
 see-barinas.gob.ve.
 seeligeryconde.com.ve.
@@ -19463,6 +19471,7 @@ skycapital.com.ve.
 skydropx.com.ve.
 skyglobe.com.ve.
 skygroup.com.ve.
+skygroupinvictus.com.ve.
 skyhome.com.ve.
 skymedical.com.ve.
 skymuebles.com.ve.
@@ -19804,6 +19813,7 @@ soveso.org.ve.
 sovetorax.org.ve.
 soydanzamargarita.com.ve.
 soynexxus.com.ve.
+soysalas.com.ve.
 soyvivery.com.ve.
 sp.com.ve.
 sp2011.com.ve.
@@ -21542,6 +21552,7 @@ tutarjeton.com.ve.
 tutiendanestle.com.ve.
 tutoonix.com.ve.
 tutopia.com.ve.
+tutoriaslara.com.ve.
 tutoshop.com.ve.
 tutrackergps.com.ve.
 tutrackergps.net.ve.
@@ -22302,6 +22313,7 @@ venescopio.org.ve.
 venesulca.com.ve.
 venet.com.ve.
 venetacucine.co.ve.
+venetech.com.ve.
 venetix.com.ve.
 venetoeyewears.com.ve.
 venetranstours.com.ve.

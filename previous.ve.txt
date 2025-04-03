@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Apr2025 04:26 UTC
+# ve domain names extracted from nameservers on 02Apr2025 04:26 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -507,6 +507,7 @@ afam.com.ve.
 afatinib.com.ve.
 afaycos.com.ve.
 afectadosvenezolana.gob.ve.
+afes.com.ve.
 affarishop.com.ve.
 affiliate.com.ve.
 afi.com.ve.
@@ -2186,6 +2187,7 @@ balanzasdeoriente.com.ve.
 baliv.com.ve.
 ballezarte.com.ve.
 balloon-app-ganar-dinero.com.ve.
+balloon-app.co.ve.
 balloon-app.com.ve.
 balloon-app.info.ve.
 balloon-app.net.ve.
@@ -4786,6 +4788,7 @@ colegiomadremazzarelloamazonas.com.ve.
 colegiomadretrinidad.com.ve.
 colegiomaestrodegalilea.edu.ve.
 colegiomafa.com.ve.
+colegiomarcelroche.com.ve.
 colegiomariaauxiliadora.com.ve.
 colegiomariaauxiliadoraaltamira.com.ve.
 colegiomariaauxiliadoralosteques.com.ve.
@@ -6837,7 +6840,6 @@ dryager.com.ve.
 dryes.com.ve.
 drywall.com.ve.
 ds-automobiles.co.ve.
-dsa.com.ve.
 dsautomobiles.co.ve.
 dsc.com.ve.
 dsc.nic.ve.
@@ -6855,7 +6857,6 @@ ducolsa.gov.ve.
 dukai.com.ve.
 dukato.com.ve.
 dulcemadera.com.ve.
-dulcesgatitas.com.ve.
 dulcitoysalado.com.ve.
 duluxletscolor.com.ve.
 dunamisradiotv.com.ve.
@@ -8799,7 +8800,6 @@ fullapuestas.com.ve.
 fullattention.com.ve.
 fullbrake.com.ve.
 fullcargo.com.ve.
-fullcarro.com.ve.
 fullciclismo.com.ve.
 fullciclismo.net.ve.
 fullcolor.com.ve.
@@ -12568,6 +12568,7 @@ lacasadelviento.com.ve.
 lacastalia.com.ve.
 laceiba-trujillo.gob.ve.
 lachinita.com.ve.
+lacimaonline.com.ve.
 lacohg.com.ve.
 lacoloniatovar.com.ve.
 lacompro.com.ve.
@@ -13750,7 +13751,6 @@ masterlock.com.ve.
 mastermutual.com.ve.
 masterticket.com.ve.
 mastertruck.com.ve.
-masterwebsoluciones.com.ve.
 mastubos.com.ve.
 mastv.com.ve.
 masuca.com.ve.
@@ -14374,6 +14374,7 @@ miluzdesigns.com.ve.
 milv.com.ve.
 mimagnum.com.ve.
 mimasa.com.ve.
+mimercado.com.ve.
 mimet.com.ve.
 mimovistar-online.com.ve.
 mimovistar-online.net.ve.
@@ -14495,6 +14496,7 @@ miredsocial.com.ve.
 miremoto.com.ve.
 mirepuesto.com.ve.
 mirka.co.ve.
+mirotecnicas.com.ve.
 mirringo.com.ve.
 misalud.com.ve.
 misconsultores.com.ve.
@@ -16527,7 +16529,6 @@ pgeyaracuy.gob.ve.
 pgingenieria.com.ve.
 pgmerida.gob.ve.
 pgmir.gob.ve.
-pgos.com.ve.
 pgp.com.ve.
 pgp24.com.ve.
 pgpcca.com.ve.
@@ -17965,6 +17966,7 @@ retechnology.com.ve.
 retenlo.com.ve.
 retoalaesperanza.com.ve.
 retomovistar.com.ve.
+retraining.com.ve.
 retroradio.com.ve.
 reuters.com.ve.
 revalca.com.ve.
@@ -19461,7 +19463,6 @@ skycapital.com.ve.
 skydropx.com.ve.
 skyglobe.com.ve.
 skygroup.com.ve.
-skygroupinvictus.com.ve.
 skyhome.com.ve.
 skymedical.com.ve.
 skymuebles.com.ve.
@@ -19584,6 +19585,7 @@ sofinet.com.ve.
 sofipago.com.ve.
 soflan.co.ve.
 sofos.com.ve.
+soft-tech.com.ve.
 softcap.com.ve.
 softcolor.com.ve.
 softest.com.ve.
@@ -20552,6 +20554,7 @@ tecnolam.co.ve.
 tecnolam.com.ve.
 tecnoled.com.ve.
 tecnologia.com.ve.
+tecnologiaalvarado.com.ve.
 tecnologiagb.com.ve.
 tecnologiapos.com.ve.
 tecnologiasparalasalud.com.ve.
@@ -22299,7 +22302,6 @@ venescopio.org.ve.
 venesulca.com.ve.
 venet.com.ve.
 venetacucine.co.ve.
-venetech.com.ve.
 venetix.com.ve.
 venetoeyewears.com.ve.
 venetranstours.com.ve.
@@ -23401,7 +23403,6 @@ zonachevrolet.com.ve.
 zonadeguerra.com.ve.
 zonajobs.com.ve.
 zonalibremerida.gob.ve.
-zonaplay.com.ve.
 zonaproductiva.com.ve.
 zonaprop.com.ve.
 zonarastafamily.org.ve.
