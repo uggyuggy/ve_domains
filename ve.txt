@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03Apr2025 04:26 UTC
+# ve domain names extracted from nameservers on 04Apr2025 04:25 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1140,7 +1140,6 @@ altercloudnet.com.ve.
 altoapure-apure.gob.ve.
 altoapure.gob.ve.
 altoconceptocc.com.ve.
-altomi.com.ve.
 altoorinoco-amazonas.gov.ve.
 altoque.co.ve.
 altoque.com.ve.
@@ -3453,7 +3452,6 @@ cardenas-tachira.gob.ve.
 cardenas.net.ve.
 cardiologicoinfantil.gob.ve.
 cardionet.com.ve.
-cardiovitalcarabobo.com.ve.
 cardisport.com.ve.
 cardon4.net.ve.
 cardtech.com.ve.
@@ -5925,7 +5923,6 @@ cvi.edu.ve.
 cvir.com.ve.
 cvm.com.ve.
 cvn.com.ve.
-cvrd.com.ve.
 cvrtours.com.ve.
 cwt.com.ve.
 cwv.com.ve.
@@ -6326,6 +6323,7 @@ designshop.com.ve.
 desigual.co.ve.
 desigual.com.ve.
 desitin.com.ve.
+deskon.com.ve.
 deso.com.ve.
 desolapate.com.ve.
 desomi.gob.ve.
@@ -8045,7 +8043,6 @@ farmago.com.ve.
 farmagro.com.ve.
 farmahorro.com.ve.
 farmaindustria.com.ve.
-farmanselmo.com.ve.
 farmaonline.com.ve.
 farmapatria.com.ve.
 farmaplus.com.ve.
@@ -9651,7 +9648,6 @@ grainger.co.ve.
 grainger.com.ve.
 gramoca.com.ve.
 granapadano.com.ve.
-granbrasa.com.ve.
 grancacique.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
@@ -9887,6 +9883,7 @@ grupotamanu.com.ve.
 grupotaras.com.ve.
 grupotepui.com.ve.
 grupotepuy911.com.ve.
+grupotera.com.ve.
 grupoterra.com.ve.
 grupoterra.net.ve.
 grupoterragt.com.ve.
@@ -10072,6 +10069,7 @@ handbellvenezuela.com.ve.
 hands.com.ve.
 handshake.com.ve.
 hangar74.com.ve.
+hanka.com.ve.
 hankison.com.ve.
 hankook.com.ve.
 hankypanky.com.ve.
@@ -13520,6 +13518,7 @@ manapro.com.ve.
 manave.com.ve.
 mancent.com.ve.
 manchas.com.ve.
+mancorasuites.com.ve.
 mandalaremesa.com.ve.
 mandalaybay.com.ve.
 mandg-investments.com.ve.
@@ -14035,7 +14034,6 @@ mejoresapuestas.com.ve.
 mejorescasinosonline.com.ve.
 mel.com.ve.
 melbet.com.ve.
-melbetregistration.com.ve.
 melia.com.ve.
 meliahotelsinternational.com.ve.
 melibank.co.ve.
@@ -14776,7 +14774,6 @@ mouser.co.ve.
 mouser.com.ve.
 mouserelectronics.com.ve.
 mouserpre.com.ve.
-movectro.com.ve.
 movidafm.com.ve.
 movie.com.ve.
 moviesonheels.co.ve.
@@ -15188,7 +15185,6 @@ nektar.com.ve.
 neoanalisis.net.ve.
 neodent.co.ve.
 neodent.com.ve.
-neoelectronics.com.ve.
 neogenesisbs.com.ve.
 neogig.com.ve.
 neolith.com.ve.
@@ -15789,7 +15785,6 @@ ondaflex.com.ve.
 ondasdelcercado.com.ve.
 one-and-one.com.ve.
 one-blade.com.ve.
-one.com.ve.
 oneandone.com.ve.
 oneblade.com.ve.
 onedrive.co.ve.
@@ -16041,7 +16036,6 @@ oysterperpetual.net.ve.
 oysterperpetual.org.ve.
 oysterperpetual.web.ve.
 oz.com.ve.
-ozono.com.ve.
 ozonomedic.com.ve.
 p2.com.ve.
 p2pnetwork.com.ve.
@@ -16363,8 +16357,8 @@ pearlmaster.org.ve.
 pearlmaster.web.ve.
 pearsonelt.com.ve.
 pearsonlongman.com.ve.
+pecron.com.ve.
 pedalradio.com.ve.
-pedeca.com.ve.
 pedernales-deltaamacuro.gov.ve.
 pediartesanal.com.ve.
 pediatria.com.ve.
@@ -17053,6 +17047,7 @@ primehome.com.ve.
 primer.com.ve.
 primeradama.gov.ve.
 primerojusticia.org.ve.
+primeshoes.com.ve.
 primetravel.com.ve.
 primevideo.co.ve.
 primevideo.com.ve.
@@ -17733,7 +17728,6 @@ redesip.com.ve.
 redestado.gov.ve.
 redex.com.ve.
 redexcom.com.ve.
-redextendida.com.ve.
 redfiladelfia.com.ve.
 redgfu.org.ve.
 redhat.co.ve.
@@ -22482,6 +22476,7 @@ viagens.com.ve.
 viagra.co.ve.
 viagra.com.ve.
 viaja.com.ve.
+viajaconpuncana.com.ve.
 viajala.co.ve.
 viajala.com.ve.
 viajanet.co.ve.
