@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 08Apr2025 04:16 UTC
+# ve domain names extracted from nameservers on 09Apr2025 04:15 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1524,6 +1524,7 @@ aquarela.com.ve.
 aquarena.com.ve.
 aquariumdevalencia.gob.ve.
 aquashop.com.ve.
+aquastudio.com.ve.
 aquatech.com.ve.
 aquavista.com.ve.
 aquavisuites.com.ve.
@@ -3448,7 +3449,6 @@ cardenas-tachira.gob.ve.
 cardenas.net.ve.
 cardiologicoinfantil.gob.ve.
 cardionet.com.ve.
-cardiovitalcarabobo.com.ve.
 cardisport.com.ve.
 cardon4.net.ve.
 cardtech.com.ve.
@@ -3514,6 +3514,7 @@ carriersolutions.com.ve.
 carrizal-miranda.gob.ve.
 carrizal.net.ve.
 carroceriaschama.com.ve.
+carroceriasortiz.com.ve.
 carros.co.ve.
 cars.com.ve.
 cartadeviajes.com.ve.
@@ -4042,7 +4043,6 @@ chat.com.ve.
 chatarra.com.ve.
 chatear.com.ve.
 chatsworth.com.ve.
-chavacal.com.ve.
 chavez.org.ve.
 chc.com.ve.
 chc.org.ve.
@@ -4309,7 +4309,6 @@ citypos.com.ve.
 citypumps.co.ve.
 citypumps.com.ve.
 ciudad.com.ve.
-ciudadanodigital.com.ve.
 ciudadanuncios.co.ve.
 ciudadcallenorte.com.ve.
 ciudadcalzado.com.ve.
@@ -5411,6 +5410,7 @@ controller.co.ve.
 controlprevio.gob.ve.
 controlsecurity.com.ve.
 controlsocialmayor.gob.ve.
+contruvalca.com.ve.
 convaca.com.ve.
 convatec.co.ve.
 convatec.com.ve.
@@ -5483,7 +5483,6 @@ corkcicle.com.ve.
 cormatic.co.ve.
 cormotur.gov.ve.
 cornalina.com.ve.
-cornejomultyservicios.com.ve.
 corner.com.ve.
 coroinfantilvenezuela.org.ve.
 coronado.com.ve.
@@ -5824,6 +5823,7 @@ ctamericas.com.ve.
 ctca.com.ve.
 cti.com.ve.
 ctr.com.ve.
+ctra.com.ve.
 cts.com.ve.
 ctsca.com.ve.
 ctshtt.com.ve.
@@ -6722,7 +6722,6 @@ dominospizza.co.ve.
 dominospizza.com.ve.
 domosa.com.ve.
 domosa.net.ve.
-domoticatuya.com.ve.
 donafacil.com.ve.
 donamara.com.ve.
 donbosco.edu.ve.
@@ -6875,6 +6874,7 @@ dviaje.com.ve.
 dviveres.com.ve.
 dvl.com.ve.
 dvsystems.com.ve.
+dw.co.ve.
 dycingenio.com.ve.
 dymel.com.ve.
 dyna.com.ve.
@@ -7440,7 +7440,6 @@ enlanube.co.ve.
 enlanube.com.ve.
 enmohca.gob.ve.
 enmotion.co.ve.
-enon.com.ve.
 enpa.gob.ve.
 enphase.com.ve.
 enphaseenergy.com.ve.
@@ -7872,7 +7871,6 @@ exploracasa.co.ve.
 exploracasa.com.ve.
 exploracion.com.ve.
 exploradoroceanico.org.ve.
-explorauto.com.ve.
 explorefund.co.ve.
 explorefund.com.ve.
 explorefund.org.ve.
@@ -7951,6 +7949,8 @@ facfast.com.ve.
 fachadas.com.ve.
 facilistas.com.ve.
 facilita.com.ve.
+facilsoft.com.ve.
+facilsoftcomve.com.ve.
 factoriadigital.com.ve.
 factorycosmetics.com.ve.
 factronics.com.ve.
@@ -9425,6 +9425,7 @@ globalhost.com.ve.
 globalhost.net.ve.
 globalhosting.com.ve.
 globalimagen.com.ve.
+globalinvestment.com.ve.
 globalm.com.ve.
 globalmarcas.com.ve.
 globalmarket.com.ve.
@@ -10057,6 +10058,7 @@ handbellvenezuela.com.ve.
 hands.com.ve.
 handshake.com.ve.
 hangar74.com.ve.
+hanka.com.ve.
 hankison.com.ve.
 hankook.com.ve.
 hankypanky.com.ve.
@@ -11777,7 +11779,6 @@ itst.com.ve.
 itstravel.com.ve.
 itunes.com.ve.
 itunesradio.com.ve.
-iturbe.com.ve.
 itverx.com.ve.
 itw.com.ve.
 iua.edu.ve.
@@ -12295,6 +12296,7 @@ kenissi.com.ve.
 kennethcole.co.ve.
 kennethcole.com.ve.
 kent.com.ve.
+kentro.com.ve.
 kenvue.com.ve.
 kenvuevenezuela.com.ve.
 kenwood.com.ve.
@@ -12304,7 +12306,6 @@ kepido.com.ve.
 kerastase.com.ve.
 kering.com.ve.
 keromuchi.com.ve.
-keva.com.ve.
 kevlar.co.ve.
 kevlar.com.ve.
 keystone.net.ve.
@@ -12328,6 +12329,7 @@ kidsrus.org.ve.
 kidstore.com.ve.
 kikiseguridad.com.ve.
 kikocosmetics.co.ve.
+kilates.com.ve.
 kimberly-clark.com.ve.
 kimbino.co.ve.
 kimiceg.com.ve.
@@ -12726,6 +12728,7 @@ lasiniestra.org.ve.
 laslineasdechavez.gob.ve.
 lasmiditan.com.ve.
 lasnonnitas.com.ve.
+lasnoticiasdehoy.com.ve.
 lasnovedades.com.ve.
 lasoberana.com.ve.
 lasociete.com.ve.
@@ -12961,11 +12964,13 @@ liceobaralt.edu.ve.
 liceolosrobles.com.ve.
 liceolosrobles.edu.ve.
 liceomilitar4deagosto.mil.ve.
+liceoromulogallegos.com.ve.
 licitacionesaldia.gov.ve.
 licmiljau.mil.ve.
 licorchemineaud.com.ve.
 licorway.com.ve.
 licoteca.com.ve.
+licovery.com.ve.
 lider104.com.ve.
 lideractivo.com.ve.
 lidherma.com.ve.
@@ -13506,7 +13511,6 @@ manapro.com.ve.
 manave.com.ve.
 mancent.com.ve.
 manchas.com.ve.
-mancorasuites.com.ve.
 mandalaremesa.com.ve.
 mandalaybay.com.ve.
 mandg-investments.com.ve.
@@ -14020,7 +14024,6 @@ mejoresapuestas.com.ve.
 mejorescasinosonline.com.ve.
 mel.com.ve.
 melbet.com.ve.
-melbetregistration.com.ve.
 melia.com.ve.
 meliahotelsinternational.com.ve.
 melibank.co.ve.
@@ -14134,6 +14137,7 @@ mercoamerica.com.ve.
 mercosur.com.ve.
 mercosur.info.ve.
 mercury.com.ve.
+merengada.com.ve.
 merenguepasteleria.com.ve.
 merente.com.ve.
 merexca.com.ve.
@@ -15171,7 +15175,6 @@ nektar.com.ve.
 neoanalisis.net.ve.
 neodent.co.ve.
 neodent.com.ve.
-neoelectronics.com.ve.
 neogenesisbs.com.ve.
 neogig.com.ve.
 neolith.com.ve.
@@ -15314,7 +15317,6 @@ nexusradical.com.ve.
 nfcomunicaciones.com.ve.
 ngautogroup.com.ve.
 nggm.com.ve.
-ngk.com.ve.
 ngtomasi.com.ve.
 nh-hoteles.com.ve.
 nh-hotels.com.ve.
@@ -15846,6 +15848,7 @@ operacionsonrisa.net.ve.
 operacionsonrisa.org.ve.
 operadoraturisticadelcaribe.com.ve.
 operamini.co.ve.
+ophtal.com.ve.
 ophtalcom.com.ve.
 opinion.co.ve.
 opiniones.co.ve.
@@ -16343,6 +16346,7 @@ pearlmaster.web.ve.
 pearsonelt.com.ve.
 pearsonlongman.com.ve.
 pedalradio.com.ve.
+pedeca.com.ve.
 pedernales-deltaamacuro.gov.ve.
 pediartesanal.com.ve.
 pediatria.com.ve.
@@ -16518,7 +16522,6 @@ pgp24.com.ve.
 pgpcca.com.ve.
 pgr.gob.ve.
 pgr.gov.ve.
-pgscompany.com.ve.
 pgweb.com.ve.
 ph9.com.ve.
 phantomcreativo.com.ve.
@@ -17030,7 +17033,6 @@ primehome.com.ve.
 primer.com.ve.
 primeradama.gov.ve.
 primerojusticia.org.ve.
-primeshoes.com.ve.
 primetravel.com.ve.
 primevideo.co.ve.
 primevideo.com.ve.
@@ -18851,6 +18853,7 @@ seguros-capital.com.ve.
 seguros-de-viaje.com.ve.
 segurosbanesco.com.ve.
 segurosbaratos.com.ve.
+seguroscapital.com.ve.
 segurosclev.com.ve.
 segurosconstitucion.com.ve.
 seguroshorizonte.gob.ve.
@@ -19936,6 +19939,7 @@ starkey.com.ve.
 starkids.com.ve.
 starkindustrias.com.ve.
 starlink.co.ve.
+starlink.com.ve.
 starliteshop.com.ve.
 starnet.com.ve.
 staroffice.com.ve.
@@ -22667,7 +22671,6 @@ vivero.com.ve.
 viverodelabuelo.com.ve.
 viverolosmontesverdes.com.ve.
 viveros.com.ve.
-vivesaludable.com.ve.
 vivienda.gob.ve.
 vivienda.gov.ve.
 viviendoconcancer.com.ve.
