@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 15Apr2025 04:27 UTC
+# ve domain names extracted from nameservers on 16Apr2025 04:29 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1611,7 +1611,6 @@ aristocrazy.co.ve.
 ariza.com.ve.
 arjo.com.ve.
 arjohuntleigh.com.ve.
-arkadia.com.ve.
 arkangel.com.ve.
 arkbienes.com.ve.
 arkema.com.ve.
@@ -1807,6 +1806,7 @@ asyhubve.com.ve.
 at.co.ve.
 at.net.ve.
 atabapo-amazonas.gob.ve.
+atanor.com.ve.
 atanordeseguros.com.ve.
 ataro.com.ve.
 atarraya.com.ve.
@@ -3879,7 +3879,6 @@ centrecatala.com.ve.
 centro-ceti.edu.ve.
 centro99.com.ve.
 centrobulevarplaza.com.ve.
-centroclinicofamilia.com.ve.
 centrocomercial.com.ve.
 centrodeapuestaselrey.com.ve.
 centrodefensores.org.ve.
@@ -5009,7 +5008,6 @@ commovil.com.ve.
 commscope.com.ve.
 commservices.com.ve.
 communicate.co.ve.
-comovendermas.com.ve.
 compago.com.ve.
 companeo.com.ve.
 companyregister.co.ve.
@@ -7023,7 +7021,6 @@ eddiebauer.com.ve.
 edeandravenscroft.co.ve.
 edeandravenscroft.com.ve.
 edel-optics.com.ve.
-edelca.com.ve.
 edelca.gob.ve.
 eden-red.co.ve.
 eden-red.com.ve.
@@ -8457,6 +8454,7 @@ fonbe.com.ve.
 fonbe.gob.ve.
 fonbet.co.ve.
 fonbet.com.ve.
+fonbienes.com.ve.
 foncrea.gob.ve.
 foncrepcojedes.gob.ve.
 fondael.gob.ve.
@@ -9650,6 +9648,7 @@ grancacique.com.ve.
 grancapitulo.org.ve.
 grancaribe.gob.ve.
 grandealer.com.ve.
+grandhotel.com.ve.
 grandt.co.ve.
 grandt.com.ve.
 grandvitara.com.ve.
@@ -14950,6 +14949,7 @@ mundijuegos.com.ve.
 mundipharma.com.ve.
 mundo-oriental.com.ve.
 mundo.com.ve.
+mundoarte.com.ve.
 mundoautomatico.com.ve.
 mundobabytv.com.ve.
 mundoblack.com.ve.
@@ -15868,6 +15868,9 @@ ophtal.com.ve.
 ophtalcom.com.ve.
 opinion.co.ve.
 opiniones.co.ve.
+opinionesalimentacion.com.ve.
+opinionesbelleza.com.ve.
+opinionesdesalud.com.ve.
 opmobility.com.ve.
 opodo.com.ve.
 opppe.gob.ve.
@@ -17234,6 +17237,7 @@ prosciuttodiparma.co.ve.
 prosegur.com.ve.
 proseguros.com.ve.
 prosein.com.ve.
+proserca.com.ve.
 proservices.com.ve.
 prosevenca.com.ve.
 prosider.com.ve.
@@ -18955,6 +18959,7 @@ seplan.gob.ve.
 septep.gob.ve.
 sepyaracuy.gob.ve.
 sequoia.com.ve.
+seralica.com.ve.
 sercanto.com.ve.
 sercatel.com.ve.
 sercom.net.ve.
@@ -19229,7 +19234,6 @@ sidley.co.ve.
 sidley.com.ve.
 sidleyaustin.co.ve.
 sidleyaustin.com.ve.
-sidma.net.ve.
 sidney.com.ve.
 sidor.com.ve.
 siebel.com.ve.
@@ -20564,7 +20568,6 @@ tecnologia.com.ve.
 tecnologiaalvarado.com.ve.
 tecnologiagb.com.ve.
 tecnologiapos.com.ve.
-tecnologiasparalasalud.com.ve.
 tecnologiautopica.com.ve.
 tecnologicodelavictoria.edu.ve.
 tecnologicosucre.edu.ve.
@@ -20971,7 +20974,6 @@ tkms-group.com.ve.
 tkms.com.ve.
 tkmsgroup.com.ve.
 tla.gob.ve.
-tlvadis.com.ve.
 tmc.com.ve.
 tmconceptos.com.ve.
 tmf-group.com.ve.
@@ -22760,6 +22762,7 @@ volvoce.com.ve.
 volvogroup.ve.
 volvotrucks.com.ve.
 vom.com.ve.
+von.com.ve.
 vopak.com.ve.
 vornado.co.ve.
 vortioson.co.ve.
