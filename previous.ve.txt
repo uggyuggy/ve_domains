@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 16Apr2025 04:29 UTC
+# ve domain names extracted from nameservers on 17Apr2025 04:29 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1400,6 +1400,7 @@ antoniodiaz-deltaamacuro.gov.ve.
 antoniojosedesucre-barinas.gob.ve.
 antoniopintosalinas-merida.gov.ve.
 antoniotortola.com.ve.
+antoniotrujillo.com.ve.
 antv.gob.ve.
 anuncio.com.ve.
 anuncios.co.ve.
@@ -1583,9 +1584,9 @@ arcven.com.ve.
 arcyart.com.ve.
 ardas.com.ve.
 area.com.ve.
+areaelectric.com.ve.
 areaverde.com.ve.
 arelec.com.ve.
-arelfoods.com.ve.
 arenaparqueacuatico.com.ve.
 arenaplaza.com.ve.
 arepapela.com.ve.
@@ -1836,6 +1837,7 @@ atlas-store.com.ve.
 atlas.com.ve.
 atlascopco.com.ve.
 atlasfiltri.com.ve.
+atlasindustries.com.ve.
 atlaspc.com.ve.
 atlasviajes.com.ve.
 atletica.com.ve.
@@ -4319,6 +4321,7 @@ ciudadmcy.info.ve.
 ciudadvalencia.com.ve.
 civ.net.ve.
 civenpa.com.ve.
+civg.com.ve.
 civitatis.com.ve.
 cix.com.ve.
 cix.net.ve.
@@ -6480,7 +6483,6 @@ digitalfot.com.ve.
 digitalgo.com.ve.
 digitalprint.com.ve.
 digitalrealty.com.ve.
-digitalsolution.com.ve.
 digitalstudio.com.ve.
 digitalwebdesign.com.ve.
 digitalx.net.ve.
@@ -7550,6 +7552,7 @@ esainca.com.ve.
 esal-ca.com.ve.
 escala.com.ve.
 escaladenoticias.com.ve.
+escamas.com.ve.
 escampadero.com.ve.
 escan.co.ve.
 escanav.co.ve.
@@ -7992,6 +7995,7 @@ familiadisney.com.ve.
 familiavick.com.ve.
 familysearch.org.ve.
 famori.com.ve.
+famudane.com.ve.
 fan-sale.com.ve.
 fanaticalsupport.com.ve.
 fanaticos.com.ve.
@@ -9092,6 +9096,7 @@ gamelounge.com.ve.
 gamepix.com.ve.
 gamepoint.com.ve.
 gamepro.com.ve.
+gamezcars.com.ve.
 gamifant.com.ve.
 gamingcity.co.ve.
 gamingcity.com.ve.
@@ -9599,6 +9604,7 @@ googleworkspace.com.ve.
 googol.com.ve.
 goorin.com.ve.
 gooser.com.ve.
+gopharma.com.ve.
 gordas.com.ve.
 gormiti.com.ve.
 gosbi.com.ve.
@@ -12730,7 +12736,6 @@ lasenza.co.ve.
 lasenza.com.ve.
 laser.com.ve.
 lasercenter.com.ve.
-laserclub.com.ve.
 lasermed.com.ve.
 lasermedicalspa20.com.ve.
 lasgacelas.com.ve.
@@ -13716,6 +13721,7 @@ masa.com.ve.
 masacasport.com.ve.
 masautoselvinedo.com.ve.
 masaya.org.ve.
+masbeatles.com.ve.
 masciencia.gob.ve.
 mascota.com.ve.
 mascotas.co.ve.
@@ -15513,6 +15519,7 @@ nuevaera.com.ve.
 nuevaerainmobiliaria.com.ve.
 nuevaesparta.gob.ve.
 nuevaetapa.gob.ve.
+nuevalinea.com.ve.
 nuevaprensa.com.ve.
 nuevaprensa.web.ve.
 nuevasoc.org.ve.
@@ -15794,6 +15801,7 @@ oneandone.com.ve.
 oneblade.com.ve.
 onedrive.co.ve.
 onedrive.com.ve.
+onelink.net.ve.
 onergy.com.ve.
 onestopplus.co.ve.
 onestopplus.com.ve.
@@ -18638,7 +18646,6 @@ satea.gob.ve.
 sateb.gob.ve.
 satelca.com.ve.
 satelcom.com.ve.
-satelitales.com.ve.
 satem.gob.ve.
 satet.gob.ve.
 satguaica.com.ve.
@@ -21595,6 +21602,7 @@ tvredes.com.ve.
 tvs.net.ve.
 tvvextranet.com.ve.
 tvvextranet2.com.ve.
+tvzamora.ve.
 twentyonemen.com.ve.
 twinkl.co.ve.
 twistshake.com.ve.
@@ -21666,6 +21674,7 @@ uead.gob.ve.
 ueaguaviva.com.ve.
 ueaguavivanuevaesparta.com.ve.
 ueamanolomunch.com.ve.
+uearzobispomendez.edu.ve.
 uebtdnsucre.edu.ve.
 uebuenpastor.com.ve.
 uec.edu.ve.

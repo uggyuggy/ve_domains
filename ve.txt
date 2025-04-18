@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 17Apr2025 04:29 UTC
+# ve domain names extracted from nameservers on 18Apr2025 04:33 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -7669,6 +7669,7 @@ esthermorales.com.ve.
 estrabismo.com.ve.
 estrategiacorporativa.net.ve.
 estrategiashumanas.com.ve.
+estrelladigital.com.ve.
 estudiantes.edu.ve.
 estudio58interactivo.com.ve.
 estudioarco.com.ve.
@@ -9960,7 +9961,6 @@ guaraque-merida.gov.ve.
 guardacostas.mil.ve.
 guardia.mil.ve.
 guardiadelpueblo.mil.ve.
-guardiangps.com.ve.
 guarenas.gov.ve.
 guaribe.com.ve.
 guarico.gob.ve.
@@ -17861,7 +17861,6 @@ reltripvee.com.ve.
 relxnow.com.ve.
 remax-class.com.ve.
 remax.com.ve.
-remaxmillenium.com.ve.
 remaxmomentum.com.ve.
 remaxplus.com.ve.
 remeca.com.ve.
@@ -18676,7 +18675,6 @@ saxomarkets.com.ve.
 sayaclothing.com.ve.
 sayegh.com.ve.
 saypro.com.ve.
-sazongourmet.com.ve.
 sbasociados.com.ve.
 sbotanica.org.ve.
 sbr.gob.ve.
@@ -20585,6 +20583,7 @@ tecnomar.com.ve.
 tecnomarket.com.ve.
 tecnomat.com.ve.
 tecnonet.com.ve.
+tecnoparaguana.org.ve.
 tecnoparque.gob.ve.
 tecnoperfil.com.ve.
 tecnoplan.com.ve.
@@ -23026,7 +23025,6 @@ wholefoodsmarket.com.ve.
 wholesurgical.com.ve.
 whopper.com.ve.
 widetec.com.ve.
-widowssons.com.ve.
 wifiprado.com.ve.
 wifisolution.com.ve.
 wifisolution.net.ve.
