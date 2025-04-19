@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 18Apr2025 04:33 UTC
+# ve domain names extracted from nameservers on 19Apr2025 04:37 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -616,7 +616,6 @@ aguaelsaman.com.ve.
 aguagas.com.ve.
 aguamarina.com.ve.
 aguamerca.com.ve.
-aguasantabouquets.com.ve.
 aguasay-monagas.gob.ve.
 aguasay.com.ve.
 aguasdemerida.com.ve.
@@ -3733,7 +3732,6 @@ cczulia.org.ve.
 cdate.co.ve.
 cdating.co.ve.
 cdc.com.ve.
-cdca.com.ve.
 cdce.com.ve.
 cdeeslara.gob.ve.
 cdiscount.co.ve.
@@ -6075,7 +6073,6 @@ datejust.net.ve.
 datejust.org.ve.
 datejust.web.ve.
 datevida.com.ve.
-datinvoz.com.ve.
 datoca.com.ve.
 datocapital.com.ve.
 datos-abiertos.edu.ve.
@@ -6688,7 +6685,6 @@ dobrica.com.ve.
 doca-safety.com.ve.
 docente.com.ve.
 doctorderetinas.com.ve.
-doctorimpresora.com.ve.
 doctormas.com.ve.
 doctory.com.ve.
 docusign.co.ve.
@@ -8619,7 +8615,6 @@ fossil.com.ve.
 fosuca.com.ve.
 foto.com.ve.
 fotocommunity.com.ve.
-fotografyx.com.ve.
 fotolia.co.ve.
 fotoregalos.com.ve.
 fotos.com.ve.
@@ -11886,6 +11881,7 @@ ivanpacheco.com.ve.
 ivanscherman.co.ve.
 ivanscherman.com.ve.
 ivc.com.ve.
+ivea.com.ve.
 ivec.gov.ve.
 iveco-bus.com.ve.
 iveco-group.com.ve.
@@ -13107,8 +13103,6 @@ livelovedream.co.ve.
 liveperson.co.ve.
 liveperson.com.ve.
 liveri.com.ve.
-livespeaking.co.ve.
-livespeaking.com.ve.
 livestand.co.ve.
 livestand.com.ve.
 livetickets.com.ve.
@@ -14955,6 +14949,7 @@ mundijuegos.com.ve.
 mundipharma.com.ve.
 mundo-oriental.com.ve.
 mundo.com.ve.
+mundo4kids.com.ve.
 mundoarte.com.ve.
 mundoautomatico.com.ve.
 mundobabytv.com.ve.
@@ -15825,7 +15820,6 @@ onlineshop.co.ve.
 onlineshop.com.ve.
 onlinetravel.com.ve.
 onlycomputers.com.ve.
-onlytogo.com.ve.
 onmovy.com.ve.
 onnestech.com.ve.
 onofreca.com.ve.
@@ -22829,8 +22823,6 @@ vstonline.com.ve.
 vtaplus.com.ve.
 vtc.com.ve.
 vtelca.gob.ve.
-vtest.co.ve.
-vtest.com.ve.
 vtgp.com.ve.
 vtscorp.com.ve.
 vtv.com.ve.
@@ -22856,6 +22848,7 @@ vycsucre.gob.ve.
 vysucre.gob.ve.
 vytorin.com.ve.
 vyvanse.com.ve.
+vz.net.ve.
 vzlaproductiva.gob.ve.
 vzlaviaja.com.ve.
 wainet.com.ve.
