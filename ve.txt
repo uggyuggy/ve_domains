@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19Apr2025 04:37 UTC
+# ve domain names extracted from nameservers on 20Apr2025 04:31 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -9274,6 +9274,7 @@ gerais.com.ve.
 gerber.com.ve.
 gerberbaby.com.ve.
 gerdau.com.ve.
+gerencia.com.ve.
 gerenciafarma.com.ve.
 gerenciapublicaysocial.gob.ve.
 gerenciasocial.gob.ve.
@@ -12157,6 +12158,7 @@ jubiladosbcv.com.ve.
 jubiladosbcv.org.ve.
 judenamil.mil.ve.
 juegaenlinea.co.ve.
+juegaycobra.com.ve.
 juegodelaranita.com.ve.
 juegos.co.ve.
 juegos.com.ve.
@@ -14587,7 +14589,6 @@ mlscaracas.com.ve.
 mlsltd.com.ve.
 mlvtrabajo.com.ve.
 mm-marketing.com.ve.
-mmaccesorios.com.ve.
 mmbselect.com.ve.
 mmcabledata.com.ve.
 mmcomputer.com.ve.
