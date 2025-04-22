@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20Apr2025 04:31 UTC
+# ve domain names extracted from nameservers on 21Apr2025 04:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2159,6 +2159,7 @@ baer.gob.ve.
 baer.org.ve.
 bah.com.ve.
 bahai.org.ve.
+baharat.com.ve.
 bahia-principe.co.ve.
 bahia-principe.com.ve.
 bahiadorada.com.ve.
@@ -3658,7 +3659,6 @@ cauchosya.com.ve.
 caudalie.com.ve.
 cav.net.ve.
 cav.org.ve.
-cav.web.ve.
 cavacuarto.com.ve.
 cavalinho.com.ve.
 cavecom-e.org.ve.
@@ -3719,7 +3719,6 @@ ccpguarico.com.ve.
 ccpmerida.org.ve.
 ccpmiranda.org.ve.
 ccpv.org.ve.
-ccqtelecom.com.ve.
 ccre.com.ve.
 ccre.gov.ve.
 ccsantafe.com.ve.
@@ -4062,7 +4061,6 @@ chefman.com.ve.
 chefmargaro.com.ve.
 chefsteps.co.ve.
 chefsteps.com.ve.
-chefworks.com.ve.
 chejconsultor.com.ve.
 chelonialosroques.com.ve.
 chemineaud.com.ve.
@@ -7697,7 +7695,6 @@ ethernew.com.ve.
 etica.com.ve.
 etickets.com.ve.
 etienda.com.ve.
-etiflexenco.com.ve.
 etiflexo.com.ve.
 etig.edu.ve.
 etilox.com.ve.
@@ -9803,7 +9800,6 @@ grupofc.com.ve.
 grupofelectech.com.ve.
 grupoferro.com.ve.
 grupofinancieroatlantida.com.ve.
-grupoflexo.com.ve.
 grupofsi.com.ve.
 grupogina.com.ve.
 grupogoldsea.com.ve.
@@ -11492,7 +11488,6 @@ intermisiones-aragua.gob.ve.
 intermotors.com.ve.
 intermune.com.ve.
 intermyps.com.ve.
-internacional.com.ve.
 internacionalvdcacademy.com.ve.
 international.com.ve.
 internationalaccounting.com.ve.
@@ -17528,6 +17523,7 @@ radiodisney.com.ve.
 radioegidiomontesinos.com.ve.
 radioestadio.com.ve.
 radioflyer.com.ve.
+radioguaco.com.ve.
 radiohcinternacional.com.ve.
 radioiberolatina.com.ve.
 radioideal.com.ve.
@@ -22893,7 +22889,6 @@ warrior-king.com.ve.
 warriorking.com.ve.
 wartsila.co.ve.
 wartsila.com.ve.
-washe.com.ve.
 washiru.com.ve.
 watchguard.com.ve.
 watchstation.com.ve.

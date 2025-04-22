@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21Apr2025 04:23 UTC
+# ve domain names extracted from nameservers on 22Apr2025 04:26 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1148,7 +1148,6 @@ altria.co.ve.
 altria.com.ve.
 altria.org.ve.
 altrom.com.ve.
-alucasa.com.ve.
 alucasa.gob.ve.
 alucobond.co.ve.
 alucobond.com.ve.
@@ -2367,6 +2366,7 @@ bcreati.com.ve.
 bcv.gov.ve.
 bcv.org.ve.
 bcve.org.ve.
+bcveuroasia.org.ve.
 bcvv.org.ve.
 bcw-global.com.ve.
 bdc.com.ve.
@@ -2684,7 +2684,6 @@ biopack.com.ve.
 biopagopdv.com.ve.
 bioparral.com.ve.
 biopharma.com.ve.
-bioplaga.com.ve.
 biopsicosalud.com.ve.
 biore.com.ve.
 biorenacer.com.ve.
@@ -3222,6 +3221,7 @@ cadafe.com.ve.
 cadafe.gob.ve.
 cadbury-adams.com.ve.
 cadbury.com.ve.
+cadena360.com.ve.
 caderco.com.ve.
 cadi.com.ve.
 cadif1.com.ve.
@@ -5637,6 +5637,7 @@ costamar.com.ve.
 costco.com.ve.
 costel.com.ve.
 cosulca.com.ve.
+cota1000.com.ve.
 cotatur.gob.ve.
 cotatur.gov.ve.
 coteserca.com.ve.
@@ -6836,6 +6837,7 @@ dsm.com.ve.
 dsp.com.ve.
 dtecnet.com.ve.
 dtk.com.ve.
+dtuniversity.org.ve.
 dual.com.ve.
 dubert.com.ve.
 ducati.com.ve.
@@ -10601,6 +10603,7 @@ huc.gov.ve.
 huel.co.ve.
 huel.com.ve.
 huellaecologica.com.ve.
+huellas.com.ve.
 huellas.org.ve.
 huevo.com.ve.
 huggins.co.ve.
@@ -12251,6 +12254,7 @@ kamut.com.ve.
 kaneka.co.ve.
 kaneka.com.ve.
 kanekalon.co.ve.
+kaninos.com.ve.
 kantal.com.ve.
 kapacita.edu.ve.
 kapitalconsultores.com.ve.
@@ -12729,6 +12733,7 @@ lasenza.co.ve.
 lasenza.com.ve.
 laser.com.ve.
 lasercenter.com.ve.
+laserclub.com.ve.
 lasermed.com.ve.
 lasermedicalspa20.com.ve.
 lasgacelas.com.ve.
@@ -12797,7 +12802,6 @@ lavozdeguaicaipuro.com.ve.
 lavozdejesus.org.ve.
 lavozdelaesperanza.com.ve.
 lavozdelamisericordiafm.com.ve.
-lavozdelosmartires.com.ve.
 lavozdelvalle.org.ve.
 lavozdemacarao.com.ve.
 lavozdemoron935fm.com.ve.
@@ -12848,6 +12852,7 @@ legalbeauty.com.ve.
 legales.net.ve.
 legales.org.ve.
 legalmenteapp.com.ve.
+legalys.com.ve.
 legami.com.ve.
 legendsoft.com.ve.
 legis.com.ve.
@@ -12876,7 +12881,6 @@ lepaca.com.ve.
 lepconsult.com.ve.
 leroy-merlin.co.ve.
 leroymerlin.co.ve.
-lest.com.ve.
 letgo.co.ve.
 letgo.com.ve.
 leti.com.ve.
@@ -13635,7 +13639,6 @@ mariainmaculadacarora.com.ve.
 mariainmaculadacarora.edu.ve.
 marianurse.com.ve.
 mariasantisima.edu.ve.
-marikeritas.com.ve.
 marimba.com.ve.
 marin.com.ve.
 marin.net.ve.
@@ -15751,8 +15754,6 @@ omegadimensiones.com.ve.
 omg.com.ve.
 omicron.com.ve.
 omio.co.ve.
-omne.co.ve.
-omne.com.ve.
 omni.com.ve.
 omnibees.com.ve.
 omniconsult.com.ve.
@@ -16464,7 +16465,6 @@ perpetualplanetinitiative.com.ve.
 perpetualspirit.co.ve.
 perpetualspirit.com.ve.
 perros.com.ve.
-persecucion.com.ve.
 persianaselavila.com.ve.
 personalizados.com.ve.
 personalizalotodo.com.ve.
@@ -16514,6 +16514,8 @@ petsplanet.com.ve.
 petya.org.ve.
 peugeot.com.ve.
 pevite.com.ve.
+peya.co.ve.
+peya.com.ve.
 pfizermedicalinformation.com.ve.
 pfizermedinfo.com.ve.
 pfizerpro.co.ve.
@@ -20086,7 +20088,6 @@ suateg.gob.ve.
 suavitel.com.ve.
 subasta.com.ve.
 subete.com.ve.
-sublimacionamericana.com.ve.
 sublimandoideas.com.ve.
 sublime.com.ve.
 submariner.co.ve.
@@ -22209,9 +22210,7 @@ vcmultichannel.com.ve.
 vcs.com.ve.
 vdara.com.ve.
 vdi.com.ve.
-vdlm.com.ve.
 vdv.com.ve.
-vdvgroup.com.ve.
 ve-balloon-app.com.ve.
 ve-ix.com.ve.
 ve-ix.net.ve.
@@ -22760,7 +22759,6 @@ volvocars.ve.
 volvoce.com.ve.
 volvogroup.ve.
 volvotrucks.com.ve.
-vom.com.ve.
 von.com.ve.
 vopak.com.ve.
 vornado.co.ve.
@@ -22773,7 +22771,6 @@ voxclever.com.ve.
 voxtel.com.ve.
 voyganando.com.ve.
 vozdeloscreadores.gob.ve.
-vozdelosmartires.com.ve.
 vozgayona.com.ve.
 vpain.org.ve.
 vpeconomia.gob.ve.
