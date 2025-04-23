@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 22Apr2025 04:26 UTC
+# ve domain names extracted from nameservers on 23Apr2025 04:35 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1585,6 +1585,7 @@ area.com.ve.
 areaelectric.com.ve.
 areaverde.com.ve.
 arelec.com.ve.
+arelfoods.com.ve.
 arenaparqueacuatico.com.ve.
 arenaplaza.com.ve.
 arepapela.com.ve.
@@ -7987,6 +7988,7 @@ fameex.co.ve.
 fameex.com.ve.
 fames.gob.ve.
 fames.gov.ve.
+familiadeicas.com.ve.
 familiadisney.com.ve.
 familiavick.com.ve.
 familysearch.org.ve.
@@ -11574,6 +11576,7 @@ inversionesht.com.ve.
 inversionesjmc.com.ve.
 inversioneskevlar.com.ve.
 inversioneslafuente.com.ve.
+inversioneslosalquimistas.com.ve.
 inversioneslr.com.ve.
 inversionesmundo2020.com.ve.
 inversionespb.com.ve.
@@ -12287,6 +12290,7 @@ kayelectric.com.ve.
 kayros1063.com.ve.
 kbr.co.ve.
 kbt.com.ve.
+kcaoflower.com.ve.
 kebands.com.ve.
 keds.co.ve.
 keds.com.ve.
@@ -12500,6 +12504,7 @@ kunheelee.com.ve.
 kurtgeiger.co.ve.
 kurtgeiger.com.ve.
 kushki.com.ve.
+kuss.com.ve.
 kuvings.co.ve.
 kwusenshi.co.ve.
 kwusenshi.com.ve.
@@ -13947,6 +13952,7 @@ medicoentucasa.com.ve.
 medicontrol.com.ve.
 medicosaragua.com.ve.
 mediderma.co.ve.
+medientregas.com.ve.
 medientregas.net.ve.
 medifar.com.ve.
 medifarm.com.ve.
@@ -15448,6 +15454,7 @@ noticiasvenezolanas.co.ve.
 notiexpres24.com.ve.
 notificaciones.com.ve.
 notificaciones.net.ve.
+notino.co.ve.
 notiribas.com.ve.
 notitarde.com.ve.
 notivecinos.com.ve.
@@ -15866,6 +15873,7 @@ operamini.co.ve.
 ophtal.com.ve.
 ophtalcom.com.ve.
 opinion.co.ve.
+opiniondemocraticadigital.com.ve.
 opiniones.co.ve.
 opinionesalimentacion.com.ve.
 opinionesbelleza.com.ve.
@@ -16399,6 +16407,7 @@ pegoval.com.ve.
 pegperego.co.ve.
 pegperego.com.ve.
 peica.com.ve.
+peid.com.ve.
 peinate.com.ve.
 pelagosultra.co.ve.
 pelagosultra.com.ve.
@@ -18012,6 +18021,7 @@ reyrep.com.ve.
 reyvow.com.ve.
 reyvowe.com.ve.
 rfsystems.com.ve.
+rgb.com.ve.
 rgo.com.ve.
 rgtech.com.ve.
 rh.com.ve.
@@ -18443,6 +18453,7 @@ salbas.com.ve.
 saldorapido.com.ve.
 salerm.com.ve.
 salesianosarria.edu.ve.
+saletbot.com.ve.
 salinera.com.ve.
 salomon-sports.co.ve.
 salomon-sports.com.ve.
@@ -19179,6 +19190,7 @@ shoppu.com.ve.
 shopstyle.co.ve.
 shoptime.com.ve.
 showcenter.com.ve.
+showdownvenezuela.org.ve.
 showmax.co.ve.
 showmax.com.ve.
 showmb.com.ve.
@@ -21820,6 +21832,7 @@ unalaraweb.com.ve.
 unanina.com.ve.
 unareguia.com.ve.
 unasucre.com.ve.
+unasys.com.ve.
 unatur.edu.ve.
 unc.edu.ve.
 unceta.com.ve.
@@ -22636,6 +22649,7 @@ visipol.gob.ve.
 visita.com.ve.
 visitapresidencial.gov.ve.
 visitar.com.ve.
+visitec.com.ve.
 visiteherbalife.co.ve.
 visitemaracaibo.gob.ve.
 visitemerida.com.ve.
@@ -23011,6 +23025,7 @@ wholefoodsmarket.com.ve.
 wholesurgical.com.ve.
 whopper.com.ve.
 widetec.com.ve.
+widowssons.com.ve.
 wifiprado.com.ve.
 wifisolution.com.ve.
 wifisolution.net.ve.
@@ -23281,6 +23296,7 @@ yolohagobien.com.ve.
 yonka.com.ve.
 yonkaformen.com.ve.
 yonlui.com.ve.
+yonuncalebajo.com.ve.
 yonyou.com.ve.
 yoox.co.ve.
 yoox.com.ve.
