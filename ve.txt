@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 23Apr2025 04:35 UTC
+# ve domain names extracted from nameservers on 24Apr2025 04:35 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1879,6 +1879,7 @@ audionova.co.ve.
 auditoresman.com.ve.
 aula-educredito.org.ve.
 aulaglobal.net.ve.
+aulahugochavez.org.ve.
 aulainteractiva.com.ve.
 aulaplaneta.co.ve.
 aulaplaneta.com.ve.
@@ -2835,7 +2836,6 @@ boconcept.com.ve.
 bocono-trujillo.gov.ve.
 bocunebart.com.ve.
 boda.co.ve.
-bodainesalirio.com.ve.
 bodas.co.ve.
 bodas.com.ve.
 bodebar.com.ve.
@@ -3322,6 +3322,7 @@ camozzi.co.ve.
 camozzi.com.ve.
 camozziautomation.co.ve.
 campaignforrealbeauty.com.ve.
+campamentoaventura.net.ve.
 campamentopan.com.ve.
 campana-nacional-maisanta.gov.ve.
 campananacionalmaisanta.gov.ve.
@@ -5521,6 +5522,7 @@ corpomundo.com.ve.
 corpoplast.com.ve.
 corporacionaf.com.ve.
 corporacionag.com.ve.
+corporacionaramco.com.ve.
 corporacionaven.com.ve.
 corporacionbancapublica.gob.ve.
 corporacionbcc.com.ve.
@@ -7960,7 +7962,6 @@ factorycosmetics.com.ve.
 factronics.com.ve.
 factum.com.ve.
 facturafacil.com.ve.
-facturantes.com.ve.
 fademcahogar.com.ve.
 faema.com.ve.
 fag.com.ve.
@@ -8385,7 +8386,6 @@ flisol.org.ve.
 flixela.com.ve.
 flixster.com.ve.
 flnh.gob.ve.
-float.com.ve.
 floraqueen.com.ve.
 flordis.com.ve.
 flordishealth.com.ve.
@@ -8537,7 +8537,6 @@ formacionvirtual.com.ve.
 formacol.com.ve.
 formafitgym.com.ve.
 formaprof.com.ve.
-formarte.com.ve.
 formica.com.ve.
 formiconi.com.ve.
 foro-internacional-tda.co.ve.
@@ -11322,7 +11321,6 @@ inpremilmo.mil.ve.
 inpremilpo.mil.ve.
 inpremilta.mil.ve.
 inpremilya.mil.ve.
-inpro.com.ve.
 inprofuego.com.ve.
 inpsasel.gob.ve.
 inpsasel.gov.ve.
@@ -11404,7 +11402,6 @@ insubiol.com.ve.
 insulibro.gob.ve.
 insumar2016.com.ve.
 insumat.com.ve.
-insumedacarigua.com.ve.
 insupen.com.ve.
 insuperable891fm.com.ve.
 insutec.com.ve.
@@ -12130,6 +12127,7 @@ jota.com.ve.
 jotun.co.ve.
 jotun.com.ve.
 joveneduca.org.ve.
+jovenesconbernal.org.ve.
 jovenesdelbarrio.gob.ve.
 jovenesnestle.com.ve.
 joyeriainternacional.com.ve.
@@ -18526,7 +18524,6 @@ sancarlos-cojedes.gov.ve.
 sancasimiro-aragua.gob.ve.
 sanchez.com.ve.
 sanchezcia.com.ve.
-sanchezpolo.com.ve.
 sancorseguros.com.ve.
 sancris.com.ve.
 sancristobal-tachira.gob.ve.
@@ -22178,7 +22175,6 @@ valor-bet.com.ve.
 valor18.com.ve.
 valorbetcasino.com.ve.
 valoresyacciones.com.ve.
-valsystem.com.ve.
 valtra.com.ve.
 valuactivosgarmapul.com.ve.
 valuenet.com.ve.
@@ -22383,6 +22379,7 @@ venmir.com.ve.
 venmo.co.ve.
 venpackers.com.ve.
 venpacol.com.ve.
+venplusweb.com.ve.
 venprecar.com.ve.
 venpres.gov.ve.
 venred.com.ve.
@@ -23442,6 +23439,7 @@ zubr.com.ve.
 zucaritas.com.ve.
 zucchero.com.ve.
 zucom.net.ve.
+zuimport.com.ve.
 zukbox.com.ve.
 zuled.com.ve.
 zulia.gob.ve.
