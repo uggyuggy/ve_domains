@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 24Apr2025 04:35 UTC
+# ve domain names extracted from nameservers on 25Apr2025 05:23 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -81,7 +81,6 @@
 333krv7olw2ynfgw1n.org.ve.
 333krv7olw2ynfgw1n.web.ve.
 34brigmonagas.mil.ve.
-351euromarket.com.ve.
 360margaritaca.com.ve.
 360net.com.ve.
 3clics.com.ve.
@@ -3367,6 +3366,7 @@ candelaria-trujillo.gob.ve.
 candle.com.ve.
 candlecorporation.com.ve.
 candlecorporationca.com.ve.
+candonga.com.ve.
 canes.edu.ve.
 canesten.com.ve.
 cania.org.ve.
@@ -3424,6 +3424,7 @@ caraboboenlinea.gob.ve.
 caracas.com.ve.
 caracas.gob.ve.
 caracas.org.ve.
+caracas.web.ve.
 caracascomiccon.com.ve.
 caracasracquetclub.com.ve.
 caracasshopping.com.ve.
@@ -4063,6 +4064,7 @@ chefman.com.ve.
 chefmargaro.com.ve.
 chefsteps.co.ve.
 chefsteps.com.ve.
+chefworks.com.ve.
 chejconsultor.com.ve.
 chelonialosroques.com.ve.
 chemineaud.com.ve.
@@ -4127,7 +4129,6 @@ chircalnetwifi.com.ve.
 chistes.com.ve.
 chivas-regal.com.ve.
 chivasregal.com.ve.
-chnet.com.ve.
 chobani.co.ve.
 chobani.com.ve.
 chocokrispis.com.ve.
@@ -6753,6 +6754,7 @@ dosel.com.ve.
 dostorres.com.ve.
 doterra.co.ve.
 doterra.com.ve.
+dotraca.com.ve.
 dovemencare.com.ve.
 dow.com.ve.
 dowagro.com.ve.
@@ -7408,7 +7410,6 @@ energizer.com.ve.
 energras.com.ve.
 energy.net.ve.
 energytech.com.ve.
-enerjet.com.ve.
 enf.edu.ve.
 enfa.com.ve.
 enfabebe.com.ve.
@@ -7484,6 +7485,7 @@ envirotec.com.ve.
 envista.com.ve.
 envivo.com.ve.
 envopack.com.ve.
+enxuta.com.ve.
 epa.com.ve.
 epac.com.ve.
 epaer.mil.ve.
@@ -9956,6 +9958,7 @@ guaraque-merida.gov.ve.
 guardacostas.mil.ve.
 guardia.mil.ve.
 guardiadelpueblo.mil.ve.
+guardiangps.com.ve.
 guarenas.gov.ve.
 guaribe.com.ve.
 guarico.gob.ve.
@@ -12168,6 +12171,7 @@ jueves.com.ve.
 juezasyjuecespazcomunal.org.ve.
 jugosdelvalle.com.ve.
 juguetemagico.gob.ve.
+juleslarose.com.ve.
 julio.com.ve.
 juliocalvo.com.ve.
 juliocesarsalas-merida.gov.ve.
@@ -12270,6 +12274,7 @@ kardex.com.ve.
 karnicos.com.ve.
 karseell.com.ve.
 karuaiviajes.com.ve.
+kasarealestate.com.ve.
 kaseya.co.ve.
 kaseya.com.ve.
 kasipolin.edu.ve.
@@ -14339,6 +14344,7 @@ microtech.com.ve.
 microtel.net.ve.
 microzone.com.ve.
 micven.gob.ve.
+midea.com.ve.
 mideso.gob.ve.
 midiabetespasoapaso.com.ve.
 midmen.com.ve.
@@ -15889,7 +15895,6 @@ optiline.com.ve.
 optimus.com.ve.
 optra.com.ve.
 optrima.com.ve.
-opus.com.ve.
 opvc.org.ve.
 opvenezuela.com.ve.
 opxion.com.ve.
@@ -17563,7 +17568,6 @@ radioparticipativafm.com.ve.
 radioplay.com.ve.
 radiopremio103.com.ve.
 radiorescate.com.ve.
-radiorio.net.ve.
 radios.co.ve.
 radios.com.ve.
 radiosant.com.ve.
@@ -17875,7 +17879,6 @@ rena.edu.ve.
 renaca.com.ve.
 renacerpentecostal.com.ve.
 renacertelecom.com.ve.
-renacertelecom.ve.
 renaem.gob.ve.
 renaissance.net.ve.
 renault-trucks.co.ve.
@@ -17935,7 +17938,6 @@ repuestos.com.ve.
 repuestosalfaval.com.ve.
 repuestosbjdiesel.com.ve.
 repuestosbusdriver.com.ve.
-repuestoscarroschinos.com.ve.
 repuestoscherokee.com.ve.
 repuestosfastcars.com.ve.
 repuestoshonda.com.ve.
@@ -18792,6 +18794,7 @@ sea-dweller.net.ve.
 sea-dweller.org.ve.
 sea-dweller.web.ve.
 seabridge.com.ve.
+seaca.com.ve.
 seafight.com.ve.
 sealedair.com.ve.
 sealej.mil.ve.
@@ -18962,6 +18965,7 @@ sepesa.com.ve.
 sephora.com.ve.
 seplam.gob.ve.
 seplan.gob.ve.
+seprogan.com.ve.
 septep.gob.ve.
 sepyaracuy.gob.ve.
 sequoia.com.ve.
@@ -20410,7 +20414,6 @@ tag24.com.ve.
 taiko.com.ve.
 tailandia.org.ve.
 tailoy.com.ve.
-takata.com.ve.
 takeda.co.ve.
 takeda.com.ve.
 takis.com.ve.
@@ -21689,7 +21692,6 @@ uecelpilar.com.ve.
 uecjgh.edu.ve.
 uecjmi.edu.ve.
 uecluisacaceresdearismendilara.com.ve.
-uecmarcosevangeliopacheco.com.ve.
 uecmariadesantaana.edu.ve.
 uecmariauxiliadora.com.ve.
 uecmg.com.ve.
@@ -21948,6 +21950,7 @@ uniticket.com.ve.
 uniticketdigital.com.ve.
 unitravel.com.ve.
 unitronics.co.ve.
+unitv.com.ve.
 univadis.com.ve.
 univarsolutions.com.ve.
 universae.co.ve.
@@ -22783,9 +22786,7 @@ voxtel.com.ve.
 voyganando.com.ve.
 vozdeloscreadores.gob.ve.
 vozgayona.com.ve.
-vpain.org.ve.
 vpeconomia.gob.ve.
-vpitermoindustrial.com.ve.
 vpl.net.ve.
 vpm.org.ve.
 vpriv.com.ve.
