@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 25Apr2025 05:23 UTC
+# ve domain names extracted from nameservers on 26Apr2025 04:34 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1776,6 +1776,7 @@ asoramal6.org.ve.
 asos.co.ve.
 asos.com.ve.
 asotel.com.ve.
+asovac.org.ve.
 asovecindustria.com.ve.
 asovep.org.ve.
 asowest.com.ve.
@@ -5170,6 +5171,7 @@ conelmazodando.info.ve.
 conelmazodando.net.ve.
 conelmazodando.org.ve.
 conelmazodando.web.ve.
+conet.com.ve.
 conetec.com.ve.
 conetsys.com.ve.
 conettech.com.ve.
@@ -9619,7 +9621,6 @@ gotravelassistance.com.ve.
 goucov.com.ve.
 gourmetmarket.com.ve.
 gov.ve.
-gova.com.ve.
 gowireline.com.ve.
 gp.com.ve.
 gpc.com.ve.
@@ -11137,7 +11138,6 @@ inertel.com.ve.
 inesem.com.ve.
 inet.com.ve.
 inexco.com.ve.
-infalcosta.org.ve.
 infectologiahoy.com.ve.
 infica.com.ve.
 infierno.com.ve.
@@ -13998,6 +13998,7 @@ mega6.com.ve.
 mega6tntsports.co.ve.
 mega6tntsports.com.ve.
 megabusiness.com.ve.
+megacauchos.com.ve.
 megacentro.com.ve.
 megaconfites.com.ve.
 megacontrol.com.ve.
@@ -14010,6 +14011,7 @@ megalink.net.ve.
 megamarket.com.ve.
 megamec.com.ve.
 megaoffice.com.ve.
+megapari.com.ve.
 megaparty.com.ve.
 megaparty.net.ve.
 megapet.com.ve.
@@ -16436,6 +16438,7 @@ pentel.com.ve.
 penthouse.co.ve.
 penthouse.com.ve.
 peopleandarts.com.ve.
+pepca.org.ve.
 peperoni.com.ve.
 pepsico.co.ve.
 pequenasligasdevenezuela.com.ve.
@@ -16767,6 +16770,7 @@ plinko-game.com.ve.
 plinko-game.net.ve.
 plinko.com.ve.
 plinko.net.ve.
+plinkogame.com.ve.
 plm.com.ve.
 plmgroup.com.ve.
 plomexh.com.ve.
@@ -19719,6 +19723,7 @@ solucionesmoa.com.ve.
 solucionesofthard.com.ve.
 solucionespm.com.ve.
 solucionestecnologicas.com.ve.
+solucionestecnologicasexpress.com.ve.
 solucionesyservicios.com.ve.
 solucioninteligente.com.ve.
 soluciontv555.com.ve.
@@ -20719,7 +20724,6 @@ tennant.com.ve.
 tennis.com.ve.
 tensik.com.ve.
 tepui.gob.ve.
-tepuy.com.ve.
 tepuyserver.net.ve.
 tequenet.com.ve.
 tera-net.com.ve.
@@ -20888,6 +20892,7 @@ ticketbis.com.ve.
 ticketmundo.com.ve.
 ticketrestaurant.com.ve.
 tickets.com.ve.
+ticketshow.com.ve.
 ticketutils.co.ve.
 ticketutils.com.ve.
 ticmaster.com.ve.
@@ -21910,7 +21915,6 @@ unihumboldt.edu.ve.
 uniko.com.ve.
 unilever.com.ve.
 unileverfoodsolutions.com.ve.
-unimagenlibertad.com.ve.
 unimar.edu.ve.
 unimarcientifica.edu.ve.
 unimaster.com.ve.
@@ -22408,6 +22412,7 @@ ventilven.com.ve.
 vento.com.ve.
 ventyx.com.ve.
 venucia.com.ve.
+venusbaby.com.ve.
 venvanse.com.ve.
 venvias.info.ve.
 venvidrio.com.ve.
