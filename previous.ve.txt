@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 26Apr2025 04:34 UTC
+# ve domain names extracted from nameservers on 27Apr2025 04:33 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1240,7 +1240,6 @@ americastopdoctors.com.ve.
 americatel.com.ve.
 americatelecom.com.ve.
 americaxxi.com.ve.
-ameriplast.net.ve.
 ameritek.com.ve.
 ameriva.com.ve.
 amesa.com.ve.
@@ -1623,7 +1622,6 @@ armichelena.com.ve.
 armorgroup.com.ve.
 armura.com.ve.
 arneg.com.ve.
-arokim.com.ve.
 aromaven.com.ve.
 aronin.com.ve.
 arpanettelecom.com.ve.
@@ -3747,7 +3745,6 @@ cds.edu.ve.
 cdt.com.ve.
 cdw.com.ve.
 cdzone.com.ve.
-cea.com.ve.
 cea.edu.ve.
 ceab.edu.ve.
 cealca.com.ve.
@@ -3988,7 +3985,6 @@ cevca.com.ve.
 cexteriorcarabobo.gob.ve.
 ceydschacao-miranda.gob.ve.
 cf2209sistemas.com.ve.
-cfamilia.com.ve.
 cfconsultores.com.ve.
 cfg.gob.ve.
 cfi.com.ve.
@@ -5449,7 +5445,6 @@ copatoon.com.ve.
 copaxone.com.ve.
 copei.org.ve.
 copiaf.gob.ve.
-coplan.com.ve.
 coppacocktails.co.ve.
 copra.com.ve.
 copresem.com.ve.
@@ -6635,6 +6630,7 @@ distribuidoraalfredojj.com.ve.
 distribuidoraaustral.com.ve.
 distribuidoraaveirense.com.ve.
 distribuidoradelacultura.gob.ve.
+distribuidoradelcentro.com.ve.
 distribuidoradellibro.gob.ve.
 distribuidoradisante.com.ve.
 distribuidoradm.com.ve.
@@ -9052,7 +9048,6 @@ gaaa.com.ve.
 gabc.com.ve.
 gabinetecultura-amazonas.gob.ve.
 gabinetepopulararagua.gob.ve.
-gabitec.com.ve.
 gabriel.com.ve.
 gabrielcastro.com.ve.
 gabrielsuarez.com.ve.
@@ -9389,6 +9384,7 @@ glamglow.com.ve.
 glamglowmud.com.ve.
 glamira.com.ve.
 glamour.co.ve.
+glamour.com.ve.
 glamourmagazine.com.ve.
 glampinglacepa.com.ve.
 glasgow.com.ve.
@@ -11221,7 +11217,6 @@ ingetop.com.ve.
 ingevalca.com.ve.
 ingevica.com.ve.
 ingpro.com.ve.
-ingraca.com.ve.
 ingram-micro.co.ve.
 ingram-micro.com.ve.
 ingram.co.ve.
@@ -11253,7 +11248,6 @@ inmarket.com.ve.
 inmobiliaria.com.ve.
 inmobiliarianacional.gob.ve.
 inmobiliariarentahouse.com.ve.
-inmobiliariasilva-tobon.co.ve.
 inmobiliariavip.com.ve.
 inmobiliariavision.com.ve.
 inmobiliario.com.ve.
@@ -13784,7 +13778,6 @@ matific.com.ve.
 matinca.com.ve.
 matindustrie.com.ve.
 matorca.com.ve.
-matos.com.ve.
 matpet.com.ve.
 matriz.com.ve.
 matsa.com.ve.
@@ -13939,7 +13932,6 @@ medicalux.com.ve.
 medicamentos.com.ve.
 medicapanamericana.com.ve.
 medicar.com.ve.
-medicaracas.com.ve.
 medicare.com.ve.
 mediccal.com.ve.
 medicina.com.ve.
@@ -14565,7 +14557,6 @@ miticket.com.ve.
 mitienda.com.ve.
 mitiendanube.com.ve.
 mitodohogar.com.ve.
-mitoly.com.ve.
 mitre.com.ve.
 mitresports.com.ve.
 mitsubishielectric.co.ve.
@@ -15523,7 +15514,6 @@ nudetel.gob.ve.
 nuestracomunicacionpopular.org.ve.
 nuevaepoca.gob.ve.
 nuevaera.com.ve.
-nuevaerainmobiliaria.com.ve.
 nuevaesparta.gob.ve.
 nuevaetapa.gob.ve.
 nuevalinea.com.ve.
@@ -19223,7 +19213,6 @@ sibciguarico.gob.ve.
 sibelgroup.co.ve.
 sibelmed.co.ve.
 siboney.com.ve.
-sic.com.ve.
 sica.com.ve.
 sicaf.com.ve.
 sicave.com.ve.
@@ -20342,7 +20331,6 @@ svrid.org.ve.
 svsoluciones.com.ve.
 sw-publico.edu.ve.
 sw.com.ve.
-swag.com.ve.
 swampland.com.ve.
 swatch-club.co.ve.
 swatch.co.ve.
@@ -22293,7 +22281,6 @@ vencraft.com.ve.
 vend.com.ve.
 vendedordigital.com.ve.
 vendenostuauto.com.ve.
-venderylisto.com.ve.
 vendes.com.ve.
 vendetutti.com.ve.
 vendigital.com.ve.
