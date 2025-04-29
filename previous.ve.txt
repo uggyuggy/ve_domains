@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 27Apr2025 04:33 UTC
+# ve domain names extracted from nameservers on 28Apr2025 04:39 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4058,7 +4058,6 @@ cheddarsscratchkitchen.com.ve.
 cheezwhiz.com.ve.
 chefiq.com.ve.
 chefman.com.ve.
-chefmargaro.com.ve.
 chefsteps.co.ve.
 chefsteps.com.ve.
 chefworks.com.ve.
@@ -4250,7 +4249,6 @@ circuitoglobal.com.ve.
 circuitonoticias.com.ve.
 circuitorrb.gob.ve.
 circuitoscomunales.gob.ve.
-circuitosuenavenezuela.com.ve.
 circulobqto.mil.ve.
 circulomilitar.gob.ve.
 circulomilitar.mil.ve.
@@ -5213,7 +5211,6 @@ conordem.com.ve.
 consagro.com.ve.
 consalud.gob.ve.
 consciouscapital.com.ve.
-consciouscapital.net.ve.
 consehca.com.ve.
 consein.com.ve.
 consejocomunalasomangos.gob.ve.
@@ -15023,6 +15020,7 @@ mva.com.ve.
 mvh.gob.ve.
 mvpsportstv.com.ve.
 mvpublicidad.com.ve.
+mvs.com.ve.
 mvsistemas.com.ve.
 mvzlabella.gob.ve.
 mx3.com.ve.
@@ -16451,7 +16449,6 @@ pergoveris.com.ve.
 pericon.com.ve.
 perinoladesign.com.ve.
 periodico.com.ve.
-perladelmar.com.ve.
 perlavisionradiotv.com.ve.
 permar.com.ve.
 pernod-ricard.com.ve.
@@ -17357,6 +17354,7 @@ publinsite.com.ve.
 publiweb.com.ve.
 puchesistemas.com.ve.
 pueblollano-merida.gov.ve.
+pueblos.org.ve.
 puertocabello-carabobo.gov.ve.
 puertodeguanta.gob.ve.
 puertodelibros.com.ve.
@@ -18636,7 +18634,6 @@ satap.gob.ve.
 satar.gob.ve.
 satatool.com.ve.
 satatools.com.ve.
-satcom.com.ve.
 satdc.gob.ve.
 satea.gob.ve.
 sateb.gob.ve.
@@ -20583,7 +20580,6 @@ tecnonet.com.ve.
 tecnoparaguana.org.ve.
 tecnoparque.gob.ve.
 tecnoperfil.com.ve.
-tecnoplan.com.ve.
 tecnopress.com.ve.
 tecnoproyectos.com.ve.
 tecnoquim.com.ve.

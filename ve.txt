@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 28Apr2025 04:39 UTC
+# ve domain names extracted from nameservers on 29Apr2025 04:49 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -81,6 +81,7 @@
 333krv7olw2ynfgw1n.org.ve.
 333krv7olw2ynfgw1n.web.ve.
 34brigmonagas.mil.ve.
+351euromarket.com.ve.
 360margaritaca.com.ve.
 360net.com.ve.
 3clics.com.ve.
@@ -235,6 +236,7 @@ abyvic.com.ve.
 ac2000.com.ve.
 acacias.org.ve.
 academiaamericana.com.ve.
+academiactd.com.ve.
 academiadeartegbs.org.ve.
 academiadebelleza.com.ve.
 academiadelagaita.gob.ve.
@@ -367,7 +369,6 @@ ad.co.ve.
 adabolivar.org.ve.
 adael.com.ve.
 adamandeve.com.ve.
-adamantium.com.ve.
 adameve.com.ve.
 adamtechno.com.ve.
 adan.org.ve.
@@ -3549,6 +3550,7 @@ casaalejozuloaga.com.ve.
 casabello.gob.ve.
 casablanca24.com.ve.
 casacoima-deltaamacuro.gob.ve.
+casadam.com.ve.
 casadelartista.gob.ve.
 casadelasmicas.com.ve.
 casadepaz.com.ve.
@@ -4641,6 +4643,7 @@ codingenio.net.ve.
 codinggiants.com.ve.
 codire.com.ve.
 codomi.com.ve.
+codumar.com.ve.
 coei.com.ve.
 coexdevenezuela.com.ve.
 cofae.edu.ve.
@@ -5005,6 +5008,7 @@ commovil.com.ve.
 commscope.com.ve.
 commservices.com.ve.
 communicate.co.ve.
+comovendermas.com.ve.
 compago.com.ve.
 companeo.com.ve.
 companyregister.co.ve.
@@ -10919,6 +10923,7 @@ imagenologialaurbina.com.ve.
 imaginacion961.com.ve.
 imago.com.ve.
 imalbeca.com.ve.
+imanix.web.ve.
 imar.com.ve.
 imarca.com.ve.
 imaseo.org.ve.
@@ -13162,7 +13167,6 @@ logginet.org.ve.
 logginet.web.ve.
 logic.com.ve.
 logica.com.ve.
-logicadigital.com.ve.
 logicasa.gob.ve.
 logiciel.com.ve.
 logigestion.com.ve.
@@ -14020,6 +14024,7 @@ megauto.com.ve.
 megavision.com.ve.
 megaweb.com.ve.
 megitechtecnologys.com.ve.
+meglob.com.ve.
 meguiars.com.ve.
 meibyquintero.com.ve.
 meinca.com.ve.
@@ -15616,6 +15621,7 @@ observatoriodot.org.ve.
 obsession.co.ve.
 obsession.com.ve.
 obvio.com.ve.
+oca.com.ve.
 ocamar.com.ve.
 ocamargestionycalidad.com.ve.
 ocaso.com.ve.
@@ -16737,6 +16743,7 @@ playboymobile.com.ve.
 playboytv.com.ve.
 playcoeditores.com.ve.
 playdesa.com.ve.
+player3academy.com.ve.
 playhouse.com.ve.
 playhousedisney.com.ve.
 playmultimedios.com.ve.
@@ -19439,6 +19446,7 @@ sivca.com.ve.
 sivencasinger.com.ve.
 sivensa.com.ve.
 six.com.ve.
+sixca.com.ve.
 sixcontinents.co.ve.
 sixcontinents.com.ve.
 sixcontinentshotels.co.ve.
@@ -20092,6 +20100,7 @@ suateg.gob.ve.
 suavitel.com.ve.
 subasta.com.ve.
 subete.com.ve.
+sublimacionamericana.com.ve.
 sublimandoideas.com.ve.
 sublime.com.ve.
 submariner.co.ve.
@@ -20905,7 +20914,6 @@ tiendasdakaspromociones.com.ve.
 tiendasflb.com.ve.
 tiendasgina.com.ve.
 tiendasginaonline.com.ve.
-tiendaslaperita.com.ve.
 tiendastrululu.com.ve.
 tiendasvirtuales.com.ve.
 tiendavirtualprosein.com.ve.
@@ -21063,7 +21071,6 @@ topdoctors.co.ve.
 topdoctors.com.ve.
 topelectric.com.ve.
 toper.com.ve.
-topicraft.com.ve.
 topicrem.com.ve.
 topigsnorsvin.com.ve.
 topografos.com.ve.
@@ -22278,6 +22285,7 @@ vend.com.ve.
 vendedordigital.com.ve.
 vendenostuauto.com.ve.
 vendes.com.ve.
+vendetucarro.com.ve.
 vendetutti.com.ve.
 vendigital.com.ve.
 veneasesores.com.ve.
@@ -23307,6 +23315,7 @@ yoyo.web.ve.
 ysearch.com.ve.
 yuada.com.ve.
 yummydelivery.com.ve.
+yutelecom.com.ve.
 yutong.com.ve.
 yv5adm.net.ve.
 yverdon.com.ve.
