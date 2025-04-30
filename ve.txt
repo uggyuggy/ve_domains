@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 29Apr2025 04:49 UTC
+# ve domain names extracted from nameservers on 30Apr2025 04:45 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -129,7 +129,6 @@
 745.com.ve.
 74jjnews.com.ve.
 770.com.ve.
-77post.com.ve.
 7forallmankind.com.ve.
 8.com.ve.
 800flowers.co.ve.
@@ -1495,7 +1494,6 @@ apuestasdeportivas.co.ve.
 apuestasdeportivas.com.ve.
 apuestasesports.com.ve.
 apuestasroyal.com.ve.
-apuestaya.com.ve.
 apuestele.co.ve.
 apuestele.com.ve.
 apuestele.info.ve.
@@ -2187,6 +2185,7 @@ bakertilly.com.ve.
 balanzasdeoriente.com.ve.
 baliv.com.ve.
 ballezarte.com.ve.
+balloon--app.com.ve.
 balloon-app-ganar-dinero.com.ve.
 balloon-app.co.ve.
 balloon-app.com.ve.
@@ -2194,6 +2193,7 @@ balloon-app.info.ve.
 balloon-app.net.ve.
 balloon-app.org.ve.
 balloonapp.com.ve.
+balloonapp.org.ve.
 balluff.co.ve.
 balluff.com.ve.
 balmainbeaute.co.ve.
@@ -2410,6 +2410,7 @@ beg.com.ve.
 behrens.com.ve.
 behringer.com.ve.
 beia.com.ve.
+beiatechnology.co.ve.
 beibao.co.ve.
 beibao.com.ve.
 beiersdorf.co.ve.
@@ -4127,6 +4128,7 @@ chircalnetwifi.com.ve.
 chistes.com.ve.
 chivas-regal.com.ve.
 chivasregal.com.ve.
+chnet.com.ve.
 chobani.co.ve.
 chobani.com.ve.
 chocokrispis.com.ve.
@@ -5257,6 +5259,7 @@ constituyentevenezuela2017.gob.ve.
 construaragua.gob.ve.
 construccionesrg2014.com.ve.
 construcenter.com.ve.
+construcity.com.ve.
 construfer.com.ve.
 construlion.com.ve.
 construpatria.gob.ve.
@@ -7294,6 +7297,7 @@ eltiempo.com.ve.
 eltiempodecaricuao.com.ve.
 eltigre.com.ve.
 eltigre.gob.ve.
+eltrebol.com.ve.
 eltrendecolores.com.ve.
 eltresporciento.com.ve.
 eltriunfo.com.ve.
@@ -7945,6 +7949,7 @@ f5networks.co.ve.
 f5networks.com.ve.
 faaf.com.ve.
 fab.co.ve.
+fabesmeca.com.ve.
 fabricarlos.com.ve.
 fabrimex.com.ve.
 fabriplas.com.ve.
@@ -12960,6 +12965,7 @@ libertyseguros.co.ve.
 libertyseguros.com.ve.
 libertyweb.co.ve.
 libertyweb.com.ve.
+librarkana.com.ve.
 library.com.ve.
 librededrogas.org.ve.
 librelinkup.co.ve.
@@ -13167,6 +13173,7 @@ logginet.org.ve.
 logginet.web.ve.
 logic.com.ve.
 logica.com.ve.
+logicadigital.com.ve.
 logicasa.gob.ve.
 logiciel.com.ve.
 logigestion.com.ve.
@@ -14049,6 +14056,10 @@ melidolar.co.ve.
 melidolar.com.ve.
 meliipbooster.co.ve.
 meliipbooster.com.ve.
+melimusic.co.ve.
+melimusic.com.ve.
+melimusicfestival.co.ve.
+melimusicfestival.com.ve.
 meliplay.com.ve.
 melissa.com.ve.
 melissaanddoug.com.ve.
@@ -19744,7 +19755,6 @@ somfy.com.ve.
 somofi.com.ve.
 somos.com.ve.
 somosaurapay.com.ve.
-somosbiip.com.ve.
 somosciudadanos.org.ve.
 somoscladc.org.ve.
 somoscmf.com.ve.
@@ -20101,6 +20111,7 @@ suavitel.com.ve.
 subasta.com.ve.
 subete.com.ve.
 sublimacionamericana.com.ve.
+sublimaker.com.ve.
 sublimandoideas.com.ve.
 sublime.com.ve.
 submariner.co.ve.
@@ -21411,6 +21422,7 @@ tuaudiolibro.com.ve.
 tuauto.com.ve.
 tuavion.com.ve.
 tuavit.com.ve.
+tuazar.com.ve.
 tubateria.com.ve.
 tubeagro.com.ve.
 tubhelca.gob.ve.
@@ -21518,6 +21530,7 @@ turismocity.com.ve.
 turismocolorama.com.ve.
 turismodelujo.com.ve.
 turismoenaragua.com.ve.
+turismoestereo.com.ve.
 turismomargarita.gob.ve.
 turismomundial.com.ve.
 turismosucre.com.ve.
@@ -21688,6 +21701,7 @@ uecelpilar.com.ve.
 uecjgh.edu.ve.
 uecjmi.edu.ve.
 uecluisacaceresdearismendilara.com.ve.
+uecmarcosevangeliopacheco.com.ve.
 uecmariadesantaana.edu.ve.
 uecmariauxiliadora.com.ve.
 uecmg.com.ve.
