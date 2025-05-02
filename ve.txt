@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01May2025 04:35 UTC
+# ve domain names extracted from nameservers on 02May2025 04:37 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -705,7 +705,6 @@ aivepet.com.ve.
 ajax.co.ve.
 ajax.com.ve.
 ajaxfiestadeflores.co.ve.
-ajedrezdc.com.ve.
 ajemca.com.ve.
 ajfnetwork.com.ve.
 ajovy.com.ve.
@@ -1962,7 +1961,6 @@ autosonidoinfinity.com.ve.
 autosya.com.ve.
 autotapiceriaeuropa.com.ve.
 autotek.com.ve.
-autoto.com.ve.
 autotool.com.ve.
 autotracking.com.ve.
 autotune.co.ve.
@@ -2937,6 +2935,7 @@ boomix.com.ve.
 boozallen.co.ve.
 boozallen.com.ve.
 boozallenhamilton.com.ve.
+boozlaboratorio.com.ve.
 bordes.com.ve.
 borgesprimasociados.com.ve.
 bosch-electronic-service.com.ve.
@@ -3875,7 +3874,6 @@ censo.com.ve.
 centaurosms.com.ve.
 centenariovillanueva.web.ve.
 centiel.com.ve.
-centralelectrica.net.ve.
 centralfox.com.ve.
 centralinformacionpolicialcpev.com.ve.
 centralmadeirense.com.ve.
@@ -4941,7 +4939,6 @@ colsantonioflorida.edu.ve.
 colsof.com.ve.
 columbiasportswear.co.ve.
 columbiasportswear.com.ve.
-colvenca.com.ve.
 com.ve.
 comando-nacional-maisanta.gov.ve.
 comandoantidrogas.mil.ve.
@@ -5551,7 +5548,6 @@ corporaciontec.net.ve.
 corporaciontecnologica.com.ve.
 corporaciontecnopapel.com.ve.
 corporacionv23.com.ve.
-corporacionvelta.com.ve.
 corporca.com.ve.
 corporeal.com.ve.
 corposaludaragua.gob.ve.
@@ -6022,7 +6018,6 @@ danette.com.ve.
 danfoss.co.ve.
 danfoss.com.ve.
 danibisk.com.ve.
-danielbarbera.com.ve.
 danielbello.com.ve.
 danielomana.com.ve.
 danielrodriguez.com.ve.
@@ -12426,7 +12421,6 @@ konduce.com.ve.
 konecranes.com.ve.
 kongcompany.co.ve.
 konicaminolta.com.ve.
-konos.com.ve.
 konsuma.com.ve.
 kontent.co.ve.
 kontent.com.ve.
@@ -14509,7 +14503,6 @@ miranda.org.ve.
 mirandafm.com.ve.
 mirandaproduce.com.ve.
 mirasierra.com.ve.
-miratv.com.ve.
 miravista.co.ve.
 miredsocial.com.ve.
 miremoto.com.ve.
@@ -16010,6 +16003,7 @@ otazu.com.ve.
 otc.com.ve.
 otec.com.ve.
 otepi.com.ve.
+otorrinovalencia.com.ve.
 ottika.com.ve.
 otto.com.ve.
 ourgeneration.com.ve.
@@ -16141,7 +16135,6 @@ palsil.com.ve.
 pamp.com.ve.
 pampan-trujillo.gov.ve.
 pampanito-trujillo.gob.ve.
-pampanquerido.com.ve.
 pampers.com.ve.
 pampersbabyshower.com.ve.
 pampersjuegos.com.ve.
@@ -20225,7 +20218,6 @@ superaduana.com.ve.
 superapuesta.co.ve.
 superapuestas.com.ve.
 superatec.org.ve.
-superauto.com.ve.
 superautos.com.ve.
 superavit.com.ve.
 superbets.com.ve.
@@ -22421,7 +22413,6 @@ venyesa.com.ve.
 venza.com.ve.
 veoliawaterst.com.ve.
 veoliawatertechnologies.com.ve.
-veonline.com.ve.
 vepa.com.ve.
 vepaco.com.ve.
 vepaco.net.ve.
@@ -23089,6 +23080,7 @@ winstelecom.com.ve.
 wintech.com.ve.
 winterhalter.co.ve.
 winterhalter.com.ve.
+wipinet.com.ve.
 wisdom.com.ve.
 wisekey.co.ve.
 wisekey.com.ve.

@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 30Apr2025 04:45 UTC
+# ve domain names extracted from nameservers on 01May2025 04:35 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -780,6 +780,7 @@ alcaldiabolivarianadecabimas.gob.ve.
 alcaldiabolivarianadelmunicipiotovar.gob.ve.
 alcaldiabolivarianadesucrezulia.gob.ve.
 alcaldiabolivarianadeunda.gob.ve.
+alcaldiabrion.com.ve.
 alcaldiabrion.gob.ve.
 alcaldiacaripe.gob.ve.
 alcaldiacaroni.gob.ve.
@@ -2361,6 +2362,7 @@ bcaa.com.ve.
 bcconsultorescorporativos.com.ve.
 bcdtravel.com.ve.
 bcg.com.ve.
+bcgame.com.ve.
 bcgplatinion.com.ve.
 bch.com.ve.
 bcreati.com.ve.
@@ -4888,7 +4890,6 @@ colegiovallealto.edu.ve.
 colegiovenezolanobritanico.com.ve.
 colegioverdadylibertad.com.ve.
 colegiovirgendelamontana.com.ve.
-colegiovirtual.com.ve.
 colegioyale.edu.ve.
 colehaan.com.ve.
 coleman.co.ve.
@@ -5304,7 +5305,6 @@ continentalindustry.com.ve.
 contitech.com.ve.
 contorion.com.ve.
 contradeltamacuro.gob.ve.
-contraentrega.com.ve.
 contraincendio.com.ve.
 contraloria-apure.gob.ve.
 contraloria-ayacucho.gob.ve.
@@ -5996,7 +5996,6 @@ dakatienda.com.ve.
 dakatiendapromociones.com.ve.
 dakatiendas.com.ve.
 dakatiendaspromociones.com.ve.
-daksmr.com.ve.
 dalca.net.ve.
 dalecarnegie.com.ve.
 dalejos.com.ve.
@@ -9826,6 +9825,7 @@ grupoinnovafacturacion.com.ve.
 grupointeractivas.com.ve.
 grupoinvicta.com.ve.
 grupoisla.com.ve.
+grupoissa.com.ve.
 grupoitalven.com.ve.
 grupoitc.com.ve.
 grupojldevenezuela.com.ve.
@@ -13720,7 +13720,6 @@ marykay.co.ve.
 marykay.com.ve.
 maryruthorganics.co.ve.
 maryruthorganics.com.ve.
-mas-sport.com.ve.
 masa.com.ve.
 masacasport.com.ve.
 masautoselvinedo.com.ve.
@@ -13740,7 +13739,6 @@ masmedia.com.ve.
 masnetwork.com.ve.
 masnetwork969fm.com.ve.
 masnetworkcumana.com.ve.
-maspadel.com.ve.
 masquebelleza.com.ve.
 masquemedicos.com.ve.
 masqueprint.com.ve.
@@ -18287,7 +18285,6 @@ rpsvial.com.ve.
 rpzamora.gob.ve.
 rq910.com.ve.
 rqa.com.ve.
-rrconstrucciones.com.ve.
 rrd.com.ve.
 rrdapps.com.ve.
 rrintec.com.ve.
@@ -19091,7 +19088,6 @@ sesca.web.ve.
 sesderma.co.ve.
 seta.gob.ve.
 setecindca.com.ve.
-setecsa.com.ve.
 setep.gob.ve.
 seti.com.ve.
 setimca.com.ve.
@@ -21491,7 +21487,6 @@ tulancha.com.ve.
 tulanchaenmargarita.com.ve.
 tulaptop.com.ve.
 tuliofebres-merida.gov.ve.
-tulobuscas.com.ve.
 tuloenvias.com.ve.
 tumalla.com.ve.
 tumaquinitadecoser.com.ve.
@@ -22586,6 +22581,7 @@ videojuego.com.ve.
 videomapping.com.ve.
 videoycomputacion.com.ve.
 vidinter.com.ve.
+vidriosmonagas.com.ve.
 vienefmcabimas.com.ve.
 vierge.com.ve.
 viewsonic.com.ve.
@@ -23032,6 +23028,7 @@ wholefoods.com.ve.
 wholefoodsmarket.com.ve.
 wholesurgical.com.ve.
 whopper.com.ve.
+whs.com.ve.
 widetec.com.ve.
 widowssons.com.ve.
 wifiprado.com.ve.
