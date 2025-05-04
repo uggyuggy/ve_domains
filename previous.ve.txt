@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 02May2025 04:37 UTC
+# ve domain names extracted from nameservers on 03May2025 04:40 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -602,6 +602,7 @@ agropecuariaranchoalegre.com.ve.
 agropecuariavr.com.ve.
 agropica.com.ve.
 agroquimicoszambrano.com.ve.
+agroser.com.ve.
 agrosistemasjpj.com.ve.
 agrosol.com.ve.
 agrosur.com.ve.
@@ -1440,6 +1441,7 @@ apem.org.ve.
 aphservices.org.ve.
 api.com.ve.
 api.net.ve.
+apichrystal.com.ve.
 apis.com.ve.
 apisconsultores.com.ve.
 apismol.com.ve.
@@ -5718,6 +5720,7 @@ creativos.com.ve.
 creatulogo.com.ve.
 crece.com.ve.
 creciendojuntos.com.ve.
+crecimientoweb.com.ve.
 credelio.com.ve.
 credicard-gestion-comercios.com.ve.
 credicard.com.ve.
@@ -8318,6 +8321,7 @@ firstdirect.com.ve.
 firstgroup.com.ve.
 firstprint.com.ve.
 firstswitch.com.ve.
+firulais.com.ve.
 fisa.com.ve.
 fiscalia.gob.ve.
 fiscaliageneralmilitar.mil.ve.
@@ -11337,7 +11341,6 @@ inseminar.com.ve.
 inserca.com.ve.
 insercompjr.com.ve.
 insesa.com.ve.
-insesal.com.ve.
 insieme.com.ve.
 insightprofessional.co.ve.
 insignia.com.ve.
@@ -11401,6 +11404,8 @@ insubiol.com.ve.
 insulibro.gob.ve.
 insumar2016.com.ve.
 insumat.com.ve.
+insumedacarigua.com.ve.
+insumedical.com.ve.
 insupen.com.ve.
 insuperable891fm.com.ve.
 insutec.com.ve.
@@ -13424,6 +13429,8 @@ maderasguayabal.com.ve.
 maderasisidro.com.ve.
 maderca.com.ve.
 madman.com.ve.
+madmia.co.ve.
+madmia.com.ve.
 madrecarmenrendiles.edu.ve.
 madrececilia.edu.ve.
 madresaintjacques.edu.ve.
@@ -15086,7 +15093,6 @@ nanolash.com.ve.
 nanoleaf.com.ve.
 naos.co.ve.
 naospro.com.ve.
-nap.com.ve.
 napa.com.ve.
 napla.com.ve.
 napnet.com.ve.
@@ -15609,6 +15615,7 @@ oberlo.com.ve.
 obispo.com.ve.
 obisporamos-merida.gov.ve.
 obispos-barinas.gov.ve.
+oblea.com.ve.
 obo.com.ve.
 oboticario.co.ve.
 oboticario.com.ve.
@@ -17866,6 +17873,7 @@ reltripvee.com.ve.
 relxnow.com.ve.
 remax-class.com.ve.
 remax.com.ve.
+remaxmillenium.com.ve.
 remaxmomentum.com.ve.
 remaxplus.com.ve.
 remeca.com.ve.
@@ -17924,7 +17932,6 @@ reparaya.com.ve.
 repartoadomicilio.com.ve.
 repartosya.com.ve.
 repaveca.com.ve.
-repcarrier.com.ve.
 repeca.com.ve.
 repexpert.com.ve.
 repimbra.com.ve.
@@ -18900,6 +18907,7 @@ segurviajes.com.ve.
 seiadfiladelfia.edu.ve.
 seidor.com.ve.
 seikas.com.ve.
+seiki.com.ve.
 seiko.co.ve.
 seiko.com.ve.
 seinca.com.ve.
@@ -19070,6 +19078,7 @@ servitecve.com.ve.
 servitel.com.ve.
 servitel.net.ve.
 servitepuy.com.ve.
+servitepuy.ve.
 servitrackgps.com.ve.
 servitronic.com.ve.
 servival.com.ve.
@@ -19081,6 +19090,7 @@ sesca.web.ve.
 sesderma.co.ve.
 seta.gob.ve.
 setecindca.com.ve.
+setecsa.com.ve.
 setep.gob.ve.
 seti.com.ve.
 setimca.com.ve.
@@ -19089,6 +19099,7 @@ settestelle.com.ve.
 seven.com.ve.
 sevende.com.ve.
 sevenforallmankind.com.ve.
+sevens.com.ve.
 seventec.com.ve.
 sevicon.com.ve.
 sew-eurodrive.com.ve.
@@ -21624,6 +21635,7 @@ uav.com.ve.
 uav.edu.ve.
 uba.edu.ve.
 ubaldi.org.ve.
+ubc.org.ve.
 uber-one.com.ve.
 uberfreight.com.ve.
 ubicame.com.ve.

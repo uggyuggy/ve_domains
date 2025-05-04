@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 03May2025 04:40 UTC
+# ve domain names extracted from nameservers on 04May2025 04:43 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -4361,7 +4361,6 @@ clasenw.com.ve.
 clasesenlinea.com.ve.
 clasf.co.ve.
 clasicapublicidad.com.ve.
-clasificadoseluniversal.com.ve.
 clasificadosun.com.ve.
 classifeye.co.ve.
 classifeye.com.ve.
@@ -9099,7 +9098,6 @@ gamezcars.com.ve.
 gamifant.com.ve.
 gamingcity.co.ve.
 gamingcity.com.ve.
-gaminversiones.com.ve.
 gamon.com.ve.
 gamut.co.ve.
 gan.com.ve.
@@ -10041,6 +10039,7 @@ haciendalaconcepcion.com.ve.
 haciendasantateresa.com.ve.
 haciendoradio.com.ve.
 hackatonpatria.gob.ve.
+hackenslacker.com.ve.
 hackerone.co.ve.
 hackerone.com.ve.
 hacosta.com.ve.
@@ -16330,6 +16329,7 @@ pazcastillo-miranda.gob.ve.
 pazcastillo.gob.ve.
 pbmir.gob.ve.
 pbserum.com.ve.
+pbsystem.com.ve.
 pbx.net.ve.
 pc-adcarabobo.gob.ve.
 pc-pistons.com.ve.
@@ -17887,7 +17887,6 @@ remoca.net.ve.
 rena.edu.ve.
 renaca.com.ve.
 renacerpentecostal.com.ve.
-renacertelecom.com.ve.
 renaem.gob.ve.
 renaissance.net.ve.
 renault-trucks.co.ve.
@@ -18979,6 +18978,7 @@ sequoia.com.ve.
 seralica.com.ve.
 sercanto.com.ve.
 sercatel.com.ve.
+sercoinfal.com.ve.
 sercom.net.ve.
 serconplafumigaciones.com.ve.
 serdolect.com.ve.
@@ -20707,6 +20707,7 @@ teltronics.com.ve.
 telvota.com.ve.
 telxius.com.ve.
 telycom.com.ve.
+telzanet.com.ve.
 tem.com.ve.
 tempecume.com.ve.
 tempur.com.ve.
@@ -21301,7 +21302,6 @@ trayentaduo.com.ve.
 trayentamet.com.ve.
 trazosypapel.com.ve.
 treadler.com.ve.
-trebolgroup.com.ve.
 trellix.com.ve.
 trellixsecurity.com.ve.
 tremarie.com.ve.
@@ -21566,6 +21566,7 @@ tustreaming.com.ve.
 tusuministro.com.ve.
 tutanque.com.ve.
 tutarjeton.com.ve.
+tutaxiapp.com.ve.
 tutiendanestle.com.ve.
 tutoonix.com.ve.
 tutopia.com.ve.
