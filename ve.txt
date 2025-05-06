@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 05May2025 04:34 UTC
+# ve domain names extracted from nameservers on 06May2025 04:37 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -2024,6 +2024,7 @@ aviacion.mil.ve.
 aviacioncivil.com.ve.
 aviacionejercito.mil.ve.
 aviacom.com.ve.
+aviamasters.com.ve.
 aviatechs.com.ve.
 aviator.com.ve.
 avicoladelalba.gob.ve.
@@ -2237,7 +2238,6 @@ banctrust.com.ve.
 bandarealize.com.ve.
 bandera.com.ve.
 banderafm.net.ve.
-banderaroja.com.ve.
 banderas.com.ve.
 bandes.gob.ve.
 bandes.gov.ve.
@@ -3487,7 +3487,6 @@ caritovenezuela.com.ve.
 carlos.com.ve.
 carlosarvelo-carabobo.gob.ve.
 carlosarvelo-carabobo.gov.ve.
-carloshermoso.com.ve.
 carlospcssoluciones.com.ve.
 carlospirela.com.ve.
 carlosrodriguez48.emprende.ve.
@@ -3726,6 +3725,7 @@ ccpguarico.com.ve.
 ccpmerida.org.ve.
 ccpmiranda.org.ve.
 ccpv.org.ve.
+ccqtelecom.com.ve.
 ccre.com.ve.
 ccre.gov.ve.
 ccsantafe.com.ve.
@@ -4419,6 +4419,7 @@ clinicacalicanto.com.ve.
 clinicadelvertigo.com.ve.
 clinicadeojos.com.ve.
 clinicadevarices.com.ve.
+clinicaespecialidadesdos.com.ve.
 clinicahumana.com.ve.
 clinicaidb.com.ve.
 clinicaidet.com.ve.
@@ -4938,6 +4939,7 @@ colsantonioflorida.edu.ve.
 colsof.com.ve.
 columbiasportswear.co.ve.
 columbiasportswear.com.ve.
+colvenca.com.ve.
 com.ve.
 comando-nacional-maisanta.gov.ve.
 comandoantidrogas.mil.ve.
@@ -7059,6 +7061,7 @@ educredito.org.ve.
 educuv.com.ve.
 edudatos.com.ve.
 edugn.mil.ve.
+edusex.info.ve.
 eduweb.com.ve.
 edux.com.ve.
 eepa.mil.ve.
@@ -9002,6 +9005,7 @@ futuro.co.ve.
 futuro.com.ve.
 futuro.org.ve.
 futuro929fm.com.ve.
+futuropresente.com.ve.
 fuvidit.com.ve.
 fuze-tea.com.ve.
 fva.com.ve.
@@ -9527,6 +9531,7 @@ godaddy.com.ve.
 godiva.com.ve.
 godobe.com.ve.
 goes.com.ve.
+goesoficial.com.ve.
 goeuro.co.ve.
 gofundme.co.ve.
 gogl.com.ve.
@@ -13267,6 +13272,7 @@ lottorey.com.ve.
 lottt.gob.ve.
 lotven.com.ve.
 louis-vuitton.com.ve.
+louisferaud.com.ve.
 lourtec.edu.ve.
 lovecoupons.com.ve.
 lovellshogan.co.ve.
@@ -15088,6 +15094,7 @@ nanolash.com.ve.
 nanoleaf.com.ve.
 naos.co.ve.
 naospro.com.ve.
+nap.com.ve.
 napa.com.ve.
 napla.com.ve.
 napnet.com.ve.
@@ -15982,6 +15989,7 @@ osg.net.ve.
 oshica.com.ve.
 oshkosh.com.ve.
 oshkoshbgosh.com.ve.
+osic.com.ve.
 osisoft.co.ve.
 osisteconsa.com.ve.
 osmotech.com.ve.
@@ -17285,6 +17293,7 @@ prounidas.com.ve.
 prout.org.ve.
 provenezuela.gob.ve.
 provenra.com.ve.
+provinciaeudista.com.ve.
 provincialbarinitas.edu.ve.
 provision.com.ve.
 provita.org.ve.
@@ -18037,6 +18046,7 @@ rhodia.com.ve.
 riasca.com.ve.
 ribas-guarico.gob.ve.
 ribero-sucre.gob.ve.
+ricamar.com.ve.
 ricardoguzman.com.ve.
 ricardollarves.com.ve.
 ricarepa.com.ve.
@@ -18236,7 +18246,6 @@ roodos.com.ve.
 roomba.co.ve.
 roomba.com.ve.
 roomgo.com.ve.
-rooms.com.ve.
 roraima.com.ve.
 roraimamotors.com.ve.
 rosariodeperija-zulia.gob.ve.
@@ -19020,6 +19029,7 @@ serviciosdesalud.com.ve.
 serviciosfeyalegria.org.ve.
 servicioshosting.com.ve.
 servicioshosting.net.ve.
+servicioshosting.ve.
 serviciosinnovatech.com.ve.
 serviciosintegralconsult.com.ve.
 serviciosintegrales.com.ve.
@@ -19222,7 +19232,6 @@ sibci.gob.ve.
 sibciguarico.gob.ve.
 sibelgroup.co.ve.
 sibelmed.co.ve.
-siboney.com.ve.
 sica.com.ve.
 sicaf.com.ve.
 sicave.com.ve.
@@ -21049,6 +21058,7 @@ tomatazos.com.ve.
 tomates.co.ve.
 tomatesmx.co.ve.
 tomatesmx.com.ve.
+tomeofmadness.com.ve.
 tommy-hilfiger.co.ve.
 tommy-hilfiger.com.ve.
 tommy.co.ve.
@@ -22660,7 +22670,6 @@ visitemerida.com.ve.
 visitlosroques.com.ve.
 viso.com.ve.
 visocom.com.ve.
-visor.com.ve.
 visorojasyasociados.com.ve.
 vistacalifornia.com.ve.
 vistage.com.ve.
@@ -23359,6 +23368,7 @@ zapzap.com.ve.
 zara.com.ve.
 zarate.net.ve.
 zaraza.com.ve.
+zarpes.com.ve.
 zazzle.co.ve.
 zazzle.com.ve.
 zea-merida.gov.ve.

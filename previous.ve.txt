@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 04May2025 04:43 UTC
+# ve domain names extracted from nameservers on 05May2025 04:34 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1092,7 +1092,6 @@ allyonline.com.ve.
 almacaroni.gob.ve.
 almacenadoracaracas.gob.ve.
 almanzarca.com.ve.
-almapura.com.ve.
 almayor.com.ve.
 almccs.gob.ve.
 almed.com.ve.
@@ -4312,7 +4311,6 @@ citypumps.com.ve.
 ciudad.com.ve.
 ciudadanuncios.co.ve.
 ciudadcallenorte.com.ve.
-ciudadcalzado.com.ve.
 ciudadccs.info.ve.
 ciudaddesanfrancisco.gob.ve.
 ciudadgotica.net.ve.
@@ -7283,7 +7281,6 @@ elsocorro-guarico.gob.ve.
 elsolardelaquinta.com.ve.
 elsoldemargarita.com.ve.
 elsoldeoriente.com.ve.
-elsotano.com.ve.
 elsuper.com.ve.
 eltallerdelabuelito.com.ve.
 eltaquito.com.ve.
@@ -7964,6 +7961,7 @@ factorycosmetics.com.ve.
 factronics.com.ve.
 factum.com.ve.
 facturafacil.com.ve.
+facturantes.com.ve.
 fademcahogar.com.ve.
 faema.com.ve.
 fag.com.ve.
@@ -10250,8 +10248,6 @@ hgtv.com.ve.
 hhnetwork.com.ve.
 hhonors.com.ve.
 hi.com.ve.
-hicoimport.com.ve.
-hicostore.com.ve.
 hiddenbed.com.ve.
 hiddevenezuela.com.ve.
 hidglobal.com.ve.
@@ -11685,7 +11681,6 @@ iremujervargas.gob.ve.
 iribarren-lara.gob.ve.
 irobot.co.ve.
 irobot.com.ve.
-ironclub.com.ve.
 ironcompany.com.ve.
 ironflex.com.ve.
 ironmountain.co.ve.
@@ -13720,6 +13715,7 @@ marykay.co.ve.
 marykay.com.ve.
 maryruthorganics.co.ve.
 maryruthorganics.com.ve.
+mas-sport.com.ve.
 masa.com.ve.
 masacasport.com.ve.
 masautoselvinedo.com.ve.
@@ -13739,6 +13735,7 @@ masmedia.com.ve.
 masnetwork.com.ve.
 masnetwork969fm.com.ve.
 masnetworkcumana.com.ve.
+maspadel.com.ve.
 masquebelleza.com.ve.
 masquemedicos.com.ve.
 masqueprint.com.ve.
@@ -14512,7 +14509,6 @@ mirasierra.com.ve.
 miravista.co.ve.
 miredsocial.com.ve.
 miremoto.com.ve.
-mirepuesto.com.ve.
 mirka.co.ve.
 mirotecnicas.com.ve.
 mirringo.com.ve.
@@ -17199,6 +17195,7 @@ proinser2000.com.ve.
 prointel.com.ve.
 prointelecto.com.ve.
 prointer.com.ve.
+prointex.com.ve.
 proinversion.com.ve.
 proitcsolution.com.ve.
 proled.com.ve.
@@ -17817,7 +17814,6 @@ refrigerantes.com.ve.
 refrilux.com.ve.
 refrimarket.net.ve.
 refrisa.com.ve.
-refugiodepaz.com.ve.
 refugiosdignos.gob.ve.
 regal.com.ve.
 regatta.co.ve.
@@ -18152,7 +18148,6 @@ rocksbetting.com.ve.
 rockwallet.com.ve.
 rockwellautomation.com.ve.
 rocoautosales.com.ve.
-rod.com.ve.
 roda.com.ve.
 roda1111.com.ve.
 rodamientos.com.ve.
@@ -21814,7 +21809,6 @@ ukgglobal.com.ve.
 ula.edu.ve.
 ula.ve.
 ulac.edu.ve.
-ulac.net.ve.
 uladdhh.org.ve.
 ulpiano.org.ve.
 ultima.co.ve.
@@ -22795,6 +22789,7 @@ voxclever.com.ve.
 voxtel.com.ve.
 voyganando.com.ve.
 vozdeloscreadores.gob.ve.
+vozdesalvacion.com.ve.
 vozgayona.com.ve.
 vpeconomia.gob.ve.
 vpl.net.ve.
