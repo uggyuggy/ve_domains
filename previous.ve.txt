@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 06May2025 04:37 UTC
+# ve domain names extracted from nameservers on 07May2025 04:42 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1040,7 +1040,6 @@ alicompras.com.ve.
 alicorp.com.ve.
 alienstudio.com.ve.
 alienware.com.ve.
-aliexpress.com.ve.
 alimak.com.ve.
 alimakhek.com.ve.
 alimentos-difresca.com.ve.
@@ -1249,6 +1248,7 @@ amexselects.com.ve.
 amezquimart.com.ve.
 amgca.com.ve.
 amhosting.com.ve.
+ami.info.ve.
 amigo.com.ve.
 amigoclaro.com.ve.
 amirhotelboutique.com.ve.
@@ -2892,7 +2892,6 @@ bolttechpay.com.ve.
 bolttechpayment.co.ve.
 bolttechpayment.com.ve.
 bolyter.com.ve.
-bomac.com.ve.
 bombardier.com.ve.
 bombasantco.com.ve.
 bombasdeagua.com.ve.
@@ -4311,6 +4310,7 @@ citypumps.com.ve.
 ciudad.com.ve.
 ciudadanuncios.co.ve.
 ciudadcallenorte.com.ve.
+ciudadcalzado.com.ve.
 ciudadccs.info.ve.
 ciudaddesanfrancisco.gob.ve.
 ciudadgotica.net.ve.
@@ -4770,6 +4770,7 @@ colegiolatinoamerica.com.ve.
 colegiolazomarti.com.ve.
 colegiolosangeles.edu.ve.
 colegiolosazulejos.edu.ve.
+colegioloscampitos.edu.ve.
 colegioloscedros.edu.ve.
 colegiolosilustresacarigua.com.ve.
 colegiolosproceres.edu.ve.
@@ -5848,6 +5849,7 @@ cuc.edu.ve.
 cucinasimpatica.com.ve.
 cudy.com.ve.
 cuecmc.edu.ve.
+cuentaapp.emprende.ve.
 cuento.com.ve.
 cuentos.com.ve.
 cufan.mil.ve.
@@ -7284,6 +7286,7 @@ elsocorro-guarico.gob.ve.
 elsolardelaquinta.com.ve.
 elsoldemargarita.com.ve.
 elsoldeoriente.com.ve.
+elsotano.com.ve.
 elsuper.com.ve.
 eltallerdelabuelito.com.ve.
 eltaquito.com.ve.
@@ -10447,6 +10450,7 @@ hospitalar.com.ve.
 hospitalcentralsc.gob.ve.
 hospitalclinico.com.ve.
 hospitalito.com.ve.
+hospitalitofarmacia.com.ve.
 hospitaljmdelosrios.org.ve.
 hospitaljosemariabenitez.co.ve.
 hospitaljosemariabenitez.com.ve.
@@ -11190,6 +11194,7 @@ infoservices.com.ve.
 infosistemas.com.ve.
 infosoft.com.ve.
 infosoft.net.ve.
+infosolutionsnetworking.com.ve.
 infosurguayana.com.ve.
 infotel1209.com.ve.
 infotronics.com.ve.
@@ -11368,6 +11373,7 @@ instantgoogle.co.ve.
 instareels.co.ve.
 instareels.com.ve.
 institutoagustinianomadremaria.com.ve.
+institutoalcala.com.ve.
 institutocasadediseno.com.ve.
 institutocastelao.co.ve.
 institutocastelao.com.ve.
@@ -12288,7 +12294,6 @@ kavakcapital.com.ve.
 kavo.com.ve.
 kavokerr.com.ve.
 kayak.co.ve.
-kayak.com.ve.
 kayelectric.com.ve.
 kayros1063.com.ve.
 kbr.co.ve.
@@ -16722,6 +16727,7 @@ plansucre.gov.ve.
 planta2.com.ve.
 planta3.com.ve.
 plantacioncasadecampo.com.ve.
+plantayutongvzla.gob.ve.
 plantic.gob.ve.
 plantronics.com.ve.
 plasmaca.com.ve.
@@ -16932,6 +16938,7 @@ popularizaciondelaciencia.gob.ve.
 populous.com.ve.
 porahora.com.ve.
 porcelanarte.com.ve.
+porcelanas.com.ve.
 porcelanosa.com.ve.
 porcepastora.com.ve.
 pornocolombiano.com.ve.
@@ -17544,6 +17551,7 @@ radioamerica.com.ve.
 radioamiga909.com.ve.
 radioantenalibre.com.ve.
 radioanzoateguifm.com.ve.
+radiobaloncesto.com.ve.
 radiocanal.com.ve.
 radiochacao.com.ve.
 radiodinamica.com.ve.
@@ -20590,7 +20598,6 @@ tecnologia.com.ve.
 tecnologiaalvarado.com.ve.
 tecnologiagb.com.ve.
 tecnologiapos.com.ve.
-tecnologiautopica.com.ve.
 tecnologicodelavictoria.edu.ve.
 tecnologicosucre.edu.ve.
 tecnologizate.com.ve.
@@ -20766,6 +20773,7 @@ tess.net.ve.
 test-20200624.com.ve.
 test.com.ve.
 testers.com.ve.
+testingmc.com.ve.
 tetley.co.ve.
 tetley.com.ve.
 tetonoil.com.ve.
@@ -20946,6 +20954,7 @@ tiger.com.ve.
 tigo.com.ve.
 tigres.com.ve.
 tigritos.com.ve.
+tim.net.ve.
 timaca.com.ve.
 timberland.co.ve.
 timberland.com.ve.
@@ -21313,6 +21322,7 @@ tremarie.com.ve.
 tremor.co.ve.
 trenco.com.ve.
 trendnet.com.ve.
+treosnacks.com.ve.
 tresemme.com.ve.
 tresg.com.ve.
 tresimport.com.ve.
