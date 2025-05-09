@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 07May2025 04:42 UTC
+# ve domain names extracted from nameservers on 08May2025 04:32 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1204,7 +1204,6 @@ amazonvideo.com.ve.
 ambar.com.ve.
 ambientechacao.gob.ve.
 ambientedesign.com.ve.
-ambientesmodernos.com.ve.
 ambienti.com.ve.
 ambtec.com.ve.
 ambulanciassilva.com.ve.
@@ -1527,6 +1526,7 @@ aquavista.com.ve.
 aquavisuites.com.ve.
 aqui.com.ve.
 aquienmerida.com.ve.
+aquies.net.ve.
 aquihay.com.ve.
 ar2.com.ve.
 arabica.com.ve.
@@ -3568,7 +3568,6 @@ casai.com.ve.
 casajosemarti.gov.ve.
 casalab.com.ve.
 casalista.com.ve.
-casaliving.com.ve.
 casamall.com.ve.
 casamarmol.com.ve.
 casaolimpo.co.ve.
@@ -7371,6 +7370,7 @@ ems.com.ve.
 emsb.com.ve.
 emsisoft.com.ve.
 emsla.gob.ve.
+emsol.com.ve.
 emveniran.gob.ve.
 emvepro.gob.ve.
 emvesa.com.ve.
@@ -9109,6 +9109,7 @@ gan.com.ve.
 gan.gob.ve.
 gan.gov.ve.
 ganaco.com.ve.
+ganaconclase4k.com.ve.
 ganaconsplenda.com.ve.
 ganaderia.com.ve.
 ganbaro.com.ve.
@@ -10162,7 +10163,6 @@ hecasupply.com.ve.
 hechoenmerida.gob.ve.
 hechoscriollos.com.ve.
 hechosnews.com.ve.
-hectormanrique.com.ve.
 hectorprato.com.ve.
 hediard.com.ve.
 heidenhain.co.ve.
@@ -10367,7 +10367,6 @@ hitrypvo.com.ve.
 hiwin.com.ve.
 hlarrubla.com.ve.
 hlc.com.ve.
-hlcproyectos.com.ve.
 hlfca.com.ve.
 hm-clause.com.ve.
 hm21.com.ve.
@@ -12066,6 +12065,7 @@ jjprolink.com.ve.
 jjwnetservic.com.ve.
 jkrowling.com.ve.
 jm2007.com.ve.
+jmc.edu.ve.
 jmijares.org.ve.
 jml.com.ve.
 jmsolutec.com.ve.
@@ -12783,7 +12783,6 @@ latino102.com.ve.
 latinos.com.ve.
 latinsecurity.com.ve.
 latinservers.com.ve.
-latinstylus.com.ve.
 latisse.com.ve.
 latlantida.com.ve.
 latrinidad-yaracuy.gob.ve.
@@ -14101,7 +14100,6 @@ mercabar.gob.ve.
 mercabid.com.ve.
 mercadelivery.com.ve.
 mercadillo.com.ve.
-mercado-libre.com.ve.
 mercado.com.ve.
 mercadoads.co.ve.
 mercadoads.com.ve.
@@ -14653,6 +14651,7 @@ moduled.com.ve.
 moduoccidente.com.ve.
 mogaservicios.com.ve.
 mogollon.com.ve.
+moka.com.ve.
 mokacaribe.com.ve.
 molex.co.ve.
 molex.com.ve.
@@ -14661,6 +14660,7 @@ moliendaspapelon.com.ve.
 molina.com.ve.
 molinaviajes.com.ve.
 molipasa.com.ve.
+molisanomateriales.com.ve.
 molo.com.ve.
 molvenca.com.ve.
 mombeu.org.ve.
@@ -15499,7 +15499,6 @@ novial.com.ve.
 novio.com.ve.
 novita.com.ve.
 novonordisk.com.ve.
-novopos.com.ve.
 novosalud.com.ve.
 novustart.com.ve.
 nowassistance.com.ve.
@@ -15893,7 +15892,9 @@ opiniondemocraticadigital.com.ve.
 opiniones.co.ve.
 opinionesalimentacion.com.ve.
 opinionesbelleza.com.ve.
+opinionesdemoda.com.ve.
 opinionesdesalud.com.ve.
+opinionesturismo.com.ve.
 opmobility.com.ve.
 opodo.com.ve.
 opppe.gob.ve.
@@ -16013,6 +16014,7 @@ osterpro.com.ve.
 osterservicio.com.ve.
 osterstyle.com.ve.
 ostomedical.com.ve.
+osver.com.ve.
 otai.com.ve.
 otazu.com.ve.
 otc.com.ve.
@@ -18631,7 +18633,6 @@ santosasociados.com.ve.
 santosluzardo.gob.ve.
 santosmarquina-merida.gov.ve.
 sanuk.co.ve.
-sanval.com.ve.
 sanvicentedepaul.edu.ve.
 sap.co.ve.
 sap.com.ve.
@@ -19560,6 +19561,7 @@ smartsystems.com.ve.
 smartwool.com.ve.
 smartwork.com.ve.
 smartworld.com.ve.
+smaudio.com.ve.
 smc.com.ve.
 smc99.com.ve.
 smedical.com.ve.
@@ -21102,7 +21104,6 @@ topografos.com.ve.
 toposoftit.com.ve.
 toppers.com.ve.
 topriego.com.ve.
-topspin.com.ve.
 toptronic.com.ve.
 topused.co.ve.
 topventas.com.ve.

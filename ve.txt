@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 08May2025 04:32 UTC
+# ve domain names extracted from nameservers on 09May2025 04:45 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -1303,7 +1303,6 @@ anca.org.ve.
 ancestry.com.ve.
 ancevenezuela.org.ve.
 ancloud.com.ve.
-ancovparts.com.ve.
 andescaracas.edu.ve.
 andesfm893.com.ve.
 andexco.com.ve.
@@ -2358,7 +2357,6 @@ bbraun.com.ve.
 bbva.com.ve.
 bca.com.ve.
 bcaa.com.ve.
-bcconsultorescorporativos.com.ve.
 bcdtravel.com.ve.
 bcg.com.ve.
 bcgame.com.ve.
@@ -3656,7 +3654,6 @@ catropaej.mil.ve.
 cattaliniterminais.com.ve.
 cauchos.co.ve.
 cauchos.com.ve.
-cauchosalianza.com.ve.
 cauchoslamundial.com.ve.
 cauchossts.com.ve.
 cauchosya.com.ve.
@@ -4459,6 +4456,7 @@ clubbarbie.com.ve.
 clubcanario.com.ve.
 clubcubano.com.ve.
 clubfordfiesta.com.ve.
+clubinter.com.ve.
 clublike.com.ve.
 clubmapfre.com.ve.
 clubmelia.com.ve.
@@ -6088,6 +6086,7 @@ davidluna.com.ve.
 davidosio.co.ve.
 daviduzcategui.com.ve.
 daviduzcategui.net.ve.
+daviduzcategui.org.ve.
 davila.com.ve.
 davimar.com.ve.
 davinciristorante.com.ve.
@@ -7051,6 +7050,7 @@ edu.com.ve.
 edu.ve.
 eduardorohl.edu.ve.
 educacion.web.ve.
+educacionbolivariana.org.ve.
 educacionlara.gob.ve.
 educacionuniversitaria.gob.ve.
 educaedu.com.ve.
@@ -7085,6 +7085,7 @@ efs.com.ve.
 eftown.com.ve.
 efv.org.ve.
 efys.com.ve.
+egb.com.ve.
 egger.co.ve.
 egger.com.ve.
 egidsa.org.ve.
@@ -7411,6 +7412,7 @@ energico.com.ve.
 energizer.com.ve.
 energras.com.ve.
 energy.net.ve.
+energylogisticsca.com.ve.
 energytech.com.ve.
 enf.edu.ve.
 enfa.com.ve.
@@ -7962,7 +7964,6 @@ facilistas.com.ve.
 facilita.com.ve.
 facilsoft.com.ve.
 facilsoftcomve.com.ve.
-factoriadigital.com.ve.
 factorycosmetics.com.ve.
 factronics.com.ve.
 factum.com.ve.
@@ -11351,6 +11352,7 @@ insignia.com.ve.
 insignia.web.ve.
 insigniamobile.com.ve.
 insigniamobile.net.ve.
+insinkerator.com.ve.
 insite.com.ve.
 insitu.com.ve.
 insmamarosabol.gob.ve.
@@ -14073,7 +14075,6 @@ melitta.com.ve.
 mellado-guarico.gob.ve.
 melochemonnex.co.ve.
 melochemonnex.com.ve.
-melocomo.com.ve.
 melonne.com.ve.
 meltwater.com.ve.
 mem.gob.ve.
@@ -14317,6 +14318,7 @@ micheandino.com.ve.
 michelena-tachira.gob.ve.
 michelin.com.ve.
 michigansp.com.ve.
+miclubinter.com.ve.
 micondominio.com.ve.
 miconocimiento.gov.ve.
 micorreo.com.ve.
@@ -16312,6 +16314,7 @@ patza.com.ve.
 paulgillman.com.ve.
 pavco.com.ve.
 pave.com.ve.
+pave.org.ve.
 paveca.com.ve.
 pavisur.com.ve.
 paw.com.ve.
@@ -16890,6 +16893,7 @@ policiascaninosisrrael.com.ve.
 policlinicacentro.com.ve.
 policlinicalosguayos.com.ve.
 policlinicametropolitana.com.ve.
+policlinicaparaguana.com.ve.
 policlinicatachira.com.ve.
 policlinicobejuma.com.ve.
 policolon.gob.ve.
@@ -18573,7 +18577,6 @@ sangenarodeboconoito-portuguesa.gov.ve.
 sangiorgio.com.ve.
 sanibrand.com.ve.
 sanifer.com.ve.
-sanisidrocafe.com.ve.
 sanitisu.com.ve.
 sanito.com.ve.
 sanjoaquin-carabobo.gov.ve.
@@ -18696,6 +18699,7 @@ saxomarkets.com.ve.
 sayaclothing.com.ve.
 sayegh.com.ve.
 saypro.com.ve.
+sazongourmet.com.ve.
 sbasociados.com.ve.
 sbotanica.org.ve.
 sbr.gob.ve.
@@ -19993,7 +19997,6 @@ starcom.com.ve.
 starconectados.ve.
 stargas.com.ve.
 starkey.com.ve.
-starkids.com.ve.
 starkindustrias.com.ve.
 starlink.co.ve.
 starlink.com.ve.
@@ -21836,7 +21839,6 @@ ultima.co.ve.
 ultimasnoticias.com.ve.
 ultimasnoticias.ve.
 ultimatic.co.ve.
-ultra.com.ve.
 ultrabikex.com.ve.
 ultradent.co.ve.
 ultraline.com.ve.
@@ -22536,7 +22538,6 @@ vialto.co.ve.
 vialto.com.ve.
 vialtopartners.co.ve.
 vialtopartners.com.ve.
-viaplay.co.ve.
 viaplay.com.ve.
 viatris.com.ve.
 viaweb.com.ve.
@@ -22681,6 +22682,7 @@ visitemerida.com.ve.
 visitlosroques.com.ve.
 viso.com.ve.
 visocom.com.ve.
+visor.com.ve.
 visorojasyasociados.com.ve.
 vistacalifornia.com.ve.
 vistage.com.ve.
