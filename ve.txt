@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 09May2025 04:45 UTC
+# ve domain names extracted from nameservers on 10May2025 04:51 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -513,6 +513,7 @@ affiliate.com.ve.
 afi.com.ve.
 afiliadoshispanos.com.ve.
 afiliadoshispanosfox.com.ve.
+afishop.com.ve.
 aflora.com.ve.
 afroditaswimwear.com.ve.
 afrusur.com.ve.
@@ -3054,7 +3055,6 @@ britishamericantobacco.com.ve.
 britishcouncil.org.ve.
 briutcare.com.ve.
 broadline.com.ve.
-brodaju.com.ve.
 broilking.com.ve.
 brokercheck.co.ve.
 bromic.com.ve.
@@ -4057,6 +4057,7 @@ cheddarsscratchkitchen.com.ve.
 cheezwhiz.com.ve.
 chefiq.com.ve.
 chefman.com.ve.
+chefmargaro.com.ve.
 chefsteps.co.ve.
 chefsteps.com.ve.
 chefworks.com.ve.
@@ -5280,6 +5281,7 @@ consultarif.com.ve.
 consultasaldomovilnet.com.ve.
 consultatumedico.com.ve.
 consultek.com.ve.
+consulting.com.ve.
 consultorass.com.ve.
 consultoresjfc.com.ve.
 consultoreslegales.com.ve.
@@ -8383,7 +8385,6 @@ flexispot.co.ve.
 flexispot.com.ve.
 flexopack.com.ve.
 flexoven.com.ve.
-flg.com.ve.
 flightengine.com.ve.
 flightpag.com.ve.
 flintgrp.co.ve.
@@ -11586,7 +11587,6 @@ inversioneskevlar.com.ve.
 inversioneslafuente.com.ve.
 inversioneslosalquimistas.com.ve.
 inversioneslr.com.ve.
-inversionesmundo2020.com.ve.
 inversionespb.com.ve.
 inversionespistonesjw.com.ve.
 inversionesrh.com.ve.
@@ -11747,7 +11747,6 @@ isotecnica.com.ve.
 ispc.com.ve.
 ispeb.gob.ve.
 ispgestion.com.ve.
-issabel.com.ve.
 issevhven.org.ve.
 istca.com.ve.
 istock.com.ve.
@@ -14087,7 +14086,6 @@ men.com.ve.
 menpet.gob.ve.
 mensaje.net.ve.
 mensajesms.com.ve.
-mensana.com.ve.
 mensmarket.com.ve.
 mentaverde.com.ve.
 menu.com.ve.
@@ -14607,6 +14605,7 @@ mlscaracas.com.ve.
 mlsltd.com.ve.
 mlvtrabajo.com.ve.
 mm-marketing.com.ve.
+mmaccesorios.com.ve.
 mmbselect.com.ve.
 mmcabledata.com.ve.
 mmcomputer.com.ve.
@@ -14984,9 +14983,11 @@ mundoelectronica.com.ve.
 mundoelectronico.com.ve.
 mundofox.co.ve.
 mundogps.com.ve.
+mundogroup.com.ve.
 mundokanguro.com.ve.
 mundomac.com.ve.
 mundomar.com.ve.
+mundomoto.com.ve.
 mundonorma.com.ve.
 mundosalud.com.ve.
 mundosatelital.co.ve.
@@ -15369,6 +15370,7 @@ nhow.com.ve.
 nibru.com.ve.
 nic.ve.
 niccon.com.ve.
+nice.com.ve.
 nicelocal.com.ve.
 nido.com.ve.
 nieblazul.com.ve.
@@ -15965,7 +15967,6 @@ orinoquia.gob.ve.
 orioil.com.ve.
 oriol.com.ve.
 orion.net.ve.
-orionsdevenezuela.com.ve.
 orituco.gov.ve.
 oro.com.ve.
 orobet.com.ve.
@@ -16495,7 +16496,6 @@ perpetualplanetinitiative.co.ve.
 perpetualplanetinitiative.com.ve.
 perpetualspirit.co.ve.
 perpetualspirit.com.ve.
-perros.com.ve.
 persianaselavila.com.ve.
 personalizados.com.ve.
 personalizalotodo.com.ve.
@@ -18117,6 +18117,7 @@ rivas.org.ve.
 rivasdavila-merida.gov.ve.
 riverisland.co.ve.
 riviera.com.ve.
+rixos.com.ve.
 rizoma.com.ve.
 rjmotosimport.com.ve.
 rkfm.com.ve.
@@ -19115,7 +19116,6 @@ setimca.com.ve.
 setra.gov.ve.
 settestelle.com.ve.
 seven.com.ve.
-sevende.com.ve.
 sevenforallmankind.com.ve.
 sevens.com.ve.
 seventec.com.ve.
@@ -21109,7 +21109,6 @@ toppers.com.ve.
 topriego.com.ve.
 toptronic.com.ve.
 topused.co.ve.
-topventas.com.ve.
 torakku.com.ve.
 torbes-tachira.gov.ve.
 torca.com.ve.
