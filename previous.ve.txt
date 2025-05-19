@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 10May2025 04:51 UTC
+# ve domain names extracted from nameservers on 11May2025 04:53 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -240,6 +240,7 @@ academiadeartegbs.org.ve.
 academiadebelleza.com.ve.
 academiadelagaita.gob.ve.
 academiademerida.org.ve.
+academiadepickleball.com.ve.
 academiamadison.com.ve.
 academiamerici.edu.ve.
 academiamilitar.edu.ve.
@@ -3546,6 +3547,7 @@ casa-olimpo.com.ve.
 casa.gob.ve.
 casa.gov.ve.
 casaalejozuloaga.com.ve.
+casabella.com.ve.
 casabello.gob.ve.
 casablanca24.com.ve.
 casacoima-deltaamacuro.gob.ve.
@@ -5447,7 +5449,6 @@ copatoon.com.ve.
 copaxone.com.ve.
 copei.org.ve.
 copiaf.gob.ve.
-coppacocktails.co.ve.
 copra.com.ve.
 copresem.com.ve.
 coprevial.com.ve.
@@ -8417,6 +8418,7 @@ flukeprocessinstruments.co.ve.
 fluor.com.ve.
 fluordaniel.com.ve.
 flutter.com.ve.
+flyer.com.ve.
 flygt.com.ve.
 flyingblue.com.ve.
 flysouthwest.co.ve.
@@ -15702,6 +15704,7 @@ officemaster.co.ve.
 officemaster.com.ve.
 officenet.net.ve.
 officialdavidosio.co.ve.
+ofimak.com.ve.
 ofimarket.com.ve.
 ofimarkt.com.ve.
 ofimaster.com.ve.
@@ -16535,7 +16538,6 @@ petroguia.com.ve.
 petroleosdeamerica.com.ve.
 petrolera.com.ve.
 petroleum.com.ve.
-petroleumcontractor.com.ve.
 petronet.co.ve.
 petroquimicasima.com.ve.
 petroservices.com.ve.
@@ -18042,7 +18044,6 @@ rexroth.co.ve.
 rexroth.com.ve.
 reycore.com.ve.
 reyfeca.com.ve.
-reymontsport.com.ve.
 reyrep.com.ve.
 reyvow.com.ve.
 reyvowe.com.ve.
@@ -22239,7 +22240,6 @@ vassaguacara.com.ve.
 vatika.com.ve.
 vauxoo.co.ve.
 vav.com.ve.
-vbd.com.ve.
 vc-legal.com.ve.
 vc.gov.ve.
 vca.com.ve.
