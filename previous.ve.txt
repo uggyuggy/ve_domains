@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 19May2025 04:36 UTC
+# ve domain names extracted from nameservers on 20May2025 04:34 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -730,6 +730,7 @@ akunfilters.info.ve.
 akunfilters.net.ve.
 akunfilters.org.ve.
 akunfilters.web.ve.
+akuri.com.ve.
 akyos.com.ve.
 akzalta.com.ve.
 akzaltanobel.com.ve.
@@ -1811,6 +1812,7 @@ ataro.com.ve.
 atarraya.com.ve.
 atc.net.ve.
 atc.org.ve.
+atca.com.ve.
 ate.gob.ve.
 atecmilej.mil.ve.
 atecsa.com.ve.
@@ -2959,7 +2961,6 @@ boschrexroth.co.ve.
 boschrexroth.com.ve.
 boschsecurity.com.ve.
 boschsecuritysystems.com.ve.
-boscotek.com.ve.
 bose.co.ve.
 bose.com.ve.
 bostonconsulting.com.ve.
@@ -4664,6 +4665,7 @@ cognos.com.ve.
 cohabi.com.ve.
 cohiba.com.ve.
 cohinca.com.ve.
+coin-volcano.com.ve.
 coincoin.com.ve.
 coinme.co.ve.
 coinrule.co.ve.
@@ -5867,6 +5869,7 @@ cuisinart.com.ve.
 culligan.com.ve.
 culonas.com.ve.
 culosgratis.com.ve.
+cultiva983fm.com.ve.
 cultivandopatria.gob.ve.
 cultura.gov.ve.
 culturaesve.org.ve.
@@ -6590,6 +6593,7 @@ diseresa.com.ve.
 disgaven.com.ve.
 disglobal.com.ve.
 disgonper.com.ve.
+dish.com.ve.
 disinglab.com.ve.
 disip.gob.ve.
 disjogreca.com.ve.
@@ -6683,6 +6687,7 @@ dkwatch.com.ve.
 dlcv.net.ve.
 dll.com.ve.
 dma.net.ve.
+dmarket.com.ve.
 dmmc.com.ve.
 dnaed.edu.ve.
 dnb.co.ve.
@@ -9582,6 +9587,8 @@ gomez-nuevaesparta.gob.ve.
 gonarca.com.ve.
 gonavi.com.ve.
 gonfel.com.ve.
+gonher.co.ve.
+gonher.com.ve.
 gonzalezfuentesyasociados.com.ve.
 goodhousekeeping.com.ve.
 goodlines.com.ve.
@@ -10533,6 +10540,7 @@ hotellaslomas.com.ve.
 hotellosbordones.com.ve.
 hotelmadrigal.com.ve.
 hotelmediterraneo.com.ve.
+hotelmontpark.com.ve.
 hotelmontserrat.com.ve.
 hoteloviedo.com.ve.
 hotelpalas.com.ve.
@@ -11713,6 +11721,7 @@ isabelgigli.com.ve.
 isac.com.ve.
 isalud.com.ve.
 isamica.com.ve.
+isb.com.ve.
 isc.edu.ve.
 isc2004.com.ve.
 iscardnet.com.ve.
@@ -11981,6 +11990,7 @@ jasic.com.ve.
 jaspe.com.ve.
 jatu.com.ve.
 jauregui-tachira.gov.ve.
+javierdelgado.com.ve.
 jbarrios.com.ve.
 jbl.co.ve.
 jbl.com.ve.
@@ -12527,6 +12537,7 @@ kygevvi.com.ve.
 kyndryl.co.ve.
 kyndryl.com.ve.
 kyodomotors.com.ve.
+kyomumotos.com.ve.
 kyotomotors.com.ve.
 kyprolis.com.ve.
 l-m.com.ve.
@@ -13133,6 +13144,7 @@ livetube.co.ve.
 livetube.com.ve.
 livial.com.ve.
 living.com.ve.
+livre.com.ve.
 lizze.com.ve.
 ljasesores.com.ve.
 ll-c.com.ve.
@@ -13621,6 +13633,7 @@ maracaibo.com.ve.
 maracaibo.gob.ve.
 maracaibo.gov.ve.
 maracaibo.net.ve.
+maracaibo879fm.com.ve.
 maracaiboit.com.ve.
 maracay.com.ve.
 maradeoro.com.ve.
@@ -17589,6 +17602,7 @@ radioius.com.ve.
 radiolavozdefedevysme.com.ve.
 radiolavozdenirgua.com.ve.
 radiolink.com.ve.
+radiomacarao1003fm.com.ve.
 radiomaniafm.com.ve.
 radiomaranatha.co.ve.
 radiomaria.com.ve.
@@ -17971,6 +17985,7 @@ repimbra.com.ve.
 replagal.com.ve.
 reporteroenresistencia.com.ve.
 reporterosdemerida.com.ve.
+reporteshb.com.ve.
 repossi.com.ve.
 representacionespl.com.ve.
 reproinca.com.ve.
@@ -19131,6 +19146,7 @@ setimca.com.ve.
 setra.gov.ve.
 settestelle.com.ve.
 seven.com.ve.
+sevende.com.ve.
 sevenforallmankind.com.ve.
 sevens.com.ve.
 seventec.com.ve.
@@ -21351,6 +21367,7 @@ tribal-wars.com.ve.
 tribehr.co.ve.
 tribehr.com.ve.
 tribunalconsignacionesccs.gov.ve.
+tributosacevedo.com.ve.
 tributosaragua.com.ve.
 tributosindependencia.com.ve.
 tributosmcgregor.com.ve.

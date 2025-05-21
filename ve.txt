@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 20May2025 04:34 UTC
+# ve domain names extracted from nameservers on 21May2025 04:38 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -213,7 +213,6 @@ aboga.com.ve.
 abogado.com.ve.
 abogados-caracas.com.ve.
 abogados-venezuela.com.ve.
-abogados-venezuela.net.ve.
 abogados.com.ve.
 abogadosfloresbrito.com.ve.
 abogadosveritaslex.com.ve.
@@ -1481,6 +1480,7 @@ aprocao.com.ve.
 aprocre.org.ve.
 aprotur.com.ve.
 aproven.com.ve.
+aprs.net.ve.
 apsistemas.com.ve.
 apsvisual.com.ve.
 apt.com.ve.
@@ -3134,6 +3134,7 @@ burj-al-arab.com.ve.
 burj.com.ve.
 burjalarab.co.ve.
 burjalarab.com.ve.
+burkert.co.ve.
 buroz-miranda.gov.ve.
 burrosabanero.com.ve.
 burster.com.ve.
@@ -4638,6 +4639,7 @@ codena.gob.ve.
 coderhouse.com.ve.
 coderhub.com.ve.
 codes.com.ve.
+codesign.com.ve.
 codetaragua.gob.ve.
 codica.com.ve.
 codigoabierto.com.ve.
@@ -4678,7 +4680,6 @@ colaborador.com.ve.
 colarebo.com.ve.
 cole.com.ve.
 colegio.com.ve.
-colegio19deabril.com.ve.
 colegio24dejuniode1821.com.ve.
 colegioadventistaandresbelloguanare.com.ve.
 colegioalejandrohumboldt.com.ve.
@@ -6836,6 +6837,7 @@ dropi.com.ve.
 droplusve.com.ve.
 droremedio.com.ve.
 drosalud.com.ve.
+drotaca.com.ve.
 drotafarma.com.ve.
 drovencentro.com.ve.
 drovica.com.ve.
@@ -8463,6 +8465,7 @@ focusonhunter.com.ve.
 fodenorca.org.ve.
 fogade.gob.ve.
 fogade.gov.ve.
+fogata.com.ve.
 foherb.co.ve.
 foherb.com.ve.
 fohow.com.ve.
@@ -8959,6 +8962,7 @@ fundatachira.gov.ve.
 fundaturvalencia.gob.ve.
 fundavanza.gob.ve.
 fundavene.gob.ve.
+fundavuni.org.ve.
 fundayacucho.gob.ve.
 fundayacucho.gov.ve.
 fundeca.gob.ve.
@@ -10012,6 +10016,7 @@ guia.com.ve.
 guiabbb.com.ve.
 guiadesalud.com.ve.
 guiame.com.ve.
+guiamedica.co.ve.
 guiavenezuela.com.ve.
 guiazona.com.ve.
 guiria.com.ve.
@@ -10121,6 +10126,7 @@ hardrockdigital.com.ve.
 hardrockhotel.co.ve.
 hardrocksports.com.ve.
 hardrocksportsbook.com.ve.
+hardsoft.com.ve.
 hare.com.ve.
 haribo.com.ve.
 harinapan.com.ve.
@@ -15001,6 +15007,7 @@ mundoccell.com.ve.
 mundoceres.com.ve.
 mundocomercial.com.ve.
 mundodecolores.com.ve.
+mundodigitalonline.com.ve.
 mundoelectronica.com.ve.
 mundoelectronico.com.ve.
 mundofox.co.ve.
@@ -15464,6 +15471,7 @@ nordea.com.ve.
 nordic.com.ve.
 nordicnaturals.co.ve.
 nordik.com.ve.
+norep.com.ve.
 noreste.com.ve.
 norkaluque.co.ve.
 norkut.com.ve.
@@ -16312,7 +16320,6 @@ paseaperros.com.ve.
 pasoapaso.com.ve.
 passagem.com.ve.
 passer.com.ve.
-passline.co.ve.
 passline.com.ve.
 password.com.ve.
 pastaoro.com.ve.
@@ -17419,6 +17426,7 @@ publiweb.com.ve.
 puchesistemas.com.ve.
 pueblollano-merida.gov.ve.
 pueblos.org.ve.
+puertoazul.com.ve.
 puertocabello-carabobo.gov.ve.
 puertodeguanta.gob.ve.
 puertodelibros.com.ve.
@@ -18007,7 +18015,6 @@ repuestosvilore.com.ve.
 repxpert.com.ve.
 rerabogados.com.ve.
 rescatecaracas.org.ve.
-rescignoconexiones.net.ve.
 resel.com.ve.
 reselhost.com.ve.
 reservalia.com.ve.
@@ -19011,6 +19018,7 @@ sensormatic.com.ve.
 sentilooriginal.com.ve.
 sentiloriginal.com.ve.
 sentioriginal.com.ve.
+sentirsalud.com.ve.
 senzanigroup.com.ve.
 seo.com.ve.
 sepac.com.ve.
@@ -21665,6 +21673,7 @@ tvredes.com.ve.
 tvs.net.ve.
 tvvextranet.com.ve.
 tvvextranet2.com.ve.
+tvzamora.com.ve.
 tvzamora.ve.
 twentyonemen.com.ve.
 twinkl.co.ve.
@@ -22140,6 +22149,7 @@ urumaco-falcon.gov.ve.
 usag.com.ve.
 usairways.co.ve.
 usb.ve.
+usbv.com.ve.
 userway.com.ve.
 usi.edu.ve.
 usm.edu.ve.
@@ -22374,6 +22384,7 @@ veneminsk.web.ve.
 venemotos.com.ve.
 venemundo.net.ve.
 venepago.co.ve.
+venepagos.com.ve.
 veneplats.com.ve.
 veneprop.com.ve.
 venescca.com.ve.
@@ -22907,6 +22918,7 @@ vuelvancaras.gov.ve.
 vuica.com.ve.
 vuitton.com.ve.
 vultur.com.ve.
+vumar.com.ve.
 vw.co.ve.
 vw.com.ve.
 vwcamionesybuses.com.ve.
