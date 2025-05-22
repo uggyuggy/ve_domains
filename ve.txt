@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 21May2025 04:38 UTC
+# ve domain names extracted from nameservers on 22May2025 01:04 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -155,9 +155,6 @@
 9round.com.ve.
 _443._tcp.estadisticas.nic.ve.
 _443._tcp.nic.ve.
-_443._tcp.rdap.nic.ve.
-_443._tcp.whois.nic.ve.
-_443._tcp.www.nic.ve.
 _dmarc.mail.nic.ve.
 _dmarc.nic.ve.
 a-riesgo.com.ve.
@@ -1621,6 +1618,7 @@ armaflex.com.ve.
 armaniexchange.co.ve.
 armaniexchange.com.ve.
 armichelena.com.ve.
+armoniasdevenezuela.com.ve.
 armorgroup.com.ve.
 armura.com.ve.
 arneg.com.ve.
@@ -2844,6 +2842,7 @@ bocunebart.com.ve.
 boda.co.ve.
 bodas.co.ve.
 bodas.com.ve.
+bodasmargarita.com.ve.
 bodebar.com.ve.
 bodegaotazu.com.ve.
 bodegaspomar.com.ve.
@@ -3542,6 +3541,7 @@ cartoonjuegos.com.ve.
 cartoonnetwork.com.ve.
 cartoonoffair.com.ve.
 cartoven.com.ve.
+carubarigua965fm.com.ve.
 carvajalsi.com.ve.
 carvallobello.com.ve.
 carvela.com.ve.
@@ -5075,6 +5075,7 @@ comunasocialistapuntaiguanaenrevolucion.org.ve.
 comunastereofm.com.ve.
 comunavpsocial.org.ve.
 comunica-t.com.ve.
+comunicacion6.com.ve.
 comunicaciones.gov.ve.
 comunicacionesgp.com.ve.
 comunicacioneshg.com.ve.
@@ -5244,6 +5245,7 @@ consejopolicia.gob.ve.
 consejosanfelipe.gob.ve.
 consejoscomunales.gob.ve.
 consemargroup.com.ve.
+consentida969fm.com.ve.
 consequencesofadhd.com.ve.
 consermuca.edu.ve.
 conserval.com.ve.
@@ -9678,6 +9680,7 @@ grainger.co.ve.
 grainger.com.ve.
 gramoca.com.ve.
 granapadano.com.ve.
+granbibliotecamasonica.com.ve.
 granbrasa.com.ve.
 grancacique.com.ve.
 grancapitulo.org.ve.
@@ -10144,6 +10147,7 @@ hartford.com.ve.
 hartung.com.ve.
 hashtagproducciones.com.ve.
 hatillo.com.ve.
+hats.com.ve.
 hatzalah.com.ve.
 hav.com.ve.
 havaianas.com.ve.
@@ -10399,7 +10403,6 @@ hm21.com.ve.
 hmcarlosarvelo.mil.ve.
 hmclause.com.ve.
 hmhome.com.ve.
-hml.com.ve.
 hobbyarte.com.ve.
 hogan.com.ve.
 hoganlovells.co.ve.
@@ -12779,6 +12782,7 @@ lasgacelas.com.ve.
 lasiniestra.org.ve.
 laslineasdechavez.gob.ve.
 lasmiditan.com.ve.
+lasnieves.com.ve.
 lasnonnitas.com.ve.
 lasnoticiasdehoy.com.ve.
 lasnovedades.com.ve.
@@ -18080,6 +18084,7 @@ rexroth.co.ve.
 rexroth.com.ve.
 reycore.com.ve.
 reyfeca.com.ve.
+reymontsport.com.ve.
 reyrep.com.ve.
 reyvow.com.ve.
 reyvowe.com.ve.
@@ -19010,6 +19015,7 @@ senifa.gob.ve.
 senorca.gov.ve.
 senosayuda.org.ve.
 sensacine.com.ve.
+sensacional961fm.com.ve.
 sensei.com.ve.
 sensilis.co.ve.
 sensilis.com.ve.
@@ -19736,7 +19742,6 @@ solfacil.com.ve.
 solfin.com.ve.
 solfinagricola.com.ve.
 solgasmedical.com.ve.
-solicitudes.nic.ve.
 solideo.org.ve.
 solidworks.com.ve.
 solili.com.ve.
@@ -19769,6 +19774,7 @@ solucionesantco.com.ve.
 solucionesbinarias.com.ve.
 solucionescontables.com.ve.
 solucionescontables.net.ve.
+solucionesdbk.net.ve.
 solucionesdlety.com.ve.
 solucionesempresariales.com.ve.
 solucionesespectral.com.ve.
@@ -20624,6 +20630,7 @@ tecnoconcretvalencia.com.ve.
 tecnocore.com.ve.
 tecnocredito.com.ve.
 tecnodistribuidor.com.ve.
+tecnodroid.co.ve.
 tecnoelectron.com.ve.
 tecnoelectronics.com.ve.
 tecnoempleo.com.ve.
@@ -21149,6 +21156,7 @@ toppers.com.ve.
 topriego.com.ve.
 toptronic.com.ve.
 topused.co.ve.
+topventas.com.ve.
 torakku.com.ve.
 torbes-tachira.gov.ve.
 torca.com.ve.
@@ -23204,11 +23212,9 @@ wrangler.com.ve.
 ws.com.ve.
 wsaud.co.ve.
 wsaud.com.ve.
-wscalidad.nic.ve.
 wsedtrfsdcxzfczxdc.com.ve.
 wsi.com.ve.
 wsp.com.ve.
-wsprod.nic.ve.
 wsradioonline.com.ve.
 wts.com.ve.
 wtw.com.ve.
