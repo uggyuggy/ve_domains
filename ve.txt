@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 01Jun2025 00:54 UTC
+# ve domain names extracted from nameservers on 02Jun2025 00:55 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
