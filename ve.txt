@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 07Jun2025 00:53 UTC
+# ve domain names extracted from nameservers on 08Jun2025 00:54 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -486,6 +486,7 @@ aerotienda.com.ve.
 aerotransfer.com.ve.
 aesperanza1990.com.ve.
 aestca.com.ve.
+aeteconsultoradenegocios.com.ve.
 aethen-communications.com.ve.
 aexp.co.ve.
 aexp.com.ve.
@@ -1604,7 +1605,6 @@ aromaven.com.ve.
 aronin.com.ve.
 arpanettelecom.com.ve.
 arquetipo.com.ve.
-arquideas.com.ve.
 arquidiocesisdebarquisimeto.org.ve.
 arquidiocesisdecoro.org.ve.
 arquidiocesisdemerida.org.ve.
@@ -3496,6 +3496,7 @@ cartedor.com.ve.
 cartersoshkosh.com.ve.
 cartersoshkoshbgosh.com.ve.
 cartier.com.ve.
+cartofel.com.ve.
 cartoneracaribe.com.ve.
 cartoneradelcaribe.com.ve.
 cartonexpress.com.ve.
@@ -4748,7 +4749,6 @@ colegiomarcelroche.com.ve.
 colegiomariaauxiliadora.com.ve.
 colegiomariaauxiliadoraaltamira.com.ve.
 colegiomariaauxiliadoralosteques.com.ve.
-colegiomariadelourdesperera.com.ve.
 colegiomariainmaculada.edu.ve.
 colegiomariainmaculadaguarico.com.ve.
 colegiomariamontessori.com.ve.
@@ -5153,7 +5153,6 @@ congefanb.mil.ve.
 congeladosdelcaribe.com.ve.
 conglobad.com.ve.
 congo.com.ve.
-congresodeeducacioncatolica.com.ve.
 congresomundialelsistema.org.ve.
 congrif.co.ve.
 congrif.com.ve.
@@ -6195,6 +6194,7 @@ delvalle.com.ve.
 delzam.com.ve.
 dem.gob.ve.
 dem.gov.ve.
+demaderamas.com.ve.
 demajo.net.ve.
 demca.com.ve.
 demeca.com.ve.
@@ -7386,7 +7386,6 @@ enlaceindigenas.gob.ve.
 enlaceregional.com.ve.
 enlacerv.co.ve.
 enlaceucv.org.ve.
-enlanube.co.ve.
 enlanube.com.ve.
 enmohca.gob.ve.
 enmotion.co.ve.
@@ -7768,7 +7767,6 @@ exair.com.ve.
 examenesmedicosocupacionales.com.ve.
 examenesmedicospreempleo.com.ve.
 examina.com.ve.
-exanet.com.ve.
 exatlon.co.ve.
 excel.net.ve.
 excelenciabc.com.ve.
@@ -7916,6 +7914,7 @@ fairmont.com.ve.
 fairmonthotels.com.ve.
 fairway.com.ve.
 fajasmyd.com.ve.
+fajastendencia.com.ve.
 falck.com.ve.
 falcon-cojedes.gov.ve.
 falcon-falcon.gob.ve.
@@ -11181,7 +11180,6 @@ inmobiliariarentahouse.com.ve.
 inmobiliariavip.com.ve.
 inmobiliariavision.com.ve.
 inmobisa.com.ve.
-inmoblezama20.com.ve.
 inmoglobalve.com.ve.
 inmovaly.com.ve.
 inmovital.com.ve.
@@ -14828,7 +14826,6 @@ multi-canal.com.ve.
 multi.co.ve.
 multi.com.ve.
 multicargas.com.ve.
-multiconsumos.com.ve.
 multiecservicios.com.ve.
 multienfoques360.com.ve.
 multieventsvenezuela.com.ve.
@@ -17150,6 +17147,7 @@ properstar.com.ve.
 propets.com.ve.
 proplan.com.ve.
 prored.com.ve.
+prosait.com.ve.
 prosalmed.com.ve.
 prosalud.gob.ve.
 prosalud.org.ve.
@@ -20250,7 +20248,6 @@ swoosh.com.ve.
 swpublico.edu.ve.
 sws.com.ve.
 swsnet.com.ve.
-syaca.com.ve.
 sybase.com.ve.
 syc.com.ve.
 sycom.com.ve.
