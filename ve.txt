@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 08Jun2025 00:54 UTC
+# ve domain names extracted from nameservers on 09Jun2025 00:54 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -558,7 +558,6 @@ agriclass.com.ve.
 agricolaeltriunfo.com.ve.
 agricolalagiralda.com.ve.
 agriculturaproductiva.gob.ve.
-agridevenezuela.com.ve.
 agriequip.com.ve.
 agrimar.com.ve.
 agrimer.com.ve.
@@ -4506,7 +4505,6 @@ cmt.gob.ve.
 cmusoft.com.ve.
 cmv.com.ve.
 cmv.gob.ve.
-cmvbolivar.com.ve.
 cmvdsd.com.ve.
 cnac.gob.ve.
 cnae.gob.ve.
@@ -4533,7 +4531,6 @@ cnh.gob.ve.
 cnhi.co.ve.
 cnhi.com.ve.
 cnhi.net.ve.
-cni.com.ve.
 cnig.com.ve.
 cnjuegos.com.ve.
 cnm.gob.ve.
@@ -4878,7 +4875,6 @@ cologgnv.mil.ve.
 colombeia.edu.ve.
 colombeia.gob.ve.
 colombeiatv.gob.ve.
-colombianosenvenezuela.org.ve.
 colon-zulia.gob.ve.
 coloplas.com.ve.
 colorados.com.ve.
@@ -6264,7 +6260,6 @@ descorcha.com.ve.
 descubraeuropa.com.ve.
 descubralaviapd-1.com.ve.
 desenio.com.ve.
-desenredate.com.ve.
 desertcart.com.ve.
 designet.com.ve.
 designfuture.com.ve.
@@ -7085,7 +7080,6 @@ elearningcanaima.gob.ve.
 elecabo.com.ve.
 eleccion.com.ve.
 elecciones.gob.ve.
-elecfreaks.com.ve.
 elecon.com.ve.
 eleconomistaamerica.com.ve.
 elecsa.com.ve.
@@ -7137,7 +7131,6 @@ elflowvenezuela.org.ve.
 elfoco.com.ve.
 elfontheshelf.com.ve.
 elfutbolero.com.ve.
-elgalpondelaceramica.com.ve.
 elgigantedelradiador.com.ve.
 elgirasoldegiraluna.com.ve.
 elglobo.com.ve.
@@ -7412,7 +7405,6 @@ entipisa.com.ve.
 entornodigital.com.ve.
 entrepreneur.co.ve.
 entrepreneur.com.ve.
-entretemas.com.ve.
 entretenimiento.com.ve.
 entucorazonfm.com.ve.
 enumerados.com.ve.
@@ -7955,6 +7947,7 @@ fanta.com.ve.
 fantasiacasino.com.ve.
 fantasiasamerica.co.ve.
 fantasticservices.com.ve.
+fantech.com.ve.
 fap.com.ve.
 fap.net.ve.
 fapco.com.ve.
@@ -9032,7 +9025,6 @@ gama.com.ve.
 gamadecor.com.ve.
 gamaonline.com.ve.
 gamcousa.com.ve.
-gamefire.com.ve.
 gamefly.com.ve.
 gameforge.com.ve.
 gamelounge.com.ve.
@@ -12490,7 +12482,6 @@ lacasadelsincronicoaragua.com.ve.
 lacasadelviento.com.ve.
 lacastalia.com.ve.
 laceiba-trujillo.gob.ve.
-lachinita.com.ve.
 lacimaonline.com.ve.
 lacohg.com.ve.
 lacoloniatovar.com.ve.
@@ -13344,7 +13335,6 @@ madrececilia.edu.ve.
 madresaintjacques.edu.ve.
 madresdelbarrio.gob.ve.
 madriguera.com.ve.
-maeco.com.ve.
 maelinca.com.ve.
 maem.com.ve.
 maersk-line.co.ve.
@@ -13701,7 +13691,6 @@ matpet.com.ve.
 matriz.com.ve.
 matsa.com.ve.
 mattey.com.ve.
-matthaeus.com.ve.
 maturin-monagas.gob.ve.
 matza.com.ve.
 maureletprom.co.ve.
@@ -14862,7 +14851,6 @@ mundo4kids.com.ve.
 mundoarte.com.ve.
 mundobabytv.com.ve.
 mundoblack.com.ve.
-mundoccell.com.ve.
 mundoceres.com.ve.
 mundocomercial.com.ve.
 mundodecolores.com.ve.
@@ -15130,7 +15118,6 @@ netbor.com.ve.
 netbyte.com.ve.
 netcoffee.com.ve.
 netcomplus.com.ve.
-netcomplusve.com.ve.
 netconsultors.com.ve.
 netcrohosting.com.ve.
 netdata.com.ve.
@@ -19154,7 +19141,6 @@ sientelooriginal.com.ve.
 sienteloriginal.com.ve.
 sienteoriginal.com.ve.
 siescom.com.ve.
-siete.com.ve.
 sietemares.com.ve.
 siex.gob.ve.
 sifa.com.ve.
@@ -19443,6 +19429,7 @@ smith-nephew.com.ve.
 smithsonianchannel.com.ve.
 smlaflorida.net.ve.
 smo.com.ve.
+smogroup.com.ve.
 smol.com.ve.
 smol.net.ve.
 smpharma.com.ve.
@@ -19531,7 +19518,6 @@ sogire.org.ve.
 sogvzla.org.ve.
 soi.com.ve.
 soitavecarabobo.com.ve.
-sojostar.com.ve.
 sol.com.ve.
 solad.com.ve.
 solaraze.com.ve.
@@ -21147,7 +21133,6 @@ transriver.com.ve.
 transtartours.com.ve.
 transven.com.ve.
 transviseteca.com.ve.
-trapismar.com.ve.
 trascend.com.ve.
 tratamientoaguas.com.ve.
 trauma.com.ve.
