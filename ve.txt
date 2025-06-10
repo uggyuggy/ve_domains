@@ -1,4 +1,4 @@
-# ve domain names extracted from nameservers on 09Jun2025 00:54 UTC
+# ve domain names extracted from nameservers on 10Jun2025 00:55 UTC
 0800comercio.gob.ve.
 0800rentahouse.com.ve.
 0es3.com.ve.
@@ -399,7 +399,6 @@ adlittle.com.ve.
 adma.com.ve.
 admauditores.com.ve.
 admfox.com.ve.
-admicond.com.ve.
 administra.com.ve.
 administracion-condominio.com.ve.
 administradora-diamante.com.ve.
@@ -1009,7 +1008,6 @@ alfonzorivas.com.ve.
 alfovenca.com.ve.
 alfronca.com.ve.
 alg.com.ve.
-alge.net.ve.
 algodonesdelorinoco.gob.ve.
 alhaja.com.ve.
 aliantec.com.ve.
@@ -1073,6 +1071,7 @@ allyonline.com.ve.
 almacaroni.gob.ve.
 almacenadoracaracas.gob.ve.
 almanzarca.com.ve.
+almapura.com.ve.
 almayor.com.ve.
 almccs.gob.ve.
 almed.com.ve.
@@ -1742,6 +1741,7 @@ asobanca.com.ve.
 asobu.com.ve.
 asocenca.com.ve.
 asociacioncivilpuertadelsol.org.ve.
+asociacionvenezolanademasajeinfantil.com.ve.
 asociacionvenezolanademujeres.com.ve.
 asociadosgerenciales.com.ve.
 asodepa.org.ve.
@@ -2481,6 +2481,7 @@ bet89.web.ve.
 betaferonhoy.com.ve.
 betamincultura.gob.ve.
 betancourt.com.ve.
+betatools.com.ve.
 betboom.com.ve.
 betbrothers.com.ve.
 betcaliente.co.ve.
@@ -3357,7 +3358,6 @@ capacitame.com.ve.
 capauptjaa.net.ve.
 capb.com.ve.
 capca.com.ve.
-capco.com.ve.
 capeapep.com.ve.
 capem.com.ve.
 capi.com.ve.
@@ -3439,6 +3439,7 @@ cargill.com.ve.
 cargillnutricionanimal.com.ve.
 cargroup.co.ve.
 cari.co.ve.
+cari90.com.ve.
 caribanahotel.com.ve.
 caribbeanatoms.com.ve.
 caribe.com.ve.
@@ -5454,6 +5455,7 @@ corpoagro.com.ve.
 corpoalimentosdelsur.com.ve.
 corpoandes.gob.ve.
 corpoandes.gov.ve.
+corpocaf.com.ve.
 corpocapital.gob.ve.
 corpocentro.gob.ve.
 corpocredit.com.ve.
@@ -6965,6 +6967,7 @@ eddiebauer.com.ve.
 edeandravenscroft.co.ve.
 edeandravenscroft.com.ve.
 edel-optics.com.ve.
+edelca.com.ve.
 edelca.gob.ve.
 eden-red.co.ve.
 eden-red.com.ve.
@@ -7405,6 +7408,7 @@ entipisa.com.ve.
 entornodigital.com.ve.
 entrepreneur.co.ve.
 entrepreneur.com.ve.
+entretemas.com.ve.
 entretenimiento.com.ve.
 entucorazonfm.com.ve.
 enumerados.com.ve.
@@ -7988,7 +7992,6 @@ farmastore.com.ve.
 farmatodo.com.ve.
 farmatodocont.com.ve.
 farmatools.com.ve.
-farmavida.com.ve.
 farmrio.com.ve.
 faroca.com.ve.
 fasganz.gob.ve.
@@ -7998,6 +8001,7 @@ fasilca.com.ve.
 fasmee.gob.ve.
 fasmij.gob.ve.
 faster.com.ve.
+faster.emprende.ve.
 fastershop.com.ve.
 fastmed.com.ve.
 fastnet.com.ve.
@@ -8187,6 +8191,7 @@ fiesta.com.ve.
 fiesta1059.com.ve.
 fiesta106.com.ve.
 fiestas.com.ve.
+fiestashop.com.ve.
 figaro.com.ve.
 figjam.co.ve.
 figjam.com.ve.
@@ -11105,6 +11110,7 @@ infoservices.com.ve.
 infosistemas.com.ve.
 infosoft.com.ve.
 infosoft.net.ve.
+infosolnet.com.ve.
 infosolutionsnetworking.com.ve.
 infosurguayana.com.ve.
 infotel1209.com.ve.
@@ -11677,6 +11683,7 @@ itero.com.ve.
 itexservices.com.ve.
 itf.com.ve.
 itiformacion.edu.ve.
+itime.com.ve.
 itjo.edu.ve.
 itmanagercompany.com.ve.
 itmedia.com.ve.
@@ -12802,7 +12809,6 @@ lettex.com.ve.
 leukoplast.com.ve.
 levadurafleischmann.com.ve.
 levapan.com.ve.
-levee.com.ve.
 level3.co.ve.
 level3.com.ve.
 levelnetplus.com.ve.
@@ -14820,6 +14826,7 @@ multienfoques360.com.ve.
 multieventsvenezuela.com.ve.
 multifruit.com.ve.
 multigrapas.com.ve.
+multiguia.com.ve.
 multiinternacionalvzla.com.ve.
 multilac.com.ve.
 multimarca.com.ve.
@@ -15224,7 +15231,6 @@ nextu.com.ve.
 nextuniversity.co.ve.
 nextuniversity.com.ve.
 nexus.co.ve.
-nexus.com.ve.
 nexusradical.com.ve.
 nfcomunicaciones.com.ve.
 ngautogroup.com.ve.
@@ -15518,7 +15524,6 @@ obvio.com.ve.
 oca.com.ve.
 ocamar.com.ve.
 ocamargestionycalidad.com.ve.
-ocaso.com.ve.
 occhi.com.ve.
 ocd.com.ve.
 ocd.org.ve.
@@ -15966,7 +15971,6 @@ paddypower.com.ve.
 padel.com.ve.
 padelcore.com.ve.
 padelguia.com.ve.
-padelmaster.com.ve.
 padelnews.com.ve.
 padelnewsvenezuela.com.ve.
 padi.com.ve.
@@ -16097,7 +16101,6 @@ paragon.com.ve.
 paraguas.com.ve.
 paraisodechabasquen.gob.ve.
 paraisomargaritafm.com.ve.
-parajesandinos.com.ve.
 paramo.org.ve.
 paramount.co.ve.
 paramount.com.ve.
@@ -16325,7 +16328,6 @@ pentagramita.com.ve.
 pentasa.co.ve.
 pentasa.com.ve.
 pentashoes.com.ve.
-pentasoft.net.ve.
 pentel.com.ve.
 penthouse.co.ve.
 penthouse.com.ve.
@@ -16455,7 +16457,6 @@ pharmastat.com.ve.
 pharmaton.com.ve.
 pharmaweb.com.ve.
 pharmed.com.ve.
-pharmetiquelabs.com.ve.
 phd.com.ve.
 phdnetwork.com.ve.
 philadelphia.com.ve.
@@ -20376,7 +20377,6 @@ tdr.co.ve.
 tdr.com.ve.
 tdsac.com.ve.
 te.com.ve.
-teacherplease.com.ve.
 tealca.com.ve.
 teamleader.com.ve.
 teatrex.com.ve.
@@ -21392,6 +21392,7 @@ turismo.com.ve.
 turismo.gob.ve.
 turismobolivar.gob.ve.
 turismocity.com.ve.
+turismocolorama.com.ve.
 turismodelujo.com.ve.
 turismoenaragua.com.ve.
 turismoestereo.com.ve.
@@ -22771,7 +22772,6 @@ washiru.com.ve.
 watchguard.com.ve.
 watchstation.com.ve.
 watchstation.ve.
-waterplus.com.ve.
 wattplus.com.ve.
 wau2.com.ve.
 wava.com.ve.
